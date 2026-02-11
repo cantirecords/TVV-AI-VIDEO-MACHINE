@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+out/
+.remotion/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Public assets (generated)
+public/background.png
+public/music.mp3
+
+# Logs
+*.log
