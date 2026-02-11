@@ -1,0 +1,45 @@
+{
+  "name": "tvv-ai-video-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx src/index.ts",
+    "remotion": "remotion"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@remotion/cli": "^4.0.421",
+    "@remotion/media-utils": "^4.0.421",
+    "@remotion/player": "^4.0.421",
+    "@remotion/renderer": "^4.0.421",
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/ws": "^8.18.1",
+    "axios": "^1.13.5",
+    "dotenv": "^17.2.4",
+    "lucide-react": "^0.563.0",
+    "puppeteer": "^24.37.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.421",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "zod": "^3.22.3"
+  },
+  "dependencies": {
+    "@echristian/edge-tts": "^0.0.14",
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.3.5",
+    "groq-sdk": "^0.37.0",
+    "gtts": "^0.2.1",
+    "openai": "^6.21.0",
+    "uuid": "^13.0.0",
+    "ws": "^8.19.0"
+  }
+}
