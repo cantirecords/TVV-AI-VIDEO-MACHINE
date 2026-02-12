@@ -1,5 +1,4 @@
-import axios from 'axios';
-import fs from 'fs';
+import { execSync } from 'child_process';
 import path from 'path';
 
 export async function sendToWebhook(videoPath: string, metadata: { headline: string, subHeadline: string, category: string }) {
@@ -11,29 +10,23 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
     }
 
     try {
-        console.log(`Sending video to webhook: ${webhookUrl}`);
+        console.log(`Sending video to webhook via CURL: ${webhookUrl}`);
 
-        // Read video as Buffer
-        const videoBuffer = fs.readFileSync(videoPath);
+        const absPath = path.resolve(videoPath);
+        const timestamp = new Date().toISOString();
 
-        // Use a simpler JSON-based or direct binary delivery if preferred, 
-        // but for Make, we'll send it as a base64 encoded string with metadata
-        // to avoid complexity with multipart in this environment.
-        const payload = {
-            ...metadata,
-            videoFileName: path.basename(videoPath),
-            videoBase64: videoBuffer.toString('base64'),
-            timestamp: new Date().toISOString()
-        };
+        // Using curl for maximum stability with binary multipart over SSL
+        const curlCommand = `curl -X POST "${webhookUrl}" ` +
+            `-F "file=@${absPath}" ` +
+            `-F "headline=${metadata.headline.replace(/"/g, '\\"')}" ` +
+            `-F "subHeadline=${metadata.subHeadline.replace(/"/g, '\\"')}" ` +
+            `-F "category=${metadata.category.replace(/"/g, '\\"')}" ` +
+            `-F "timestamp=${timestamp}"`;
 
-        const response = await axios.post(webhookUrl, payload, {
-            maxContentLength: Infinity,
-            maxBodyLength: Infinity
-        });
+        execSync(curlCommand, { stdio: 'inherit' });
 
-        console.log(`Webhook responded with status: ${response.status}`);
         console.log('Video delivery successful! 🚀');
     } catch (error) {
-        console.error('Failed to send video to webhook:', error.message);
+        console.error('Failed to send video to webhook via curl:', error.message);
     }
 }

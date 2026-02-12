@@ -98,6 +98,8 @@ async function main() {
             serveUrl: bundleLocation,
             outputLocation,
             codec: 'h264',
+            crf: 32, // More aggressive compression for smaller file size
+            pixelFormat: 'yuv420p',
             inputProps: composition.inputProps
         });
 
@@ -106,7 +108,7 @@ async function main() {
         // 6. Auto-Post via Webhook
         await sendToWebhook(outputLocation, {
             headline: scriptData.headline,
-            subHeadline: scriptData.subHeadline,
+            subHeadline: scriptData.facebookDescription, // Using the 2-paragraph viral summary as the description
             category: scriptData.category
         });
 
