@@ -11,8 +11,7 @@ export async function sendToWebhook(
     const webhookUrl = process.env.MAKE_WEBHOOK_URL;
 
     if (!webhookUrl) {
-        console.warn('Warning: MAKE_WEBHOOK_URL is not set. Skipping auto-post.');
-        return;
+        throw new Error('CRITICAL: MAKE_WEBHOOK_URL is not set. Cannot post video reel.');
     }
 
     try {
@@ -27,15 +26,21 @@ export async function sendToWebhook(
         });
 
         // Use JSON body — Make.com webhooks expect application/json
-        const curlCommand = `curl -s -X POST "${webhookUrl}" ` +
+        const curlCommand = `curl -i -s -X POST "${webhookUrl}" ` +
             `-H "Content-Type: application/json" ` +
             `-d '${payload.replace(/'/g, "'\\''")}'`;
 
         const response = execSync(curlCommand, { encoding: 'utf-8' });
-        console.log(`Webhook response: ${response}`);
+        console.log(`Webhook response detail:\n${response}`);
+
+        if (!response.toLowerCase().includes('200') && !response.toLowerCase().includes('accepted')) {
+            console.warn('Warning: Webhook might have failed (no 200/Accepted in response)');
+        }
+
         console.log('Webhook notification successful! 🚀');
     } catch (error: any) {
         console.error('Failed to send webhook notification:', error.message);
+        throw error; // Propagate error to fail the pipeline
     }
 }
 

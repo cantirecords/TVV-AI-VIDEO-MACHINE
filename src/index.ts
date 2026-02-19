@@ -138,6 +138,7 @@ async function main() {
 
     } catch (error) {
         console.error('Pipeline failed:', error);
+        process.exit(1);
     }
 }
 
