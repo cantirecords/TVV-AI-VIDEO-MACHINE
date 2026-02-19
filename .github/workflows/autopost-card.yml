@@ -56,7 +56,11 @@ jobs:
             echo "No history changes to commit."
           else
             git add .history/posted.json
-            git commit -m "chore: update posted history after news card run [skip ci]"
-            git pull --rebase origin main
-            git push origin main
+            git commit -m "chore: update posted history [skip ci]" || echo "No changes to commit"
+            
+            # Robust push with retries for high-frequency updates
+            for i in {1..5}; do
+              git pull --rebase origin main
+              git push origin main && break || sleep 10
+            done
           fi
