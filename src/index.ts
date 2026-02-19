@@ -1,7 +1,7 @@
 import { scrapeNews } from './scraper.js';
 import { generateScript } from './rewriter.js';
 import { extractArticleData } from './extractor.js';
-import { getPostedUrls, recordPosted } from './history.js';
+import { isAlreadyPosted, recordPosted } from './history.js';
 import { renderMedia, selectComposition } from '@remotion/renderer';
 import { bundle } from '@remotion/bundler';
 import path from 'path';
@@ -28,34 +28,27 @@ async function main() {
         // 0. Smart Buffer Cleanup
         await cleanupOldAssets();
 
-        // 1. Load dedup history (last 12 hours of posted articles)
-        const postedUrls = getPostedUrls();
-        console.log(`🔍 Dedup: ${postedUrls.size} articles already posted in the last 12h.`);
-
-        // 2. Scrape News — excluding already-posted articles (cards or reels)
-        const articles = await scrapeNews(1, postedUrls);
+        // 1. Scrape News — using smart check (URL + Title)
+        const articles = await scrapeNews(1, isAlreadyPosted);
         if (articles.length === 0) {
-            console.log('No articles found.');
+            console.log('No fresh articles found. Terminating to avoid duplication.');
             return;
         }
         const article = articles[0]!;
         console.log(`Using article from ${article.source}: ${article.title}`);
 
-        // 3. Extract detailed data
+        // 2. Extract detailed data
         const detailedData = await extractArticleData(article.url);
 
-        // Download ONLY the primary background image
         const publicDir = path.join(process.cwd(), 'public');
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
-        // Use a separate name for the session background to avoid overwriting the default
+        // Image Handling
         let bgImage = 'background.png';
         const imageUrl = detailedData.images[0];
         let focusPoint = 'center';
 
-        if (!imageUrl) {
-            console.log('No article image found. Using default background.');
-        } else {
+        if (imageUrl) {
             try {
                 console.log(`Downloading background image for video: ${imageUrl}`);
                 const imgRes = await axios.get(imageUrl, {
@@ -66,32 +59,23 @@ async function main() {
 
                 fs.writeFileSync(path.join(publicDir, 'background_video.png'), Buffer.from(imgRes.data));
                 bgImage = 'background_video.png';
-
-                console.log('Analyzing image focus with AI Vision...');
                 focusPoint = await detectSubjectFocus(imageUrl);
             } catch (e) {
-                console.error(`Failed to process article image:`, e instanceof Error ? e.message : String(e));
-                console.log('Falling back to default background.');
                 bgImage = 'background.png';
                 focusPoint = 'center';
             }
         }
 
-        // 4. Generate Viral Script (Headline, Sub-headline, Slides)
+        // 3. Generate Viral Script
         const scriptData = await generateScript(detailedData.content || article.title);
-        console.log(`Headline: ${scriptData.headline}`);
 
-        // 5. Audio Check (Music only, no voiceover for now)
-        const hasMusic = fs.existsSync(path.join(publicDir, 'music.mp3'));
-
-        // 6. Render Video
+        // 4. Render Video
         const compositionId = 'NewsVideo';
         const entryPath = path.join(process.cwd(), 'remotion/index.ts');
-
-        console.log('Bundling project...');
         const bundleLocation = await bundle({ entryPoint: entryPath });
 
-        console.log('Selecting composition...');
+        const hasMusic = fs.existsSync(path.join(publicDir, 'music.mp3'));
+
         const composition = await selectComposition({
             serveUrl: bundleLocation,
             id: compositionId,
@@ -110,7 +94,6 @@ async function main() {
         const outputLocation = path.join(process.cwd(), 'out/video.mp4');
         if (!fs.existsSync(path.join(process.cwd(), 'out'))) fs.mkdirSync(path.join(process.cwd(), 'out'));
 
-        console.log('Rendering video...');
         await renderMedia({
             composition,
             serveUrl: bundleLocation,
@@ -121,20 +104,18 @@ async function main() {
             inputProps: composition.inputProps
         });
 
-        console.log(`Video rendered successfully at: ${outputLocation}`);
-
-        // 7. Upload to Cloudinary
+        // 5. Upload to Cloudinary
         const videoUrl = await uploadVideo(outputLocation);
 
-        // 8. Auto-Post URL via Webhook
+        // 6. Auto-Post URL via Webhook
         await sendToWebhook(videoUrl, {
             headline: scriptData.headline,
             subHeadline: scriptData.facebookDescription,
             category: scriptData.category
         });
 
-        // 9. Record article as posted so news cards won't repeat it
-        recordPosted(article.url, 'reel');
+        // 7. Record as posted with Title normalization
+        recordPosted(article.url, article.title, 'reel');
 
     } catch (error) {
         console.error('Pipeline failed:', error);

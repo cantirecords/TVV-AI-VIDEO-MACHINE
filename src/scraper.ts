@@ -18,11 +18,11 @@ const FEEDS = [
  * Scrape news articles from all feeds.
  * 
  * @param limit - How many articles to return
- * @param excludeUrls - Set of article URLs to exclude (already posted)
+ * @param isAlreadyPosted - Function to check if an article has already been posted
  */
 export async function scrapeNews(
   limit: number = 1,
-  excludeUrls: Set<string> = new Set()
+  isAlreadyPosted: (url: string, title: string) => boolean
 ): Promise<Article[]> {
   const allScrapedArticles: Article[] = [];
 
@@ -44,17 +44,21 @@ export async function scrapeNews(
       }
 
       for (const entry of entries) {
-        const title = entry.title?.['#text'] || entry.title || 'No Title';
+        const titleContent = entry.title?.['#text'] || entry.title || 'No Title';
+        const title = String(titleContent).trim();
         let url = entry.link?.['@_href'] || entry.link || entry.id;
         if (typeof url !== 'string') {
           url = entry.link?.['@_href'] || entry.guid || '';
         }
+        url = String(url).trim();
 
-        allScrapedArticles.push({
-          title: String(title),
-          url: String(url),
-          source: feed.name,
-        });
+        if (title && url) {
+          allScrapedArticles.push({
+            title,
+            url,
+            source: feed.name,
+          });
+        }
       }
     } catch (e: any) {
       console.error(`Failed to scrape ${feed.name}:`, e.message);
@@ -63,20 +67,21 @@ export async function scrapeNews(
 
   console.log(`Scraping finished. Found ${allScrapedArticles.length} total articles.`);
 
-  // --- Deduplication: exclude already-posted articles ---
-  const fresh = allScrapedArticles.filter(a => !excludeUrls.has(a.url));
-  console.log(`After dedup: ${fresh.length} fresh articles available.`);
+  // --- Smart Deduplication ---
+  const fresh = allScrapedArticles.filter(a => !isAlreadyPosted(a.url, a.title));
+  console.log(`After smart dedup: ${fresh.length} fresh articles available.`);
 
   if (fresh.length === 0) {
-    console.warn('⚠️  All articles have been posted recently. Falling back to full list.');
-    return allScrapedArticles.sort(() => Math.random() - 0.5).slice(0, limit);
+    console.warn('⚠️ All articles have been posted recently. Waiting for fresh news...');
+    return []; // Return empty instead of duplicates
   }
 
   // Filter for high-impact keywords
   const impactKeywords = [
     'breaking', 'trump', 'biden', 'white house', 'alert', 'shooting',
     'dead', 'killed', 'dies', 'crash', 'fire', 'murder', 'attack',
-    'court', 'verdict', 'arrest', 'hurricane', 'earthquake', 'explosion'
+    'court', 'verdict', 'arrest', 'hurricane', 'earthquake', 'explosion',
+    'tsunami', 'war', 'russia', 'ukraine', 'crisis', 'border'
   ];
 
   const highImpact = fresh.filter(a =>
