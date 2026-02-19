@@ -2,6 +2,7 @@ import { scrapeNews } from './scraper.js';
 import { generateNewsCard } from './rewriter.js';
 import { extractArticleData } from './extractor.js';
 import { getPostedUrls, recordPosted } from './history.js';
+import { sendCardToWebhook } from './webhook.js';
 import path from 'path';
 import fs from 'fs';
 import dotenv from 'dotenv';
@@ -12,10 +13,6 @@ import { execSync } from 'child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
-
-function escapeShellArg(arg: string): string {
-    return `'${arg.replace(/'/g, "'\\''")}'`;
-}
 
 async function main() {
     if (!process.env.GROQ_API_KEY) {
@@ -33,7 +30,7 @@ async function main() {
         // 2. Scrape News — excluding already-posted articles
         const articles = await scrapeNews(1, postedUrls);
         if (articles.length === 0) {
-            console.log('No articles found.');
+            console.log('No fresh articles found.');
             return;
         }
         const article = articles[0]!;
@@ -58,10 +55,18 @@ async function main() {
                 console.log(`Downloading background image: ${imageUrl}`);
                 const imgRes = await axios.get(imageUrl, {
                     responseType: 'arraybuffer',
-                    timeout: 8000,
-                    headers: { 'User-Agent': 'Mozilla/5.0' }
+                    timeout: 10000,
+                    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TVVBot/1.0)' }
                 });
-                fs.writeFileSync(path.join(publicDir, bgImage), Buffer.from(imgRes.data));
+                const contentType = imgRes.headers['content-type'] || '';
+                // Only save if it's a valid image type
+                if (contentType.startsWith('image/') && imgRes.data.byteLength > 5000) {
+                    fs.writeFileSync(path.join(publicDir, bgImage), Buffer.from(imgRes.data));
+                    console.log(`Background image saved (${Math.round(imgRes.data.byteLength / 1024)}KB).`);
+                } else {
+                    console.warn(`Image skipped: bad content-type (${contentType}) or too small.`);
+                    bgImage = 'background.png';
+                }
             } catch (e) {
                 console.error(`Failed to download image:`, e instanceof Error ? e.message : String(e));
                 bgImage = 'background.png';
@@ -88,9 +93,12 @@ async function main() {
             backgroundImage: bgImage,
             source: article.source
         };
-        const propsJson = JSON.stringify(props).replace(/'/g, "'\\''");
 
-        const cmd = `npx remotion still remotion/index.ts NewsCard "${outputLocation}" --props='${propsJson}' --log=info`;
+        // Write props to a temp JSON file to avoid shell quoting issues entirely
+        const propsFile = path.join(outputDir, 'card_props.json');
+        fs.writeFileSync(propsFile, JSON.stringify(props));
+
+        const cmd = `npx remotion still remotion/index.ts NewsCard "${outputLocation}" --props="${propsFile}" --log=info --gl=swiftshader`;
 
         console.log(`Executing: ${cmd}`);
         execSync(cmd, { stdio: 'inherit' });
@@ -100,23 +108,13 @@ async function main() {
         // 6. Upload to Cloudinary
         const cardUrl = await uploadImage(outputLocation);
 
-        // 7. Auto-Post URL via Webhook
-        const WEBHOOK_URL_CARD = process.env.MAKE_WEBHOOK_URL_CARD || 'https://hook.us2.make.com/pbn7bdndsuce6xd9q0jkcgp78u1z7vii';
-
-        console.log(`Sending News Card URL to webhook via CURL: ${WEBHOOK_URL_CARD}`);
-
-        const safeCurl = `curl -X POST "${WEBHOOK_URL_CARD}" ` +
-            `-F "imageUrl=${cardUrl}" ` +
-            `-F "headline"=${escapeShellArg(cardScript.headline)} ` +
-            `-F "description"=${escapeShellArg(cardScript.facebookDescription)} ` +
-            `-F "category"=${escapeShellArg(cardScript.category)}`;
-
-        try {
-            execSync(safeCurl);
-            console.log('Accepted Webhook notification successful! 🚀');
-        } catch (error) {
-            console.error('Failed to send webhook notification:', error);
-        }
+        // 7. Send to Make.com webhook as JSON
+        const webhookUrl = process.env.MAKE_WEBHOOK_URL_CARD || '';
+        await sendCardToWebhook(cardUrl, {
+            headline: cardScript.headline,
+            facebookDescription: cardScript.facebookDescription,
+            category: cardScript.category
+        }, webhookUrl);
 
         // 8. Record article as posted so reels won't repeat it
         recordPosted(article.url, 'card');
@@ -125,6 +123,7 @@ async function main() {
 
     } catch (error) {
         console.error('Card Generation failed:', error);
+        process.exit(1);
     }
 }
 
