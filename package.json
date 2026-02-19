@@ -35,6 +35,7 @@
   "dependencies": {
     "@echristian/edge-tts": "^0.0.14",
     "cheerio": "^1.2.0",
+    "cloudinary": "^2.9.0",
     "fast-xml-parser": "^5.3.5",
     "groq-sdk": "^0.37.0",
     "gtts": "^0.2.1",

@@ -10,6 +10,8 @@ import { fileURLToPath } from 'url';
 import axios from 'axios';
 import { sendToWebhook } from './webhook.js';
 
+import { cleanupOldAssets, uploadVideo } from './cloudinaryService.js';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
 
@@ -23,6 +25,9 @@ async function main() {
 
     try {
         console.log('--- TVV AI VIDEO MACHINE (V5 SMART FOCUS) ---');
+
+        // 0. Smart Buffer Cleanup
+        await cleanupOldAssets();
 
         // 1. Scrape News
         const articles = await scrapeNews(1);
@@ -105,8 +110,11 @@ async function main() {
 
         console.log(`Video rendered successfully at: ${outputLocation}`);
 
-        // 6. Auto-Post via Webhook
-        await sendToWebhook(outputLocation, {
+        // 6. Upload to Cloudinary & Smart Buffer
+        const videoUrl = await uploadVideo(outputLocation);
+
+        // 7. Auto-Post URL via Webhook
+        await sendToWebhook(videoUrl, {
             headline: scriptData.headline,
             subHeadline: scriptData.facebookDescription, // Using the 2-paragraph viral summary as the description
             category: scriptData.category

@@ -1,7 +1,7 @@
 import { execSync } from 'child_process';
 import path from 'path';
 
-export async function sendToWebhook(videoPath: string, metadata: { headline: string, subHeadline: string, category: string }) {
+export async function sendToWebhook(videoUrl: string, metadata: { headline: string, subHeadline: string, category: string }) {
     const webhookUrl = process.env.MAKE_WEBHOOK_URL;
 
     if (!webhookUrl) {
@@ -10,14 +10,13 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
     }
 
     try {
-        console.log(`Sending video to webhook via CURL: ${webhookUrl}`);
+        console.log(`Sending video URL to webhook via CURL: ${webhookUrl}`);
 
-        const absPath = path.resolve(videoPath);
         const timestamp = new Date().toISOString();
 
-        // Using curl for maximum stability with binary multipart over SSL
+        // Using curl to send just the URL and metadata
         const curlCommand = `curl -X POST "${webhookUrl}" ` +
-            `-F "file=@${absPath}" ` +
+            `-F "videoUrl=${videoUrl}" ` +
             `-F "headline=${metadata.headline.replace(/"/g, '\\"')}" ` +
             `-F "subHeadline=${metadata.subHeadline.replace(/"/g, '\\"')}" ` +
             `-F "category=${metadata.category.replace(/"/g, '\\"')}" ` +
@@ -25,8 +24,8 @@ export async function sendToWebhook(videoPath: string, metadata: { headline: str
 
         execSync(curlCommand, { stdio: 'inherit' });
 
-        console.log('Video delivery successful! 🚀');
+        console.log('Webhook notification successful! 🚀');
     } catch (error) {
-        console.error('Failed to send video to webhook via curl:', error.message);
+        console.error('Failed to send webhook notification:', error.message);
     }
 }
