@@ -25,10 +25,9 @@ async function main() {
     try {
         console.log('--- TVV AI VIDEO MACHINE (V5 SMART FOCUS) ---');
 
-        // 0. Smart Buffer Cleanup
         await cleanupOldAssets();
 
-        // 1. Scrape News — using smart check (URL + Title)
+        // 1. Scrape News — using smart dedup
         const articles = await scrapeNews(1, isAlreadyPosted);
         if (articles.length === 0) {
             console.log('No fresh articles found. Terminating to avoid duplication.');
@@ -50,23 +49,20 @@ async function main() {
 
         if (imageUrl) {
             try {
-                console.log(`Downloading background image for video: ${imageUrl}`);
                 const imgRes = await axios.get(imageUrl, {
                     responseType: 'arraybuffer',
                     timeout: 8000,
                     headers: { 'User-Agent': 'Mozilla/5.0' }
                 });
-
                 fs.writeFileSync(path.join(publicDir, 'background_video.png'), Buffer.from(imgRes.data));
                 bgImage = 'background_video.png';
                 focusPoint = await detectSubjectFocus(imageUrl);
             } catch (e) {
                 bgImage = 'background.png';
-                focusPoint = 'center';
             }
         }
 
-        // 3. Generate Viral Script
+        // 3. Generate Script
         const scriptData = await generateScript(detailedData.content || article.title);
 
         // 4. Render Video
@@ -74,21 +70,21 @@ async function main() {
         const entryPath = path.join(process.cwd(), 'remotion/index.ts');
         const bundleLocation = await bundle({ entryPoint: entryPath });
 
-        const hasMusic = fs.existsSync(path.join(publicDir, 'music.mp3'));
+        const inputProps = {
+            title: scriptData.headline,
+            subHeadline: scriptData.subHeadline,
+            slides: scriptData.slides,
+            category: scriptData.category,
+            backgroundImage: bgImage,
+            focusPoint,
+            durationInFrames: (scriptData.slides.length * 6 * 30) + (30 * 2.5),
+            hasMusic: fs.existsSync(path.join(publicDir, 'music.mp3'))
+        };
 
         const composition = await selectComposition({
             serveUrl: bundleLocation,
             id: compositionId,
-            inputProps: {
-                title: scriptData.headline,
-                subHeadline: scriptData.subHeadline,
-                slides: scriptData.slides,
-                category: scriptData.category,
-                backgroundImage: bgImage,
-                focusPoint,
-                durationInFrames: (scriptData.slides.length * 6 * 30) + (30 * 2.5),
-                hasMusic
-            },
+            inputProps,
         });
 
         const outputLocation = path.join(process.cwd(), 'out/video.mp4');
@@ -101,20 +97,18 @@ async function main() {
             codec: 'h264',
             crf: 32,
             pixelFormat: 'yuv420p',
-            inputProps: composition.inputProps
+            inputProps, // Use the stored variable directly
         });
 
-        // 5. Upload to Cloudinary
+        // 5. Upload & Webhook
         const videoUrl = await uploadVideo(outputLocation);
-
-        // 6. Auto-Post URL via Webhook
         await sendToWebhook(videoUrl, {
             headline: scriptData.headline,
             subHeadline: scriptData.facebookDescription,
             category: scriptData.category
         });
 
-        // 7. Record as posted with Title normalization
+        // 6. Record as posted
         recordPosted(article.url, article.title, 'reel');
 
     } catch (error) {
