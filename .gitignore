@@ -11,9 +11,14 @@ out/
 # OS files
 .DS_Store
 
-# Public assets (generated)
-public/background.png
+# Public assets (generated during pipeline runs - do NOT commit these)
+public/background_video.png
+public/background_card.png
 public/music.mp3
+public/audio.mp3
+
+# History file MUST be tracked - it's the dedup state shared across pipelines
+# .history/posted.json  <-- intentionally NOT ignored
 
 # Logs
 *.log

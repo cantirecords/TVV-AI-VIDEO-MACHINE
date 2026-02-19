@@ -14,7 +14,16 @@ const FEEDS = [
   { name: 'ABC News US', url: 'https://abcnews.go.com/abcnews/usheadlines' }
 ];
 
-export async function scrapeNews(limit: number = 1): Promise<Article[]> {
+/**
+ * Scrape news articles from all feeds.
+ * 
+ * @param limit - How many articles to return
+ * @param excludeUrls - Set of article URLs to exclude (already posted)
+ */
+export async function scrapeNews(
+  limit: number = 1,
+  excludeUrls: Set<string> = new Set()
+): Promise<Article[]> {
   const allScrapedArticles: Article[] = [];
 
   for (const feed of FEEDS) {
@@ -27,7 +36,7 @@ export async function scrapeNews(limit: number = 1): Promise<Article[]> {
       });
       const jsonObj = parser.parse(response.data);
 
-      let entries = [];
+      let entries: any[] = [];
       if (jsonObj.feed && jsonObj.feed.entry) {
         entries = Array.isArray(jsonObj.feed.entry) ? jsonObj.feed.entry : [jsonObj.feed.entry];
       } else if (jsonObj.rss && jsonObj.rss.channel && jsonObj.rss.channel.item) {
@@ -47,22 +56,35 @@ export async function scrapeNews(limit: number = 1): Promise<Article[]> {
           source: feed.name,
         });
       }
-    } catch (e) {
+    } catch (e: any) {
       console.error(`Failed to scrape ${feed.name}:`, e.message);
     }
   }
 
-  // General Today News: Return all latest articles and shuffle for variety
   console.log(`Scraping finished. Found ${allScrapedArticles.length} total articles.`);
 
-  // Filter for high-impact keywords generally but don't restrict strictly to immigration
-  const impactKeywords = ['breaking', 'trump', 'biden', 'white house', 'alert', 'shooting', 'dead', 'victory', 'loss', 'court', 'unprecedented'];
-  const highImpact = allScrapedArticles.filter(a =>
+  // --- Deduplication: exclude already-posted articles ---
+  const fresh = allScrapedArticles.filter(a => !excludeUrls.has(a.url));
+  console.log(`After dedup: ${fresh.length} fresh articles available.`);
+
+  if (fresh.length === 0) {
+    console.warn('⚠️  All articles have been posted recently. Falling back to full list.');
+    return allScrapedArticles.sort(() => Math.random() - 0.5).slice(0, limit);
+  }
+
+  // Filter for high-impact keywords
+  const impactKeywords = [
+    'breaking', 'trump', 'biden', 'white house', 'alert', 'shooting',
+    'dead', 'killed', 'dies', 'crash', 'fire', 'murder', 'attack',
+    'court', 'verdict', 'arrest', 'hurricane', 'earthquake', 'explosion'
+  ];
+
+  const highImpact = fresh.filter(a =>
     impactKeywords.some(k => a.title.toLowerCase().includes(k))
   );
 
-  const finalArticles = highImpact.length > 0 ? highImpact : allScrapedArticles;
+  const finalArticles = highImpact.length > 0 ? highImpact : fresh;
 
-  // Shuffle and pick the absolute latest
+  // Shuffle for variety and return
   return finalArticles.sort(() => Math.random() - 0.5).slice(0, limit);
 }

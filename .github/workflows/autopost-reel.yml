@@ -1,0 +1,62 @@
+name: 🎬 TVV Video Reel Pipeline (Every 2 Hours)
+
+on:
+  schedule:
+    - cron: '30 */2 * * *'  # Runs every 2 hours, offset by 30min from card runs
+  workflow_dispatch:          # Allow manual trigger from GitHub UI
+
+jobs:
+  video-reel:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write         # Required to commit the history file back
+
+    steps:
+      - name: Checkout Code (with full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # Needed to push commits back
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Install System Dependencies (Browser + FFmpeg)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y \
+            ca-certificates fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 \
+            libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgbm1 \
+            libgcc1 libglib2.0-0 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 \
+            libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 \
+            libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 \
+            libxrandr2 libxrender1 libxss1 libxtst6 lsb-release wget xdg-utils \
+            ffmpeg
+
+      - name: Generate & Post Video Reel
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
+          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
+        run: npm start
+
+      - name: Commit Updated History (Dedup State)
+        if: always()
+        run: |
+          git config --global user.name "tvv-bot"
+          git config --global user.email "bot@thevitalviral.com"
+          # Only commit if the history file changed
+          if git diff --quiet .history/; then
+            echo "No history changes to commit."
+          else
+            git add .history/posted.json
+            git commit -m "chore: update posted history after video reel run [skip ci]"
+            git push
+          fi
