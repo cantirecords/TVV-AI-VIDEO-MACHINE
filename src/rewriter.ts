@@ -79,3 +79,78 @@ export async function generateScript(content: string): Promise<VideoScript> {
         };
     }
 }
+
+export interface NewsCardScript {
+    category: string;
+    headline: string;
+    subHeadline: string;
+    facebookDescription: string;
+    styleUsed: string;
+}
+
+const EDITORIAL_STYLES = [
+    { name: 'URGENT', prompt: 'Use "BREAKING", "JUST IN" language. Short, punchy, alarmist tone.' },
+    { name: 'ANALYTICAL', prompt: 'Focus on the "WHY" and "CONSEQUENCES". Smart, deep, serious tone.' },
+    { name: 'EMOTIONAL', prompt: 'Focus on the human impact. Use words like "TRAGEDY", "HOPE", "SHOCK".' },
+    { name: 'QUESTION', prompt: 'Start with a provocative question. "ARE WE SAFE?" "WHAT COMES NEXT?"' },
+    { name: 'INSIDER', prompt: 'Use phrases like "SOURCES SAY", "BEHIND CLOSED DOORS". Confidential tone.' },
+    { name: 'MINIMALIST', prompt: 'Extremely direct. Subject + Verb. No fluff. Maximum impact.' }
+];
+
+export async function generateNewsCard(content: string): Promise<NewsCardScript> {
+    // Rotate brain style based on random selection to keep content fresh
+    const selectedStyle = EDITORIAL_STYLES[Math.floor(Math.random() * EDITORIAL_STYLES.length)]!;
+
+    const prompt = `
+        You are a high-end social media editor creating a static "NEWS CARD" graphic.
+        
+        CURRENT EDITORIAL STYLE: "${selectedStyle.name}"
+        STYLE INSTRUCTION: ${selectedStyle.prompt}
+
+        OUTPUT REQUIREMENTS (STRICT CONSTRAINTS):
+        1. "category": A single uppercase tag (e.g., "BORDER", "ECONOMY", "CRIME").
+        2. "headline": EXACTLY 6 to 8 words. No more, no less. High visual impact.
+        3. "subHeadline": EXACTLY 12 to 15 words. This provides the context/meat of the story.
+        4. "facebookDescription": A viral caption for the post. 2 Paragraphs.
+           - Para 1: Hook them in (match the style "${selectedStyle.name}").
+           - Para 2: Call to action ("Read more...", "What do you think?").
+        
+        News Content:
+        ${content}
+
+        Return a JSON object:
+        {
+          "category": "TAG",
+          "headline": "SIX TO EIGHT WORD HEADLINE HERE NOW",
+          "subHeadline": "Twelve to fifteen words explaining exactly what happened in this specific news story.",
+          "facebookDescription": "Paragraph 1...\n\nParagraph 2...",
+          "styleUsed": "${selectedStyle.name}"
+        }
+    `;
+
+    try {
+        const chatCompletion = await groq.chat.completions.create({
+            messages: [{ role: 'user', content: prompt }],
+            model: 'llama-3.3-70b-versatile',
+            response_format: { type: 'json_object' },
+        });
+
+        const result = JSON.parse(chatCompletion.choices[0]?.message?.content || '{}');
+        return {
+            category: result.category?.toUpperCase() || 'NEWS',
+            headline: result.headline?.toUpperCase() || 'BREAKING NEWS UPDATE TODAY',
+            subHeadline: result.subHeadline || 'Details are coming in regarding this major developing story.',
+            facebookDescription: result.facebookDescription || '',
+            styleUsed: selectedStyle.name
+        };
+    } catch (error) {
+        console.error('News Card generation failed:', error);
+        return {
+            category: 'NEWS',
+            headline: 'MAJOR BREAKING NEWS UPDATE',
+            subHeadline: 'Developing story as authorities release new information to the public.',
+            facebookDescription: 'Breaking news just in. We will keep you updated.',
+            styleUsed: 'FALLBACK'
+        };
+    }
+}

@@ -36,26 +36,35 @@ export async function extractArticleData(url: string): Promise<ExtractedArticle>
         // 2. Extract Multiple Images
         const imageSet = new Set<string>();
 
+        const isGoodImage = (src: string) => {
+            const lowerSrc = src.toLowerCase();
+            return !(
+                lowerSrc.includes('pixel') ||
+                lowerSrc.includes('clear.gif') ||
+                lowerSrc.includes('icon') ||
+                lowerSrc.includes('logo') ||
+                lowerSrc.includes('avatar') ||
+                lowerSrc.includes('tracking') ||
+                lowerSrc.includes('placeholder') ||
+                lowerSrc.includes('default') ||
+                lowerSrc.includes('brand') ||
+                // Skip generic brand images that are often just for the network
+                (lowerSrc.includes('abcnews') && lowerSrc.includes('logo')) ||
+                (lowerSrc.includes('foxnews') && lowerSrc.includes('logo')) ||
+                (lowerSrc.includes('nbcnews') && lowerSrc.includes('logo'))
+            );
+        };
+
         // Primary Images (Meta Tags)
         const mainImage = $('meta[property="og:image"]').attr('content') ||
             $('meta[name="twitter:image"]').attr('content');
-        if (mainImage) imageSet.add(mainImage);
+        if (mainImage && isGoodImage(mainImage)) imageSet.add(mainImage);
 
         // Secondary Images from article body
         $('article img, main img, figure img, .article-body img').each((i, el) => {
             const src = $(el).attr('src') || $(el).attr('data-src') || $(el).attr('srcset')?.split(' ')[0];
-            if (src && src.startsWith('http')) {
-                const lowerSrc = src.toLowerCase();
-                const isPoorQuality = lowerSrc.includes('pixel') ||
-                    lowerSrc.includes('clear.gif') ||
-                    lowerSrc.includes('icon') ||
-                    lowerSrc.includes('logo') ||
-                    lowerSrc.includes('avatar') ||
-                    lowerSrc.includes('tracking');
-
-                if (!isPoorQuality) {
-                    imageSet.add(src);
-                }
+            if (src && src.startsWith('http') && isGoodImage(src)) {
+                imageSet.add(src);
             }
             if (imageSet.size >= 8) return false;
         });

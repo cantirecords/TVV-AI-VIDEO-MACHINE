@@ -110,14 +110,54 @@ export async function uploadVideo(filePath: string): Promise<string> {
             unique_filename: true
         });
 
-        console.log(`Upload successful! URL: ${result.secure_url}`);
+        let videoUrl = result.secure_url;
+        // Ensure URL ends with .mp4 for better Facebook/Make compatibility
+        if (!videoUrl.toLowerCase().endsWith('.mp4')) {
+            videoUrl += '.mp4';
+        }
+
+        console.log(`Upload successful! URL: ${videoUrl}`);
+
+        // Update History
+        const history = loadHistory();
+        history.push({
+            public_id: result.public_id,
+            url: videoUrl,
+            type: 'video',
+            timestamp: new Date().toISOString()
+        });
+        saveHistory(history);
+
+        return videoUrl;
+
+    } catch (error) {
+        console.error('Cloudinary upload failed:', error);
+        throw error;
+    }
+}
+
+/**
+ * 3. Upload a static image (News Card) to Cloudinary.
+ */
+export async function uploadImage(filePath: string): Promise<string> {
+    console.log(`Uploading image to Cloudinary: ${filePath}`);
+
+    try {
+        const result = await cloudinary.uploader.upload(filePath, {
+            resource_type: 'image',
+            folder: 'tvv_news_cards',
+            use_filename: true,
+            unique_filename: true
+        });
+
+        console.log(`Image Upload successful! URL: ${result.secure_url}`);
 
         // Update History
         const history = loadHistory();
         history.push({
             public_id: result.public_id,
             url: result.secure_url,
-            type: 'video',
+            type: 'image',
             timestamp: new Date().toISOString()
         });
         saveHistory(history);
@@ -125,7 +165,7 @@ export async function uploadVideo(filePath: string): Promise<string> {
         return result.secure_url;
 
     } catch (error) {
-        console.error('Cloudinary upload failed:', error);
+        console.error('Cloudinary image upload failed:', error);
         throw error;
     }
 }
