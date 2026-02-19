@@ -39,30 +39,43 @@ async function main() {
         const publicDir = path.join(process.cwd(), 'public');
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
-        // Download Image
-        let bgImage = 'background_card.png';
-        const imageUrl = detailedData.images[0];
+        // Download Image - Loop through images until one works
+        let bgImage = 'background.png'; // Fallback default
+        let imageFound = false;
 
-        if (!imageUrl) {
-            console.log('No suitable article image found. Using high-quality fallback.');
-            bgImage = 'background.png';
-        } else {
+        console.log(`Found ${detailedData.images.length} potential images.`);
+
+        for (const imageUrl of detailedData.images) {
             try {
-                console.log(`Downloading background image: ${imageUrl}`);
+                console.log(`Attempting to download: ${imageUrl}`);
                 const imgRes = await axios.get(imageUrl, {
                     responseType: 'arraybuffer',
-                    timeout: 10000,
-                    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TVVBot/1.0)' }
+                    timeout: 8000,
+                    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0' }
                 });
+
                 const contentType = imgRes.headers['content-type'] || '';
-                if (contentType.startsWith('image/') && imgRes.data.byteLength > 5000) {
-                    fs.writeFileSync(path.join(publicDir, bgImage), Buffer.from(imgRes.data));
+                const size = imgRes.data.byteLength;
+
+                // Be stricter: Image must be an image and at least 25KB to look good as a background
+                if (contentType.startsWith('image/') && size > 25000) {
+                    const sessionBg = `background_card_${Date.now()}.png`;
+                    fs.writeFileSync(path.join(publicDir, sessionBg), Buffer.from(imgRes.data));
+                    bgImage = sessionBg;
+                    imageFound = true;
+                    console.log(`✅ Successfully saved background image (${Math.round(size / 1024)} KB)`);
+                    break;
                 } else {
-                    bgImage = 'background.png';
+                    console.log(`❌ Skipping image: type=${contentType}, size=${Math.round(size / 1024)}KB (Too small or wrong type)`);
                 }
-            } catch (e) {
-                bgImage = 'background.png';
+            } catch (e: any) {
+                console.log(`❌ Failed to download image: ${e.message}`);
             }
+        }
+
+        if (!imageFound) {
+            console.log('⚠️ No suitable article images found after trying all options. Using default fallback.');
+            bgImage = 'background.png';
         }
 
         // 3. Generate "News Card" Script
@@ -84,6 +97,7 @@ async function main() {
         const propsFile = path.join(outputDir, 'card_props.json');
         fs.writeFileSync(propsFile, JSON.stringify(props));
 
+        console.log(`Rendering card with background: ${bgImage}`);
         const cmd = `npx remotion still remotion/index.ts NewsCard "${outputLocation}" --props="${propsFile}" --log=info --gl=swiftshader`;
         execSync(cmd, { stdio: 'inherit' });
 

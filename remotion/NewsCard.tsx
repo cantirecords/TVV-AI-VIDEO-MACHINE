@@ -100,10 +100,12 @@ export const NewsCard: React.FC<z.infer<typeof NewsCardSchema>> = ({
                 left: '-1px',
                 right: '-1px',
                 bottom: '-1px',
-                overflow: 'hidden'
+                overflow: 'hidden',
+                backgroundColor: '#1a1a1a', // Dark slate fallback
+                backgroundImage: 'linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%)', // Premium gradient fallback
             }}>
                 <Img
-                    src={staticFile(backgroundImage)}
+                    src={staticFile(backgroundImage || 'background.png')}
                     style={{
                         width: 'calc(100% + 2px)',
                         height: '100%',
