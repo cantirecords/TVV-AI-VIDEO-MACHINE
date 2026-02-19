@@ -58,5 +58,6 @@ jobs:
           else
             git add .history/posted.json
             git commit -m "chore: update posted history after video reel run [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
