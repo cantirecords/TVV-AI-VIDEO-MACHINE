@@ -58,6 +58,9 @@ jobs:
             git add .history/posted.json
             git commit -m "chore: update posted history [skip ci]" || echo "No changes to commit"
             
+            # Discard any other temporary changes to ensure a clean rebase
+            git checkout .
+            
             # Robust push with retries for high-frequency updates
             for i in {1..5}; do
               git pull --rebase origin main

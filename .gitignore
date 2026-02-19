@@ -12,10 +12,12 @@ out/
 .DS_Store
 
 # Public assets (generated during pipeline runs - do NOT commit these)
-public/background_video.png
-public/background_card.png
+public/background*.png
 public/music.mp3
 public/audio.mp3
+
+# History of Cloudinary uploads (generated)
+cloudinary_history.json
 
 # History file MUST be tracked - it's the dedup state shared across pipelines
 # .history/posted.json  <-- intentionally NOT ignored
