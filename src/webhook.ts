@@ -1,8 +1,11 @@
 import { execSync } from 'child_process';
+import fs from 'fs';
+import path from 'path';
+import os from 'os';
 
 /**
- * Send a JSON payload to a Make.com webhook via curl.
- * Uses application/json (not form-data) which is required by Make.com.
+ * Send a JSON payload to a Make.com webhook via curl using a temp file.
+ * This is the ROBUST way to handle newlines, quotes and special characters.
  */
 export async function sendToWebhook(
     videoUrl: string,
@@ -11,24 +14,28 @@ export async function sendToWebhook(
     const webhookUrl = process.env.MAKE_WEBHOOK_URL;
 
     if (!webhookUrl) {
-        throw new Error('CRITICAL: MAKE_WEBHOOK_URL is not set. Cannot post video reel.');
+        throw new Error('CRITICAL: MAKE_WEBHOOK_URL is not set.');
     }
 
+    const tempFile = path.join(os.tmpdir(), `payload_${Date.now()}.json`);
     try {
-        console.log(`Sending video URL to webhook via CURL: ${webhookUrl}`);
+        console.log(`Sending video URL to webhook: ${webhookUrl}`);
 
         const payload = JSON.stringify({
             videoUrl,
-            headline: metadata.headline,
-            description: metadata.subHeadline,
-            category: metadata.category,
+            headline: metadata.headline.trim(),
+            subHeadline: metadata.subHeadline.trim(), // Old name for compatibility
+            description: metadata.subHeadline.trim(), // New name
+            category: metadata.category.trim(),
             timestamp: new Date().toISOString()
         });
 
-        // Use JSON body — Make.com webhooks expect application/json
+        fs.writeFileSync(tempFile, payload);
+
+        // Send using @ file to be 100% safe from shell escaping issues
         const curlCommand = `curl -i -s -X POST "${webhookUrl}" ` +
             `-H "Content-Type: application/json" ` +
-            `-d '${payload.replace(/'/g, "'\\''")}'`;
+            `-d @"${tempFile}"`;
 
         const response = execSync(curlCommand, { encoding: 'utf-8' });
         console.log(`Webhook response detail:\n${response}`);
@@ -41,11 +48,13 @@ export async function sendToWebhook(
     } catch (error: any) {
         console.error('Failed to send webhook notification:', error.message);
         throw error; // Propagate error to fail the pipeline
+    } finally {
+        if (fs.existsSync(tempFile)) fs.unlinkSync(tempFile);
     }
 }
 
 /**
- * Send a JSON payload to the News Card webhook via curl.
+ * Send a JSON payload to the News Card webhook via temp file.
  */
 export async function sendCardToWebhook(
     imageUrl: string,
@@ -57,25 +66,31 @@ export async function sendCardToWebhook(
         return;
     }
 
+    const tempFile = path.join(os.tmpdir(), `card_payload_${Date.now()}.json`);
     try {
-        console.log(`Sending News Card URL to webhook via CURL: ${webhookUrl}`);
+        console.log(`Sending News Card to webhook: ${webhookUrl}`);
 
         const payload = JSON.stringify({
             imageUrl,
-            headline: metadata.headline,
-            description: metadata.facebookDescription,
-            category: metadata.category,
+            headline: metadata.headline.trim(),
+            description: metadata.facebookDescription.trim(),
+            subHeadline: metadata.facebookDescription.trim(), // Safety fallback
+            category: metadata.category.trim(),
             timestamp: new Date().toISOString()
         });
 
-        const curlCommand = `curl -s -X POST "${webhookUrl}" ` +
+        fs.writeFileSync(tempFile, payload);
+
+        const curlCommand = `curl -i -s -X POST "${webhookUrl}" ` +
             `-H "Content-Type: application/json" ` +
-            `-d '${payload.replace(/'/g, "'\\''")}'`;
+            `-d @"${tempFile}"`;
 
         const response = execSync(curlCommand, { encoding: 'utf-8' });
-        console.log(`Webhook response: ${response}`);
+        console.log(`Webhook response detail:\n${response}`);
         console.log('News Card webhook notification successful! 🚀');
     } catch (error: any) {
         console.error('Failed to send card webhook:', error.message);
+    } finally {
+        if (fs.existsSync(tempFile)) fs.unlinkSync(tempFile);
     }
 }
