@@ -8,10 +8,14 @@ export interface Article {
 }
 
 const FEEDS = [
+  { name: 'Reuters World', url: 'https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best' },
+  { name: 'AP News', url: 'https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&hl=en-US&gl=US&ceid=US:en' },
   { name: 'CNN Politics', url: 'http://rss.cnn.com/rss/cnn_politics.rss' },
   { name: 'Fox News US', url: 'http://feeds.foxnews.com/foxnews/national' },
   { name: 'NBC News US', url: 'https://feeds.nbcnews.com/nbcnews/public/news' },
-  { name: 'ABC News US', url: 'https://abcnews.go.com/abcnews/usheadlines' }
+  { name: 'ABC News US', url: 'https://abcnews.go.com/abcnews/usheadlines' },
+  { name: 'USA Today', url: 'https://rssfeeds.usatoday.com/usatoday-newstopstories&x=1' },
+  { name: 'CBS News', url: 'https://www.cbsnews.com/latest/rss/main' }
 ];
 
 /**
