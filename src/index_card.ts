@@ -101,7 +101,7 @@ async function main() {
         const cardUrl = await uploadImage(outputLocation);
 
         // 7. Auto-Post URL via Webhook
-        const WEBHOOK_URL_CARD = 'https://hook.us2.make.com/pbn7bdndsuce6xd9q0jkcgp78u1z7vii';
+        const WEBHOOK_URL_CARD = process.env.MAKE_WEBHOOK_URL_CARD || 'https://hook.us2.make.com/pbn7bdndsuce6xd9q0jkcgp78u1z7vii';
 
         console.log(`Sending News Card URL to webhook via CURL: ${WEBHOOK_URL_CARD}`);
 
