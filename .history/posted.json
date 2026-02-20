@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/armed-georgia-man-arrested-us-capitol-told-police-he-wanted-talk-congress-docs",
-    "titleNorm": "armed georgia man arrested at us capitol told",
-    "type": "reel",
-    "timestamp": 1771557504146
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/skiers-roots-lake-tahoes-alpine-community-8-killed-130291154",
     "titleNorm": "skiers with roots in lake tahoes alpine community",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "iran reportedly preparing for war as images expose",
     "type": "reel",
     "timestamp": 1771600115411
+  },
+  {
+    "url": "https://www.nbcnews.com/business/markets/us-stocks-jump-scotus-strikes-trump-tariffs-rcna259907",
+    "titleNorm": "us stocks jump after scotus strikes down most",
+    "type": "card",
+    "timestamp": 1771601581200
   }
 ]
