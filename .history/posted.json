@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/skiers-roots-lake-tahoes-alpine-community-8-killed-130291154",
-    "titleNorm": "skiers with roots in lake tahoes alpine community",
-    "type": "card",
-    "timestamp": 1771560359922
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada/",
     "titleNorm": "scores of us warplanes head for key bases",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "us stocks jump after scotus strikes down most",
     "type": "card",
     "timestamp": 1771601581200
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republicans-hope-supreme-court-stop-new-lines-drawn-130316118",
+    "titleNorm": "republicans hope supreme court can stop new lines",
+    "type": "card",
+    "timestamp": 1771604809091
   }
 ]
