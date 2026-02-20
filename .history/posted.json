@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/stolen-ambulance-allegedly-driven-idaho-dhs-office-building-attempted-arson-attack",
-    "titleNorm": "stolen ambulance allegedly driven into idaho dhs office",
-    "type": "card",
-    "timestamp": 1771576243549
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/slavery-exhibit-removed-trump-administration-returning-independence-mall-130307209",
     "titleNorm": "slavery exhibit removed by trump administration is returning",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1771618785630
+  },
+  {
+    "url": "https://www.foxnews.com/us/husband-ohio-teacher-charged-wifes-murder-days-after-she-found-dead-home",
+    "titleNorm": "fmr american idol contestant husband of ohio teacher",
+    "type": "reel",
+    "timestamp": 1771620944072
   }
 ]
