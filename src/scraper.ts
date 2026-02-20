@@ -8,21 +8,19 @@ export interface Article {
 }
 
 const FEEDS = [
-  { name: 'Reuters World', url: 'https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best' },
+  // High-reliability news outlets with specific US/World latest feeds
   { name: 'AP News', url: 'https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'CNN Politics', url: 'http://rss.cnn.com/rss/cnn_politics.rss' },
+  { name: 'CNN US', url: 'http://rss.cnn.com/rss/cnn_us.rss' },
   { name: 'Fox News US', url: 'http://feeds.foxnews.com/foxnews/national' },
   { name: 'NBC News US', url: 'https://feeds.nbcnews.com/nbcnews/public/news' },
   { name: 'ABC News US', url: 'https://abcnews.go.com/abcnews/usheadlines' },
   { name: 'USA Today', url: 'https://rssfeeds.usatoday.com/usatoday-newstopstories&x=1' },
-  { name: 'CBS News', url: 'https://www.cbsnews.com/latest/rss/main' }
+  { name: 'CBS News', url: 'https://www.cbsnews.com/latest/rss/main' },
+  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' }
 ];
 
 /**
  * Scrape news articles from all feeds.
- * 
- * @param limit - How many articles to return
- * @param isAlreadyPosted - Function to check if an article has already been posted
  */
 export async function scrapeNews(
   limit: number = 1,
@@ -33,7 +31,7 @@ export async function scrapeNews(
   for (const feed of FEEDS) {
     try {
       console.log(`Scraping: ${feed.name}...`);
-      const response = await axios.get(feed.url);
+      const response = await axios.get(feed.url, { timeout: 15000 });
       const parser = new XMLParser({
         ignoreAttributes: false,
         attributeNamePrefix: "@_"
@@ -48,15 +46,21 @@ export async function scrapeNews(
       }
 
       for (const entry of entries) {
-        const titleContent = entry.title?.['#text'] || entry.title || 'No Title';
+        const titleContent = entry.title?.['#text'] || entry.title || '';
         const title = String(titleContent).trim();
+
         let url = entry.link?.['@_href'] || entry.link || entry.id;
         if (typeof url !== 'string') {
           url = entry.link?.['@_href'] || entry.guid || '';
         }
         url = String(url).trim();
 
-        if (title && url) {
+        // VALIDATION: Skip generic titles or extremely short ones
+        const skipKeywords = ['subscribe', 'world news', 'top stories', 'latest updates', 'newsletter', 'breaking news'];
+        const isGeneric = skipKeywords.some(k => title.toLowerCase() === k);
+        const isTooShort = title.split(' ').length < 4;
+
+        if (title && url && !isGeneric && !isTooShort) {
           allScrapedArticles.push({
             title,
             url,
@@ -69,23 +73,23 @@ export async function scrapeNews(
     }
   }
 
-  console.log(`Scraping finished. Found ${allScrapedArticles.length} total articles.`);
+  console.log(`Scraping finished. Found ${allScrapedArticles.length} valid articles.`);
 
   // --- Smart Deduplication ---
   const fresh = allScrapedArticles.filter(a => !isAlreadyPosted(a.url, a.title));
   console.log(`After smart dedup: ${fresh.length} fresh articles available.`);
 
   if (fresh.length === 0) {
-    console.warn('⚠️ All articles have been posted recently. Waiting for fresh news...');
-    return []; // Return empty instead of duplicates
+    console.warn('⚠️ No truly fresh articles found. Waiting for new updates...');
+    return [];
   }
 
   // Filter for high-impact keywords
   const impactKeywords = [
-    'breaking', 'trump', 'biden', 'white house', 'alert', 'shooting',
+    'breaking', 'trump', 'biden', 'politics', 'arrest', 'shooting',
     'dead', 'killed', 'dies', 'crash', 'fire', 'murder', 'attack',
-    'court', 'verdict', 'arrest', 'hurricane', 'earthquake', 'explosion',
-    'tsunami', 'war', 'russia', 'ukraine', 'crisis', 'border'
+    'court', 'verdict', 'hurricane', 'earthquake', 'war', 'ukraine',
+    'russia', 'china', 'crisis', 'emergency', 'scandal', 'exclusive'
   ];
 
   const highImpact = fresh.filter(a =>

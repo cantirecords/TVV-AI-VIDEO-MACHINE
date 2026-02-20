@@ -109,11 +109,13 @@ export async function generateNewsCard(content: string): Promise<NewsCardScript>
 
         OUTPUT REQUIREMENTS (STRICT CONSTRAINTS):
         1. "category": A single uppercase tag (e.g., "BORDER", "ECONOMY", "CRIME").
-        2. "headline": EXACTLY 6 to 8 words. No more, no less. High visual impact.
-        3. "subHeadline": EXACTLY 12 to 15 words. This provides the context/meat of the story.
+        2. "headline": EXACTLY 6 to 8 words. MUST be specific to the news content. (e.g., "CHICAGO BEARS BALLOT MEASURE GAINS TRACTION" instead of generic topics).
+        3. "subHeadline": EXACTLY 12 to 15 words. Be factual and direct. NO clickbait questions.
         4. "facebookDescription": A viral caption for the post. 2 Paragraphs.
-           - Para 1: Hook them in (match the style "${selectedStyle.name}").
-           - Para 2: Call to action ("Read more...", "What do you think?").
+           - Para 1: Hook the reader with a specific detail from the story.
+           - Para 2: Call to action or expert insight.
+        
+        STRICT POLICY: If the content is vague, focus on the most important concrete fact. NEVER hallucinate war or crisis if not explicitly in the text.
         
         News Content:
         ${content}

@@ -28,16 +28,37 @@ async function main() {
         await cleanupOldAssets();
 
         // 1. Scrape News — using smart dedup
-        const articles = await scrapeNews(1, isAlreadyPosted);
+        const articles = await scrapeNews(10, isAlreadyPosted); // Check top 10
         if (articles.length === 0) {
             console.log('No fresh articles found. Terminating to avoid duplication.');
             return;
         }
-        const article = articles[0]!;
-        console.log(`Using article from ${article.source}: ${article.title}`);
 
-        // 2. Extract detailed data
-        const detailedData = await extractArticleData(article.url);
+        let selectedArticle = null;
+        let selectedData = null;
+
+        for (const article of articles) {
+            console.log(`Evaluating article: ${article.title}`);
+            const detailedData = await extractArticleData(article.url);
+
+            // CRITERIA: Ensure actual content for a good video script
+            if (detailedData.content && detailedData.content.length > 200) {
+                selectedArticle = article;
+                selectedData = detailedData;
+                break;
+            } else {
+                console.log(`⏩ Skipping article (Thin content: ${detailedData.content?.length || 0} chars)`);
+            }
+        }
+
+        if (!selectedArticle || !selectedData) {
+            console.log('❌ No articles with sufficient quality content found in this batch.');
+            return;
+        }
+
+        const article = selectedArticle;
+        const detailedData = selectedData;
+        console.log(`✅ Selected High-Quality Article: ${article.title}`);
 
         const publicDir = path.join(process.cwd(), 'public');
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });

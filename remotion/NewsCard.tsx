@@ -101,17 +101,36 @@ export const NewsCard: React.FC<z.infer<typeof NewsCardSchema>> = ({
                 right: '-1px',
                 bottom: '-1px',
                 overflow: 'hidden',
-                backgroundColor: '#1a1a1a', // Dark slate fallback
-                backgroundImage: 'linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%)', // Premium gradient fallback
+                backgroundColor: '#0a0a0a',
+                // Deep mesh gradient fallback for a premium look when no image is available
+                backgroundImage: `
+                    radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%),
+                    radial-gradient(at 50% 0%, hsla(225,39%,30%,0.2) 0, transparent 50%),
+                    radial-gradient(at 100% 0%, hsla(339,49%,30%,0.2) 0, transparent 50%),
+                    radial-gradient(at 0% 100%, hsla(339,49%,30%,0.1) 0, transparent 50%)
+                `
             }}>
-                <Img
-                    src={staticFile(backgroundImage || 'background.png')}
-                    style={{
-                        width: 'calc(100% + 2px)',
-                        height: '100%',
-                        objectFit: 'cover'
-                    }}
-                />
+                {backgroundImage && !backgroundImage.includes('background.png') ? (
+                    <Img
+                        src={staticFile(backgroundImage)}
+                        style={{
+                            width: 'calc(100% + 2px)',
+                            height: '100%',
+                            objectFit: 'cover'
+                        }}
+                    />
+                ) : null}
+
+                {/* Glassmorphism subtle overlay */}
+                <div style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    right: 0,
+                    bottom: 0,
+                    background: 'linear-gradient(to bottom, rgba(0,0,0,0.5), transparent 30%)',
+                    zIndex: 2
+                }} />
             </div>
 
             {/* Overlaying the user provided logo at the absolute bottom center */}
