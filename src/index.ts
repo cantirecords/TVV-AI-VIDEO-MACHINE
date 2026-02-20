@@ -16,6 +16,28 @@ import { detectSubjectFocus } from './vision.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
 
+async function downloadAndValidateImage(imageUrl: string, publicDir: string): Promise<string | null> {
+    try {
+        console.log(`Checking image: ${imageUrl}`);
+        const imgRes = await axios.get(imageUrl, {
+            responseType: 'arraybuffer',
+            timeout: 8000,
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+        });
+        const size = imgRes.data.byteLength;
+        const contentType = imgRes.headers['content-type'] || '';
+
+        if (contentType.startsWith('image/') && size > 35000) {
+            const fileName = 'background_video.png';
+            fs.writeFileSync(path.join(publicDir, fileName), Buffer.from(imgRes.data));
+            return fileName;
+        }
+        return null;
+    } catch (e) {
+        return null;
+    }
+}
+
 async function main() {
     if (!process.env.GROQ_API_KEY) {
         console.error('Error: GROQ_API_KEY is not set in .env file');
@@ -23,70 +45,56 @@ async function main() {
     }
 
     try {
-        console.log('--- TVV AI VIDEO MACHINE (V5 SMART FOCUS) ---');
-
+        console.log('--- TVV VIDEO REEL (IMAGE-STRICT MODE) ---');
         await cleanupOldAssets();
 
-        // 1. Scrape News — using smart dedup
-        const articles = await scrapeNews(10, isAlreadyPosted); // Check top 10
+        const articles = await scrapeNews(15, isAlreadyPosted);
         if (articles.length === 0) {
-            console.log('No fresh articles found. Terminating to avoid duplication.');
+            console.log('No fresh articles found.');
             return;
         }
 
         let selectedArticle = null;
         let selectedData = null;
-
-        for (const article of articles) {
-            console.log(`Evaluating article: ${article.title}`);
-            const detailedData = await extractArticleData(article.url);
-
-            // CRITERIA: Ensure actual content for a good video script
-            if (detailedData.content && detailedData.content.length > 200) {
-                selectedArticle = article;
-                selectedData = detailedData;
-                break;
-            } else {
-                console.log(`⏩ Skipping article (Thin content: ${detailedData.content?.length || 0} chars)`);
-            }
-        }
-
-        if (!selectedArticle || !selectedData) {
-            console.log('❌ No articles with sufficient quality content found in this batch.');
-            return;
-        }
-
-        const article = selectedArticle;
-        const detailedData = selectedData;
-        console.log(`✅ Selected High-Quality Article: ${article.title}`);
+        let validImageFile = null;
+        let focusPoint = 'center';
 
         const publicDir = path.join(process.cwd(), 'public');
         if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
 
-        // Image Handling
-        let bgImage = 'background.png';
-        const imageUrl = detailedData.images[0];
-        let focusPoint = 'center';
+        for (const article of articles) {
+            console.log(`\nEvaluating: ${article.title}`);
+            const detailedData = await extractArticleData(article.url);
 
-        if (imageUrl) {
-            try {
-                const imgRes = await axios.get(imageUrl, {
-                    responseType: 'arraybuffer',
-                    timeout: 8000,
-                    headers: { 'User-Agent': 'Mozilla/5.0' }
-                });
-                fs.writeFileSync(path.join(publicDir, 'background_video.png'), Buffer.from(imgRes.data));
-                bgImage = 'background_video.png';
-                focusPoint = await detectSubjectFocus(imageUrl);
-            } catch (e) {
-                bgImage = 'background.png';
+            if (!detailedData.content || detailedData.content.length < 300) {
+                continue;
+            }
+
+            let localFile = null;
+            for (const imgUrl of detailedData.images) {
+                localFile = await downloadAndValidateImage(imgUrl, publicDir);
+                if (localFile) {
+                    focusPoint = await detectSubjectFocus(imgUrl);
+                    break;
+                }
+            }
+
+            if (localFile) {
+                selectedArticle = article;
+                selectedData = detailedData;
+                validImageFile = localFile;
+                break;
             }
         }
 
-        // 3. Generate Script
-        const scriptData = await generateScript(detailedData.content || article.title);
+        if (!selectedArticle || !selectedData || !validImageFile) {
+            console.log('❌ No articles with valid high-res images found.');
+            return;
+        }
 
-        // 4. Render Video
+        const scriptData = await generateScript(selectedData.content);
+
+        // Render Video
         const compositionId = 'NewsVideo';
         const entryPath = path.join(process.cwd(), 'remotion/index.ts');
         const bundleLocation = await bundle({ entryPoint: entryPath });
@@ -96,17 +104,13 @@ async function main() {
             subHeadline: scriptData.subHeadline,
             slides: scriptData.slides,
             category: scriptData.category,
-            backgroundImage: bgImage,
+            backgroundImage: validImageFile,
             focusPoint,
             durationInFrames: (scriptData.slides.length * 6 * 30) + (30 * 2.5),
             hasMusic: fs.existsSync(path.join(publicDir, 'music.mp3'))
         };
 
-        const composition = await selectComposition({
-            serveUrl: bundleLocation,
-            id: compositionId,
-            inputProps,
-        });
+        const composition = await selectComposition({ serveUrl: bundleLocation, id: compositionId, inputProps });
 
         const outputLocation = path.join(process.cwd(), 'out/video.mp4');
         if (!fs.existsSync(path.join(process.cwd(), 'out'))) fs.mkdirSync(path.join(process.cwd(), 'out'));
@@ -118,10 +122,9 @@ async function main() {
             codec: 'h264',
             crf: 32,
             pixelFormat: 'yuv420p',
-            inputProps, // Use the stored variable directly
+            inputProps,
         });
 
-        // 5. Upload & Webhook
         const videoUrl = await uploadVideo(outputLocation);
         await sendToWebhook(videoUrl, {
             headline: scriptData.headline,
@@ -129,8 +132,7 @@ async function main() {
             category: scriptData.category
         });
 
-        // 6. Record as posted
-        recordPosted(article.url, article.title, 'reel');
+        recordPosted(selectedArticle.url, selectedArticle.title, 'reel');
 
     } catch (error) {
         console.error('Pipeline failed:', error);

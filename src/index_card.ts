@@ -14,6 +14,34 @@ import { execSync } from 'child_process';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 dotenv.config();
 
+// Helper to download and validate image
+async function downloadAndValidateImage(imageUrl: string, publicDir: string): Promise<string | null> {
+    try {
+        console.log(`Attempting to download: ${imageUrl}`);
+        const imgRes = await axios.get(imageUrl, {
+            responseType: 'arraybuffer',
+            timeout: 8000,
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0' }
+        });
+
+        const contentType = imgRes.headers['content-type'] || '';
+        const size = imgRes.data.byteLength;
+
+        // Mandatory: Must be an image and at least 35KB to ensure it's not a thumbnail or icon
+        if (contentType.startsWith('image/') && size > 35000) {
+            const sessionBg = `background_card_${Date.now()}.png`;
+            fs.writeFileSync(path.join(publicDir, sessionBg), Buffer.from(imgRes.data));
+            console.log(`✅ Valid image saved (${Math.round(size / 1024)} KB)`);
+            return sessionBg;
+        }
+        console.log(`❌ Image rejected: size=${Math.round(size / 1024)}KB`);
+        return null;
+    } catch (e: any) {
+        console.log(`❌ Download failed: ${e.message}`);
+        return null;
+    }
+}
+
 async function main() {
     if (!process.env.GROQ_API_KEY) {
         console.error('Error: GROQ_API_KEY is not set in .env file');
@@ -21,88 +49,58 @@ async function main() {
     }
 
     try {
-        console.log('--- TVV NEWS CARD GENERATOR (STATIC GRAPHIC) ---');
+        console.log('--- TVV NEWS CARD GENERATOR (IMAGE-STRICT MODE) ---');
 
-        // 1. Scrape News — using smart check (URL + Title)
-        const articles = await scrapeNews(10, isAlreadyPosted); // Fetch top 10 to find a good one
+        const articles = await scrapeNews(15, isAlreadyPosted); // Check top 15
         if (articles.length === 0) {
-            console.log('No fresh articles found. Terminating.');
+            console.log('No fresh articles found.');
             return;
         }
 
         let selectedArticle = null;
         let selectedData = null;
+        let validImageFile = null;
 
+        const publicDir = path.join(process.cwd(), 'public');
+        if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
+
+        // LOOP UNTIL WE FIND A STORY WITH BOTH CONTENT AND A VALID HIGH-RES IMAGE
         for (const article of articles) {
-            console.log(`Evaluating article: ${article.title}`);
+            console.log(`\nEvaluating: ${article.title}`);
             const detailedData = await extractArticleData(article.url);
 
-            // CRITERIA: Article must have at least 200 chars of actual content to avoid hallucinations
-            if (detailedData.content && detailedData.content.length > 200) {
+            // 1. Check Content Quality
+            if (!detailedData.content || detailedData.content.length < 300) {
+                console.log(`⏩ Skip: Thin content (${detailedData.content?.length || 0} chars)`);
+                continue;
+            }
+
+            // 2. Check Image Quality - Try all extracted images for this specific article
+            let localFile = null;
+            for (const imgUrl of detailedData.images) {
+                localFile = await downloadAndValidateImage(imgUrl, publicDir);
+                if (localFile) break;
+            }
+
+            if (localFile) {
                 selectedArticle = article;
                 selectedData = detailedData;
-                break;
+                validImageFile = localFile;
+                break; // Found our perfect article!
             } else {
-                console.log(`⏩ Skipping article (Not enough content: ${detailedData.content?.length || 0} chars)`);
+                console.log(`⏩ Skip: No suitable high-res images found for this story.`);
             }
         }
 
-        if (!selectedArticle || !selectedData) {
-            console.log('❌ No articles with sufficient quality content found in this batch.');
+        if (!selectedArticle || !selectedData || !validImageFile) {
+            console.log('❌ CRITICAL: No articles in this batch met the STRICT IMAGE + CONTENT requirements.');
             return;
         }
 
         const article = selectedArticle;
-        const detailedData = selectedData;
-        console.log(`✅ Selected High-Quality Article: ${article.title}`);
+        const cardScript = await generateNewsCard(selectedData.content);
 
-        // Prepare Public Dir
-        const publicDir = path.join(process.cwd(), 'public');
-        if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
-
-        // Download Image - Loop through images until one works
-        let bgImage = 'background.png'; // Fallback default
-        let imageFound = false;
-
-        console.log(`Found ${detailedData.images.length} potential images.`);
-
-        for (const imageUrl of detailedData.images) {
-            try {
-                console.log(`Attempting to download: ${imageUrl}`);
-                const imgRes = await axios.get(imageUrl, {
-                    responseType: 'arraybuffer',
-                    timeout: 8000,
-                    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0' }
-                });
-
-                const contentType = imgRes.headers['content-type'] || '';
-                const size = imgRes.data.byteLength;
-
-                // Be stricter: Image must be an image and at least 25KB to look good as a background
-                if (contentType.startsWith('image/') && size > 25000) {
-                    const sessionBg = `background_card_${Date.now()}.png`;
-                    fs.writeFileSync(path.join(publicDir, sessionBg), Buffer.from(imgRes.data));
-                    bgImage = sessionBg;
-                    imageFound = true;
-                    console.log(`✅ Successfully saved background image (${Math.round(size / 1024)} KB)`);
-                    break;
-                } else {
-                    console.log(`❌ Skipping image: type=${contentType}, size=${Math.round(size / 1024)}KB (Too small or wrong type)`);
-                }
-            } catch (e: any) {
-                console.log(`❌ Failed to download image: ${e.message}`);
-            }
-        }
-
-        if (!imageFound) {
-            console.log('⚠️ No suitable article images found after trying all options. Using default fallback.');
-            bgImage = 'background.png';
-        }
-
-        // 3. Generate "News Card" Script
-        const cardScript = await generateNewsCard(detailedData.content || article.title);
-
-        // 4. Render Static Image
+        // Render
         const outputDir = path.join(process.cwd(), 'out');
         if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
         const outputLocation = path.join(outputDir, 'card.png');
@@ -111,21 +109,18 @@ async function main() {
             category: cardScript.category,
             headline: cardScript.headline,
             subHeadline: cardScript.subHeadline,
-            backgroundImage: bgImage,
+            backgroundImage: validImageFile,
             source: article.source
         };
 
         const propsFile = path.join(outputDir, 'card_props.json');
         fs.writeFileSync(propsFile, JSON.stringify(props));
 
-        console.log(`Rendering card with background: ${bgImage}`);
+        console.log(`🚀 Rendering card with strictly verified image: ${validImageFile}`);
         const cmd = `npx remotion still remotion/index.ts NewsCard "${outputLocation}" --props="${propsFile}" --log=info --gl=swiftshader`;
         execSync(cmd, { stdio: 'inherit' });
 
-        // 5. Upload to Cloudinary
         const cardUrl = await uploadImage(outputLocation);
-
-        // 6. Send to Webhook
         const webhookUrl = process.env.MAKE_WEBHOOK_URL_CARD || '';
         await sendCardToWebhook(cardUrl, {
             headline: cardScript.headline,
@@ -133,13 +128,11 @@ async function main() {
             category: cardScript.category
         }, webhookUrl);
 
-        // 7. Record as posted with Title normalization
         recordPosted(article.url, article.title, 'card');
-
-        console.log('News Card process complete! 🚀');
+        console.log('--- Done ---');
 
     } catch (error) {
-        console.error('Card Generation failed:', error);
+        console.error('Process failed:', error);
         process.exit(1);
     }
 }
