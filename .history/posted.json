@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-iran-military-buildup-includes-scores-of-us-warplanes-joining-armada/",
-    "titleNorm": "scores of us warplanes head for key bases",
-    "type": "reel",
-    "timestamp": 1771565846532
-  },
-  {
-    "url": "https://www.cbsnews.com/news/u-s-fighter-jets-intercept-russian-warplanes-off-alaskan-coast/",
-    "titleNorm": "us fighter jets intercept russian warplanes off alaskan",
-    "type": "card",
-    "timestamp": 1771566425269
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/police-missing-person-find-3-men-dead-detroit-130319268",
     "titleNorm": "police looking for missing person find 3 men",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "illegal immigrant allegedly ambushed woman on florida beach",
     "type": "card",
     "timestamp": 1771608682924
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1771612499128
   }
 ]
