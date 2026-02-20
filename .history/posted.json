@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdldSYmp2MEtEOGo1SHhZWnd3YmU1YzFYdHhlWWRHbFNZRDlucjZqU3g5Sy0wRUVsWjItWVJCUmNsYlF2VGR4U1BnUG5WdllxakZaSmw3MWdIYk90bGZmU0ZSQUZBYVZTaDFVMVQ0dllhTHQ2RjlmeDc0VWtfVzYzME82X0k0VWNZSWh2OXpXaHRUWjhscFZSeTBEcUFFVVE?oc=5",
-    "titleNorm": "republican lawmakers grill telecom officials over phone records",
-    "type": "card",
-    "timestamp": 1771529663904
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWFNRExZX2FzX3V0OXhsNmp5QmRBVEVyTUQwcFYzbnJIRjhOZlhiUkV1T1JpNGxDcFNhQnBuQmhyNkNBSHVlY2pFR18tZ0tUaTVXOWI4NEsyY2I3SHJpRFFyQkgwMHlRaG5EV0R2ekV6Qm9tdEZSMkI2M2lreWt2YzJFWXNwNW1PanFVUnZqTmZNYXc?oc=5",
     "titleNorm": "bears potential move to indiana takes step forward",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "navy reservist on active duty accused of murdering",
     "type": "reel",
     "timestamp": 1771572702776
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/deadly-california-avalanche-highlights-inherent-risks-backcountry-130322056",
+    "titleNorm": "deadly california avalanche highlights inherent risks in the",
+    "type": "card",
+    "timestamp": 1771573298274
   }
 ]
