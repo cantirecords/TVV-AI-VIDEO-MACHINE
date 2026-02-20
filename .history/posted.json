@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/extended-interview-andrew-yang-2020-campaign-ai-consequences/",
-    "titleNorm": "extended interview andrew yang reflects on 2020 campaign",
-    "type": "card",
-    "timestamp": 1771583347180
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "king charles statement on former prince andrew shows",
     "type": "card",
     "timestamp": 1771625710468
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-magazine-editor-23-killed-hit-and-run-while-crossing-street",
+    "titleNorm": "virginia magazine editor 23 killed in hitandrun while",
+    "type": "reel",
+    "timestamp": 1771628226417
   }
 ]
