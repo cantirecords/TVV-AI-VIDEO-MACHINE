@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1771612499128
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/trump-tariffs-supreme-court-press-conference/",
     "titleNorm": "watch live trump holds briefing after supreme court",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "police search former prince andrews residence amid arrest",
     "type": "card",
     "timestamp": 1771655471082
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-strikes-trumps-tariffs-major-blow-president-rcna244827",
+    "titleNorm": "supreme court strikes down most of trumps tariffs",
+    "type": "reel",
+    "timestamp": 1771657715788
   }
 ]
