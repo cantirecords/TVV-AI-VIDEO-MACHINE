@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-evidence-ohio-teachers-murder-deadpool-killers-loyalty",
-    "titleNorm": "fox news true crime newsletter nancy guthries evidence",
-    "type": "card",
-    "timestamp": 1771658758581
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump says he will raise new global tariff",
     "type": "card",
     "timestamp": 1771701482556
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-magazine-editor-23-killed-hit-and-run-while-crossing-street",
+    "titleNorm": "virginia magazine editor 23 killed in hitandrun while",
+    "type": "card",
+    "timestamp": 1771705006611
   }
 ]
