@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-allegedly-ambushed-woman-florida-beach-random-attempted-drowning-attack-police",
-    "titleNorm": "illegal immigrant allegedly ambushed woman on florida beach",
-    "type": "card",
-    "timestamp": 1771608682924
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "former connecticut police chief arrested for allegedly stealing",
     "type": "reel",
     "timestamp": 1771651823577
+  },
+  {
+    "url": "https://www.today.com/video/former-prince-andrew-released-from-custody-following-arrest-258021445914",
+    "titleNorm": "police search former prince andrews residence amid arrest",
+    "type": "card",
+    "timestamp": 1771655471082
   }
 ]
