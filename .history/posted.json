@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/indonesias-president-reaches-trade-deal-us-washington-trumps-130319160",
-    "titleNorm": "indonesias president reaches a trade deal with us",
-    "type": "card",
-    "timestamp": 1771629640917
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-judge-declares-yogurt-shop-murder-suspects-innocent-34-years",
     "titleNorm": "texas judge declares yogurt shop murder suspects innocent",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1771672500890
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-struck-trumps-tariffs-now-hard-work-130358631",
+    "titleNorm": "the supreme court struck down trumps tariffs now",
+    "type": "card",
+    "timestamp": 1771676705108
   }
 ]
