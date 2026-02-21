@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
-    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
-    "type": "reel",
-    "timestamp": 1771651823577
-  },
-  {
     "url": "https://www.today.com/video/former-prince-andrew-released-from-custody-following-arrest-258021445914",
     "titleNorm": "police search former prince andrews residence amid arrest",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "us stocks seesaw after supreme court strikes down",
     "type": "card",
     "timestamp": 1771694332381
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
+    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
+    "type": "card",
+    "timestamp": 1771698079544
   }
 ]
