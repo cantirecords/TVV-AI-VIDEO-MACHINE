@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/white-house-fires-new-top-prosecutor-eastern-virginia-hours-after-he-was-hired-by-judges-james-hundley/",
-    "titleNorm": "trump admin fires top prosecutor in eastern virginia",
-    "type": "reel",
-    "timestamp": 1771671248559
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1771672500890
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-struck-trumps-tariffs-now-hard-work-130358631",
     "titleNorm": "the supreme court struck down trumps tariffs now",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "will americans get refunds after trump039s tariffs were",
     "type": "reel",
     "timestamp": 1771714266906
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
+    "titleNorm": "court clears way for louisiana law requiring ten",
+    "type": "card",
+    "timestamp": 1771715774916
   }
 ]
