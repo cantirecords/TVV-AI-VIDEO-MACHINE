@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-judge-declares-yogurt-shop-murder-suspects-innocent-34-years",
-    "titleNorm": "texas judge declares yogurt shop murder suspects innocent",
-    "type": "card",
-    "timestamp": 1771635968922
-  },
-  {
     "url": "https://www.foxnews.com/us/fentanyl-exposure-scare-forces-courtroom-evacuation-during-active-trial",
     "titleNorm": "fentanyl exposure scare forces courtroom evacuation during active",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "the supreme court struck down trumps tariffs now",
     "type": "card",
     "timestamp": 1771676705108
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1771680122130
   }
 ]
