@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/cherished-teacher-mourned-deadly-crash-driver-pursued-ice-130316300",
-    "titleNorm": "cherished teacher mourned following deadly crash with driver",
-    "type": "reel",
-    "timestamp": 1771607268379
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-allegedly-ambushed-woman-florida-beach-random-attempted-drowning-attack-police",
     "titleNorm": "illegal immigrant allegedly ambushed woman on florida beach",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "iran reportedly preparing for war as images expose",
     "type": "card",
     "timestamp": 1771650221593
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
+    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
+    "type": "reel",
+    "timestamp": 1771651823577
   }
 ]
