@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/republicans-hope-supreme-court-stop-new-lines-drawn-130316118",
-    "titleNorm": "republicans hope supreme court can stop new lines",
-    "type": "card",
-    "timestamp": 1771604809091
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/cherished-teacher-mourned-deadly-crash-driver-pursued-ice-130316300",
     "titleNorm": "cherished teacher mourned following deadly crash with driver",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "justice department swiftly fires lawyer chosen as top",
     "type": "card",
     "timestamp": 1771646268126
+  },
+  {
+    "url": "https://www.foxnews.com/us/iran-reportedly-preparing-war-images-expose-tunnel-entrances-more-top-headlines",
+    "titleNorm": "iran reportedly preparing for war as images expose",
+    "type": "card",
+    "timestamp": 1771650221593
   }
 ]
