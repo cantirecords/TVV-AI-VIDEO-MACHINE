@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-executive-order-10-percent-tariffs-supreme-court/",
-    "titleNorm": "trump imposes 10 tariffs on all countries after",
-    "type": "card",
-    "timestamp": 1771665683580
-  },
-  {
     "url": "https://www.foxnews.com/us/high-school-teacher-arrested-alleged-sex-case-involving-student",
     "titleNorm": "high school teacher arrested in alleged sex case",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1771708429513
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
+    "titleNorm": "examerican idol contestant charged in wifes murder previously",
+    "type": "card",
+    "timestamp": 1771712034181
   }
 ]
