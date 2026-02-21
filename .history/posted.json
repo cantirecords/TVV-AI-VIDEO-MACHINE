@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/louisiana-law-requiring-ten-commandments-classrooms-appeals-court/",
-    "titleNorm": "court clears way for louisiana law requiring public",
-    "type": "reel",
-    "timestamp": 1771664215758
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-executive-order-10-percent-tariffs-supreme-court/",
     "titleNorm": "trump imposes 10 tariffs on all countries after",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fmr american idol contestant husband of ohio teacher",
     "type": "reel",
     "timestamp": 1771706919746
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "card",
+    "timestamp": 1771708429513
   }
 ]
