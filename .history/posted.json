@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-aliens-real-directs-government-release-files-ufos-130324251",
-    "titleNorm": "trump says he doesnt know if aliens are",
-    "type": "card",
-    "timestamp": 1771622172374
-  },
-  {
     "url": "https://www.nbcnews.com/world/united-kingdom/andrew-king-charles-epstein-royal-crisis-rcna259704",
     "titleNorm": "king charles statement on former prince andrew shows",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "court clears way for louisiana law requiring public",
     "type": "reel",
     "timestamp": 1771664215758
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-executive-order-10-percent-tariffs-supreme-court/",
+    "titleNorm": "trump imposes 10 tariffs on all countries after",
+    "type": "card",
+    "timestamp": 1771665683580
   }
 ]
