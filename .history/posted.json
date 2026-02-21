@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/united-kingdom/andrew-king-charles-epstein-royal-crisis-rcna259704",
-    "titleNorm": "king charles statement on former prince andrew shows",
-    "type": "card",
-    "timestamp": 1771625710468
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-magazine-editor-23-killed-hit-and-run-while-crossing-street",
     "titleNorm": "virginia magazine editor 23 killed in hitandrun while",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump imposes 10 tariffs on all countries after",
     "type": "card",
     "timestamp": 1771665683580
+  },
+  {
+    "url": "https://www.foxnews.com/us/high-school-teacher-arrested-alleged-sex-case-involving-student",
+    "titleNorm": "high school teacher arrested in alleged sex case",
+    "type": "card",
+    "timestamp": 1771669020543
   }
 ]
