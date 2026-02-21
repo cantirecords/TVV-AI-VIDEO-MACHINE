@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-strikes-trumps-tariffs-major-blow-president-rcna244827",
-    "titleNorm": "supreme court strikes down most of trumps tariffs",
-    "type": "reel",
-    "timestamp": 1771657715788
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-evidence-ohio-teachers-murder-deadpool-killers-loyalty",
     "titleNorm": "fox news true crime newsletter nancy guthries evidence",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "police looking for missing person find 3 men",
     "type": "reel",
     "timestamp": 1771700563471
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049",
+    "titleNorm": "trump says he will raise new global tariff",
+    "type": "card",
+    "timestamp": 1771701482556
   }
 ]
