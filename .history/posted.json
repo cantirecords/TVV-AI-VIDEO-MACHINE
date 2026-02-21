@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/trump-tariffs-supreme-court-press-conference/",
-    "titleNorm": "watch live trump holds briefing after supreme court",
-    "type": "reel",
-    "timestamp": 1771614964760
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court strikes down most of trumps tariffs",
     "type": "reel",
     "timestamp": 1771657715788
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-evidence-ohio-teachers-murder-deadpool-killers-loyalty",
+    "titleNorm": "fox news true crime newsletter nancy guthries evidence",
+    "type": "card",
+    "timestamp": 1771658758581
   }
 ]
