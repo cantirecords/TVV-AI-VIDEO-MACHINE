@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/crews-hope-resume-recovery-8-bodies-california-avalanche-130327477",
-    "titleNorm": "crews hope to resume recovery of 8 bodies",
-    "type": "card",
-    "timestamp": 1771755336157
-  },
-  {
     "url": "https://www.foxnews.com/us/fentanyl-exposure-scare-forces-courtroom-evacuation-during-active-trial",
     "titleNorm": "fentanyl exposure scare forces courtroom evacuation during active",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
     "type": "card",
     "timestamp": 1771798500436
+  },
+  {
+    "url": "https://www.foxnews.com/us/pima-county-sheriff-warns-nbc-interview-dna-tech-issues-nancy-guthrie-case-months-resolve",
+    "titleNorm": "pima county sheriff warns in nbc interview dna",
+    "type": "reel",
+    "timestamp": 1771800688322
   }
 ]
