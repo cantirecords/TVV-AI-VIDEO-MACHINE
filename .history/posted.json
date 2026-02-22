@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
-    "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
-    "type": "reel",
-    "timestamp": 1771750631509
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ice-begins-purchase-warehouses-owners-backing-deals-130361528",
     "titleNorm": "ice begins to purchase warehouses but some owners",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "examerican idol contestant charged in wifes murder previously",
     "type": "reel",
     "timestamp": 1771793541713
+  },
+  {
+    "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
+    "titleNorm": "family of ohio teacher clinging to faith after",
+    "type": "card",
+    "timestamp": 1771794973293
   }
 ]
