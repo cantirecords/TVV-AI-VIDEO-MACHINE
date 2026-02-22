@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
-    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
-    "type": "reel",
-    "timestamp": 1771738655781
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/ski-guides-spotlight-investigators-probe-deadly-california-avalanche-130358266",
-    "titleNorm": "ski guides in spotlight as investigators probe deadly",
-    "type": "card",
-    "timestamp": 1771739225294
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-aliens-real-directs-government-release-files-ufos-130324251",
     "titleNorm": "trump says he doesnt know if aliens are",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "armed man shot and killed by secret service",
     "type": "card",
     "timestamp": 1771780698464
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-connecticut-police-chief-arrested-alleged-85000-theft-130346437",
+    "titleNorm": "exconnecticut police chief arrested over alleged 85000 theft",
+    "type": "card",
+    "timestamp": 1771784510761
   }
 ]
