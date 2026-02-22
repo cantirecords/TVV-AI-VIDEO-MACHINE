@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
-    "titleNorm": "examerican idol contestant charged in wifes murder previously",
-    "type": "card",
-    "timestamp": 1771712034181
-  },
-  {
     "url": "https://www.cbsnews.com/news/tariff-refunds-trump-ruling/",
     "titleNorm": "will americans get refunds after trump039s tariffs were",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "ice begins to purchase warehouses but some owners",
     "type": "card",
     "timestamp": 1771752120167
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/crews-hope-resume-recovery-8-bodies-california-avalanche-130327477",
+    "titleNorm": "crews hope to resume recovery of 8 bodies",
+    "type": "card",
+    "timestamp": 1771755336157
   }
 ]
