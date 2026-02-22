@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-withdraws-endorsement-colorado-rep-jeff-hurd-rcna260085",
-    "titleNorm": "trump withdraws endorsement of colorado rep jeff hurd",
-    "type": "card",
-    "timestamp": 1771745415368
-  },
-  {
     "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
     "titleNorm": "family of ohio teacher clinging to faith after",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1771787920369
+  },
+  {
+    "url": "https://www.foxnews.com/us/zohran-mamdani-declares-nyc-emergency-bans-all-travel-during-blizzard-threatening-city",
+    "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
+    "type": "card",
+    "timestamp": 1771791318913
   }
 ]
