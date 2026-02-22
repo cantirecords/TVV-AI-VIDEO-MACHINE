@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
-    "titleNorm": "family of ohio teacher clinging to faith after",
-    "type": "card",
-    "timestamp": 1771748456060
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
     "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
     "type": "card",
     "timestamp": 1771791318913
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
+    "titleNorm": "examerican idol contestant charged in wifes murder previously",
+    "type": "reel",
+    "timestamp": 1771793541713
   }
 ]
