@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-raises-global-tariffs-15-percent-trade-supreme-court-decision-rcna260049",
-    "titleNorm": "trump says he will raise new global tariff",
-    "type": "card",
-    "timestamp": 1771701482556
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-magazine-editor-23-killed-hit-and-run-while-crossing-street",
     "titleNorm": "virginia magazine editor 23 killed in hitandrun while",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump approves disaster assistance to dc to help",
     "type": "reel",
     "timestamp": 1771744365063
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-withdraws-endorsement-colorado-rep-jeff-hurd-rcna260085",
+    "titleNorm": "trump withdraws endorsement of colorado rep jeff hurd",
+    "type": "card",
+    "timestamp": 1771745415368
   }
 ]
