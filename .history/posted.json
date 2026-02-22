@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/husband-ohio-teacher-charged-wifes-murder-days-after-she-found-dead-home",
-    "titleNorm": "fmr american idol contestant husband of ohio teacher",
-    "type": "reel",
-    "timestamp": 1771706919746
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "family of ohio teacher clinging to faith after",
     "type": "card",
     "timestamp": 1771748456060
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
+    "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
+    "type": "reel",
+    "timestamp": 1771750631509
   }
 ]
