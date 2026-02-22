@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fentanyl-exposure-scare-forces-courtroom-evacuation-during-active-trial",
-    "titleNorm": "fentanyl exposure scare forces courtroom evacuation during active",
-    "type": "card",
-    "timestamp": 1771690748218
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
-    "titleNorm": "2 killed 7 wounded in a street shooting",
-    "type": "reel",
-    "timestamp": 1771692969284
-  },
-  {
-    "url": "https://www.nbcnews.com/business/markets/us-stocks-jump-scotus-strikes-trump-tariffs-rcna259907",
-    "titleNorm": "us stocks seesaw after supreme court strikes down",
-    "type": "card",
-    "timestamp": 1771694332381
-  },
-  {
     "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
     "titleNorm": "former connecticut police chief arrested for allegedly stealing",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "murky outlook for businesses after tariff ruling prompts",
     "type": "card",
     "timestamp": 1771733280728
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
+    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
+    "type": "reel",
+    "timestamp": 1771738655781
   }
 ]
