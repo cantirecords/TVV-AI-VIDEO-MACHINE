@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
-    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
-    "type": "card",
-    "timestamp": 1771698079544
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/police-missing-person-find-3-men-dead-detroit-130319268",
     "titleNorm": "police looking for missing person find 3 men",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "ski guides in spotlight as investigators probe deadly",
     "type": "card",
     "timestamp": 1771739225294
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-aliens-real-directs-government-release-files-ufos-130324251",
+    "titleNorm": "trump says he doesnt know if aliens are",
+    "type": "card",
+    "timestamp": 1771742129413
   }
 ]
