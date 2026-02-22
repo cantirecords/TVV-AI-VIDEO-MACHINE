@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-magazine-editor-23-killed-hit-and-run-while-crossing-street",
-    "titleNorm": "virginia magazine editor 23 killed in hitandrun while",
-    "type": "card",
-    "timestamp": 1771705006611
-  },
-  {
     "url": "https://www.foxnews.com/us/husband-ohio-teacher-charged-wifes-murder-days-after-she-found-dead-home",
     "titleNorm": "fmr american idol contestant husband of ohio teacher",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump withdraws endorsement of colorado rep jeff hurd",
     "type": "card",
     "timestamp": 1771745415368
+  },
+  {
+    "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
+    "titleNorm": "family of ohio teacher clinging to faith after",
+    "type": "card",
+    "timestamp": 1771748456060
   }
 ]
