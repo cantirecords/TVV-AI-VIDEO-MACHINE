@@ -106,5 +106,11 @@
     "titleNorm": "former american idol contestant charged with murder staging",
     "type": "reel",
     "timestamp": 1771771994958
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
+    "titleNorm": "2 killed 7 wounded in a street shooting",
+    "type": "card",
+    "timestamp": 1771773383978
   }
 ]
