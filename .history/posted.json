@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-connecticut-police-chief-arrested-alleged-85000-theft-130346437",
-    "titleNorm": "exconnecticut police chief arrested over alleged 85000 theft",
-    "type": "reel",
-    "timestamp": 1771730622135
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/murky-outlook-businesses-after-tariff-ruling-prompts-countermoves-130358817",
-    "titleNorm": "murky outlook for businesses after tariff ruling prompts",
-    "type": "card",
-    "timestamp": 1771733280728
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
     "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "2 killed 7 wounded in a street shooting",
     "type": "card",
     "timestamp": 1771773383978
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
+    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
+    "type": "card",
+    "timestamp": 1771777136994
   }
 ]
