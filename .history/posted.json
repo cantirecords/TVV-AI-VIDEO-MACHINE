@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/tariff-refunds-trump-ruling/",
-    "titleNorm": "will americans get refunds after trump039s tariffs were",
-    "type": "reel",
-    "timestamp": 1771714266906
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
     "titleNorm": "court clears way for louisiana law requiring ten",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "crews hope to resume recovery of 8 bodies",
     "type": "card",
     "timestamp": 1771755336157
+  },
+  {
+    "url": "https://www.foxnews.com/us/fentanyl-exposure-scare-forces-courtroom-evacuation-during-active-trial",
+    "titleNorm": "fentanyl exposure scare forces courtroom evacuation during active",
+    "type": "reel",
+    "timestamp": 1771757590010
   }
 ]
