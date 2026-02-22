@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
-    "titleNorm": "court clears way for louisiana law requiring ten",
-    "type": "card",
-    "timestamp": 1771715774916
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-supreme-court-justices-disloyal-unpatriotic-tariffs-rcna259948",
     "titleNorm": "trump calls supreme court justices disloyal to the",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "justice department swiftly fires lawyer chosen as top",
     "type": "card",
     "timestamp": 1771758884074
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrants-convicted-child-rape-sexual-assault-drug-trafficking",
+    "titleNorm": "ice arrests illegal immigrants convicted of child rape",
+    "type": "card",
+    "timestamp": 1771763211242
   }
 ]
