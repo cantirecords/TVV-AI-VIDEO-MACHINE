@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fentanyl-exposure-scare-forces-courtroom-evacuation-during-active-trial",
-    "titleNorm": "fentanyl exposure scare forces courtroom evacuation during active",
-    "type": "reel",
-    "timestamp": 1771757590010
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/justice-department-swiftly-fires-lawyer-chosen-top-federal-130353378",
-    "titleNorm": "justice department swiftly fires lawyer chosen as top",
-    "type": "card",
-    "timestamp": 1771758884074
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrants-convicted-child-rape-sexual-assault-drug-trafficking",
     "titleNorm": "ice arrests illegal immigrants convicted of child rape",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "pima county sheriff warns in nbc interview dna",
     "type": "reel",
     "timestamp": 1771800688322
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ski-guides-spotlight-investigators-probe-deadly-california-avalanche-130358266",
+    "titleNorm": "ski guides in spotlight as investigators probe deadly",
+    "type": "card",
+    "timestamp": 1771802287740
   }
 ]
