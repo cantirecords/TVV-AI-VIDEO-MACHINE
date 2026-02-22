@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ice-begins-purchase-warehouses-owners-backing-deals-130361528",
-    "titleNorm": "ice begins to purchase warehouses but some owners",
-    "type": "card",
-    "timestamp": 1771752120167
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/crews-hope-resume-recovery-8-bodies-california-avalanche-130327477",
     "titleNorm": "crews hope to resume recovery of 8 bodies",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "family of ohio teacher clinging to faith after",
     "type": "card",
     "timestamp": 1771794973293
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
+    "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
+    "type": "card",
+    "timestamp": 1771798500436
   }
 ]
