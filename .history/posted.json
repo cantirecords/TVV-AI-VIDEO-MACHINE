@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "minnesota vikings receiver moore dies aged 25",
-    "type": "reel",
-    "timestamp": 1771817177995
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/murky-outlook-businesses-after-tariff-ruling-prompts-countermoves-130358817",
     "titleNorm": "murky outlook for businesses after tariff ruling prompts",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "propane tank hurled into arizona ice facility in",
     "type": "reel",
     "timestamp": 1771859688625
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/blizzard-warnings-send-east-coast-scrambling-prepare-heavy-130380265",
+    "titleNorm": "blizzard warnings cascade across east coast as winter",
+    "type": "card",
+    "timestamp": 1771861235452
   }
 ]
