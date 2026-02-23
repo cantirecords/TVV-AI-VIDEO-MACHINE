@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
-    "titleNorm": "examerican idol contestant charged in wifes murder previously",
-    "type": "reel",
-    "timestamp": 1771793541713
-  },
-  {
     "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
     "titleNorm": "family of ohio teacher clinging to faith after",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "2 killed 7 wounded in a street shooting",
     "type": "card",
     "timestamp": 1771835881565
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "reel",
+    "timestamp": 1771838094523
   }
 ]
