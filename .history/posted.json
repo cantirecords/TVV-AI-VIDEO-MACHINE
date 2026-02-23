@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nc-college-fires-instructor-who-running-office-after-rant-charlie-kirk-trump",
-    "titleNorm": "nc college fires instructor who was running for",
-    "type": "reel",
-    "timestamp": 1771825765494
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "armed man killed after entering secure perimeter of",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "trump approves disaster assistance to dc to help",
     "type": "reel",
     "timestamp": 1771868393938
+  },
+  {
+    "url": "https://www.foxnews.com/us/nc-college-fires-instructor-who-running-office-after-rant-charlie-kirk-trump",
+    "titleNorm": "nc college fires instructor who was running for",
+    "type": "card",
+    "timestamp": 1771869317274
   }
 ]
