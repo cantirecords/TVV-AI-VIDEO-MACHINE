@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-connecticut-police-chief-arrested-alleged-85000-theft-130346437",
-    "titleNorm": "exconnecticut police chief arrested over alleged 85000 theft",
-    "type": "card",
-    "timestamp": 1771784510761
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/blizzard-warnings-send-east-coast-scrambling-prepare-heavy-130380265",
-    "titleNorm": "blizzard warnings send east coast scrambling to prepare",
-    "type": "reel",
-    "timestamp": 1771786952872
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "armed man killed after entering secure perimeter of",
     "type": "card",
     "timestamp": 1771826382117
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "pakistan launches deadly strikes on afghanistan",
+    "type": "card",
+    "timestamp": 1771830320723
   }
 ]
