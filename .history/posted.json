@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1771838094523
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
     "titleNorm": "examerican idol contestant charged in wifes murder previously",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "minnesota mall shooting leaves 2 juveniles in custody",
     "type": "reel",
     "timestamp": 1771881058583
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "card",
+    "timestamp": 1771882962549
   }
 ]
