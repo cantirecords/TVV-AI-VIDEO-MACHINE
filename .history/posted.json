@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
-    "titleNorm": "examerican idol contestant charged in wifes murder previously",
-    "type": "card",
-    "timestamp": 1771839793309
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-american-idol-contestant-charged-murder-staging-crime-130370677",
     "titleNorm": "former american idol contestant charged with murder staging",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1771882962549
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/house-democrats-bringing-jeffrey-epstein-survivors-trumps-state-union-rcna260285",
+    "titleNorm": "house democrats bringing jeffrey epstein survivors to trumps",
+    "type": "card",
+    "timestamp": 1771885868100
   }
 ]
