@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ski-guides-spotlight-investigators-probe-deadly-california-avalanche-130358266",
-    "titleNorm": "ski guides in spotlight as investigators probe deadly",
-    "type": "card",
-    "timestamp": 1771802287740
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
     "titleNorm": "court clears way for louisiana law requiring ten",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "repeat offender allegedly assaults hospital police officer just",
     "type": "reel",
     "timestamp": 1771845302655
+  },
+  {
+    "url": "https://www.foxnews.com/us/federal-court-clears-way-ten-commandments-displayed-louisiana-public-school-classrooms",
+    "titleNorm": "federal court clears way for ten commandments to",
+    "type": "card",
+    "timestamp": 1771846442821
   }
 ]
