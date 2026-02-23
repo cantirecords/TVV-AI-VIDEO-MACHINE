@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
-    "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
-    "type": "card",
-    "timestamp": 1771798500436
-  },
-  {
     "url": "https://www.foxnews.com/us/pima-county-sheriff-warns-nbc-interview-dna-tech-issues-nancy-guthrie-case-months-resolve",
     "titleNorm": "pima county sheriff warns in nbc interview dna",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "examerican idol contestant charged in wifes murder previously",
     "type": "card",
     "timestamp": 1771839793309
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-american-idol-contestant-charged-murder-staging-crime-130370677",
+    "titleNorm": "former american idol contestant charged with murder staging",
+    "type": "card",
+    "timestamp": 1771843428918
   }
 ]
