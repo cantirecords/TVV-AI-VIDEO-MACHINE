@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/repeat-offender-allegedly-assaults-hospital-police-officer-just-days-after-arrest-same-facility-report",
-    "titleNorm": "repeat offender allegedly assaults hospital police officer just",
-    "type": "reel",
-    "timestamp": 1771845302655
-  },
-  {
     "url": "https://www.foxnews.com/us/federal-court-clears-way-ten-commandments-displayed-louisiana-public-school-classrooms",
     "titleNorm": "federal court clears way for ten commandments to",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "2 killed 7 wounded in a street shooting",
     "type": "reel",
     "timestamp": 1771888384714
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-futures-fall-asian-markets-higher-after-supreme-130398434",
+    "titleNorm": "us futures slip world markets are mixed after",
+    "type": "card",
+    "timestamp": 1771889238449
   }
 ]
