@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-american-idol-contestant-charged-murder-staging-crime-130370677",
-    "titleNorm": "former american idol contestant charged with murder staging",
-    "type": "card",
-    "timestamp": 1771843428918
-  },
-  {
     "url": "https://www.foxnews.com/us/repeat-offender-allegedly-assaults-hospital-police-officer-just-days-after-arrest-same-facility-report",
     "titleNorm": "repeat offender allegedly assaults hospital police officer just",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "house democrats bringing jeffrey epstein survivors to trumps",
     "type": "card",
     "timestamp": 1771885868100
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
+    "titleNorm": "2 killed 7 wounded in a street shooting",
+    "type": "reel",
+    "timestamp": 1771888384714
   }
 ]
