@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pima-county-sheriff-warns-nbc-interview-dna-tech-issues-nancy-guthrie-case-months-resolve",
-    "titleNorm": "pima county sheriff warns in nbc interview dna",
-    "type": "reel",
-    "timestamp": 1771800688322
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ski-guides-spotlight-investigators-probe-deadly-california-avalanche-130358266",
     "titleNorm": "ski guides in spotlight as investigators probe deadly",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "former american idol contestant charged with murder staging",
     "type": "card",
     "timestamp": 1771843428918
+  },
+  {
+    "url": "https://www.foxnews.com/us/repeat-offender-allegedly-assaults-hospital-police-officer-just-days-after-arrest-same-facility-report",
+    "titleNorm": "repeat offender allegedly assaults hospital police officer just",
+    "type": "reel",
+    "timestamp": 1771845302655
   }
 ]
