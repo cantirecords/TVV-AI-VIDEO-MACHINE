@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
-    "titleNorm": "court clears way for louisiana law requiring ten",
-    "type": "card",
-    "timestamp": 1771809064373
-  },
-  {
     "url": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
     "titleNorm": "minnesota vikings receiver moore dies aged 25",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1771850306484
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
+    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
+    "type": "reel",
+    "timestamp": 1771854609151
   }
 ]
