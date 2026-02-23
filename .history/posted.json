@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "armed man killed after entering secure perimeter of",
-    "type": "card",
-    "timestamp": 1771826382117
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "pakistan launches deadly strikes on afghanistan",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "nc college fires instructor who was running for",
     "type": "card",
     "timestamp": 1771869317274
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/nick-reiner-pleaded-not-guilty-two-murder-counts-rcna260001",
+    "titleNorm": "nick reiner pleads not guilty to two murder",
+    "type": "card",
+    "timestamp": 1771872685346
   }
 ]
