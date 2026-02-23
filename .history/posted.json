@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-connecticut-police-chief-arrested-allegedly-stealing-public-funds",
-    "titleNorm": "former connecticut police chief arrested for allegedly stealing",
-    "type": "card",
-    "timestamp": 1771777136994
-  },
-  {
-    "url": "https://www.foxnews.com/us/nyc-seeks-emergency-snow-shovelers-blizzard-requires-ids-not-needed-vote",
-    "titleNorm": "nyc seeks emergency snow shovelers for blizzard requires",
-    "type": "reel",
-    "timestamp": 1771779551371
-  },
-  {
-    "url": "https://www.nbcnews.com/now/video/armed-man-shot-and-killed-at-mar-a-lago-258096197728",
-    "titleNorm": "armed man shot and killed by secret service",
-    "type": "card",
-    "timestamp": 1771780698464
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-connecticut-police-chief-arrested-alleged-85000-theft-130346437",
     "titleNorm": "exconnecticut police chief arrested over alleged 85000 theft",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "murky outlook for businesses after tariff ruling prompts",
     "type": "card",
     "timestamp": 1771820017459
+  },
+  {
+    "url": "https://www.foxnews.com/us/nc-college-fires-instructor-who-running-office-after-rant-charlie-kirk-trump",
+    "titleNorm": "nc college fires instructor who was running for",
+    "type": "reel",
+    "timestamp": 1771825765494
   }
 ]
