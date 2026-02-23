@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrants-convicted-child-rape-sexual-assault-drug-trafficking",
-    "titleNorm": "ice arrests illegal immigrants convicted of child rape",
-    "type": "card",
-    "timestamp": 1771763211242
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "ski guides in spotlight as investigators probe deadly",
     "type": "card",
     "timestamp": 1771802287740
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/court-clears-louisiana-law-requiring-ten-commandments-classrooms-130353175",
+    "titleNorm": "court clears way for louisiana law requiring ten",
+    "type": "card",
+    "timestamp": 1771809064373
   }
 ]
