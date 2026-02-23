@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
-    "titleNorm": "2 killed 7 wounded in a street shooting",
-    "type": "card",
-    "timestamp": 1771835881565
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
     "type": "card",
     "timestamp": 1771878880671
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-mall-shooting-leaves-2-juveniles-custody-suspected-gunman-still-large",
+    "titleNorm": "minnesota mall shooting leaves 2 juveniles in custody",
+    "type": "reel",
+    "timestamp": 1771881058583
   }
 ]
