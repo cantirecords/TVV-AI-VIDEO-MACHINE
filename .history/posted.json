@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/family-ohio-teacher-clinging-faith-after-ex-american-idol-contestant-husband-charged-her-murder",
-    "titleNorm": "family of ohio teacher clinging to faith after",
-    "type": "card",
-    "timestamp": 1771794973293
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
     "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1771838094523
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
+    "titleNorm": "examerican idol contestant charged in wifes murder previously",
+    "type": "card",
+    "timestamp": 1771839793309
   }
 ]
