@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/zohran-mamdani-declares-nyc-emergency-bans-all-travel-during-blizzard-threatening-city",
-    "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
-    "type": "card",
-    "timestamp": 1771791318913
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-american-idol-contestant-charged-wifes-murder-previously-described-very-talented-church-leader",
     "titleNorm": "examerican idol contestant charged in wifes murder previously",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1771832317724
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
+    "titleNorm": "2 killed 7 wounded in a street shooting",
+    "type": "card",
+    "timestamp": 1771835881565
   }
 ]
