@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/blizzard-warnings-issued-delaware-massachusetts-storm-threatens-east-130363705",
-    "titleNorm": "blizzard warnings issued from delaware to massachusetts as",
-    "type": "reel",
-    "timestamp": 1771875618651
-  },
-  {
-    "url": "https://www.foxnews.com/us/police-release-video-suspect-murder-millionaire-philanthropist-dc-area-assisted-living-home",
-    "titleNorm": "police release video of suspect in murder of",
-    "type": "card",
-    "timestamp": 1771876338899
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/utahs-supreme-court-rejects-appeal-overturn-congressional-map-130359215",
-    "titleNorm": "utahs supreme court rejects appeal to overturn congressional",
-    "type": "card",
-    "timestamp": 1771878880671
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-mall-shooting-leaves-2-juveniles-custody-suspected-gunman-still-large",
     "titleNorm": "minnesota mall shooting leaves 2 juveniles in custody",
     "type": "reel",
@@ -88,5 +70,11 @@
     "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
     "type": "reel",
     "timestamp": 1771918477652
+  },
+  {
+    "url": "https://www.cbsnews.com/news/fedex-sues-trump-administration-for-full-refund-of-tariff-payments/",
+    "titleNorm": "fedex sues trump administration for full refund of",
+    "type": "card",
+    "timestamp": 1771922122078
   }
 ]
