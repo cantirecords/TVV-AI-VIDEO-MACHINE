@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/stephen-millers-staying-power-politics-desk-rcna260328",
-    "titleNorm": "stephen millers staying power from the politics desk",
-    "type": "reel",
-    "timestamp": 1771903271301
-  },
-  {
     "url": "https://www.foxnews.com/us/joe-biden-friends-concern-increased-fatigue-battles-cancer-report",
     "titleNorm": "biden friends voice concern over increased fatigue amid",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "this south texas region flipped for trump now",
     "type": "reel",
     "timestamp": 1771946280732
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-heads-state-union-facing-diminished-voter-trust-economy-rcna259972",
+    "titleNorm": "trump heads into the state of the union",
+    "type": "card",
+    "timestamp": 1771948120208
   }
 ]
