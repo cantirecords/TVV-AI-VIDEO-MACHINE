@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/blizzard-warnings-send-east-coast-scrambling-prepare-heavy-130380265",
-    "titleNorm": "blizzard warnings cascade across east coast as winter",
-    "type": "card",
-    "timestamp": 1771861235452
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/trump-fired-ex-fbi-official-david-sundberg-run-congress-steny-hoyer-rcna260228",
     "titleNorm": "exfbi official fired under trump announces run for",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "stephen millers staying power from the politics desk",
     "type": "reel",
     "timestamp": 1771903271301
+  },
+  {
+    "url": "https://www.foxnews.com/us/joe-biden-friends-concern-increased-fatigue-battles-cancer-report",
+    "titleNorm": "biden friends voice concern over increased fatigue amid",
+    "type": "card",
+    "timestamp": 1771906167607
   }
 ]
