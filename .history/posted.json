@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
-    "titleNorm": "2 killed 7 wounded in a street shooting",
-    "type": "reel",
-    "timestamp": 1771888384714
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-futures-fall-asian-markets-higher-after-supreme-130398434",
     "titleNorm": "us futures slip world markets are mixed after",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "tariffs pose huge uncertainty after supreme court ruling",
     "type": "card",
     "timestamp": 1771929551420
+  },
+  {
+    "url": "https://www.cbsnews.com/news/how-to-watch-trump-state-of-the-union-2026/",
+    "titleNorm": "trump039s 2026 state of the union is tonight",
+    "type": "reel",
+    "timestamp": 1771931668195
   }
 ]
