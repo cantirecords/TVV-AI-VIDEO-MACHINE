@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nc-college-fires-instructor-who-running-office-after-rant-charlie-kirk-trump",
-    "titleNorm": "nc college fires instructor who was running for",
-    "type": "card",
-    "timestamp": 1771869317274
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/nick-reiner-pleaded-not-guilty-two-murder-counts-rcna260001",
     "titleNorm": "nick reiner pleads not guilty to two murder",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "former american idol contestant charged with murder staging",
     "type": "card",
     "timestamp": 1771912387363
+  },
+  {
+    "url": "https://www.foxnews.com/us/americans-stranded-puerto-vallarta-describe-city-turning-war-zone-more-top-headlines",
+    "titleNorm": "americans stranded in puerto vallarta describe city turning",
+    "type": "card",
+    "timestamp": 1771915751330
   }
 ]
