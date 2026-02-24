@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/americans-stranded-puerto-vallarta-describe-city-turning-war-zone-more-top-headlines",
-    "titleNorm": "americans stranded in puerto vallarta describe city turning",
-    "type": "card",
-    "timestamp": 1771915751330
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
     "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "narcotics expert reveals slain drug kingpin el menchos",
     "type": "card",
     "timestamp": 1771958917549
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "armed man killed after entering secure perimeter of",
+    "type": "reel",
+    "timestamp": 1771961555513
   }
 ]
