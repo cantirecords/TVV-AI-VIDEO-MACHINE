@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
-    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
-    "type": "reel",
-    "timestamp": 1771854609151
-  },
-  {
-    "url": "https://www.foxnews.com/us/americans-stranded-puerto-vallarta-describe-city-turning-war-zone-more-top-headlines",
-    "titleNorm": "americans stranded in puerto vallarta describe city turning",
-    "type": "card",
-    "timestamp": 1771855476681
-  },
-  {
-    "url": "https://www.foxnews.com/us/fbi-investigates-criminal-damage-federal-ice-warehouse-facility-arizona",
-    "titleNorm": "propane tank hurled into arizona ice facility in",
-    "type": "reel",
-    "timestamp": 1771859688625
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/blizzard-warnings-send-east-coast-scrambling-prepare-heavy-130380265",
     "titleNorm": "blizzard warnings cascade across east coast as winter",
     "type": "card",
@@ -100,5 +82,11 @@
     "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
     "type": "card",
     "timestamp": 1771895395519
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/stephen-millers-staying-power-politics-desk-rcna260328",
+    "titleNorm": "stephen millers staying power from the politics desk",
+    "type": "reel",
+    "timestamp": 1771903271301
   }
 ]
