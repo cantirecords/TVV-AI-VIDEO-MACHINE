@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
-    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
-    "type": "reel",
-    "timestamp": 1771918477652
-  },
-  {
     "url": "https://www.cbsnews.com/news/fedex-sues-trump-administration-for-full-refund-of-tariff-payments/",
     "titleNorm": "fedex sues trump administration for full refund of",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "armed man killed after entering secure perimeter of",
     "type": "reel",
     "timestamp": 1771961555513
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/father-georgia-school-shooting-suspect-described-sons-aggressive-behav-rcna260438",
+    "titleNorm": "father of georgia school shooting suspect described sons",
+    "type": "card",
+    "timestamp": 1771962238129
   }
 ]
