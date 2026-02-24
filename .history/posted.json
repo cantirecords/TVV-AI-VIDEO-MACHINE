@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-court-clears-way-ten-commandments-displayed-louisiana-public-school-classrooms",
-    "titleNorm": "federal court clears way for ten commandments to",
-    "type": "card",
-    "timestamp": 1771846442821
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1771850306484
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
     "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "us futures slip world markets are mixed after",
     "type": "card",
     "timestamp": 1771889238449
+  },
+  {
+    "url": "https://www.foxnews.com/us/zohran-mamdani-declares-nyc-emergency-bans-all-travel-during-blizzard-threatening-city",
+    "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
+    "type": "card",
+    "timestamp": 1771895395519
   }
 ]
