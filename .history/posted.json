@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/zohran-mamdani-declares-nyc-emergency-bans-all-travel-during-blizzard-threatening-city",
-    "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
-    "type": "card",
-    "timestamp": 1771895395519
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/stephen-millers-staying-power-politics-desk-rcna260328",
     "titleNorm": "stephen millers staying power from the politics desk",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "minnesota mall shooting leaves 2 juveniles in custody",
     "type": "card",
     "timestamp": 1771936785362
+  },
+  {
+    "url": "https://www.cbsnews.com/news/el-mencho-romantic-partner-deadly-capture-cartel-leader-mexico/",
+    "titleNorm": "romantic partner helped lead to deadly capture of",
+    "type": "reel",
+    "timestamp": 1771941036000
   }
 ]
