@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-futures-fall-asian-markets-higher-after-supreme-130398434",
-    "titleNorm": "us futures slip world markets are mixed after",
-    "type": "card",
-    "timestamp": 1771889238449
-  },
-  {
     "url": "https://www.foxnews.com/us/zohran-mamdani-declares-nyc-emergency-bans-all-travel-during-blizzard-threatening-city",
     "titleNorm": "zohran mamdani declares nyc emergency bans all travel",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "trump039s 2026 state of the union is tonight",
     "type": "reel",
     "timestamp": 1771931668195
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1771932827009
   }
 ]
