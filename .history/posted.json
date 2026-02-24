@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/death-toll-rises-after-mexican-drug-cartel-leader-killed-us-backed-operation",
-    "titleNorm": "death toll rises after mexican drug cartel leader",
-    "type": "reel",
-    "timestamp": 1771912265198
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-american-idol-contestant-charged-murder-staging-crime-130370677",
     "titleNorm": "former american idol contestant charged with murder staging",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "actor robert carradine famous for lizzie mcguire and",
     "type": "reel",
     "timestamp": 1771954561008
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1771955501862
   }
 ]
