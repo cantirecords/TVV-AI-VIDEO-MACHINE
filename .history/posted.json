@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-agrees-hear-oil-gas-companies-block-130411487",
-    "titleNorm": "supreme court agrees to hear from oil gas",
-    "type": "reel",
-    "timestamp": 1771924487179
-  },
-  {
     "url": "https://www.cbsnews.com/news/supreme-court-climate-change-lawsuits-state-court-energy-companies/",
     "titleNorm": "supreme court to weigh energy companies039 bid to",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1771967048638
+  },
+  {
+    "url": "https://www.foxnews.com/us/savannah-guthrie-offers-1-million-family-reward-for-recovery-of-nancy-guthrie",
+    "titleNorm": "savannah guthrie offers 1 million family reward for",
+    "type": "card",
+    "timestamp": 1771968329134
   }
 ]
