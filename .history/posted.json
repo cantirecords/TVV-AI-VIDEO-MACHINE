@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1771882962549
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/house-democrats-bringing-jeffrey-epstein-survivors-trumps-state-union-rcna260285",
-    "titleNorm": "house democrats bringing jeffrey epstein survivors to trumps",
-    "type": "card",
-    "timestamp": 1771885868100
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-killed-7-wounded-street-shooting-after-fight-130366874",
     "titleNorm": "2 killed 7 wounded in a street shooting",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "supreme court to weigh energy companies039 bid to",
     "type": "card",
     "timestamp": 1771926132523
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-tariffs-15-percent-150-days-uncertainty-businesses-trade/",
+    "titleNorm": "tariffs pose huge uncertainty after supreme court ruling",
+    "type": "card",
+    "timestamp": 1771929551420
   }
 ]
