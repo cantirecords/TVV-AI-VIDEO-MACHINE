@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-fired-ex-fbi-official-david-sundberg-run-congress-steny-hoyer-rcna260228",
-    "titleNorm": "exfbi official fired under trump announces run for",
-    "type": "card",
-    "timestamp": 1771864997769
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-approves-disaster-assistance-dc-sewage-spill-potomac-130374578",
-    "titleNorm": "trump approves disaster assistance to dc to help",
-    "type": "reel",
-    "timestamp": 1771868393938
-  },
-  {
     "url": "https://www.foxnews.com/us/nc-college-fires-instructor-who-running-office-after-rant-charlie-kirk-trump",
     "titleNorm": "nc college fires instructor who was running for",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "biden friends voice concern over increased fatigue amid",
     "type": "card",
     "timestamp": 1771906167607
+  },
+  {
+    "url": "https://www.foxnews.com/us/death-toll-rises-after-mexican-drug-cartel-leader-killed-us-backed-operation",
+    "titleNorm": "death toll rises after mexican drug cartel leader",
+    "type": "reel",
+    "timestamp": 1771912265198
   }
 ]
