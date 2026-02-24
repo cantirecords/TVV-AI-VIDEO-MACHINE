@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-american-idol-contestant-charged-murder-staging-crime-130370677",
-    "titleNorm": "former american idol contestant charged with murder staging",
-    "type": "card",
-    "timestamp": 1771912387363
-  },
-  {
     "url": "https://www.foxnews.com/us/americans-stranded-puerto-vallarta-describe-city-turning-war-zone-more-top-headlines",
     "titleNorm": "americans stranded in puerto vallarta describe city turning",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1771955501862
+  },
+  {
+    "url": "https://www.foxnews.com/us/narcotics-expert-reveals-slain-drug-kingpin-el-menchos-deadly-impact-americans",
+    "titleNorm": "narcotics expert reveals slain drug kingpin el menchos",
+    "type": "card",
+    "timestamp": 1771958917549
   }
 ]
