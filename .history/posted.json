@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/joe-biden-friends-concern-increased-fatigue-battles-cancer-report",
-    "titleNorm": "biden friends voice concern over increased fatigue amid",
-    "type": "card",
-    "timestamp": 1771906167607
-  },
-  {
     "url": "https://www.foxnews.com/us/death-toll-rises-after-mexican-drug-cartel-leader-killed-us-backed-operation",
     "titleNorm": "death toll rises after mexican drug cartel leader",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "trump heads into the state of the union",
     "type": "card",
     "timestamp": 1771948120208
+  },
+  {
+    "url": "https://www.foxnews.com/us/career-criminal-oscar-fowler-custody-state-charges-after-biden-clemency-commutation",
+    "titleNorm": "career criminal oscar fowler back in custody on",
+    "type": "card",
+    "timestamp": 1771952140463
   }
 ]
