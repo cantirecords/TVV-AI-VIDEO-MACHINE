@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/supreme-court-climate-change-lawsuits-state-court-energy-companies/",
-    "titleNorm": "supreme court to weigh energy companies039 bid to",
-    "type": "card",
-    "timestamp": 1771926132523
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-tariffs-15-percent-150-days-uncertainty-businesses-trade/",
     "titleNorm": "tariffs pose huge uncertainty after supreme court ruling",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "savannah guthrie offers 1 million family reward for",
     "type": "card",
     "timestamp": 1771968329134
+  },
+  {
+    "url": "https://www.foxnews.com/us/tyler-robinson-judge-set-rule-whether-prosecution-team-should-disqualified-charlie-kirk-case",
+    "titleNorm": "judge dismisses defense push to remove prosecutors from",
+    "type": "card",
+    "timestamp": 1771971818936
   }
 ]
