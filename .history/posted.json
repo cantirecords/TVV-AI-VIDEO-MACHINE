@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/nick-reiner-pleaded-not-guilty-two-murder-counts-rcna260001",
-    "titleNorm": "nick reiner pleads not guilty to two murder",
-    "type": "card",
-    "timestamp": 1771872685346
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/blizzard-warnings-issued-delaware-massachusetts-storm-threatens-east-130363705",
     "titleNorm": "blizzard warnings issued from delaware to massachusetts as",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "americans stranded in puerto vallarta describe city turning",
     "type": "card",
     "timestamp": 1771915751330
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ruling-trumps-tariffs-creates-new-uncertainty-us-trade-130377447",
+    "titleNorm": "ruling against trumps tariffs creates new uncertainty in",
+    "type": "reel",
+    "timestamp": 1771918477652
   }
 ]
