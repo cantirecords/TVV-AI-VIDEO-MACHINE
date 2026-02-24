@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/how-to-watch-trump-state-of-the-union-2026/",
-    "titleNorm": "trump039s 2026 state of the union is tonight",
-    "type": "reel",
-    "timestamp": 1771931668195
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "pregnant jane doe killed in 1980 identified using",
     "type": "reel",
     "timestamp": 1771974077897
+  },
+  {
+    "url": "https://www.cbsnews.com/news/warner-bros-discovery-paramount-skydance-netflix-merger/",
+    "titleNorm": "paramount skydance raises bid for warner bros discover",
+    "type": "card",
+    "timestamp": 1771975369909
   }
 ]
