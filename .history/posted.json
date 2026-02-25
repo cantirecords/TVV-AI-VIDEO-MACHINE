@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/el-mencho-romantic-partner-deadly-capture-cartel-leader-mexico/",
-    "titleNorm": "romantic partner helped lead to deadly capture of",
-    "type": "reel",
-    "timestamp": 1771941036000
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/stephen-miller-trump-white-house-immigration-woke-colleges-dc-rcna259413",
-    "titleNorm": "trumps hammer stephen millers power extends far beyond",
-    "type": "card",
-    "timestamp": 1771941889354
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/texas-trump-vote-immigration-raids-rio-grande-valley-workers-rcna259790",
-    "titleNorm": "this south texas region flipped for trump now",
-    "type": "reel",
-    "timestamp": 1771946280732
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-heads-state-union-facing-diminished-voter-trust-economy-rcna259972",
     "titleNorm": "trump heads into the state of the union",
     "type": "card",
@@ -100,5 +82,11 @@
     "titleNorm": "savannah guthrie announces 1 million reward for any",
     "type": "card",
     "timestamp": 1771982122615
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1771989755094
   }
 ]
