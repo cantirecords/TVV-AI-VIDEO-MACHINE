@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tyler-robinson-judge-set-rule-whether-prosecution-team-should-disqualified-charlie-kirk-case",
-    "titleNorm": "judge dismisses defense push to remove prosecutors from",
-    "type": "card",
-    "timestamp": 1771971818936
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/pregnant-jane-doe-killed-1980-identified-using-dna-rcna260402",
     "titleNorm": "pregnant jane doe killed in 1980 identified using",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "car barrels into crowd outside california bar gunfire",
     "type": "card",
     "timestamp": 1772012727914
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-staged-crime-scene-alleged-murder-wife-court-docs",
+    "titleNorm": "examerican idol contestant staged crime scene in alleged",
+    "type": "card",
+    "timestamp": 1772016089226
   }
 ]
