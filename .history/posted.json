@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/car-barrels-crowd-outside-california-bar-gunfire-erupts-chaotic-scene-caught-video",
-    "titleNorm": "car barrels into crowd outside california bar gunfire",
-    "type": "card",
-    "timestamp": 1772012727914
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-american-idol-contestant-staged-crime-scene-alleged-murder-wife-court-docs",
     "titleNorm": "examerican idol contestant staged crime scene in alleged",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "cuba says four killed after us boat violates",
     "type": "card",
     "timestamp": 1772054875738
+  },
+  {
+    "url": "https://www.foxnews.com/us/american-released-from-indonesia-jail-after-serving-11-years-suitcase-murder-us-case-looms",
+    "titleNorm": "american released from indonesia jail after serving 11",
+    "type": "card",
+    "timestamp": 1772058156655
   }
 ]
