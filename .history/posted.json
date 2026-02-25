@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/career-criminal-oscar-fowler-custody-state-charges-after-biden-clemency-commutation",
-    "titleNorm": "career criminal oscar fowler back in custody on",
-    "type": "card",
-    "timestamp": 1771952140463
-  },
-  {
-    "url": "https://www.nbcnews.com/news/obituaries/actor-robert-carradine-lizzie-mcguire-revenge-nerds-dies-71-rcna260377",
-    "titleNorm": "actor robert carradine famous for lizzie mcguire and",
-    "type": "reel",
-    "timestamp": 1771954561008
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "trumpnominated judge blocks abbotts dei ban in 3",
     "type": "card",
     "timestamp": 1771992915506
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/state-of-union-fact-check-trump-speech-2026-rcna259900",
+    "titleNorm": "factchecking trumps 2026 state of the union address",
+    "type": "reel",
+    "timestamp": 1771998292126
   }
 ]
