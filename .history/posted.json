@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nypd-releases-photos-snowball-wielding-suspects-facial-hair-after-mamdani-claims-attackers-were-kids",
-    "titleNorm": "nypd releases photos of snowballwielding suspects with facial",
-    "type": "reel",
-    "timestamp": 1772011056022
-  },
-  {
     "url": "https://www.foxnews.com/us/car-barrels-crowd-outside-california-bar-gunfire-erupts-chaotic-scene-caught-video",
     "titleNorm": "car barrels into crowd outside california bar gunfire",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "trumps pick to lead new justice department unit",
     "type": "reel",
     "timestamp": 1772053381533
+  },
+  {
+    "url": "https://www.nbcnews.com/world/latin-america/cuba-four-killed-us-boat-violates-territorial-waters-rcna260704",
+    "titleNorm": "cuba says four killed after us boat violates",
+    "type": "card",
+    "timestamp": 1772054875738
   }
 ]
