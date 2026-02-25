@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/savannah-guthrie-offers-1-million-family-reward-for-recovery-of-nancy-guthrie",
-    "titleNorm": "savannah guthrie offers 1 million family reward for",
-    "type": "card",
-    "timestamp": 1771968329134
-  },
-  {
     "url": "https://www.foxnews.com/us/tyler-robinson-judge-set-rule-whether-prosecution-team-should-disqualified-charlie-kirk-case",
     "titleNorm": "judge dismisses defense push to remove prosecutors from",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "nypd releases photos of snowballwielding suspects with facial",
     "type": "reel",
     "timestamp": 1772011056022
+  },
+  {
+    "url": "https://www.foxnews.com/us/car-barrels-crowd-outside-california-bar-gunfire-erupts-chaotic-scene-caught-video",
+    "titleNorm": "car barrels into crowd outside california bar gunfire",
+    "type": "card",
+    "timestamp": 1772012727914
   }
 ]
