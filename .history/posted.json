@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-nominated-judge-blocks-abbotts-dei-ban-3-districts",
-    "titleNorm": "trumpnominated judge blocks abbotts dei ban in 3",
-    "type": "card",
-    "timestamp": 1771992915506
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/state-of-union-fact-check-trump-speech-2026-rcna259900",
     "titleNorm": "factchecking trumps 2026 state of the union address",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "tracking trumps 2026 state of the union address",
     "type": "reel",
     "timestamp": 1772033626371
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/new-hampshire-resident-charged-shooting-canadian-border-130469459",
+    "titleNorm": "new hampshire resident charged in shooting at canadian",
+    "type": "card",
+    "timestamp": 1772037020750
   }
 ]
