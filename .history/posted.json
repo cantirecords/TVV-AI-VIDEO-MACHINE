@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/la-fire-chief-sues-city-firing-after-palisades-130462020",
-    "titleNorm": "exla fire chief sues the city over her",
-    "type": "card",
-    "timestamp": 1772008652911
-  },
-  {
     "url": "https://www.foxnews.com/us/nypd-releases-photos-snowball-wielding-suspects-facial-hair-after-mamdani-claims-attackers-were-kids",
     "titleNorm": "nypd releases photos of snowballwielding suspects with facial",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "judge rules trump policy for thirdcountry deportations is",
     "type": "card",
     "timestamp": 1772051157830
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-pick-lead-new-justice-department-unit-scrutinized-130500560",
+    "titleNorm": "trumps pick to lead new justice department unit",
+    "type": "reel",
+    "timestamp": 1772053381533
   }
 ]
