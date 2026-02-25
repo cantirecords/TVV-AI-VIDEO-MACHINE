@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/washington-state-stabbing-rampage-leaves-5-dead-including-suspect-shot-deputies",
-    "titleNorm": "washington state stabbing rampage leaves 5 dead including",
-    "type": "reel",
-    "timestamp": 1772018154263
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-administration-sues-ucla-allegedly-fostering-hostile-workplace-jewish-employees",
     "titleNorm": "trump admin sues university of california for allegedly",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "democrats are spoiling for a fight in texas",
     "type": "reel",
     "timestamp": 1772060500667
+  },
+  {
+    "url": "https://www.nbcnews.com/business/personal-finance/trump-accounts-what-to-know-rcna260605",
+    "titleNorm": "what you need to know about trump accounts",
+    "type": "card",
+    "timestamp": 1772061641193
   }
 ]
