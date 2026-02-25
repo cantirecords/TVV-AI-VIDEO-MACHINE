@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/father-georgia-school-shooting-suspect-described-sons-aggressive-behav-rcna260438",
-    "titleNorm": "father of georgia school shooting suspect described sons",
-    "type": "card",
-    "timestamp": 1771962238129
-  },
-  {
     "url": "https://www.nbcnews.com/health/health-news/recent-studies-challenge-kennedys-claims-vaccines-tylenol-antidepressa-rcna259464",
     "titleNorm": "recent studies challenge rfk jrs claims about vaccines",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump avoids tariffs confrontation with supreme court justices",
     "type": "reel",
     "timestamp": 1772004960786
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-awards-state-of-the-union-purple-heart-medal-of-honor-medal-of-freedom-legion-of-merit/",
+    "titleNorm": "here are all the awards trump announced during",
+    "type": "card",
+    "timestamp": 1772005528805
   }
 ]
