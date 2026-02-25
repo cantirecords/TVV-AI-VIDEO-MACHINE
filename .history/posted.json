@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-staged-crime-scene-alleged-murder-wife-court-docs",
-    "titleNorm": "examerican idol contestant staged crime scene in alleged",
-    "type": "card",
-    "timestamp": 1772016089226
-  },
-  {
     "url": "https://www.foxnews.com/us/washington-state-stabbing-rampage-leaves-5-dead-including-suspect-shot-deputies",
     "titleNorm": "washington state stabbing rampage leaves 5 dead including",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "american released from indonesia jail after serving 11",
     "type": "card",
     "timestamp": 1772058156655
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/democrats-are-spoiling-fight-texas-politics-desk-rcna260699",
+    "titleNorm": "democrats are spoiling for a fight in texas",
+    "type": "reel",
+    "timestamp": 1772060500667
   }
 ]
