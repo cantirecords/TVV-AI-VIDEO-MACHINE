@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/recent-studies-challenge-kennedys-claims-vaccines-tylenol-antidepressa-rcna259464",
-    "titleNorm": "recent studies challenge rfk jrs claims about vaccines",
-    "type": "card",
-    "timestamp": 1771964667328
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "here are all the awards trump announced during",
     "type": "card",
     "timestamp": 1772005528805
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/la-fire-chief-sues-city-firing-after-palisades-130462020",
+    "titleNorm": "exla fire chief sues the city over her",
+    "type": "card",
+    "timestamp": 1772008652911
   }
 ]
