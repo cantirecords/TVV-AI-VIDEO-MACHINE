@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-heads-state-union-facing-diminished-voter-trust-economy-rcna259972",
-    "titleNorm": "trump heads into the state of the union",
-    "type": "card",
-    "timestamp": 1771948120208
-  },
-  {
     "url": "https://www.foxnews.com/us/career-criminal-oscar-fowler-custody-state-charges-after-biden-clemency-commutation",
     "titleNorm": "career criminal oscar fowler back in custody on",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1771989755094
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-nominated-judge-blocks-abbotts-dei-ban-3-districts",
+    "titleNorm": "trumpnominated judge blocks abbotts dei ban in 3",
+    "type": "card",
+    "timestamp": 1771992915506
   }
 ]
