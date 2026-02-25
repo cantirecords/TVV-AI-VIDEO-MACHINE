@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/narcotics-expert-reveals-slain-drug-kingpin-el-menchos-deadly-impact-americans",
-    "titleNorm": "narcotics expert reveals slain drug kingpin el menchos",
-    "type": "card",
-    "timestamp": 1771958917549
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "armed man killed after entering secure perimeter of",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "three takeaways from trumps state of the union",
     "type": "card",
     "timestamp": 1771998992061
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1772002306062
   }
 ]
