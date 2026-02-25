@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/warner-bros-discovery-paramount-skydance-netflix-merger/",
-    "titleNorm": "paramount skydance raises bid for warner bros discover",
-    "type": "card",
-    "timestamp": 1771975369909
-  },
-  {
     "url": "https://www.nbcnews.com/nightly-news/video/savannah-guthrie-announces-1-million-reward-for-any-information-leading-to-her-mother-258231365538",
     "titleNorm": "savannah guthrie announces 1 million reward for any",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "washington state stabbing rampage leaves 5 dead including",
     "type": "reel",
     "timestamp": 1772018154263
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-administration-sues-ucla-allegedly-fostering-hostile-workplace-jewish-employees",
+    "titleNorm": "trump admin sues university of california for allegedly",
+    "type": "card",
+    "timestamp": 1772020411440
   }
 ]
