@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1771989755094
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-nominated-judge-blocks-abbotts-dei-ban-3-districts",
     "titleNorm": "trumpnominated judge blocks abbotts dei ban in 3",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "us futures rise as investors turn from trumps",
     "type": "card",
     "timestamp": 1772028219440
+  },
+  {
+    "url": "https://www.nbcnews.com/data-graphics/live-topics-president-trump-2026-state-of-the-union-rcna259423",
+    "titleNorm": "tracking trumps 2026 state of the union address",
+    "type": "reel",
+    "timestamp": 1772033626371
   }
 ]
