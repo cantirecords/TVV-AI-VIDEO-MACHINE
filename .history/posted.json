@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1772098747862
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/minneapolis-woman-ilhan-omar-brought-state-union-needed-medical-care-a-rcna260752",
     "titleNorm": "minneapolis woman who ilhan omar took to state",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "murder suspect in baltimore robbery spree was on",
     "type": "card",
     "timestamp": 1772141104594
+  },
+  {
+    "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
+    "titleNorm": "kilmar abrego garcia back in court in bid",
+    "type": "card",
+    "timestamp": 1772144581995
   }
 ]
