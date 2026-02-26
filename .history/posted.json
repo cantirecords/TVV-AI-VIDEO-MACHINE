@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/data-graphics/live-topics-president-trump-2026-state-of-the-union-rcna259423",
-    "titleNorm": "tracking trumps 2026 state of the union address",
-    "type": "reel",
-    "timestamp": 1772033626371
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/new-hampshire-resident-charged-shooting-canadian-border-130469459",
     "titleNorm": "new hampshire resident charged in shooting at canadian",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "trump celebrates turnaround for the ages in state",
     "type": "reel",
     "timestamp": 1772075866850
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-pennsylvania-officer-accused-child-rape-fatally-shot-130506838",
+    "titleNorm": "former officer accused of child rape fatally shot",
+    "type": "card",
+    "timestamp": 1772078934638
   }
 ]
