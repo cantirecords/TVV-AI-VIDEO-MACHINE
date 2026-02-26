@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/justice-department/kash-patel-fires-fbi-agents-tied-mar-lago-search-trump-documents-rcna260743",
-    "titleNorm": "kash patel fires at least six fbi agents",
-    "type": "reel",
-    "timestamp": 1772084436107
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/crews-florida-battle-25000-acre-wildfire-alligator-alcatraz-130503705",
-    "titleNorm": "crews in florida battle 25000acre wildfire near alligator",
-    "type": "card",
-    "timestamp": 1772085118311
-  },
-  {
     "url": "https://www.cbsnews.com/news/at-least-10-fbi-staffers-who-worked-on-mar-a-lago-documents-case-are-fired-sources-say/",
     "titleNorm": "at least 10 fbi staffers who worked on",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1772127522078
+  },
+  {
+    "url": "https://www.foxnews.com/us/louisiana-teacher-arrested-alleged-inappropriate-behavior-juvenile",
+    "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
+    "type": "card",
+    "timestamp": 1772128346826
   }
 ]
