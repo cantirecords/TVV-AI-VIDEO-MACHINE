@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/jd-vance/vance-trump-war-fraud-suspending-medicaid-payments-minnesota-rcna260655",
-    "titleNorm": "vance launches into trumps war on fraud by",
-    "type": "reel",
-    "timestamp": 1772091290081
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/police-video-shows-vince-mcmahons-100-mph-car-130506064",
     "titleNorm": "police video shows vince mcmahons 100 mph car",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "exair force pilot arrested for allegedly training chinese",
     "type": "reel",
     "timestamp": 1772133659924
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ford-vehicle-recall-software-issue-february-2026/",
+    "titleNorm": "ford recalls 44 million vehicles over faulty software",
+    "type": "card",
+    "timestamp": 1772134659032
   }
 ]
