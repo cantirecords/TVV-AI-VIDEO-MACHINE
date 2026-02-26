@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-administration-sues-ucla-allegedly-fostering-hostile-workplace-jewish-employees",
-    "titleNorm": "trump admin sues university of california for allegedly",
-    "type": "card",
-    "timestamp": 1772020411440
-  },
-  {
-    "url": "https://www.foxnews.com/us/wild-video-shows-masked-ruffians-attacking-police-cruiser-officer-inside-during-illegal-street-takeover",
-    "titleNorm": "wild video shows masked ruffians attacking police cruiser",
-    "type": "card",
-    "timestamp": 1772023211494
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-sues-new-jersey-restrictions-immigration-arrests-130454965",
     "titleNorm": "trump administration sues new jersey over restrictions on",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "what you need to know about trump accounts",
     "type": "card",
     "timestamp": 1772061641193
+  },
+  {
+    "url": "https://www.cbsnews.com/news/cuba-florida-speedboat-shooting/",
+    "titleNorm": "cuba says it killed 4 people on boat",
+    "type": "card",
+    "timestamp": 1772068103690
   }
 ]
