@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-celebrates-turnaround-ages-state-union-address-more-top-headlines",
-    "titleNorm": "trump celebrates turnaround for the ages in state",
-    "type": "reel",
-    "timestamp": 1772075866850
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-pennsylvania-officer-accused-child-rape-fatally-shot-130506838",
     "titleNorm": "former officer accused of child rape fatally shot",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "trumps pick to lead new justice department unit",
     "type": "reel",
     "timestamp": 1772118869555
+  },
+  {
+    "url": "https://www.foxnews.com/us/iran-vows-target-us-troops-trump-threatens-repeat-strike-more-top-headlines",
+    "titleNorm": "iran vows to target us troops as trump",
+    "type": "card",
+    "timestamp": 1772120629081
   }
 ]
