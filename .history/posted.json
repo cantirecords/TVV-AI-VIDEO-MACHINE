@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/at-least-10-fbi-staffers-who-worked-on-mar-a-lago-documents-case-are-fired-sources-say/",
-    "titleNorm": "at least 10 fbi staffers who worked on",
-    "type": "card",
-    "timestamp": 1772088505245
-  },
-  {
     "url": "https://www.nbcnews.com/politics/jd-vance/vance-trump-war-fraud-suspending-medicaid-payments-minnesota-rcna260655",
     "titleNorm": "vance launches into trumps war on fraud by",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "former officer accused of child rape fatally shot",
     "type": "card",
     "timestamp": 1772131114371
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-air-force-pilot-arrested-allegedly-training-chinese-military-pilots-without-authorization",
+    "titleNorm": "exair force pilot arrested for allegedly training chinese",
+    "type": "reel",
+    "timestamp": 1772133659924
   }
 ]
