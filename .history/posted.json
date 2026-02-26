@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-sues-new-jersey-restrictions-immigration-arrests-130454965",
-    "titleNorm": "trump administration sues new jersey over restrictions on",
-    "type": "reel",
-    "timestamp": 1772027432039
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-futures-rise-investors-turn-trumps-state-union-130478256",
-    "titleNorm": "us futures rise as investors turn from trumps",
-    "type": "card",
-    "timestamp": 1772028219440
-  },
-  {
     "url": "https://www.nbcnews.com/data-graphics/live-topics-president-trump-2026-state-of-the-union-rcna259423",
     "titleNorm": "tracking trumps 2026 state of the union address",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "cuba says it killed 4 people on boat",
     "type": "card",
     "timestamp": 1772068103690
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-celebrates-turnaround-ages-state-union-address-more-top-headlines",
+    "titleNorm": "trump celebrates turnaround for the ages in state",
+    "type": "reel",
+    "timestamp": 1772075866850
   }
 ]
