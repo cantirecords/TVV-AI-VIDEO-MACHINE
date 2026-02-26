@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/democrats-are-spoiling-fight-texas-politics-desk-rcna260699",
-    "titleNorm": "democrats are spoiling for a fight in texas",
-    "type": "reel",
-    "timestamp": 1772060500667
-  },
-  {
     "url": "https://www.nbcnews.com/business/personal-finance/trump-accounts-what-to-know-rcna260605",
     "titleNorm": "what you need to know about trump accounts",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "minneapolis woman who ilhan omar took to state",
     "type": "card",
     "timestamp": 1772102169576
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/women-arent-less-team-usa-womens-hockey-players-respond-trumps-joke-rcna260725",
+    "titleNorm": "women arent less than team usa womens hockey",
+    "type": "reel",
+    "timestamp": 1772104450014
   }
 ]
