@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/minneapolis-woman-ilhan-omar-brought-state-union-needed-medical-care-a-rcna260752",
-    "titleNorm": "minneapolis woman who ilhan omar took to state",
-    "type": "card",
-    "timestamp": 1772102169576
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/women-arent-less-team-usa-womens-hockey-players-respond-trumps-joke-rcna260725",
     "titleNorm": "women arent less than team usa womens hockey",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "kilmar abrego garcia back in court in bid",
     "type": "card",
     "timestamp": 1772144581995
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/penguin-press-founder-ann-godoff-powerhouse-editor-bestsellers-130538769",
+    "titleNorm": "penguin press founder ann godoff powerhouse editor of",
+    "type": "reel",
+    "timestamp": 1772146923007
   }
 ]
