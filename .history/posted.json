@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/louisiana-teacher-arrested-alleged-inappropriate-behavior-juvenile",
-    "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
-    "type": "reel",
-    "timestamp": 1772183255298
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-us-iran-nuclear-deal-to-avert-war-prospects-for-geneva-talks/",
     "titleNorm": "can the us and iran reach a nuclear",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "utah mom in upscale ski community killed husband",
     "type": "reel",
     "timestamp": 1772225756091
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "epstein tried to buy a palace in morocco",
+    "type": "card",
+    "timestamp": 1772227186916
   }
 ]
