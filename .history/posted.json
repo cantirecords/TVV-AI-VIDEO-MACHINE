@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-air-force-pilot-arrested-allegedly-training-chinese-military-pilots-without-authorization",
-    "titleNorm": "exair force pilot arrested for allegedly training chinese",
-    "type": "reel",
-    "timestamp": 1772133659924
-  },
-  {
     "url": "https://www.cbsnews.com/news/ford-vehicle-recall-software-issue-february-2026/",
     "titleNorm": "ford recalls 44 million vehicles over faulty software",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "former officer accused of child rape fatally shot",
     "type": "card",
     "timestamp": 1772174404568
+  },
+  {
+    "url": "https://www.foxnews.com/us/utah-mom-upscale-ski-community-killed-husband-fund-romance-lavish-lifestyle-da-says",
+    "titleNorm": "utah mom in upscale ski community killed husband",
+    "type": "reel",
+    "timestamp": 1772177372311
   }
 ]
