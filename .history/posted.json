@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/family-member-american-killed-cuban-forces-boat-shootout-diabolical-mission",
-    "titleNorm": "family member of american killed by cuban forces",
-    "type": "reel",
-    "timestamp": 1772162159806
-  },
-  {
     "url": "https://www.cbsnews.com/news/about-a-dozen-fbi-staff-who-worked-on-trump-documents-case-fired-over-two-days-sources-say/",
     "titleNorm": "about a dozen fbi staff who worked on",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "newark mayor says ice operation caused multivehicle crash",
     "type": "reel",
     "timestamp": 1772204810558
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/canada-warns-usmca-face-annual-reviews-fueling-uncertainty-130546471",
+    "titleNorm": "canada warns usmca could face annual reviews fueling",
+    "type": "card",
+    "timestamp": 1772206252129
   }
 ]
