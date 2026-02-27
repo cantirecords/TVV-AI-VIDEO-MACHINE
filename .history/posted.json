@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1772105617178
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/sit-stand-trumps-challenge-democrats-key-moment-state-130507304",
-    "titleNorm": "to sit or stand trumps challenge to democrats",
-    "type": "card",
-    "timestamp": 1772109581919
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "newark mayor says ice operation caused multivehicle crash",
     "type": "card",
     "timestamp": 1772148101519
+  },
+  {
+    "url": "https://www.foxnews.com/us/cellmate-detained-after-inmate-convicted-sexual-assault-found-dead-california-prison",
+    "titleNorm": "cellmate detained after inmate convicted of sexual assault",
+    "type": "card",
+    "timestamp": 1772154464276
   }
 ]
