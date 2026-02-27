@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "epstein tried to buy a palace in morocco",
-    "type": "card",
-    "timestamp": 1772181043745
-  },
-  {
     "url": "https://www.foxnews.com/us/louisiana-teacher-arrested-alleged-inappropriate-behavior-juvenile",
     "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "penguin press founder ann godoff powerhouse editor of",
     "type": "card",
     "timestamp": 1772223559085
+  },
+  {
+    "url": "https://www.foxnews.com/us/utah-mom-upscale-ski-community-killed-husband-fund-romance-lavish-lifestyle-da-says",
+    "titleNorm": "utah mom in upscale ski community killed husband",
+    "type": "reel",
+    "timestamp": 1772225756091
   }
 ]
