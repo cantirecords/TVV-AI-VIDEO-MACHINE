@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-pennsylvania-officer-accused-child-rape-fatally-shot-130506838",
-    "titleNorm": "former officer accused of child rape fatally shot",
-    "type": "card",
-    "timestamp": 1772174404568
-  },
-  {
     "url": "https://www.foxnews.com/us/utah-mom-upscale-ski-community-killed-husband-fund-romance-lavish-lifestyle-da-says",
     "titleNorm": "utah mom in upscale ski community killed husband",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "savannah guthries 1m reward mirrors past kidnapping cases",
     "type": "card",
     "timestamp": 1772216872047
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/chief-judge-warns-minnesotas-top-prosecutor-ice-obey-130548558",
+    "titleNorm": "a chief judge warns minnesotas top prosecutor and",
+    "type": "reel",
+    "timestamp": 1772219428451
   }
 ]
