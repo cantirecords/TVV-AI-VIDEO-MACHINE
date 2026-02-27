@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murder-suspect-baltimore-robbery-spree-probation-records-show",
-    "titleNorm": "murder suspect in baltimore robbery spree was on",
-    "type": "card",
-    "timestamp": 1772141104594
-  },
-  {
     "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
     "titleNorm": "kilmar abrego garcia back in court in bid",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
     "type": "reel",
     "timestamp": 1772183255298
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-us-iran-nuclear-deal-to-avert-war-prospects-for-geneva-talks/",
+    "titleNorm": "can the us and iran reach a nuclear",
+    "type": "card",
+    "timestamp": 1772184715727
   }
 ]
