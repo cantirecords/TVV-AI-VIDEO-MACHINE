@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/louisiana-teacher-arrested-alleged-inappropriate-behavior-juvenile",
-    "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
-    "type": "card",
-    "timestamp": 1772128346826
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/former-pennsylvania-officer-accused-child-rape-fatally-shot-130506838",
-    "titleNorm": "former officer accused of child rape fatally shot",
-    "type": "card",
-    "timestamp": 1772131114371
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-air-force-pilot-arrested-allegedly-training-chinese-military-pilots-without-authorization",
     "titleNorm": "exair force pilot arrested for allegedly training chinese",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "netflix drops bid for warner bros discovery paving",
     "type": "card",
     "timestamp": 1772171085952
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-pennsylvania-officer-accused-child-rape-fatally-shot-130506838",
+    "titleNorm": "former officer accused of child rape fatally shot",
+    "type": "card",
+    "timestamp": 1772174404568
   }
 ]
