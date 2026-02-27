@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/utah-mom-upscale-ski-community-killed-husband-fund-romance-lavish-lifestyle-da-says",
-    "titleNorm": "utah mom in upscale ski community killed husband",
-    "type": "reel",
-    "timestamp": 1772177372311
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1772178033980
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "epstein tried to buy a palace in morocco",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "woman who falsely accused duke lacrosse players of",
     "type": "card",
     "timestamp": 1772220423354
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/penguin-press-founder-ann-godoff-powerhouse-editor-bestsellers-130538769",
+    "titleNorm": "penguin press founder ann godoff powerhouse editor of",
+    "type": "card",
+    "timestamp": 1772223559085
   }
 ]
