@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
-    "titleNorm": "kilmar abrego garcia back in court in bid",
-    "type": "card",
-    "timestamp": 1772144581995
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/penguin-press-founder-ann-godoff-powerhouse-editor-bestsellers-130538769",
     "titleNorm": "penguin press founder ann godoff powerhouse editor of",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "can the us and iran reach a nuclear",
     "type": "card",
     "timestamp": 1772184715727
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1772188095203
   }
 ]
