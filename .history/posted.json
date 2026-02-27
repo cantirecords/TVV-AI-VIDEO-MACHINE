@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cellmate-detained-after-inmate-convicted-sexual-assault-found-dead-california-prison",
-    "titleNorm": "cellmate detained after inmate convicted of sexual assault",
-    "type": "card",
-    "timestamp": 1772154464276
-  },
-  {
     "url": "https://www.foxnews.com/us/family-member-american-killed-cuban-forces-boat-shootout-diabolical-mission",
     "titleNorm": "family member of american killed by cuban forces",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "trump administration ends protections for rare dancing prairie",
     "type": "card",
     "timestamp": 1772195685909
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-man-deported-from-bali-after-prison-release-murder-arrested-flight-back-us",
+    "titleNorm": "chicago man deported from bali after prison release",
+    "type": "reel",
+    "timestamp": 1772199531881
   }
 ]
