@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iran-vows-target-us-troops-trump-threatens-repeat-strike-more-top-headlines",
-    "titleNorm": "iran vows to target us troops as trump",
-    "type": "card",
-    "timestamp": 1772120629081
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/iran-arrests-protesters-reformists-crush-dissent-deadly-crackdown-rcna259294",
     "titleNorm": "iran attempts to crush dissent with a new",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "family member of american killed by cuban forces",
     "type": "reel",
     "timestamp": 1772162159806
+  },
+  {
+    "url": "https://www.cbsnews.com/news/about-a-dozen-fbi-staff-who-worked-on-trump-documents-case-fired-over-two-days-sources-say/",
+    "titleNorm": "about a dozen fbi staff who worked on",
+    "type": "card",
+    "timestamp": 1772165195434
   }
 ]
