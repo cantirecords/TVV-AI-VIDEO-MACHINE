@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/newark-mayor-ice-operation-caused-multi-vehicle-crash-130513581",
-    "titleNorm": "newark mayor says ice operation caused multivehicle crash",
-    "type": "card",
-    "timestamp": 1772148101519
-  },
-  {
     "url": "https://www.foxnews.com/us/cellmate-detained-after-inmate-convicted-sexual-assault-found-dead-california-prison",
     "titleNorm": "cellmate detained after inmate convicted of sexual assault",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1772190367845
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/anthropic-refuses-bend-pentagon-ai-safeguards-dispute-nears-130557118",
+    "titleNorm": "anthropic refuses to bend to pentagon on ai",
+    "type": "card",
+    "timestamp": 1772191500712
   }
 ]
