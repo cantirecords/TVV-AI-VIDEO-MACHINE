@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1772127522078
-  },
-  {
     "url": "https://www.foxnews.com/us/louisiana-teacher-arrested-alleged-inappropriate-behavior-juvenile",
     "titleNorm": "louisiana teacher arrested for alleged inappropriate behavior with",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "most americans see iran as an enemy but",
     "type": "reel",
     "timestamp": 1772170591973
+  },
+  {
+    "url": "https://www.cbsnews.com/news/netflix-warner-paramount-skydance-deal/",
+    "titleNorm": "netflix drops bid for warner bros discovery paving",
+    "type": "card",
+    "timestamp": 1772171085952
   }
 ]
