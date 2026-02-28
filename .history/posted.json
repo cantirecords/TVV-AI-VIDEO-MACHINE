@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/victim-dies-wounds-suffered-rhode-island-ice-rink-130517683",
-    "titleNorm": "third victim dies from wounds suffered in rhode",
-    "type": "card",
-    "timestamp": 1772213228500
-  },
-  {
     "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
     "titleNorm": "savannah guthries 1m reward mirrors past kidnapping cases",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "north carolina woman arrested nearly 50 years after",
     "type": "card",
     "timestamp": 1772256395624
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-iran-negotiations-not-happy/",
+    "titleNorm": "trump says he039s not happy with progress in",
+    "type": "card",
+    "timestamp": 1772259902162
   }
 ]
