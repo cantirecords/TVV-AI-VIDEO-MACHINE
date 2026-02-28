@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
-    "titleNorm": "savannah guthries 1m reward mirrors past kidnapping cases",
-    "type": "card",
-    "timestamp": 1772216872047
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/chief-judge-warns-minnesotas-top-prosecutor-ice-obey-130548558",
     "titleNorm": "a chief judge warns minnesotas top prosecutor and",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "trump says he039s not happy with progress in",
     "type": "card",
     "timestamp": 1772259902162
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1772262279063
   }
 ]
