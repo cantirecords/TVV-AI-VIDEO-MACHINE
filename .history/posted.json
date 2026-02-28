@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-make-25-more-arrests-anti-ice-minnesota-church-invasion",
-    "titleNorm": "feds make 25 more arrests in antiice minnesota",
-    "type": "reel",
-    "timestamp": 1772275752406
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1772277071984
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/israel-us-attack-iran-trump-says-major-combat-operations/",
     "titleNorm": "trump confirms major combat operations as us and",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1772318827748
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrant-training-pennsylvania-corrections-officer-suspected-rape",
+    "titleNorm": "ice arrests illegal immigrant training as pennsylvania corrections",
+    "type": "card",
+    "timestamp": 1772320557050
   }
 ]
