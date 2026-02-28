@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "epstein tried to buy a palace in morocco",
-    "type": "card",
-    "timestamp": 1772227186916
-  },
-  {
-    "url": "https://www.foxnews.com/us/feds-make-25-more-arrests-anti-ice-minnesota-church-invasion",
-    "titleNorm": "feds make 25 more arrests in antiice minnesota",
-    "type": "card",
-    "timestamp": 1772230472441
-  },
-  {
     "url": "https://www.foxnews.com/us/child-predator-cleared-parole-arrested-after-surprise-warrant-drops-hours-before-prison-release",
     "titleNorm": "child predator cleared for parole arrested after surprise",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "renee goods family say neither investigators nor trump",
     "type": "card",
     "timestamp": 1772270249059
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-officials-indict-high-ranking-sinaloa-cartel-narcoterrorists-offer-rewards-their-arrests",
+    "titleNorm": "us officials indict highranking sinaloa cartel narcoterrorists offer",
+    "type": "card",
+    "timestamp": 1772273698711
   }
 ]
