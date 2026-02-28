@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/obituaries/neil-sedaka-songwriter-dies-86-rcna261065",
-    "titleNorm": "neil sedaka songwriter to the stars for decades",
-    "type": "reel",
-    "timestamp": 1772246796808
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/ads-funded-ai-groups-arent-ai-politics-desk-rcna261041",
     "titleNorm": "why ads funded by ai groups arent about",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "savannah guthrie drops 1m reward for mothers return",
     "type": "card",
     "timestamp": 1772288218976
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1772290305972
   }
 ]
