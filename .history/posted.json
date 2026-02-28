@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/penguin-press-founder-ann-godoff-powerhouse-editor-bestsellers-130538769",
-    "titleNorm": "penguin press founder ann godoff powerhouse editor of",
-    "type": "card",
-    "timestamp": 1772223559085
-  },
-  {
     "url": "https://www.foxnews.com/us/utah-mom-upscale-ski-community-killed-husband-fund-romance-lavish-lifestyle-da-says",
     "titleNorm": "utah mom in upscale ski community killed husband",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "biden seizes on trumps sinking favorability in a",
     "type": "card",
     "timestamp": 1772266690163
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
+    "titleNorm": "virginia murder suspect in bus stop stabbing had",
+    "type": "reel",
+    "timestamp": 1772268737222
   }
 ]
