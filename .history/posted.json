@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/newark-mayor-ice-operation-caused-multi-vehicle-crash-130513581",
-    "titleNorm": "newark mayor says ice operation caused multivehicle crash",
-    "type": "reel",
-    "timestamp": 1772204810558
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/canada-warns-usmca-face-annual-reviews-fueling-uncertainty-130546471",
-    "titleNorm": "canada warns usmca could face annual reviews fueling",
-    "type": "card",
-    "timestamp": 1772206252129
-  },
-  {
     "url": "https://www.cbsnews.com/video/pentagon-anthropic-locked-in-standoff-over-companys-ai-technology-as-deadline-nears/",
     "titleNorm": "pentagon anthropic locked in standoff over company039s ai",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "neil sedaka songwriter to the stars for decades",
     "type": "reel",
     "timestamp": 1772246796808
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/ads-funded-ai-groups-arent-ai-politics-desk-rcna261041",
+    "titleNorm": "why ads funded by ai groups arent about",
+    "type": "card",
+    "timestamp": 1772250397276
   }
 ]
