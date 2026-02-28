@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
-    "titleNorm": "virginia murder suspect in bus stop stabbing had",
-    "type": "reel",
-    "timestamp": 1772268737222
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/renee-good-ganger-family-interview-minneapolis-ice-shooting-rcna260863",
     "titleNorm": "renee goods family say neither investigators nor trump",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antius protesters funded by prochina tycoon mobilize as",
     "type": "reel",
     "timestamp": 1772311676617
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
+    "titleNorm": "virginia murder suspect in bus stop stabbing had",
+    "type": "card",
+    "timestamp": 1772313270509
   }
 ]
