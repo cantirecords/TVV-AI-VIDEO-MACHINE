@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/renee-good-ganger-family-interview-minneapolis-ice-shooting-rcna260863",
-    "titleNorm": "renee goods family say neither investigators nor trump",
-    "type": "card",
-    "timestamp": 1772270249059
-  },
-  {
     "url": "https://www.foxnews.com/us/us-officials-indict-high-ranking-sinaloa-cartel-narcoterrorists-offer-rewards-their-arrests",
     "titleNorm": "us officials indict highranking sinaloa cartel narcoterrorists offer",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "virginia murder suspect in bus stop stabbing had",
     "type": "card",
     "timestamp": 1772313270509
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1772316873507
   }
 ]
