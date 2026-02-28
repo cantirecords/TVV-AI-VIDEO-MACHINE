@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/cuba-unveils-new-details-fatal-us-boat-shooting-130585571",
-    "titleNorm": "cuba unveils new details in fatal us boat",
-    "type": "reel",
-    "timestamp": 1772255409454
-  },
-  {
     "url": "https://www.foxnews.com/us/north-carolina-woman-arrested-nearly-50-years-after-baby-found-dead-trash-bag-landfill",
     "titleNorm": "north carolina woman arrested nearly 50 years after",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "a chief judge warns minnesotas top prosecutor and",
     "type": "reel",
     "timestamp": 1772297416539
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/joe-biden-returns-bask-event-south-carolina-democrats-130585126",
+    "titleNorm": "joe biden returns to bask in thank you",
+    "type": "card",
+    "timestamp": 1772298749278
   }
 ]
