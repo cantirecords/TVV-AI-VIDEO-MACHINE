@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/anthropic-refuses-bend-pentagon-ai-safeguards-dispute-nears-130557118",
-    "titleNorm": "anthropic refuses to bend to pentagon on ai",
-    "type": "card",
-    "timestamp": 1772191500712
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-ends-protections-rare-dancing-prairie-bird-130532782",
-    "titleNorm": "trump administration ends protections for rare dancing prairie",
-    "type": "card",
-    "timestamp": 1772195685909
-  },
-  {
     "url": "https://www.foxnews.com/us/chicago-man-deported-from-bali-after-prison-release-murder-arrested-flight-back-us",
     "titleNorm": "chicago man deported from bali after prison release",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "fox news true crime newsletter new nancy guthrie",
     "type": "card",
     "timestamp": 1772234226080
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-showing-up-florida-border-patrol-office-contract-work",
+    "titleNorm": "illegal immigrant arrested after showing up to florida",
+    "type": "card",
+    "timestamp": 1772240507518
   }
 ]
