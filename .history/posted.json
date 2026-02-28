@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/woman-falsely-accused-duke-lacrosse-players-rape-released-prison-rcna260968",
-    "titleNorm": "woman who falsely accused duke lacrosse players of",
-    "type": "card",
-    "timestamp": 1772220423354
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/penguin-press-founder-ann-godoff-powerhouse-editor-bestsellers-130538769",
     "titleNorm": "penguin press founder ann godoff powerhouse editor of",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "convicted russian stowaway strikes again lands in milan",
     "type": "card",
     "timestamp": 1772263217034
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/joe-biden/biden-trump-favorability-combative-speech-south-carolina-rcna261085",
+    "titleNorm": "biden seizes on trumps sinking favorability in a",
+    "type": "card",
+    "timestamp": 1772266690163
   }
 ]
