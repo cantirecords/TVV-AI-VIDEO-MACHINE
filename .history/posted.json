@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1772262279063
-  },
-  {
     "url": "https://www.foxnews.com/us/convicted-russian-stowaway-strikes-again-lands-milan-united-flight-without-ticket",
     "titleNorm": "convicted russian stowaway strikes again lands in milan",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "north carolina woman arrested nearly 50 years after",
     "type": "reel",
     "timestamp": 1772305043460
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
+    "titleNorm": "former mlb pitcher sentenced to life in prison",
+    "type": "card",
+    "timestamp": 1772306175632
   }
 ]
