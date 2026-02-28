@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-officials-indict-high-ranking-sinaloa-cartel-narcoterrorists-offer-rewards-their-arrests",
-    "titleNorm": "us officials indict highranking sinaloa cartel narcoterrorists offer",
-    "type": "card",
-    "timestamp": 1772273698711
-  },
-  {
     "url": "https://www.foxnews.com/us/feds-make-25-more-arrests-anti-ice-minnesota-church-invasion",
     "titleNorm": "feds make 25 more arrests in antiice minnesota",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1772316873507
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1772318827748
   }
 ]
