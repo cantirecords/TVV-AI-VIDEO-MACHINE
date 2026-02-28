@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/chicago-man-deported-from-bali-after-prison-release-murder-arrested-flight-back-us",
-    "titleNorm": "chicago man deported from bali after prison release",
-    "type": "card",
-    "timestamp": 1772254097803
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/cuba-unveils-new-details-fatal-us-boat-shooting-130585571",
     "titleNorm": "cuba unveils new details in fatal us boat",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "the ai child exploitation crisis is here",
     "type": "card",
     "timestamp": 1772295340323
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/chief-judge-warns-minnesotas-top-prosecutor-ice-obey-130548558",
+    "titleNorm": "a chief judge warns minnesotas top prosecutor and",
+    "type": "reel",
+    "timestamp": 1772297416539
   }
 ]
