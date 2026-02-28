@@ -94,5 +94,11 @@
     "titleNorm": "epstein tried to buy a palace in morocco",
     "type": "reel",
     "timestamp": 1772284433175
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
+    "titleNorm": "us and israel attack iran with trump urging",
+    "type": "card",
+    "timestamp": 1772285670062
   }
 ]
