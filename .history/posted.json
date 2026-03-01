@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/ayatollah-ali-khamenei-religious-cleric-ruled-iran-decades-killed-stri-rcna241863",
-    "titleNorm": "ayatollah ali khamenei religious cleric who ruled iran",
-    "type": "reel",
-    "timestamp": 1772349012731
-  },
-  {
     "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
     "titleNorm": "savannah guthrie drops 1m reward for mothers return",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fox news true crime newsletter new nancy guthrie",
     "type": "reel",
     "timestamp": 1772391638764
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/viola-davis-receives-prestigious-chairmans-prize-naacp-image-130642346",
+    "titleNorm": "viola davis receives prestigious chairmans prize at naacp",
+    "type": "card",
+    "timestamp": 1772392570552
   }
 ]
