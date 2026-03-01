@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
-    "titleNorm": "virginia murder suspect in bus stop stabbing had",
-    "type": "card",
-    "timestamp": 1772313270509
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "irans foreign minister says hes unsure why us",
     "type": "reel",
     "timestamp": 1772355305092
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-responds-reports-ayatollah-death-rcna261149",
+    "titleNorm": "trump says a large amount of irans leadership",
+    "type": "card",
+    "timestamp": 1772356861382
   }
 ]
