@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/trump-touted-support-gun-rights-defended-restrictions-court-rcna260673",
-    "titleNorm": "trump touted support for gun rights but has",
-    "type": "card",
-    "timestamp": 1772353199852
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/iran-attack-us-israel-regime-change-trump-netanyahu-araghchi-rcna261124",
     "titleNorm": "irans foreign minister says hes unsure why us",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "9 people injured in mass shooting at riverfront",
     "type": "card",
     "timestamp": 1772396122796
+  },
+  {
+    "url": "https://www.nbcnews.com/video/fatal-austin-bar-shooting-leaves-dozens-injured-258509893674",
+    "titleNorm": "investigators trying to determine motivation behind shooting at",
+    "type": "reel",
+    "timestamp": 1772398270921
   }
 ]
