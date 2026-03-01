@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "tram derails in milan leaving two dead and",
-    "type": "card",
-    "timestamp": 1772302767724
-  },
-  {
     "url": "https://www.foxnews.com/us/north-carolina-woman-arrested-nearly-50-years-after-baby-found-dead-trash-bag-landfill",
     "titleNorm": "north carolina woman arrested nearly 50 years after",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "fox news true crime newsletter new nancy guthrie",
     "type": "card",
     "timestamp": 1772343889648
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/cuba-unveils-new-details-fatal-us-boat-shooting-130585571",
+    "titleNorm": "cuba unveils new details in fatal us boat",
+    "type": "card",
+    "timestamp": 1772346945749
   }
 ]
