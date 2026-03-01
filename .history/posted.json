@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
-    "titleNorm": "savannah guthrie drops 1m reward for mothers return",
-    "type": "card",
-    "timestamp": 1772350006210
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/trump-touted-support-gun-rights-defended-restrictions-court-rcna260673",
     "titleNorm": "trump touted support for gun rights but has",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "viola davis receives prestigious chairmans prize at naacp",
     "type": "card",
     "timestamp": 1772392570552
+  },
+  {
+    "url": "https://www.foxnews.com/us/people-injured-mass-shooting-riverfront-live-cincinnati",
+    "titleNorm": "9 people injured in mass shooting at riverfront",
+    "type": "card",
+    "timestamp": 1772396122796
   }
 ]
