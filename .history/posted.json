@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
-    "titleNorm": "former mlb pitcher sentenced to life in prison",
-    "type": "card",
-    "timestamp": 1772306175632
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "ayatollah ali khamenei religious cleric who ruled iran",
     "type": "reel",
     "timestamp": 1772349012731
+  },
+  {
+    "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
+    "titleNorm": "savannah guthrie drops 1m reward for mothers return",
+    "type": "card",
+    "timestamp": 1772350006210
   }
 ]
