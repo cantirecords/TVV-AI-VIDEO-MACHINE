@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/anthropic-refuses-bend-pentagon-ai-safeguards-dispute-nears-130557118",
-    "titleNorm": "anthropic refuses to bend to pentagon on ai",
-    "type": "card",
-    "timestamp": 1772327815096
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-judge-extends-order-protecting-refugees-minnesota-arrested-130579977",
     "titleNorm": "federal judge extends order protecting refugees in minnesota",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "iran lashes out in retaliation killing israelis on",
     "type": "reel",
     "timestamp": 1772370984551
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
+    "titleNorm": "virginia murder suspect in bus stop stabbing had",
+    "type": "card",
+    "timestamp": 1772372019808
   }
 ]
