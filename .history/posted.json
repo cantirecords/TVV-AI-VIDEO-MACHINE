@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-responds-reports-ayatollah-death-rcna261149",
-    "titleNorm": "trump says a large amount of irans leadership",
-    "type": "card",
-    "timestamp": 1772356861382
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
     "titleNorm": "former mlb pitcher sentenced to life in prison",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "woman who duped investors funneled money to trump",
     "type": "card",
     "timestamp": 1772399732772
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-medicaid-work-mandates-meant-save-money-states-130644958",
+    "titleNorm": "trumps medicaid work mandates are meant to save",
+    "type": "card",
+    "timestamp": 1772403281558
   }
 ]
