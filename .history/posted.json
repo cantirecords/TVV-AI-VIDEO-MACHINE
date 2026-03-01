@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
-    "titleNorm": "us and israel attack iran with trump urging",
-    "type": "card",
-    "timestamp": 1772285670062
-  },
-  {
-    "url": "https://www.foxnews.com/us/savannah-guthries-1m-reward-mirrors-past-kidnapping-cases-solved-cash",
-    "titleNorm": "savannah guthrie drops 1m reward for mothers return",
-    "type": "card",
-    "timestamp": 1772288218976
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1772290305972
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/police-video-shows-chaotic-aftermath-rhode-island-ice-130587768",
-    "titleNorm": "police video shows chaotic aftermath of rhode island",
-    "type": "card",
-    "timestamp": 1772291584856
-  },
-  {
     "url": "https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409",
     "titleNorm": "the ai child exploitation crisis is here",
     "type": "card",
@@ -100,5 +76,11 @@
     "titleNorm": "anthropic refuses to bend to pentagon on ai",
     "type": "card",
     "timestamp": 1772327815096
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-extends-order-protecting-refugees-minnesota-arrested-130579977",
+    "titleNorm": "federal judge extends order protecting refugees in minnesota",
+    "type": "reel",
+    "timestamp": 1772335839474
   }
 ]
