@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1772343423384
-  },
-  {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-new-footage-caleb-flynns-charges-missing-mom-arrested",
-    "titleNorm": "fox news true crime newsletter new nancy guthrie",
-    "type": "card",
-    "timestamp": 1772343889648
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/cuba-unveils-new-details-fatal-us-boat-shooting-130585571",
     "titleNorm": "cuba unveils new details in fatal us boat",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "trump talks regime change in iran after strikes",
     "type": "card",
     "timestamp": 1772385344787
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-irans-supreme-leader-khamenei-killed-us-israeli-130645324",
+    "titleNorm": "the latest irans supreme leader khamenei killed in",
+    "type": "card",
+    "timestamp": 1772389216374
   }
 ]
