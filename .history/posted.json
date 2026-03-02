@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/cuba-unveils-new-details-fatal-us-boat-shooting-130585571",
-    "titleNorm": "cuba unveils new details in fatal us boat",
-    "type": "card",
-    "timestamp": 1772433873616
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
     "titleNorm": "former mlb pitcher sentenced to life in prison",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1772476503496
+  },
+  {
+    "url": "https://www.cbsnews.com/news/mass-shooting-at-austin-texas-bar-leaves-at-least-3-dead-multiple-people-wounded/",
+    "titleNorm": "texas gunman wore property of allah hoodie during",
+    "type": "reel",
+    "timestamp": 1772478797280
   }
 ]
