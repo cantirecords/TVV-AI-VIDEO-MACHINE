@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/2-people-killed-and-14-injured-in-mass-shooting-in-austin-258514501852",
-    "titleNorm": "2 people killed and 14 injured in mass",
-    "type": "reel",
-    "timestamp": 1772442533852
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "nine dead in missile attack on israel as",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump awards the medal of honor to 3",
     "type": "reel",
     "timestamp": 1772485324652
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/9-people-wounded-cincinnati-nightclub-shooting-130660726",
+    "titleNorm": "9 people are wounded in a cincinnati nightclub",
+    "type": "card",
+    "timestamp": 1772486732477
   }
 ]
