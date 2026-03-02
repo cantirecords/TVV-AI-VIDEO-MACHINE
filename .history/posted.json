@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/people-injured-mass-shooting-riverfront-live-cincinnati",
-    "titleNorm": "9 people injured in mass shooting at riverfront",
-    "type": "card",
-    "timestamp": 1772396122796
-  },
-  {
     "url": "https://www.nbcnews.com/video/fatal-austin-bar-shooting-leaves-dozens-injured-258509893674",
     "titleNorm": "investigators trying to determine motivation behind shooting at",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "austin shooting suspect wore iranian flag shirt during",
     "type": "card",
     "timestamp": 1772437366852
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/opec-boosts-oil-production-after-attacks-iran-region-130658016",
+    "titleNorm": "opec boosts oil production after attacks on iran",
+    "type": "card",
+    "timestamp": 1772440384074
   }
 ]
