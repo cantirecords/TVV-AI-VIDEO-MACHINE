@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
-    "titleNorm": "former mlb pitcher sentenced to life in prison",
-    "type": "reel",
-    "timestamp": 1772436820177
-  },
-  {
-    "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
-    "titleNorm": "austin shooting suspect wore iranian flag shirt during",
-    "type": "card",
-    "timestamp": 1772437366852
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/opec-boosts-oil-production-after-attacks-iran-region-130658016",
     "titleNorm": "opec boosts oil production after attacks on iran",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "legal analysis on trump039s operation epic fury against",
     "type": "card",
     "timestamp": 1772479863789
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
+    "titleNorm": "virginia murder suspect in bus stop stabbing had",
+    "type": "card",
+    "timestamp": 1772483124151
   }
 ]
