@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "nine dead in missile attack on israel as",
-    "type": "card",
-    "timestamp": 1772444512658
-  },
-  {
     "url": "https://www.foxnews.com/us/over-50-arrested-anti-ice-protesters-allegedly-hurl-rocks-minneapolis-officers-during-demonstration",
     "titleNorm": "over 50 arrested as antiice protesters allegedly hurl",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "9 people are wounded in a cincinnati nightclub",
     "type": "card",
     "timestamp": 1772486732477
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
+    "titleNorm": "austin shooting suspect wore iranian flag shirt during",
+    "type": "card",
+    "timestamp": 1772489976327
   }
 ]
