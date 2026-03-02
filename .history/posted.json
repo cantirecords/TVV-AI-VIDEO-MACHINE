@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/new-york-woman-duped-investors-funneled-money-trump-130577564",
-    "titleNorm": "woman who duped investors funneled money to trump",
-    "type": "card",
-    "timestamp": 1772399732772
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-medicaid-work-mandates-meant-save-money-states-130644958",
     "titleNorm": "trumps medicaid work mandates are meant to save",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "2 people killed and 14 injured in mass",
     "type": "reel",
     "timestamp": 1772442533852
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "nine dead in missile attack on israel as",
+    "type": "card",
+    "timestamp": 1772444512658
   }
 ]
