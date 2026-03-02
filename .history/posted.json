@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1772424293972
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2/",
     "titleNorm": "trump says iran operation could take four weeks",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "the latest us israel pound iran as trump",
     "type": "card",
     "timestamp": 1772465603758
+  },
+  {
+    "url": "https://www.foxnews.com/us/nonprofits-funded-by-pro-ccp-tycoon-mobilize-pro-regime-protests-10-minutes-before-trump-even-reveals-he-launc",
+    "titleNorm": "antius protesters funded by prochina tycoon mobilize as",
+    "type": "card",
+    "timestamp": 1772469191204
   }
 ]
