@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2/",
-    "titleNorm": "trump says iran operation could take four weeks",
-    "type": "reel",
-    "timestamp": 1772429774393
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "viola davis receives prestigious chairmans prize at naacp",
     "type": "reel",
     "timestamp": 1772471702190
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-showing-up-florida-border-patrol-office-contract-work",
+    "titleNorm": "illegal immigrant arrested after showing up to florida",
+    "type": "card",
+    "timestamp": 1772473329636
   }
 ]
