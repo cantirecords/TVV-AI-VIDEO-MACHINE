@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-medicaid-work-mandates-meant-save-money-states-130644958",
-    "titleNorm": "trumps medicaid work mandates are meant to save",
-    "type": "card",
-    "timestamp": 1772403281558
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/ayatollah-ali-khamenei-religious-cleric-ruled-iran-decades-killed-stri-rcna241863",
     "titleNorm": "ayatollah ali khamenei religious cleric who ruled iran",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "nine dead in missile attack on israel as",
     "type": "card",
     "timestamp": 1772444512658
+  },
+  {
+    "url": "https://www.foxnews.com/us/over-50-arrested-anti-ice-protesters-allegedly-hurl-rocks-minneapolis-officers-during-demonstration",
+    "titleNorm": "over 50 arrested as antiice protesters allegedly hurl",
+    "type": "card",
+    "timestamp": 1772447736820
   }
 ]
