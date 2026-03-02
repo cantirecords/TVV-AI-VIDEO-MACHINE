@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-nancy-guthries-new-footage-caleb-flynns-charges-missing-mom-arrested",
-    "titleNorm": "fox news true crime newsletter new nancy guthrie",
-    "type": "reel",
-    "timestamp": 1772391638764
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/viola-davis-receives-prestigious-chairmans-prize-naacp-image-130642346",
-    "titleNorm": "viola davis receives prestigious chairmans prize at naacp",
-    "type": "card",
-    "timestamp": 1772392570552
-  },
-  {
     "url": "https://www.foxnews.com/us/people-injured-mass-shooting-riverfront-live-cincinnati",
     "titleNorm": "9 people injured in mass shooting at riverfront",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "cuba unveils new details in fatal us boat",
     "type": "card",
     "timestamp": 1772433873616
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-mlb-pitcher-sentenced-life-prison-parole-shooting-130582969",
+    "titleNorm": "former mlb pitcher sentenced to life in prison",
+    "type": "reel",
+    "timestamp": 1772436820177
   }
 ]
