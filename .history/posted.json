@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/fatal-austin-bar-shooting-leaves-dozens-injured-258509893674",
-    "titleNorm": "investigators trying to determine motivation behind shooting at",
-    "type": "reel",
-    "timestamp": 1772398270921
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/new-york-woman-duped-investors-funneled-money-trump-130577564",
     "titleNorm": "woman who duped investors funneled money to trump",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "opec boosts oil production after attacks on iran",
     "type": "card",
     "timestamp": 1772440384074
+  },
+  {
+    "url": "https://www.nbcnews.com/video/2-people-killed-and-14-injured-in-mass-shooting-in-austin-258514501852",
+    "titleNorm": "2 people killed and 14 injured in mass",
+    "type": "reel",
+    "timestamp": 1772442533852
   }
 ]
