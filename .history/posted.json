@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-irans-supreme-leader-khamenei-killed-us-israeli-130645324",
-    "titleNorm": "the latest us israel pound iran as trump",
-    "type": "card",
-    "timestamp": 1772465603758
-  },
-  {
     "url": "https://www.foxnews.com/us/nonprofits-funded-by-pro-ccp-tycoon-mobilize-pro-regime-protests-10-minutes-before-trump-even-reveals-he-launc",
     "titleNorm": "antius protesters funded by prochina tycoon mobilize as",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "austin police kill armed gunman after 3 die",
     "type": "reel",
     "timestamp": 1772508068090
+  },
+  {
+    "url": "https://www.foxnews.com/us/tarot-influencers-claims-idaho-college-murders-case-spark-courtroom-reckoning",
+    "titleNorm": "tarot influencers claims in idaho college murders case",
+    "type": "card",
+    "timestamp": 1772510750180
   }
 ]
