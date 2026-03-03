@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/blocks-california-restrictions-schools-notifying-parents-transgender-rcna255636",
-    "titleNorm": "supreme court blocks calif limits on schools sharing",
-    "type": "reel",
-    "timestamp": 1772516115515
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-futures-asian-shares-open-lower-oil-prices-130663510",
     "titleNorm": "global markets roiled and energy prices soar with",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "pilot passenger swim to safety after plane crashes",
     "type": "reel",
     "timestamp": 1772557995876
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
+    "titleNorm": "austin shooting suspect wore iranian flag shirt during",
+    "type": "card",
+    "timestamp": 1772559578348
   }
 ]
