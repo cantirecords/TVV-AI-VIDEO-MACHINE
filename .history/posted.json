@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1772476503496
-  },
-  {
     "url": "https://www.cbsnews.com/news/mass-shooting-at-austin-texas-bar-leaves-at-least-3-dead-multiple-people-wounded/",
     "titleNorm": "texas gunman wore property of allah hoodie during",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "global markets roiled and energy prices soar with",
     "type": "card",
     "timestamp": 1772516681346
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/united-flight-returns-la-airport-evacuation-after-reported-130695746",
+    "titleNorm": "united flight returns to la airport for an",
+    "type": "card",
+    "timestamp": 1772519910135
   }
 ]
