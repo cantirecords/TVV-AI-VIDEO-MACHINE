@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tarot-influencers-claims-idaho-college-murders-case-spark-courtroom-reckoning",
-    "titleNorm": "tarot influencers claims in idaho college murders case",
-    "type": "card",
-    "timestamp": 1772510750180
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/blocks-california-restrictions-schools-notifying-parents-transgender-rcna255636",
     "titleNorm": "supreme court blocks calif limits on schools sharing",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "road rage incident turns deadly as virginia highway",
     "type": "card",
     "timestamp": 1772552328840
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/dispatch-tehran-nowhere-feels-safe-attack-rcna261273",
+    "titleNorm": "dispatch from tehran nowhere feels safe from attack",
+    "type": "card",
+    "timestamp": 1772555892272
   }
 ]
