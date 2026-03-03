@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-warns-iran-escalate-attacks-us-strike-back-130645420",
-    "titleNorm": "us and israel pound iran as trump signals",
-    "type": "reel",
-    "timestamp": 1772458864362
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iran-military-operation-american-service-members-killed-centcom/",
-    "titleNorm": "4 us service members killed in military operation",
-    "type": "card",
-    "timestamp": 1772459630790
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-arrested-misdemeanor-dui-charges-outside-nancy-guthrie-home-sobriety-test",
-    "titleNorm": "man arrested on misdemeanor dui charges outside nancy",
-    "type": "card",
-    "timestamp": 1772462269624
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/6-killed-shiites-storm-us-consulate-pakistan-killing-130646408",
-    "titleNorm": "at least 6 killed as shiites storm us",
-    "type": "reel",
-    "timestamp": 1772464428629
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-irans-supreme-leader-khamenei-killed-us-israeli-130645324",
     "titleNorm": "the latest us israel pound iran as trump",
     "type": "card",
@@ -106,5 +82,11 @@
     "titleNorm": "trump goes to war despite professed aversion to",
     "type": "card",
     "timestamp": 1772500349695
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-police-kill-armed-gunman-after-3-die-14-wounded-bar-shooting",
+    "titleNorm": "austin police kill armed gunman after 3 die",
+    "type": "reel",
+    "timestamp": 1772508068090
   }
 ]
