@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/legal-analysis-trump-operation-epic-fury-iran/",
-    "titleNorm": "legal analysis on trump039s operation epic fury against",
-    "type": "card",
-    "timestamp": 1772479863789
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
     "titleNorm": "virginia murder suspect in bus stop stabbing had",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "doj moves to drop defense of trump039s executive",
     "type": "reel",
     "timestamp": 1772522216697
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/iran-us-war-strait-hormuz-shipping-cargo-oil-rcna261410",
+    "titleNorm": "iranus war chokes key shipping lane and threatens",
+    "type": "card",
+    "timestamp": 1772523375219
   }
 ]
