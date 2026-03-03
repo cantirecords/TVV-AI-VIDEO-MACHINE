@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-murder-suspect-bus-stop-stabbing-had-lengthy-criminal-history-multiple-dropped-charges",
-    "titleNorm": "virginia murder suspect in bus stop stabbing had",
-    "type": "card",
-    "timestamp": 1772483124151
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-awards-medal-honor-3-us-army-service-130678582",
     "titleNorm": "trump awards the medal of honor to 3",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "iranus war chokes key shipping lane and threatens",
     "type": "card",
     "timestamp": 1772523375219
+  },
+  {
+    "url": "https://www.foxnews.com/us/who-austin-tucker-martin-little-known-about-mar-a-lago-intruder-echoing-past-trump-security-scares",
+    "titleNorm": "who is austin tucker martin little known about",
+    "type": "card",
+    "timestamp": 1772526602538
   }
 ]
