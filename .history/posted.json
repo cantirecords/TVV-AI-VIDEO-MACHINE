@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/9-people-wounded-cincinnati-nightclub-shooting-130660726",
-    "titleNorm": "9 people are wounded in a cincinnati nightclub",
-    "type": "card",
-    "timestamp": 1772486732477
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
     "titleNorm": "austin shooting suspect wore iranian flag shirt during",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "9 people injured in mass shooting at riverfront",
     "type": "reel",
     "timestamp": 1772528921898
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-court-rejects-trump-administration-attempt-slow-tariff-130689926",
+    "titleNorm": "federal court rejects trump administration attempt to slow",
+    "type": "card",
+    "timestamp": 1772530358183
   }
 ]
