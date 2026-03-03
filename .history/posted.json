@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/mass-shooting-at-austin-texas-bar-leaves-at-least-3-dead-multiple-people-wounded/",
-    "titleNorm": "texas gunman wore property of allah hoodie during",
-    "type": "reel",
-    "timestamp": 1772478797280
-  },
-  {
     "url": "https://www.cbsnews.com/video/legal-analysis-trump-operation-epic-fury-iran/",
     "titleNorm": "legal analysis on trump039s operation epic fury against",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "united flight returns to la airport for an",
     "type": "card",
     "timestamp": 1772519910135
+  },
+  {
+    "url": "https://www.cbsnews.com/news/justice-department-drop-defense-trumps-executive-orders-targeting-law-firms/",
+    "titleNorm": "doj moves to drop defense of trump039s executive",
+    "type": "reel",
+    "timestamp": 1772522216697
   }
 ]
