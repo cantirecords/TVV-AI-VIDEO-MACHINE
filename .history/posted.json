@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-police-kill-armed-gunman-after-3-die-14-wounded-bar-shooting",
-    "titleNorm": "austin police kill armed gunman after 3 die",
-    "type": "reel",
-    "timestamp": 1772508068090
-  },
-  {
     "url": "https://www.foxnews.com/us/tarot-influencers-claims-idaho-college-murders-case-spark-courtroom-reckoning",
     "titleNorm": "tarot influencers claims in idaho college murders case",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "texas college student identified among victims in austin",
     "type": "reel",
     "timestamp": 1772550946808
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-road-rage-incident-turns-deadly-virginia-highway-stabbing-leaves-2-people-including-dog-dead",
+    "titleNorm": "road rage incident turns deadly as virginia highway",
+    "type": "card",
+    "timestamp": 1772552328840
   }
 ]
