@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-war-despite-professed-aversion-foreign-entanglements-mideast-130660069",
-    "titleNorm": "trump goes to war despite professed aversion to",
-    "type": "card",
-    "timestamp": 1772500349695
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-police-kill-armed-gunman-after-3-die-14-wounded-bar-shooting",
     "titleNorm": "austin police kill armed gunman after 3 die",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "fbi remains on high alert dhs memo warns",
     "type": "card",
     "timestamp": 1772541227442
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-warplanes-shot-down-kuwaiti-air-defenses-pilots-bail-out-centcom-says-more-top-headlines",
+    "titleNorm": "us warplanes shot down by kuwaiti air defenses",
+    "type": "reel",
+    "timestamp": 1772545344785
   }
 ]
