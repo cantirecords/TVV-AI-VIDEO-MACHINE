@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-showing-up-florida-border-patrol-office-contract-work",
-    "titleNorm": "illegal immigrant arrested after showing up to florida",
-    "type": "card",
-    "timestamp": 1772473329636
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court blocks calif limits on schools sharing",
     "type": "reel",
     "timestamp": 1772516115515
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-futures-asian-shares-open-lower-oil-prices-130663510",
+    "titleNorm": "global markets roiled and energy prices soar with",
+    "type": "card",
+    "timestamp": 1772516681346
   }
 ]
