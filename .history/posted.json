@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/names-us-service-members-killed-iran-war-kuwait/",
-    "titleNorm": "pentagon releases names of first us service members",
-    "type": "card",
-    "timestamp": 1772612868937
-  },
-  {
     "url": "https://www.foxnews.com/us/cincinnati-mayor-opposes-judges-move-grant-bail-convicted-felon-linked-mass-shooting-gun-battle",
     "titleNorm": "cincinnati mayor opposes judges move to grant bail",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1772655823716
+  },
+  {
+    "url": "https://www.foxnews.com/us/violent-repeat-offender-accused-charlotte-knife-attack-free-despite-decade-long-rap-sheet",
+    "titleNorm": "violent repeat offender accused in charlotte knife attack",
+    "type": "reel",
+    "timestamp": 1772657839673
   }
 ]
