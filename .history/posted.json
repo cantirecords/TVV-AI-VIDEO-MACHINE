@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-college-student-identified-among-victims-austin-bar-shooting-probed-possible-terror-attack",
-    "titleNorm": "texas college student identified among victims in austin",
-    "type": "reel",
-    "timestamp": 1772550946808
-  },
-  {
-    "url": "https://www.foxnews.com/us/us-road-rage-incident-turns-deadly-virginia-highway-stabbing-leaves-2-people-including-dog-dead",
-    "titleNorm": "road rage incident turns deadly as virginia highway",
-    "type": "card",
-    "timestamp": 1772552328840
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/dispatch-tehran-nowhere-feels-safe-attack-rcna261273",
     "titleNorm": "dispatch from tehran nowhere feels safe from attack",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "mother in affluent florida community killed 2 children",
     "type": "reel",
     "timestamp": 1772593955310
+  },
+  {
+    "url": "https://www.cbsnews.com/news/stock-market-iran-oil-war-march-3/",
+    "titleNorm": "stocks pare losses as trump says us will",
+    "type": "card",
+    "timestamp": 1772596818334
   }
 ]
