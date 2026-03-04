@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/video-shows-ex-american-idol-contestants-emotional-outburst-after-he-allegedly-killed-his-wife",
-    "titleNorm": "video shows examerican idol contestants emotional outburst after",
-    "type": "card",
-    "timestamp": 1772606111761
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1772608389882
-  },
-  {
     "url": "https://www.foxnews.com/us/doorbell-video-shows-austin-mass-shooting-suspect-leaving-apartment-before-deadly-rampage",
     "titleNorm": "doorbell video shows austin mass shooting suspect leaving",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "pentagon identifies 4 of 6 us service members",
     "type": "card",
     "timestamp": 1772649266876
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1772651625984
   }
 ]
