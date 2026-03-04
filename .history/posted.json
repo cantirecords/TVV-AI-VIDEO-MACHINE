@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mother-affluent-florida-community-killed-2-children-before-taking-her-own-life-police",
-    "titleNorm": "mother in affluent florida community killed 2 children",
-    "type": "reel",
-    "timestamp": 1772593955310
-  },
-  {
-    "url": "https://www.cbsnews.com/news/stock-market-iran-oil-war-march-3/",
-    "titleNorm": "stocks pare losses as trump says us will",
-    "type": "card",
-    "timestamp": 1772596818334
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-suspect-unleashed-anti-christian-antisemitic-misogynist-rants-social-media-mass-shooting",
     "titleNorm": "austin suspect unleashed antichristian antisemitic misogynistic rants on",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "waymo autonomous car blocks ambulance crew responding to",
     "type": "reel",
     "timestamp": 1772636769156
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-police-officers-no-charges-terror-attack-response-criticism-mandatory-grand-jury-review",
+    "titleNorm": "texas da says no charges for police in",
+    "type": "card",
+    "timestamp": 1772641923649
   }
 ]
