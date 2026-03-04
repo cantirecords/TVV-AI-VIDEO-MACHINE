@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hudson-river-plane-emergency-landing-newburgh-hochul",
-    "titleNorm": "pilot passenger swim to safety after plane crashes",
-    "type": "reel",
-    "timestamp": 1772557995876
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
     "titleNorm": "austin shooting suspect wore iranian flag shirt during",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "austin suspect unleashed antichristian antisemitic misogynistic rants on",
     "type": "card",
     "timestamp": 1772600984772
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/trump-officials-tell-congress-iran-will-hit-overwhelming-firepower-com-rcna261523",
+    "titleNorm": "trump officials tell congress iran will be hit",
+    "type": "reel",
+    "timestamp": 1772602229083
   }
 ]
