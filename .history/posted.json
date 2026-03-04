@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trumps-maga-base-wrestles-iran-strikes-america-first-rcna261206",
-    "titleNorm": "trumps maga base wrestles with iran strikes launched",
-    "type": "card",
-    "timestamp": 1772616810877
-  },
-  {
     "url": "https://www.nbcnews.com/news/military/us-service-members-killed-iran-war-rcna261608",
     "titleNorm": "what we know about the us service members",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "police seek 2 suspects after sleeping man is",
     "type": "card",
     "timestamp": 1772659518854
+  },
+  {
+    "url": "https://www.foxnews.com/us/mother-affluent-florida-community-killed-2-children-before-taking-her-own-life-police",
+    "titleNorm": "mother in affluent florida community killed 2 children",
+    "type": "card",
+    "timestamp": 1772662924774
   }
 ]
