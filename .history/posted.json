@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-futures-asian-shares-open-lower-oil-prices-130663510",
-    "titleNorm": "global markets roiled and energy prices soar with",
-    "type": "reel",
-    "timestamp": 1772565397588
-  },
-  {
     "url": "https://www.foxnews.com/us/over-50-arrested-anti-ice-protesters-allegedly-hurl-rocks-minneapolis-officers-during-demonstration",
     "titleNorm": "over 50 arrested as antiice protesters allegedly hurl",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1772608389882
+  },
+  {
+    "url": "https://www.foxnews.com/us/doorbell-video-shows-austin-mass-shooting-suspect-leaving-apartment-before-deadly-rampage",
+    "titleNorm": "doorbell video shows austin mass shooting suspect leaving",
+    "type": "card",
+    "timestamp": 1772609541475
   }
 ]
