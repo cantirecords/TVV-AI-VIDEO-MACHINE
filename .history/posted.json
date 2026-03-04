@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1772562954115
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-futures-asian-shares-open-lower-oil-prices-130663510",
     "titleNorm": "global markets roiled and energy prices soar with",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "video shows examerican idol contestants emotional outburst after",
     "type": "card",
     "timestamp": 1772606111761
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1772608389882
   }
 ]
