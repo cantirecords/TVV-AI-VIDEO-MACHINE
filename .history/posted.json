@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/violent-repeat-offender-accused-charlotte-knife-attack-free-despite-decade-long-rap-sheet",
-    "titleNorm": "violent repeat offender accused in charlotte knife attack",
-    "type": "card",
-    "timestamp": 1772579857091
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-attacks-threaten-us-economy-uncertainty-inflation-growth-130703457",
     "titleNorm": "iran attacks threaten us economy with more uncertainty",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "nuclear program missiles or regime change trump struggles",
     "type": "reel",
     "timestamp": 1772622260076
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-tehran-lebanon-day-5-al-udeid-targeted/",
+    "titleNorm": "israel steps up strikes in iran and lebanon",
+    "type": "card",
+    "timestamp": 1772623393118
   }
 ]
