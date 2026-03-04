@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/over-50-arrested-anti-ice-protesters-allegedly-hurl-rocks-minneapolis-officers-during-demonstration",
-    "titleNorm": "over 50 arrested as antiice protesters allegedly hurl",
-    "type": "card",
-    "timestamp": 1772566420229
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/2-men-arrested-cincinnati-nightclub-shooting-wounded-9-130715625",
-    "titleNorm": "2 men arrested in cincinnati nightclub shooting that",
-    "type": "card",
-    "timestamp": 1772569466629
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/melania-trump-presides-security-council-meeting-children-conflict-130687091",
     "titleNorm": "melania trump presides at un security council meeting",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "doorbell video shows austin mass shooting suspect leaving",
     "type": "card",
     "timestamp": 1772609541475
+  },
+  {
+    "url": "https://www.cbsnews.com/news/names-us-service-members-killed-iran-war-kuwait/",
+    "titleNorm": "pentagon releases names of first us service members",
+    "type": "card",
+    "timestamp": 1772612868937
   }
 ]
