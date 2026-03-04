@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cincinnati-mayor-opposes-judges-move-grant-bail-convicted-felon-linked-mass-shooting-gun-battle",
-    "titleNorm": "cincinnati mayor opposes judges move to grant bail",
-    "type": "reel",
-    "timestamp": 1772615148589
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trumps-maga-base-wrestles-iran-strikes-america-first-rcna261206",
     "titleNorm": "trumps maga base wrestles with iran strikes launched",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "violent repeat offender accused in charlotte knife attack",
     "type": "reel",
     "timestamp": 1772657839673
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-seek-2-suspects-after-sleeping-man-set-130736389",
+    "titleNorm": "police seek 2 suspects after sleeping man is",
+    "type": "card",
+    "timestamp": 1772659518854
   }
 ]
