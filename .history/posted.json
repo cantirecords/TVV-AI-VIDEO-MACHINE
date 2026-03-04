@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-suspect-unleashed-anti-christian-antisemitic-misogynist-rants-social-media-mass-shooting",
-    "titleNorm": "austin suspect unleashed antichristian antisemitic misogynistic rants on",
-    "type": "card",
-    "timestamp": 1772600984772
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/trump-officials-tell-congress-iran-will-hit-overwhelming-firepower-com-rcna261523",
-    "titleNorm": "trump officials tell congress iran will be hit",
-    "type": "reel",
-    "timestamp": 1772602229083
-  },
-  {
     "url": "https://www.foxnews.com/us/video-shows-ex-american-idol-contestants-emotional-outburst-after-he-allegedly-killed-his-wife",
     "titleNorm": "video shows examerican idol contestants emotional outburst after",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "texas da says no charges for police in",
     "type": "card",
     "timestamp": 1772641923649
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/tech-news/shahed-drones-iran-us-war-ukraine-russia-rcna261285",
+    "titleNorm": "cheap effective and battletested by russia iran leans",
+    "type": "card",
+    "timestamp": 1772645506276
   }
 ]
