@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/dispatch-tehran-nowhere-feels-safe-attack-rcna261273",
-    "titleNorm": "dispatch from tehran nowhere feels safe from attack",
-    "type": "card",
-    "timestamp": 1772555892272
-  },
-  {
     "url": "https://www.foxnews.com/us/hudson-river-plane-emergency-landing-newburgh-hochul",
     "titleNorm": "pilot passenger swim to safety after plane crashes",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "stocks pare losses as trump says us will",
     "type": "card",
     "timestamp": 1772596818334
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-suspect-unleashed-anti-christian-antisemitic-misogynist-rants-social-media-mass-shooting",
+    "titleNorm": "austin suspect unleashed antichristian antisemitic misogynistic rants on",
+    "type": "card",
+    "timestamp": 1772600984772
   }
 ]
