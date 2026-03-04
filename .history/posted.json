@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-warplanes-shot-down-kuwaiti-air-defenses-pilots-bail-out-centcom-says-more-top-headlines",
-    "titleNorm": "us warplanes shot down by kuwaiti air defenses",
-    "type": "reel",
-    "timestamp": 1772545344785
-  },
-  {
-    "url": "https://www.foxnews.com/us/austin-mass-shooting-timeline-traces-suspects-rap-sheet-terror-link-probed",
-    "titleNorm": "austin mass shooting timeline traces suspects rap sheet",
-    "type": "card",
-    "timestamp": 1772548688367
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-college-student-identified-among-victims-austin-bar-shooting-probed-possible-terror-attack",
     "titleNorm": "texas college student identified among victims in austin",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "iran attacks threaten us economy with more uncertainty",
     "type": "card",
     "timestamp": 1772586435525
+  },
+  {
+    "url": "https://www.foxnews.com/us/mother-affluent-florida-community-killed-2-children-before-taking-her-own-life-police",
+    "titleNorm": "mother in affluent florida community killed 2 children",
+    "type": "reel",
+    "timestamp": 1772593955310
   }
 ]
