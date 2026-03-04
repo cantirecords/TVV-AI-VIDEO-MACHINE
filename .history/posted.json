@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-shooting-suspect-iranian-flag-terror-probe",
-    "titleNorm": "austin shooting suspect wore iranian flag shirt during",
-    "type": "card",
-    "timestamp": 1772559578348
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump officials tell congress iran will be hit",
     "type": "reel",
     "timestamp": 1772602229083
+  },
+  {
+    "url": "https://www.foxnews.com/us/video-shows-ex-american-idol-contestants-emotional-outburst-after-he-allegedly-killed-his-wife",
+    "titleNorm": "video shows examerican idol contestants emotional outburst after",
+    "type": "card",
+    "timestamp": 1772606111761
   }
 ]
