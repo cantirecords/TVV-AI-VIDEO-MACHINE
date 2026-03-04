@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/iran-attacks-threaten-us-economy-uncertainty-inflation-growth-130703457",
-    "titleNorm": "iran attacks threaten us economy with more uncertainty",
-    "type": "card",
-    "timestamp": 1772586435525
-  },
-  {
     "url": "https://www.foxnews.com/us/mother-affluent-florida-community-killed-2-children-before-taking-her-own-life-police",
     "titleNorm": "mother in affluent florida community killed 2 children",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "father of georgia high school shooting suspect convicted",
     "type": "card",
     "timestamp": 1772627575509
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-bar-shooting-victims-named-fbi-investigates-potential-terrorism-nexus-weekend-attack",
+    "titleNorm": "austin bar shooting victims named as fbi investigates",
+    "type": "reel",
+    "timestamp": 1772631540980
   }
 ]
