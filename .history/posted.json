@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/doorbell-video-shows-austin-mass-shooting-suspect-leaving-apartment-before-deadly-rampage",
-    "titleNorm": "doorbell video shows austin mass shooting suspect leaving",
-    "type": "card",
-    "timestamp": 1772609541475
-  },
-  {
     "url": "https://www.cbsnews.com/news/names-us-service-members-killed-iran-war-kuwait/",
     "titleNorm": "pentagon releases names of first us service members",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1772651625984
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/trump-officials-consider-arming-kurdish-opposition-irans-regime-rcna261731",
+    "titleNorm": "trump officials consider arming kurdish opposition against irans",
+    "type": "card",
+    "timestamp": 1772652765438
   }
 ]
