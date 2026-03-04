@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/national-security/nuclear-program-missiles-regime-change-trump-struggles-define-iran-war-rcna261309",
-    "titleNorm": "nuclear program missiles or regime change trump struggles",
-    "type": "reel",
-    "timestamp": 1772622260076
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-tehran-lebanon-day-5-al-udeid-targeted/",
     "titleNorm": "israel steps up strikes in iran and lebanon",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "home loans gas groceries how the iran war",
     "type": "reel",
     "timestamp": 1772665091973
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1772666497901
   }
 ]
