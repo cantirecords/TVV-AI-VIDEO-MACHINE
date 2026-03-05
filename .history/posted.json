@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-administration-order-us-manufacturers-make-munitions-iran-war-rcna261312",
-    "titleNorm": "trump administration could order us manufacturers to make",
-    "type": "card",
-    "timestamp": 1772699406186
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "what we know about us service members killed",
     "type": "reel",
     "timestamp": 1772739807009
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-tariffs-states-sue-trump-administration-supreme-court-ruling/",
+    "titleNorm": "24 states sue trump administration over new global",
+    "type": "card",
+    "timestamp": 1772742721785
   }
 ]
