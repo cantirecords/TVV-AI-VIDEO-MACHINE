@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-officials-consider-arming-kurdish-opposition-irans-regime-rcna261731",
-    "titleNorm": "trump officials consider arming kurdish opposition against irans",
-    "type": "card",
-    "timestamp": 1772652765438
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "bodies of two young halfsisters found buried in",
     "type": "reel",
     "timestamp": 1772694997169
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-accused-stabbing-pregnant-woman-70-times-tries-nap-police-cruiser-arrest",
+    "titleNorm": "teen accused of stabbing pregnant woman 70 times",
+    "type": "card",
+    "timestamp": 1772696203441
   }
 ]
