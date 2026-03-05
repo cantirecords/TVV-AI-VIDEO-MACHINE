@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-bar-shooting-victims-named-fbi-investigates-potential-terrorism-nexus-weekend-attack",
-    "titleNorm": "austin bar shooting victims named as fbi investigates",
-    "type": "reel",
-    "timestamp": 1772631540980
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-loosen-law-barring-marijuana-users-owning-130690336",
-    "titleNorm": "supreme court could loosen law barring marijuana users",
-    "type": "card",
-    "timestamp": 1772632255514
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/united-flight-returns-la-airport-evacuation-after-reported-130695746",
-    "titleNorm": "united flight returns to la airport for an",
-    "type": "card",
-    "timestamp": 1772634893427
-  },
-  {
-    "url": "https://www.foxnews.com/us/waymo-autonomous-car-blocks-ambulance-crew-responding-deadly-austin-mass-shooting",
-    "titleNorm": "waymo autonomous car blocks ambulance crew responding to",
-    "type": "reel",
-    "timestamp": 1772636769156
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-police-officers-no-charges-terror-attack-response-criticism-mandatory-grand-jury-review",
     "titleNorm": "texas da says no charges for police in",
     "type": "card",
@@ -94,5 +70,11 @@
     "titleNorm": "alleged bullying attack leaves 12yearold girl dead after",
     "type": "card",
     "timestamp": 1772673144862
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-young-unidentified-black-girls-found-dead-inside-buried-suitcases-cleveland-ohio",
+    "titleNorm": "two young unidentified black girls found dead inside",
+    "type": "reel",
+    "timestamp": 1772680557835
   }
 ]
