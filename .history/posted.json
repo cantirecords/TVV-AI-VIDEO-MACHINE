@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-young-unidentified-black-girls-found-dead-inside-buried-suitcases-cleveland-ohio",
-    "titleNorm": "two young unidentified black girls found dead inside",
-    "type": "reel",
-    "timestamp": 1772680557835
-  },
-  {
     "url": "https://www.foxnews.com/us/man-killed-texas-after-border-patrol-checkpoint-flight-shootout",
     "titleNorm": "wisconsin man who fled border patrol checkpoint in",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "alleged bullying attack leaves 12yearold girl dead after",
     "type": "reel",
     "timestamp": 1772723597798
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/colorado-governor-signals-willingness-release-tina-peters-prison-130771672",
+    "titleNorm": "colorado governor signals willingness to release tina peters",
+    "type": "card",
+    "timestamp": 1772725264403
   }
 ]
