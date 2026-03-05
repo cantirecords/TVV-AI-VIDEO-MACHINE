@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/bodies-young-half-sisters-found-buried-suitcases-cleveland-130765839",
-    "titleNorm": "bodies of two young halfsisters found buried in",
-    "type": "reel",
-    "timestamp": 1772694997169
-  },
-  {
-    "url": "https://www.foxnews.com/us/teen-accused-stabbing-pregnant-woman-70-times-tries-nap-police-cruiser-arrest",
-    "titleNorm": "teen accused of stabbing pregnant woman 70 times",
-    "type": "card",
-    "timestamp": 1772696203441
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/trump-administration-order-us-manufacturers-make-munitions-iran-war-rcna261312",
     "titleNorm": "trump administration could order us manufacturers to make",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "watershed moment as russias sporting exile ends",
     "type": "card",
     "timestamp": 1772737652292
+  },
+  {
+    "url": "https://www.nbcnews.com/news/military/us-service-members-killed-iran-war-rcna261608",
+    "titleNorm": "what we know about us service members killed",
+    "type": "reel",
+    "timestamp": 1772739807009
   }
 ]
