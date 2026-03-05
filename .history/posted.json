@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/police-seek-2-suspects-after-sleeping-man-set-130736389",
-    "titleNorm": "police seek 2 suspects after sleeping man is",
-    "type": "card",
-    "timestamp": 1772659518854
-  },
-  {
     "url": "https://www.foxnews.com/us/mother-affluent-florida-community-killed-2-children-before-taking-her-own-life-police",
     "titleNorm": "mother in affluent florida community killed 2 children",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1772701647672
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-k9-officer-cody-siebert-brain-infection-death",
+    "titleNorm": "minnesota police sergeant father of two dies suddenly",
+    "type": "card",
+    "timestamp": 1772703231977
   }
 ]
