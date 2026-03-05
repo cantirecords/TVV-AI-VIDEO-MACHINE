@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alleged-bullying-attack-leaves-12-year-old-girl-dead-after-defending-sister-mom-says",
-    "titleNorm": "alleged bullying attack leaves 12yearold girl dead after",
-    "type": "card",
-    "timestamp": 1772673144862
-  },
-  {
     "url": "https://www.foxnews.com/us/two-young-unidentified-black-girls-found-dead-inside-buried-suitcases-cleveland-ohio",
     "titleNorm": "two young unidentified black girls found dead inside",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1772714200235
+  },
+  {
+    "url": "https://www.foxnews.com/us/mother-mauled-death-savage-dog-attack-while-shielding-5-year-old-son",
+    "titleNorm": "mother mauled to death in savage dog attack",
+    "type": "reel",
+    "timestamp": 1772718157538
   }
 ]
