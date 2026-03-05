@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-police-officers-no-charges-terror-attack-response-criticism-mandatory-grand-jury-review",
-    "titleNorm": "texas da says no charges for police in",
-    "type": "card",
-    "timestamp": 1772692718659
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/bodies-young-half-sisters-found-buried-suitcases-cleveland-130765839",
     "titleNorm": "bodies of two young halfsisters found buried in",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "us scrambles fighter jets to track 2 russian",
     "type": "reel",
     "timestamp": 1772735384502
+  },
+  {
+    "url": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "watershed moment as russias sporting exile ends",
+    "type": "card",
+    "timestamp": 1772737652292
   }
 ]
