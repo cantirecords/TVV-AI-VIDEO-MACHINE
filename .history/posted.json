@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pentagon-identifies-us-service-members-killed-drone-attack-more-top-headlines",
-    "titleNorm": "pentagon identifies 4 of 6 us service members",
-    "type": "card",
-    "timestamp": 1772649266876
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "with time running out snow drought and warm",
     "type": "card",
     "timestamp": 1772689262691
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-police-officers-no-charges-terror-attack-response-criticism-mandatory-grand-jury-review",
+    "titleNorm": "texas da says no charges for police in",
+    "type": "card",
+    "timestamp": 1772692718659
   }
 ]
