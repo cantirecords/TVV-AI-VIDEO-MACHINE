@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-warned-prosecutors-3-times-violent-illegal-immigrant-allegedly-killed-virginia-mother",
-    "titleNorm": "police warned prosecutors 3 times about violent illegal",
-    "type": "card",
-    "timestamp": 1772749294233
-  },
-  {
     "url": "https://www.foxnews.com/us/teen-accused-stabbing-pregnant-woman-70-times-tries-nap-police-cruiser-arrest",
     "titleNorm": "teen accused of stabbing pregnant woman 70 times",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump says he wants irans leadership structure gone",
     "type": "card",
     "timestamp": 1772789334854
+  },
+  {
+    "url": "https://www.foxnews.com/us/second-suspect-arrested-nyc-snowball-fight-sends-2-police-officers-hospital",
+    "titleNorm": "second suspect arrested after nyc snowball fight sends",
+    "type": "card",
+    "timestamp": 1772792812232
   }
 ]
