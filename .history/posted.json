@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1772795047733
-  },
-  {
     "url": "https://www.foxnews.com/us/gofundme-us-soldier-killed-iran-war-raises-more-than-94k",
     "titleNorm": "gofundme for us soldier killed in iran war",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump says he wants irans leadership structure gone",
     "type": "reel",
     "timestamp": 1772837763492
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-war-oil-prices-airfare-united-ceo-scott-kirby/",
+    "titleNorm": "united ceo said us airfares could rise as",
+    "type": "card",
+    "timestamp": 1772839138625
   }
 ]
