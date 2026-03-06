@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/britney-spears-arrested-southern-california-rcna261902",
-    "titleNorm": "britney spears arrested in southern california",
-    "type": "card",
-    "timestamp": 1772733228241
-  },
-  {
-    "url": "https://www.foxnews.com/us/us-scrambles-fighter-jets-russian-aircraft-detected-alaska-adiz",
-    "titleNorm": "us scrambles fighter jets to track 2 russian",
-    "type": "reel",
-    "timestamp": 1772735384502
-  },
-  {
     "url": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "watershed moment as russias sporting exile ends",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "federal agents arrest 12 alleged members of las",
     "type": "reel",
     "timestamp": 1772775135360
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/republican-led-house-declines-constrain-trumps-war-iran-just-senate-rcna261909",
+    "titleNorm": "republicanled house declines to constrain trumps war in",
+    "type": "card",
+    "timestamp": 1772778939281
   }
 ]
