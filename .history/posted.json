@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/republican-led-house-declines-constrain-trumps-war-iran-just-senate-rcna261909",
-    "titleNorm": "republicanled house declines to constrain trumps war in",
-    "type": "card",
-    "timestamp": 1772778939281
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/doj-releases-missing-epstein-files-related-woman-made-allegation-trump-rcna262024",
     "titleNorm": "doj releases missing epstein files related to a",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "suspect in custody in colorado in the case",
     "type": "card",
     "timestamp": 1772821902206
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/bernard-lafayette-selma-voting-rights-organizer-dies-85-130806295",
+    "titleNorm": "bernard lafayette selma voting rights organizer dies at",
+    "type": "reel",
+    "timestamp": 1772824226111
   }
 ]
