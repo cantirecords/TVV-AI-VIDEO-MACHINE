@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/sport/articles/ckgzzepvgx2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "watershed moment as russias sporting exile ends",
-    "type": "card",
-    "timestamp": 1772737652292
-  },
-  {
     "url": "https://www.nbcnews.com/news/military/us-service-members-killed-iran-war-rcna261608",
     "titleNorm": "what we know about us service members killed",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "republicanled house declines to constrain trumps war in",
     "type": "card",
     "timestamp": 1772778939281
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/doj-releases-missing-epstein-files-related-woman-made-allegation-trump-rcna262024",
+    "titleNorm": "doj releases missing epstein files related to a",
+    "type": "reel",
+    "timestamp": 1772781262749
   }
 ]
