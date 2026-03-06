@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-agents-arrest-12-alleged-members-las-massive-18th-street-gang-drug-trafficking-operation",
-    "titleNorm": "federal agents arrest 12 alleged members of las",
-    "type": "reel",
-    "timestamp": 1772775135360
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/republican-led-house-declines-constrain-trumps-war-iran-just-senate-rcna261909",
     "titleNorm": "republicanled house declines to constrain trumps war in",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "san francisco mayor admits city needs a reset",
     "type": "card",
     "timestamp": 1772818040356
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/3-women-found-dead-utah-suspect-loose-county-130786181",
+    "titleNorm": "suspect in custody in colorado in the case",
+    "type": "card",
+    "timestamp": 1772821902206
   }
 ]
