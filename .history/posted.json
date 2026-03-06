@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/military/us-service-members-killed-iran-war-rcna261608",
-    "titleNorm": "what we know about us service members killed",
-    "type": "reel",
-    "timestamp": 1772739807009
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-tariffs-states-sue-trump-administration-supreme-court-ruling/",
     "titleNorm": "24 states sue trump administration over new global",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "family of mom allegedly killed by examerican idol",
     "type": "card",
     "timestamp": 1772782429497
+  },
+  {
+    "url": "https://www.foxnews.com/us/georgia-sheriff-arrested-dui-charge-after-blood-alcohol-content-allegedly-almost-triple-legal-limit",
+    "titleNorm": "georgia sheriff arrested on dui charge after blood",
+    "type": "card",
+    "timestamp": 1772785634756
   }
 ]
