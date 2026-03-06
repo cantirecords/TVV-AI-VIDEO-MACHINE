@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/doj-releases-missing-epstein-files-related-woman-made-allegation-trump-rcna262024",
-    "titleNorm": "doj releases missing epstein files related to a",
-    "type": "reel",
-    "timestamp": 1772781262749
-  },
-  {
     "url": "https://www.foxnews.com/us/family-mom-allegedly-killed-ex-american-idol-hopeful-demands-life-insurance-details",
     "titleNorm": "family of mom allegedly killed by examerican idol",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "bernard lafayette selma voting rights organizer dies at",
     "type": "reel",
     "timestamp": 1772824226111
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/capitol-rioter-pardoned-trump-gets-life-sentence-molesting-130798325",
+    "titleNorm": "capitol rioter who was pardoned by trump gets",
+    "type": "card",
+    "timestamp": 1772825277001
   }
 ]
