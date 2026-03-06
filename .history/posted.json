@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/suspect-captured-after-3-women-found-dead-southern-utah",
-    "titleNorm": "rural community on edge after husbands find their",
-    "type": "reel",
-    "timestamp": 1772766869935
-  },
-  {
     "url": "https://www.foxnews.com/us/army-reservist-killed-iranian-drone-strike-kuwait-spent-final-hours-reassuring-family",
     "titleNorm": "army reservist 20 killed in iranian drone strike",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "mother and daughter killed in storm as tornado",
     "type": "reel",
     "timestamp": 1772809535868
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
+    "titleNorm": "california man allegedly fires gun near school zone",
+    "type": "card",
+    "timestamp": 1772810865819
   }
 ]
