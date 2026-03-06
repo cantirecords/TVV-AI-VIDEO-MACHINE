@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/family-mom-allegedly-killed-ex-american-idol-hopeful-demands-life-insurance-details",
-    "titleNorm": "family of mom allegedly killed by examerican idol",
-    "type": "card",
-    "timestamp": 1772782429497
-  },
-  {
     "url": "https://www.foxnews.com/us/georgia-sheriff-arrested-dui-charge-after-blood-alcohol-content-allegedly-almost-triple-legal-limit",
     "titleNorm": "georgia sheriff arrested on dui charge after blood",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "capitol rioter who was pardoned by trump gets",
     "type": "card",
     "timestamp": 1772825277001
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "the young women who fought in ethiopias last",
+    "type": "card",
+    "timestamp": 1772828452254
   }
 ]
