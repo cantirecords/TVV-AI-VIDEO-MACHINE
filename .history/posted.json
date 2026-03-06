@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/woman-detained-investigation-2-girls-bodies-buried-suitcases-130793778",
-    "titleNorm": "woman detained in investigation of 2 girls bodies",
-    "type": "card",
-    "timestamp": 1772745941691
-  },
-  {
     "url": "https://www.foxnews.com/us/police-warned-prosecutors-3-times-violent-illegal-immigrant-allegedly-killed-virginia-mother",
     "titleNorm": "police warned prosecutors 3 times about violent illegal",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "azerbaijan furious with iran as war spills over",
     "type": "reel",
     "timestamp": 1772787876311
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/wants-iran-leadership-structure-gone-preference-good-leader-rcna262039",
+    "titleNorm": "trump says he wants irans leadership structure gone",
+    "type": "card",
+    "timestamp": 1772789334854
   }
 ]
