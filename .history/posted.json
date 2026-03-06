@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/colorado-governor-signals-willingness-release-tina-peters-prison-130771672",
-    "titleNorm": "colorado governor signals willingness to release tina peters",
-    "type": "card",
-    "timestamp": 1772725264403
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/britney-spears-arrested-southern-california-rcna261902",
     "titleNorm": "britney spears arrested in southern california",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "rural community on edge after husbands find their",
     "type": "reel",
     "timestamp": 1772766869935
+  },
+  {
+    "url": "https://www.foxnews.com/us/army-reservist-killed-iranian-drone-strike-kuwait-spent-final-hours-reassuring-family",
+    "titleNorm": "army reservist 20 killed in iranian drone strike",
+    "type": "card",
+    "timestamp": 1772769663053
   }
 ]
