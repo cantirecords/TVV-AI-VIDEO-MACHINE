@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1772773915607
-  },
-  {
     "url": "https://www.foxnews.com/us/federal-agents-arrest-12-alleged-members-las-massive-18th-street-gang-drug-trafficking-operation",
     "titleNorm": "federal agents arrest 12 alleged members of las",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "man who was on parole after prior violent",
     "type": "reel",
     "timestamp": 1772817060531
+  },
+  {
+    "url": "https://www.foxnews.com/us/san-francisco-mayor-admits-city-needs-reset-hours-before-attack-security-detail",
+    "titleNorm": "san francisco mayor admits city needs a reset",
+    "type": "card",
+    "timestamp": 1772818040356
   }
 ]
