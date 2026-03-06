@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1772714200235
-  },
-  {
     "url": "https://www.foxnews.com/us/mother-mauled-death-savage-dog-attack-while-shielding-5-year-old-son",
     "titleNorm": "mother mauled to death in savage dog attack",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "small plane crashes into phoenix home minutes after",
     "type": "card",
     "timestamp": 1772754343685
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
+    "titleNorm": "california man fires gun near school zone barricades",
+    "type": "card",
+    "timestamp": 1772759634919
   }
 ]
