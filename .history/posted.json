@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/men-attacked-san-francisco-mayors-bodyguards-authorities-130835813",
-    "titleNorm": "two men attacked san francisco mayors bodyguards authorities",
-    "type": "card",
-    "timestamp": 1772859313752
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-send-anti-drone-system-mideast-after-successful-130839591",
     "titleNorm": "us to send antidrone system to the mideast",
     "type": "reel",
@@ -118,5 +112,11 @@
     "titleNorm": "san francisco mayor admits city needs a reset",
     "type": "reel",
     "timestamp": 1772902280546
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/state-actors-visual-misinformation-iran-war-130849781",
+    "titleNorm": "state actors are behind much of the visual",
+    "type": "card",
+    "timestamp": 1772903628088
   }
 ]
