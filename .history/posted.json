@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/bernard-lafayette-selma-voting-rights-organizer-dies-85-130806295",
-    "titleNorm": "bernard lafayette selma voting rights organizer dies at",
-    "type": "reel",
-    "timestamp": 1772824226111
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/capitol-rioter-pardoned-trump-gets-life-sentence-molesting-130798325",
     "titleNorm": "capitol rioter who was pardoned by trump gets",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "four illegal immigrants linked to ms13 indicted for",
     "type": "reel",
     "timestamp": 1772867184842
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-turn-attention-western-hemisphere-moment-americas-summit-130850145",
+    "titleNorm": "trump looks to turn attention to western hemisphere",
+    "type": "card",
+    "timestamp": 1772868176252
   }
 ]
