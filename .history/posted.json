@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-florida-students-10-11-arrested-alleged-shooting-threats-discipline-your-kids",
-    "titleNorm": "two florida students 10 and 11 arrested over",
-    "type": "card",
-    "timestamp": 1772835586001
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/wants-iran-leadership-structure-gone-preference-good-leader-rcna262039",
     "titleNorm": "trump says he wants irans leadership structure gone",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "iran says a girls039 school was hit by",
     "type": "card",
     "timestamp": 1772878477402
+  },
+  {
+    "url": "https://www.nbcnews.com/video/special-report-nbc-news-exclusive-interview-with-iran-s-foreign-minister-on-war-with-u-s-258762821972",
+    "titleNorm": "special report nbc news exclusive interview with irans",
+    "type": "reel",
+    "timestamp": 1772880546301
   }
 ]
