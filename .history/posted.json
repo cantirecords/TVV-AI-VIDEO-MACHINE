@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
-    "titleNorm": "sorosbacked prochina network fuels protests against us tech",
-    "type": "card",
-    "timestamp": 1772814627555
-  },
-  {
     "url": "https://www.foxnews.com/us/man-who-parole-after-prior-violent-offenses-now-accused-4-murders",
     "titleNorm": "man who was on parole after prior violent",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "what led to trump firing homeland security sec",
     "type": "card",
     "timestamp": 1772855560378
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/men-attacked-san-francisco-mayors-bodyguards-authorities-130835813",
+    "titleNorm": "two men attacked san francisco mayors bodyguards authorities",
+    "type": "card",
+    "timestamp": 1772859313752
   }
 ]
