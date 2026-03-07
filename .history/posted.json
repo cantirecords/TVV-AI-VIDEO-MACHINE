@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/portland-residents-ice-building-win-court-order-limiting-130845830",
-    "titleNorm": "portland residents near ice building win court order",
-    "type": "reel",
-    "timestamp": 1772852775012
-  },
-  {
     "url": "https://www.today.com/video/what-led-to-trump-firing-homeland-security-sec-kristi-noem-258819141836",
     "titleNorm": "what led to trump firing homeland security sec",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "emergency landing ends in tragedy as plane crashes",
     "type": "reel",
     "timestamp": 1772895019973
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/portland-residents-ice-building-win-court-order-limiting-130845830",
+    "titleNorm": "portland residents near ice building win court order",
+    "type": "card",
+    "timestamp": 1772896431434
   }
 ]
