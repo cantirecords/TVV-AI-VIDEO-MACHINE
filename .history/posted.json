@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-detainees-iran-risk-becoming-collateral-damage-war-130850085",
-    "titleNorm": "us detainees in iran risk becoming collateral damage",
-    "type": "card",
-    "timestamp": 1772871614611
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-war-deaths-resurface-trumps-complicated-history-military-130849802",
     "titleNorm": "iran war deaths could resurface trumps complicated history",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump looks to turn attention to western hemisphere",
     "type": "card",
     "timestamp": 1772914539035
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-who-parole-after-prior-violent-offenses-now-accused-4-murders",
+    "titleNorm": "man who was on parole after prior violent",
+    "type": "reel",
+    "timestamp": 1772916505176
   }
 ]
