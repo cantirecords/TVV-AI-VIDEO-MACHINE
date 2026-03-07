@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iran-girls-school-alleged-strike/",
-    "titleNorm": "iran says a girls039 school was hit by",
-    "type": "card",
-    "timestamp": 1772878477402
-  },
-  {
     "url": "https://www.nbcnews.com/video/special-report-nbc-news-exclusive-interview-with-iran-s-foreign-minister-on-war-with-u-s-258762821972",
     "titleNorm": "special report nbc news exclusive interview with irans",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "shark attack deaths surge above decade average in",
     "type": "card",
     "timestamp": 1772921663906
+  },
+  {
+    "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
+    "titleNorm": "four illegal immigrants linked to ms13 indicted for",
+    "type": "reel",
+    "timestamp": 1772923743125
   }
 ]
