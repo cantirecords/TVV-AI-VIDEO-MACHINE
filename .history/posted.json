@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
-    "titleNorm": "four illegal immigrants linked to ms13 indicted for",
-    "type": "reel",
-    "timestamp": 1772867184842
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-turn-attention-western-hemisphere-moment-americas-summit-130850145",
     "titleNorm": "trump looks to turn attention to western hemisphere",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "war in the middle east ensnares many muslim",
     "type": "reel",
     "timestamp": 1772909892667
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/oil-gas-prices-rapidly-rise-iran-war-shows-130849752",
+    "titleNorm": "oil and gas prices rapidly rise as iran",
+    "type": "card",
+    "timestamp": 1772910888602
   }
 ]
