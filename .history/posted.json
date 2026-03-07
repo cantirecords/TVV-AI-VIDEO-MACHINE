@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-women-found-dead-utah-suspect-loose-county-130786181",
-    "titleNorm": "suspect in custody in colorado in the case",
-    "type": "card",
-    "timestamp": 1772821902206
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/bernard-lafayette-selma-voting-rights-organizer-dies-85-130806295",
     "titleNorm": "bernard lafayette selma voting rights organizer dies at",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "a 220 million ad blitz and a public",
     "type": "card",
     "timestamp": 1772864934311
+  },
+  {
+    "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
+    "titleNorm": "four illegal immigrants linked to ms13 indicted for",
+    "type": "reel",
+    "timestamp": 1772867184842
   }
 ]
