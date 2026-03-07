@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-turn-attention-western-hemisphere-moment-americas-summit-130850145",
-    "titleNorm": "trump looks to turn attention to western hemisphere",
-    "type": "card",
-    "timestamp": 1772868176252
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-detainees-iran-risk-becoming-collateral-damage-war-130850085",
     "titleNorm": "us detainees in iran risk becoming collateral damage",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "oil and gas prices rapidly rise as iran",
     "type": "card",
     "timestamp": 1772910888602
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-turn-attention-western-hemisphere-moment-americas-summit-130850145",
+    "titleNorm": "trump looks to turn attention to western hemisphere",
+    "type": "card",
+    "timestamp": 1772914539035
   }
 ]
