@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/army-reservist-killed-iranian-drone-strike-kuwait-spent-final-hours-reassuring-family",
-    "titleNorm": "army reservist 20 killed in iranian drone strike",
-    "type": "card",
-    "timestamp": 1772845597172
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/portland-residents-ice-building-win-court-order-limiting-130845830",
     "titleNorm": "portland residents near ice building win court order",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "california man allegedly fires gun near school zone",
     "type": "card",
     "timestamp": 1772886357628
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
+    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
+    "type": "reel",
+    "timestamp": 1772889313675
   }
 ]
