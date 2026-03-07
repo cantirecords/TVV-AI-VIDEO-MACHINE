@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/220-million-ad-blitz-public-split-trump-mark-130841252",
-    "titleNorm": "a 220 million ad blitz and a public",
-    "type": "card",
-    "timestamp": 1772864934311
-  },
-  {
     "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
     "titleNorm": "four illegal immigrants linked to ms13 indicted for",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "the young women who fought in ethiopias last",
     "type": "card",
     "timestamp": 1772907647851
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/war-middle-east-ensnares-muslim-pilgrims-travel-chaos-130848380",
+    "titleNorm": "war in the middle east ensnares many muslim",
+    "type": "reel",
+    "timestamp": 1772909892667
   }
 ]
