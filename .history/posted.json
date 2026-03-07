@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-education-dept-employee-arrested-charged-murder-bronx-father",
-    "titleNorm": "nyc dept of education employee arrested charged with",
-    "type": "reel",
-    "timestamp": 1772804142833
-  },
-  {
-    "url": "https://www.foxnews.com/us/us-scrambles-fighter-jets-russian-aircraft-detected-alaska-adiz",
-    "titleNorm": "us scrambles fighter jets to track 2 russian",
-    "type": "card",
-    "timestamp": 1772804793827
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1772807411132
-  },
-  {
-    "url": "https://www.cbsnews.com/news/oklahoma-storms-tornadoes-deaths/",
-    "titleNorm": "mother and daughter killed in storm as tornado",
-    "type": "reel",
-    "timestamp": 1772809535868
-  },
-  {
     "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
     "titleNorm": "california man allegedly fires gun near school zone",
     "type": "card",
@@ -106,5 +82,11 @@
     "titleNorm": "army reservist 20 killed in iranian drone strike",
     "type": "card",
     "timestamp": 1772845597172
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/portland-residents-ice-building-win-court-order-limiting-130845830",
+    "titleNorm": "portland residents near ice building win court order",
+    "type": "reel",
+    "timestamp": 1772852775012
   }
 ]
