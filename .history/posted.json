@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-government-contractor-accused-stealing-46m-arrested-small-island-fbi-announces",
-    "titleNorm": "us government contractor accused of stealing 46m arrested",
-    "type": "reel",
-    "timestamp": 1772830607776
-  },
-  {
     "url": "https://www.foxnews.com/us/small-plane-crashes-phoenix-home-minutes-after-takeoff-injuring-3",
     "titleNorm": "small plane crashes into phoenix home minutes after",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "iran war deaths could resurface trumps complicated history",
     "type": "reel",
     "timestamp": 1772873689448
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iranian-attacks-target-gulf-states-us-warns-bombing-130851335",
+    "titleNorm": "iranian attacks target gulf states as us warns",
+    "type": "card",
+    "timestamp": 1772875226015
   }
 ]
