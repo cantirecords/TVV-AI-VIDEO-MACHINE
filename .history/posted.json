@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iran-war-oil-prices-airfare-united-ceo-scott-kirby/",
-    "titleNorm": "united ceo said us airfares could rise as",
-    "type": "card",
-    "timestamp": 1772839138625
-  },
-  {
     "url": "https://www.foxnews.com/us/army-reservist-killed-iranian-drone-strike-kuwait-spent-final-hours-reassuring-family",
     "titleNorm": "army reservist 20 killed in iranian drone strike",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "doj asks appeals court to restore trump039s executive",
     "type": "card",
     "timestamp": 1772881943010
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
+    "titleNorm": "california man allegedly fires gun near school zone",
+    "type": "card",
+    "timestamp": 1772886357628
   }
 ]
