@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-who-parole-after-prior-violent-offenses-now-accused-4-murders",
-    "titleNorm": "man who was on parole after prior violent",
-    "type": "reel",
-    "timestamp": 1772817060531
-  },
-  {
     "url": "https://www.foxnews.com/us/san-francisco-mayor-admits-city-needs-reset-hours-before-attack-security-detail",
     "titleNorm": "san francisco mayor admits city needs a reset",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "two men attacked san francisco mayors bodyguards authorities",
     "type": "card",
     "timestamp": 1772859313752
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-send-anti-drone-system-mideast-after-successful-130839591",
+    "titleNorm": "us to send antidrone system to the mideast",
+    "type": "reel",
+    "timestamp": 1772860488189
   }
 ]
