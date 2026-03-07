@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
-    "titleNorm": "california man allegedly fires gun near school zone",
-    "type": "card",
-    "timestamp": 1772810865819
-  },
-  {
     "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
     "titleNorm": "sorosbacked prochina network fuels protests against us tech",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "portland residents near ice building win court order",
     "type": "reel",
     "timestamp": 1772852775012
+  },
+  {
+    "url": "https://www.today.com/video/what-led-to-trump-firing-homeland-security-sec-kristi-noem-258819141836",
+    "titleNorm": "what led to trump firing homeland security sec",
+    "type": "card",
+    "timestamp": 1772855560378
   }
 ]
