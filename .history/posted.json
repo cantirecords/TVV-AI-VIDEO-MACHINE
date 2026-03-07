@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/small-plane-crashes-phoenix-home-minutes-after-takeoff-injuring-3",
-    "titleNorm": "small plane crashes into phoenix home minutes after",
-    "type": "card",
-    "timestamp": 1772832093465
-  },
-  {
     "url": "https://www.foxnews.com/us/two-florida-students-10-11-arrested-alleged-shooting-threats-discipline-your-kids",
     "titleNorm": "two florida students 10 and 11 arrested over",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "iranian attacks target gulf states as us warns",
     "type": "card",
     "timestamp": 1772875226015
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-girls-school-alleged-strike/",
+    "titleNorm": "iran says a girls039 school was hit by",
+    "type": "card",
+    "timestamp": 1772878477402
   }
 ]
