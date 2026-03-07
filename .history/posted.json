@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/san-francisco-mayor-admits-city-needs-reset-hours-before-attack-security-detail",
-    "titleNorm": "san francisco mayor admits city needs a reset",
-    "type": "card",
-    "timestamp": 1772818040356
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-women-found-dead-utah-suspect-loose-county-130786181",
     "titleNorm": "suspect in custody in colorado in the case",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "us to send antidrone system to the mideast",
     "type": "reel",
     "timestamp": 1772860488189
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1772861578212
   }
 ]
