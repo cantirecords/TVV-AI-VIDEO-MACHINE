@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shark-attack-deaths-surge-above-decade-average-2025",
-    "titleNorm": "shark attack deaths surge above decade average in",
-    "type": "card",
-    "timestamp": 1772921663906
-  },
-  {
     "url": "https://www.foxnews.com/us/four-illegal-immigrants-linked-ms-13-indicted-allegedly-murdering-14-year-old-boy-maryland-park",
     "titleNorm": "four illegal immigrants linked to ms13 indicted for",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
     "type": "card",
     "timestamp": 1772961593847
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1772964985557
   }
 ]
