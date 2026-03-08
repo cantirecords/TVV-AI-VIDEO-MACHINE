@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-who-parole-after-prior-violent-offenses-now-accused-4-murders",
-    "titleNorm": "man who was on parole after prior violent",
-    "type": "reel",
-    "timestamp": 1772916505176
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump vows to hit iran very hard says",
     "type": "card",
     "timestamp": 1772958067259
+  },
+  {
+    "url": "https://www.foxnews.com/us/haunting-note-vegas-hotel-door-hinted-tragedy-before-cheer-mom-daughter-found-dead",
+    "titleNorm": "haunting note on vegas hotel door hinted at",
+    "type": "reel",
+    "timestamp": 1772960137763
   }
 ]
