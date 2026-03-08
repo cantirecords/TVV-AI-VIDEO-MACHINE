@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/videos-show-us-citizens-shooting-death-texas-year-130851153",
-    "titleNorm": "videos show us citizens shooting death in texas",
-    "type": "reel",
-    "timestamp": 1772947777486
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-first-lady-attend-dignified-transfer-6-us-troops-killed-kuwait",
-    "titleNorm": "trump and first lady attend dignified transfer for",
-    "type": "card",
-    "timestamp": 1772948225027
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-detainees-iran-risk-becoming-collateral-damage-war-130850085",
     "titleNorm": "us detainees in iran risk becoming collateral damage",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "war in the middle east ensnares many muslim",
     "type": "card",
     "timestamp": 1772990121168
+  },
+  {
+    "url": "https://www.foxnews.com/us/adopted-daughter-george-w-bushs-intelligence-director-john-negroponte-sentenced-friends-drunken-murder",
+    "titleNorm": "adopted daughter of george w bushs intelligence director",
+    "type": "card",
+    "timestamp": 1772994037109
   }
 ]
