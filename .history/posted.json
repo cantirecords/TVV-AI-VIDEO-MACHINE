@@ -82,5 +82,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1772967081268
+  },
+  {
+    "url": "https://www.cbsnews.com/news/michigan-tornado-storms-oklahoma-severe-weather-fatalities/",
+    "titleNorm": "at least 6 dead after tornado rips through",
+    "type": "card",
+    "timestamp": 1772968431051
   }
 ]
