@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
-    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
-    "type": "reel",
-    "timestamp": 1772939861136
-  },
-  {
-    "url": "https://www.cbsnews.com/news/bodycam-video-ice-fatal-shooting-ruben-ray-martinez-texas/",
-    "titleNorm": "bodycam video contradicts ice claims in fatal shooting",
-    "type": "card",
-    "timestamp": 1772942557345
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/videos-show-us-citizens-shooting-death-texas-year-130851153",
     "titleNorm": "videos show us citizens shooting death in texas",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "emergency landing ends in tragedy as plane crashes",
     "type": "card",
     "timestamp": 1772982902652
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
+    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
+    "type": "card",
+    "timestamp": 1772986612347
   }
 ]
