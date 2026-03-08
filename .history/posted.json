@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-regime-targets/",
-    "titleNorm": "trump vows to hit iran very hard says",
-    "type": "card",
-    "timestamp": 1772958067259
-  },
-  {
     "url": "https://www.foxnews.com/us/haunting-note-vegas-hotel-door-hinted-tragedy-before-cheer-mom-daughter-found-dead",
     "titleNorm": "haunting note on vegas hotel door hinted at",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "state actors are behind much of the visual",
     "type": "card",
     "timestamp": 1773000912733
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-says-he-believes-bombing-of-iranian-girls-school-was-done-by-iran/",
+    "titleNorm": "trump says he believes bombing of iranian girls039",
+    "type": "reel",
+    "timestamp": 1773003018973
   }
 ]
