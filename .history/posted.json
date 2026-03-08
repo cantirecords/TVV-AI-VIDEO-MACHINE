@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-man-fires-gun-near-school-zone-barricades-home-surrendering-swat-pantless",
-    "titleNorm": "california man allegedly fires gun near school zone",
-    "type": "card",
-    "timestamp": 1772886357628
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
     "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "a free iran is their shared dream but",
     "type": "card",
     "timestamp": 1772925247294
+  },
+  {
+    "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
+    "titleNorm": "sorosbacked prochina network fuels protests against us tech",
+    "type": "card",
+    "timestamp": 1772932258005
   }
 ]
