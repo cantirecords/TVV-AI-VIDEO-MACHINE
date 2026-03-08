@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
-    "titleNorm": "sorosbacked prochina network fuels protests against us tech",
-    "type": "card",
-    "timestamp": 1772932258005
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
     "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "iranian attacks target gulf states as us warns",
     "type": "card",
     "timestamp": 1772972775153
+  },
+  {
+    "url": "https://www.foxnews.com/us/san-francisco-mayor-admits-city-needs-reset-hours-before-attack-security-detail",
+    "titleNorm": "san francisco mayor admits city needs a reset",
+    "type": "reel",
+    "timestamp": 1772975886758
   }
 ]
