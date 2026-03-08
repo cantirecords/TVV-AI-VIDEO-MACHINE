@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/iranian-diaspora-divided-on-war-rcna262049",
-    "titleNorm": "a free iran is their shared dream but",
-    "type": "card",
-    "timestamp": 1772925247294
-  },
-  {
     "url": "https://www.foxnews.com/us/soros-pro-china-singham-back-far-left-groups-waging-campaign-against-tech-companies-like-palantir",
     "titleNorm": "sorosbacked prochina network fuels protests against us tech",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "at least 6 dead after tornado rips through",
     "type": "card",
     "timestamp": 1772968431051
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iranian-attacks-target-gulf-states-us-warns-bombing-130851335",
+    "titleNorm": "iranian attacks target gulf states as us warns",
+    "type": "card",
+    "timestamp": 1772972775153
   }
 ]
