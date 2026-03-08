@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "the young women who fought in ethiopias last",
-    "type": "card",
-    "timestamp": 1772907647851
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/war-middle-east-ensnares-muslim-pilgrims-travel-chaos-130848380",
     "titleNorm": "war in the middle east ensnares many muslim",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump and first lady attend dignified transfer for",
     "type": "card",
     "timestamp": 1772948225027
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-detainees-iran-risk-becoming-collateral-damage-war-130850085",
+    "titleNorm": "us detainees in iran risk becoming collateral damage",
+    "type": "card",
+    "timestamp": 1772951465025
   }
 ]
