@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/war-middle-east-ensnares-muslim-pilgrims-travel-chaos-130848380",
-    "titleNorm": "war in the middle east ensnares many muslim",
-    "type": "reel",
-    "timestamp": 1772909892667
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/oil-gas-prices-rapidly-rise-iran-war-shows-130849752",
     "titleNorm": "oil and gas prices rapidly rise as iran",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "us detainees in iran risk becoming collateral damage",
     "type": "card",
     "timestamp": 1772951465025
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-rules-trump-administrations-actions-dismantle-voice-130870492",
+    "titleNorm": "federal judge rules trump administrations actions to dismantle",
+    "type": "reel",
+    "timestamp": 1772953697337
   }
 ]
