@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1772918004317
-  },
-  {
     "url": "https://www.foxnews.com/us/shark-attack-deaths-surge-above-decade-average-2025",
     "titleNorm": "shark attack deaths surge above decade average in",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "haunting note on vegas hotel door hinted at",
     "type": "reel",
     "timestamp": 1772960137763
+  },
+  {
+    "url": "https://www.foxnews.com/us/coast-guard-rescue-swimmer-dies-after-medical-evacuation-mission-off-washington-coast-turns-tragic",
+    "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
+    "type": "card",
+    "timestamp": 1772961593847
   }
 ]
