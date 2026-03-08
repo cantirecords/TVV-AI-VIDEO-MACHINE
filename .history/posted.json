@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/coast-guard-rescue-swimmer-dies-after-medical-evacuation-mission-off-washington-coast-turns-tragic",
-    "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
-    "type": "card",
-    "timestamp": 1772961593847
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1773004476202
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1773008081195
   }
 ]
