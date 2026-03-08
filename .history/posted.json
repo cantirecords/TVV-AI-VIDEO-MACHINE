@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-turn-attention-western-hemisphere-moment-americas-summit-130850145",
-    "titleNorm": "trump looks to turn attention to western hemisphere",
-    "type": "card",
-    "timestamp": 1772914539035
-  },
-  {
     "url": "https://www.foxnews.com/us/man-who-parole-after-prior-violent-offenses-now-accused-4-murders",
     "titleNorm": "man who was on parole after prior violent",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1772954698985
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-regime-targets/",
+    "titleNorm": "trump vows to hit iran very hard says",
+    "type": "card",
+    "timestamp": 1772958067259
   }
 ]
