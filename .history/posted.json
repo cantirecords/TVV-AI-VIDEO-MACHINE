@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
-    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
-    "type": "reel",
-    "timestamp": 1772889313675
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/dealing-iran-war-easy-trump-college-athlete-pay-130846315",
-    "titleNorm": "dealing with iran war is easy trump says",
-    "type": "card",
-    "timestamp": 1772890383991
-  },
-  {
-    "url": "https://www.foxnews.com/us/coast-guard-rescue-swimmer-dies-after-medical-evacuation-mission-off-washington-coast-turns-tragic",
-    "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
-    "type": "card",
-    "timestamp": 1772893045554
-  },
-  {
-    "url": "https://www.foxnews.com/us/emergency-landing-ends-tragedy-plane-crashes-new-mexico-golf-course",
-    "titleNorm": "emergency landing ends in tragedy as plane crashes",
-    "type": "reel",
-    "timestamp": 1772895019973
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/portland-residents-ice-building-win-court-order-limiting-130845830",
-    "titleNorm": "portland residents near ice building win court order",
-    "type": "card",
-    "timestamp": 1772896431434
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "sorosbacked prochina network fuels protests against us tech",
     "type": "card",
     "timestamp": 1772932258005
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
+    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
+    "type": "reel",
+    "timestamp": 1772939861136
   }
 ]
