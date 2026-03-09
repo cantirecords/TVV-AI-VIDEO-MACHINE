@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-says-he-believes-bombing-of-iranian-girls-school-was-done-by-iran/",
-    "titleNorm": "trump says he believes bombing of iranian girls039",
-    "type": "reel",
-    "timestamp": 1773003018973
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "us detainees in iran risk becoming collateral damage",
     "type": "card",
     "timestamp": 1773045214666
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iranian-attacks-target-gulf-states-us-warns-bombing-130851335",
+    "titleNorm": "iranian attacks target gulf states as us warns",
+    "type": "reel",
+    "timestamp": 1773047334573
   }
 ]
