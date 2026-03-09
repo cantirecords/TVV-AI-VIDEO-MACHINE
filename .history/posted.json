@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-florida-students-10-11-arrested-alleged-shooting-threats-discipline-your-kids",
-    "titleNorm": "two florida students 10 and 11 arrested over",
-    "type": "reel",
-    "timestamp": 1773026460716
-  },
-  {
     "url": "https://www.cbsnews.com/news/ntsb-todd-inman-dc-midair-collision-fired-trump-white-house/",
     "titleNorm": "ntsb member who responded to dc midair crash",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "trump downplays importance of russia reportedly sharing intel",
     "type": "card",
     "timestamp": 1773067823350
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/lawmakers-shaped-combat-after-911-now-grappling-new-130894322",
+    "titleNorm": "combatshaped lawmakers face new mideast war",
+    "type": "reel",
+    "timestamp": 1773070335439
   }
 ]
