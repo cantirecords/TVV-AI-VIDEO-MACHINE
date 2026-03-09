@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/north-carolina-moms-24-year-disappearance-uncovers-silent-crisis-inside-american-families",
-    "titleNorm": "north carolina moms 24year disappearance uncovers silent crisis",
-    "type": "card",
-    "timestamp": 1773018607000
-  },
-  {
     "url": "https://www.foxnews.com/us/two-florida-students-10-11-arrested-alleged-shooting-threats-discipline-your-kids",
     "titleNorm": "two florida students 10 and 11 arrested over",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "police recover third device in ongoing manhattan ied",
     "type": "card",
     "timestamp": 1773059816503
+  },
+  {
+    "url": "https://www.foxnews.com/us/air-force-veteran-warns-cartels-dont-collapse-fracture-after-notorious-drug-lord-killed",
+    "titleNorm": "air force veteran warns cartels dont collapse they",
+    "type": "reel",
+    "timestamp": 1773063920575
   }
 ]
