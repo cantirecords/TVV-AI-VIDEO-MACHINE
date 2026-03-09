@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/meet-the-press/video/iran-foreign-minister-says-we-have-a-very-good-partnership-with-russia-amid-iran-war-258930757642",
-    "titleNorm": "iran foreign minister says we have a very",
-    "type": "reel",
-    "timestamp": 1773034852296
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/iran-war-deaths-resurface-trumps-complicated-history-military-130849802",
-    "titleNorm": "iran war deaths could resurface trumps complicated history",
-    "type": "card",
-    "timestamp": 1773035467383
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/things-stand-after-weekend-war-130891015",
     "titleNorm": "where things stand after another weekend of war",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
     "type": "card",
     "timestamp": 1773078014708
+  },
+  {
+    "url": "https://www.cbsnews.com/news/anthropic-pentagon-supply-chain-risk-lawsuit/",
+    "titleNorm": "anthropic sues trump administration over supply chain risk",
+    "type": "card",
+    "timestamp": 1773081489043
   }
 ]
