@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/adopted-daughter-george-w-bushs-intelligence-director-john-negroponte-sentenced-friends-drunken-murder",
-    "titleNorm": "adopted daughter of george w bushs intelligence director",
-    "type": "card",
-    "timestamp": 1772994037109
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-first-lady-attend-dignified-transfer-6-us-troops-killed-kuwait",
     "titleNorm": "trump and first lady attend dignified transfer for",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "iran war deaths could resurface trumps complicated history",
     "type": "card",
     "timestamp": 1773035467383
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/things-stand-after-weekend-war-130891015",
+    "titleNorm": "where things stand after another weekend of war",
+    "type": "card",
+    "timestamp": 1773038974362
   }
 ]
