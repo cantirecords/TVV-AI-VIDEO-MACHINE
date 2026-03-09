@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/state-actors-visual-misinformation-iran-war-130849781",
-    "titleNorm": "state actors are behind much of the visual",
-    "type": "card",
-    "timestamp": 1773000912733
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-says-he-believes-bombing-of-iranian-girls-school-was-done-by-iran/",
     "titleNorm": "trump says he believes bombing of iranian girls039",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1773042291878
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-detainees-iran-risk-becoming-collateral-damage-war-130850085",
+    "titleNorm": "us detainees in iran risk becoming collateral damage",
+    "type": "card",
+    "timestamp": 1773045214666
   }
 ]
