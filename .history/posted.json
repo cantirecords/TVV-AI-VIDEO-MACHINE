@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/coast-guard-rescue-swimmer-dies-after-medical-evacuation-mission-off-washington-coast-turns-tragic",
-    "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
-    "type": "reel",
-    "timestamp": 1773054750445
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/videos-show-us-citizens-shooting-death-texas-year-130851153",
     "titleNorm": "videos show us citizens shooting death in texas",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "wife of teacher killed in senior prank makes",
     "type": "reel",
     "timestamp": 1773096949115
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
+    "titleNorm": "trump calls iran war a little excursion that",
+    "type": "card",
+    "timestamp": 1773098317372
   }
 ]
