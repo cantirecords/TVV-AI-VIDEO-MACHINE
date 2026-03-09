@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/europes-mixed-response-iran-war-draws-trumps-fury-us-allies-rcna261880",
-    "titleNorm": "europes mixed response to iran war draws trumps",
-    "type": "card",
-    "timestamp": 1773011685501
-  },
-  {
     "url": "https://www.foxnews.com/us/north-carolina-moms-24-year-disappearance-uncovers-silent-crisis-inside-american-families",
     "titleNorm": "north carolina moms 24year disappearance uncovers silent crisis",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "coast guard rescue swimmer dies after medical evacuation",
     "type": "reel",
     "timestamp": 1773054750445
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/videos-show-us-citizens-shooting-death-texas-year-130851153",
+    "titleNorm": "videos show us citizens shooting death in texas",
+    "type": "card",
+    "timestamp": 1773055704920
   }
 ]
