@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1773131384755
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/mississippi-jury-acquits-engineer-accused-lying-2017-military-130917160",
     "titleNorm": "mississippi jury acquits engineer accused of lying about",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "how the iran war reached europe via the",
     "type": "card",
     "timestamp": 1773174202780
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1773176337104
   }
 ]
