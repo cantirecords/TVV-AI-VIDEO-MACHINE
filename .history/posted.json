@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/air-force-veteran-warns-cartels-dont-collapse-fracture-after-notorious-drug-lord-killed",
-    "titleNorm": "air force veteran warns cartels dont collapse they",
-    "type": "reel",
-    "timestamp": 1773063920575
-  },
-  {
-    "url": "https://www.foxnews.com/us/north-carolina-moms-24-year-disappearance-uncovers-silent-crisis-inside-american-families",
-    "titleNorm": "north carolina moms 24year disappearance uncovers silent crisis",
-    "type": "card",
-    "timestamp": 1773064788059
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-downplays-importance-russia-reportedly-sharing-intel-iran-130868024",
-    "titleNorm": "trump downplays importance of russia reportedly sharing intel",
-    "type": "card",
-    "timestamp": 1773067823350
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/lawmakers-shaped-combat-after-911-now-grappling-new-130894322",
     "titleNorm": "combatshaped lawmakers face new mideast war",
     "type": "reel",
@@ -106,5 +88,11 @@
     "titleNorm": "where things stand after another weekend of war",
     "type": "card",
     "timestamp": 1773104685873
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1773112381023
   }
 ]
