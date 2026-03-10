@@ -100,5 +100,11 @@
     "titleNorm": "us stocks hold steadier as wall street waits",
     "type": "card",
     "timestamp": 1773164359074
+  },
+  {
+    "url": "https://www.cbsnews.com/news/fda-warns-novo-nordisk-unreported-potential-ozempic-side-effects/",
+    "titleNorm": "fda warns novo nordisk over unreported potential ozempic",
+    "type": "card",
+    "timestamp": 1773167741823
   }
 ]
