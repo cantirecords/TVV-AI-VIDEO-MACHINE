@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/anthropic-pentagon-supply-chain-risk-lawsuit/",
-    "titleNorm": "anthropic sues trump administration over supply chain risk",
-    "type": "card",
-    "timestamp": 1773081489043
-  },
-  {
     "url": "https://www.foxnews.com/us/warrants-served-new-jersey-pennsylvania-feds-look-possible-nyc-terrorism",
     "titleNorm": "warrants served in new jersey pennsylvania as feds",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "combatshaped lawmakers face new mideast war",
     "type": "card",
     "timestamp": 1773124588535
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1773126867927
   }
 ]
