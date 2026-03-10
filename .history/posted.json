@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/wife-teacher-killed-senior-prank-makes-unexpected-request-charged-students",
-    "titleNorm": "wife of teacher killed in senior prank makes",
-    "type": "reel",
-    "timestamp": 1773096949115
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
     "titleNorm": "trump calls iran war a little excursion that",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "trump tells cbs news the war is very",
     "type": "card",
     "timestamp": 1773138635295
+  },
+  {
+    "url": "https://www.foxnews.com/us/wife-teacher-killed-senior-prank-makes-unexpected-request-charged-students",
+    "titleNorm": "wife of teacher killed in senior prank makes",
+    "type": "reel",
+    "timestamp": 1773140980015
   }
 ]
