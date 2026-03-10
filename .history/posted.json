@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/things-stand-after-weekend-war-130891015",
-    "titleNorm": "where things stand after another weekend of war",
-    "type": "card",
-    "timestamp": 1773104685873
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "prosecutor drops murder charge against shooter at chiefs",
     "type": "card",
     "timestamp": 1773146201474
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/kentucky-soldier-saudi-arabia-7th-us-service-member-130910946",
+    "titleNorm": "dignified transfer for kentucky soldier who was the",
+    "type": "reel",
+    "timestamp": 1773150312244
   }
 ]
