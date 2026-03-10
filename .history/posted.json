@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-stock-prices-down-oil-prices-up-despite-trump-reassurance/",
-    "titleNorm": "as usisraeli war with iran intensifies trump says",
-    "type": "reel",
-    "timestamp": 1773120775184
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/lawmakers-shaped-combat-after-911-now-grappling-new-130894322",
     "titleNorm": "combatshaped lawmakers face new mideast war",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "justices jackson and kavanaugh spar over supreme court",
     "type": "reel",
     "timestamp": 1773162981374
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/calm-returns-wall-street-oil-prices-retreat-below-130923564",
+    "titleNorm": "us stocks hold steadier as wall street waits",
+    "type": "card",
+    "timestamp": 1773164359074
   }
 ]
