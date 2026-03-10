@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1773115216348
-  },
-  {
     "url": "https://www.cbsnews.com/news/fbi-investigation-terrorism-explosive-device-new-york-city-mayor-mamdani-gracie-mansion/",
     "titleNorm": "fbi launches terrorism probe into ied attack outside",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1773157922817
+  },
+  {
+    "url": "https://www.nbcnews.com/now/video/hegseth-indicates-trump-will-decide-when-iran-war-is-complete-259039301533",
+    "titleNorm": "hegseth indicates trump will decide when iran war",
+    "type": "card",
+    "timestamp": 1773161252846
   }
 ]
