@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-first-lady-attend-dignified-transfer-6-us-troops-killed-kuwait",
-    "titleNorm": "trump and first lady attend dignified transfer for",
-    "type": "card",
-    "timestamp": 1773091407456
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/latest-israel-hammers-beirut-tehran-iran-fires-missiles-130850695",
-    "titleNorm": "the latest israel hammers beirut and tehran as",
-    "type": "card",
-    "timestamp": 1773094763036
-  },
-  {
     "url": "https://www.foxnews.com/us/wife-teacher-killed-senior-prank-makes-unexpected-request-charged-students",
     "titleNorm": "wife of teacher killed in senior prank makes",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "mississippi jury acquits engineer accused of lying about",
     "type": "reel",
     "timestamp": 1773133831341
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-iran-cbs-news-the-war-is-very-complete-strait-hormuz/",
+    "titleNorm": "trump tells cbs news the war is very",
+    "type": "card",
+    "timestamp": 1773138635295
   }
 ]
