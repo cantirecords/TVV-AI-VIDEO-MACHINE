@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-prosecutors-record-violent-offenders-scrutinized-after-illegal-immigrant-charged-moms-murder",
-    "titleNorm": "virginia prosecutors record on violent offenders scrutinized after",
-    "type": "card",
-    "timestamp": 1773078014708
-  },
-  {
     "url": "https://www.cbsnews.com/news/anthropic-pentagon-supply-chain-risk-lawsuit/",
     "titleNorm": "anthropic sues trump administration over supply chain risk",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "as usisraeli war with iran intensifies trump says",
     "type": "reel",
     "timestamp": 1773120775184
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/lawmakers-shaped-combat-after-911-now-grappling-new-130894322",
+    "titleNorm": "combatshaped lawmakers face new mideast war",
+    "type": "card",
+    "timestamp": 1773124588535
   }
 ]
