@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/videos-show-us-citizens-shooting-death-texas-year-130851153",
-    "titleNorm": "videos show us citizens shooting death in texas",
-    "type": "card",
-    "timestamp": 1773055704920
-  },
-  {
-    "url": "https://www.foxnews.com/us/police-recover-third-device-ongoing-manhattan-ied-investigation-two-arrests",
-    "titleNorm": "police recover third device in ongoing manhattan ied",
-    "type": "card",
-    "timestamp": 1773059816503
-  },
-  {
     "url": "https://www.foxnews.com/us/air-force-veteran-warns-cartels-dont-collapse-fracture-after-notorious-drug-lord-killed",
     "titleNorm": "air force veteran warns cartels dont collapse they",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "trump calls iran war a little excursion that",
     "type": "card",
     "timestamp": 1773098317372
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/things-stand-after-weekend-war-130891015",
+    "titleNorm": "where things stand after another weekend of war",
+    "type": "card",
+    "timestamp": 1773104685873
   }
 ]
