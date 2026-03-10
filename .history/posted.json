@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/fbi-investigation-terrorism-explosive-device-new-york-city-mayor-mamdani-gracie-mansion/",
-    "titleNorm": "fbi launches terrorism probe into ied attack outside",
-    "type": "card",
-    "timestamp": 1773119446785
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-stock-prices-down-oil-prices-up-despite-trump-reassurance/",
     "titleNorm": "as usisraeli war with iran intensifies trump says",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "hegseth indicates trump will decide when iran war",
     "type": "card",
     "timestamp": 1773161252846
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/sharing-stage-justices-jackson-kavanaugh-spar-supreme-court-130918202",
+    "titleNorm": "justices jackson and kavanaugh spar over supreme court",
+    "type": "reel",
+    "timestamp": 1773162981374
   }
 ]
