@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/calm-returns-wall-street-oil-prices-retreat-below-130923564",
-    "titleNorm": "us stocks hold steadier as wall street waits",
-    "type": "card",
-    "timestamp": 1773164359074
-  },
-  {
-    "url": "https://www.cbsnews.com/news/fda-warns-novo-nordisk-unreported-potential-ozempic-side-effects/",
-    "titleNorm": "fda warns novo nordisk over unreported potential ozempic",
-    "type": "card",
-    "timestamp": 1773167741823
-  },
-  {
     "url": "https://www.foxnews.com/us/90-day-fiance-alums-boyfriend-trial-attempted-murder-over-wild-boca-bash-accusations",
     "titleNorm": "90 day fianc alums boyfriend on trial for",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "philadelphia police release video of street fight that",
     "type": "reel",
     "timestamp": 1773207209069
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
+    "titleNorm": "fbi arrests alleged ms13 member accused in el",
+    "type": "card",
+    "timestamp": 1773211152388
   }
 ]
