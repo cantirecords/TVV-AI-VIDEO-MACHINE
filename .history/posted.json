@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nypd-officer-jonathan-dillers-widow-weeps-sea-blue-fills-courtroom-accused-cop-killers-murder-trial",
-    "titleNorm": "nypd officer jonathan dillers widow weeps as sea",
-    "type": "card",
-    "timestamp": 1773201669278
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-offers-reward-capture-ten-most-wanted-300-pound-suspect-possibly-hiding-mexico",
     "titleNorm": "fbi offers 1m reward for capture of ten",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1773243508703
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/report-points-rotor-problem-arizona-police-helicopter-crash-130947779",
+    "titleNorm": "report points to rotor problem in arizona police",
+    "type": "card",
+    "timestamp": 1773247235599
   }
 ]
