@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/baltimore-police-say-officer-shot-hospitalized-suspect-shot-active-shooter-incident",
-    "titleNorm": "baltimore police officer shot in the leg suspect",
-    "type": "card",
-    "timestamp": 1773184746808
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/canadian-police-investigate-reports-gunfire-us-consulate-toronto-130932000",
     "titleNorm": "canadian police investigate reports of gunfire at us",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1773227407824
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/february-inflation-report-iran-war-rcna262829",
+    "titleNorm": "key inflation report expected to show prices eased",
+    "type": "card",
+    "timestamp": 1773228364220
   }
 ]
