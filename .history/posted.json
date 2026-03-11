@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/90-day-fiance-alums-boyfriend-trial-attempted-murder-over-wild-boca-bash-accusations",
-    "titleNorm": "90 day fianc alums boyfriend on trial for",
-    "type": "reel",
-    "timestamp": 1773170266565
-  },
-  {
-    "url": "https://www.foxnews.com/us/alleged-isis-inspired-suburban-terrorists-lived-10-miles-apart-were-strangers-before-nyc-attack-lawyer",
-    "titleNorm": "alleged isisinspired suburban terrorists lived 10 miles apart",
-    "type": "card",
-    "timestamp": 1773171159396
-  },
-  {
     "url": "https://www.cbsnews.com/news/iran-war-why-cyprus-is-so-important-to-europe/",
     "titleNorm": "how the iran war reached europe via the",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "trump warns iran faces strikes twenty times harder",
     "type": "reel",
     "timestamp": 1773213461304
+  },
+  {
+    "url": "https://www.foxnews.com/us/beloved-75-year-old-math-teacher-found-dead-inside-baltimore-elementary-school",
+    "titleNorm": "beloved 75yearold math teacher found dead inside baltimore",
+    "type": "card",
+    "timestamp": 1773214691965
   }
 ]
