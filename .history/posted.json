@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/beloved-75-year-old-math-teacher-found-dead-inside-baltimore-elementary-school",
-    "titleNorm": "beloved 75yearold math teacher found dead inside baltimore",
-    "type": "card",
-    "timestamp": 1773214691965
-  },
-  {
     "url": "https://www.foxnews.com/us/90-day-fiance-alums-boyfriend-trial-attempted-murder-over-wild-boca-bash-accusations",
     "titleNorm": "90 day fianc alums boyfriend on trial for",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fbi arrests alleged ms13 member accused in el",
     "type": "card",
     "timestamp": 1773257799903
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pentagon-blocks-photographers-hegseths-briefings-iran-war-130975590",
+    "titleNorm": "pentagon blocks photographers from hegseths briefings on the",
+    "type": "card",
+    "timestamp": 1773260629671
   }
 ]
