@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/sharing-stage-justices-jackson-kavanaugh-spar-supreme-court-130918202",
-    "titleNorm": "justices jackson and kavanaugh spar over supreme court",
-    "type": "reel",
-    "timestamp": 1773162981374
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/calm-returns-wall-street-oil-prices-retreat-below-130923564",
     "titleNorm": "us stocks hold steadier as wall street waits",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "fbi offers 1m reward for capture of ten",
     "type": "card",
     "timestamp": 1773206015574
+  },
+  {
+    "url": "https://www.foxnews.com/us/philadelphia-police-release-video-street-fight-ended-fatal-shooting-seek-help-hunt-suspect",
+    "titleNorm": "philadelphia police release video of street fight that",
+    "type": "reel",
+    "timestamp": 1773207209069
   }
 ]
