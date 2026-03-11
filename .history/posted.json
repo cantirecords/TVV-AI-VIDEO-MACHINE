@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1773181120547
-  },
-  {
     "url": "https://www.cbsnews.com/news/nasa-satellite-van-allen-probe-crash-landing-earth-atmosphere/",
     "titleNorm": "1300pound nasa satellite set to crash down to",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "acclaimed peruvian writer alfredo bryce echenique dies aged",
     "type": "card",
     "timestamp": 1773221619010
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1773225110832
   }
 ]
