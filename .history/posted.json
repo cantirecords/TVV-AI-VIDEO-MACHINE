@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/ce82j8j8l25o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "acclaimed peruvian writer alfredo bryce echenique dies aged",
-    "type": "card",
-    "timestamp": 1773221619010
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "video appears to show new york city bomb",
     "type": "card",
     "timestamp": 1773264345883
+  },
+  {
+    "url": "https://www.foxnews.com/us/nypd-officer-jonathan-dillers-widow-weeps-sea-blue-fills-courtroom-accused-cop-killers-murder-trial",
+    "titleNorm": "nypd officer jonathan dillers widow weeps as sea",
+    "type": "card",
+    "timestamp": 1773267544260
   }
 ]
