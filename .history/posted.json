@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
-    "titleNorm": "fbi arrests alleged ms13 member accused in el",
-    "type": "card",
-    "timestamp": 1773211152388
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-warns-iran-faces-strikes-twenty-times-harder-nation-refuses-heed-warning-more-top-headlines",
     "titleNorm": "trump warns iran faces strikes twenty times harder",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "trump told fifa iran is welcome to play",
     "type": "card",
     "timestamp": 1773251002398
+  },
+  {
+    "url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump/",
+    "titleNorm": "inflation held steady in february before iran war",
+    "type": "card",
+    "timestamp": 1773254446216
   }
 ]
