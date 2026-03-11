@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/kentucky-soldier-saudi-arabia-7th-us-service-member-130910946",
-    "titleNorm": "dignified transfer for kentucky soldier who was the",
-    "type": "reel",
-    "timestamp": 1773150312244
-  },
-  {
-    "url": "https://www.cbsnews.com/news/pete-hegseth-dan-caine-news-briefing-pentagon-iran-war/",
-    "titleNorm": "hegseth today most intense day of attacks on",
-    "type": "card",
-    "timestamp": 1773150938217
-  },
-  {
-    "url": "https://www.foxnews.com/us/coast-guard-cutter-munro-returns-california-home-after-record-breaking-11-ton-cocaine-seizure",
-    "titleNorm": "coast guard cutter munro returns to california home",
-    "type": "card",
-    "timestamp": 1773153654667
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-war-iran-israel-vow-fight-on-oil-prices-markets-react-trump-war-end-soon/",
     "titleNorm": "defiant iran vows to keep fighting war with",
     "type": "reel",
@@ -106,5 +88,11 @@
     "titleNorm": "canadian police investigate reports of gunfire at us",
     "type": "card",
     "timestamp": 1773191198700
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1773198732182
   }
 ]
