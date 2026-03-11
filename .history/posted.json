@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/canadian-police-investigate-reports-gunfire-us-consulate-toronto-130932000",
-    "titleNorm": "canadian police investigate reports of gunfire at us",
-    "type": "card",
-    "timestamp": 1773191198700
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "alleged isisinspired suburban terrorists lived 10 miles apart",
     "type": "card",
     "timestamp": 1773232565506
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-telling-america-winning-iran-clear-explaining-war-130960809",
+    "titleNorm": "trump keeps telling america hes winning in iran",
+    "type": "reel",
+    "timestamp": 1773236757006
   }
 ]
