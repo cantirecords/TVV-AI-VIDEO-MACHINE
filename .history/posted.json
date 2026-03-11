@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/report-points-rotor-problem-arizona-police-helicopter-crash-130947779",
-    "titleNorm": "report points to rotor problem in arizona police",
-    "type": "card",
-    "timestamp": 1773177874491
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "us stocks hold steadier as wall street waits",
     "type": "reel",
     "timestamp": 1773220179196
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ce82j8j8l25o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "acclaimed peruvian writer alfredo bryce echenique dies aged",
+    "type": "card",
+    "timestamp": 1773221619010
   }
 ]
