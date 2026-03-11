@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/philadelphia-police-release-video-street-fight-ended-fatal-shooting-seek-help-hunt-suspect",
-    "titleNorm": "philadelphia police release video of street fight that",
-    "type": "reel",
-    "timestamp": 1773207209069
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
     "titleNorm": "fbi arrests alleged ms13 member accused in el",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "us military is using ai to help plan",
     "type": "reel",
     "timestamp": 1773249590591
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-iran-fifa-world-cup-us/",
+    "titleNorm": "trump told fifa iran is welcome to play",
+    "type": "card",
+    "timestamp": 1773251002398
   }
 ]
