@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1773198732182
-  },
-  {
     "url": "https://www.foxnews.com/us/nypd-officer-jonathan-dillers-widow-weeps-sea-blue-fills-courtroom-accused-cop-killers-murder-trial",
     "titleNorm": "nypd officer jonathan dillers widow weeps as sea",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "dozens of countries agree to release 400 million",
     "type": "card",
     "timestamp": 1773240281587
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/trump-brings-fight-rep-thomas-massies-backyard-rcna262535",
+    "titleNorm": "trump takes fight to rep thomas massies backyard",
+    "type": "reel",
+    "timestamp": 1773241992769
   }
 ]
