@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/calm-returns-wall-street-oil-prices-retreat-below-130923564",
-    "titleNorm": "us stocks hold steadier as wall street waits",
-    "type": "reel",
-    "timestamp": 1773220179196
-  },
-  {
     "url": "https://www.bbc.com/news/articles/ce82j8j8l25o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "acclaimed peruvian writer alfredo bryce echenique dies aged",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1773262790928
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/video-appears-show-new-york-city-bomb-suspect-130980868",
+    "titleNorm": "video appears to show new york city bomb",
+    "type": "card",
+    "timestamp": 1773264345883
   }
 ]
