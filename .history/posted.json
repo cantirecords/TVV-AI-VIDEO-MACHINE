@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-oil-strategic-petroleum-reserve-iran-war/",
-    "titleNorm": "trump releasing 172 million barrels of oil from",
-    "type": "card",
-    "timestamp": 1773294233553
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ecuador-readies-major-offensive-criminal-groups-us-logistical-130976768",
     "titleNorm": "ecuador readies a major offensive on criminal groups",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "shooting in old dominion university hall injures two",
     "type": "card",
     "timestamp": 1773337321992
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/trump-trade-war-section-301-rcna263026",
+    "titleNorm": "trump launches the next phase of his trade",
+    "type": "card",
+    "timestamp": 1773340811877
   }
 ]
