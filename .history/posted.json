@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-offers-reward-capture-ten-most-wanted-300-pound-suspect-possibly-hiding-mexico",
-    "titleNorm": "fbi offers 1m reward for capture of ten",
-    "type": "card",
-    "timestamp": 1773271004209
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "12yearold girl dies days after collapsing following fight",
     "type": "reel",
     "timestamp": 1773313712233
+  },
+  {
+    "url": "https://www.cbsnews.com/news/officer-ambulance-sent-man-dying-police-shooting-investigation-connecticut/",
+    "titleNorm": "officer took ambulance sent for man dying from",
+    "type": "card",
+    "timestamp": 1773314804768
   }
 ]
