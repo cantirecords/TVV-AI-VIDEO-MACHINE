@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-scandal-plagued-illinois-super-mayor-eyes-political-comeback-republican-georgia",
-    "titleNorm": "former scandalplagued illinois super mayor eyes political comeback",
-    "type": "reel",
-    "timestamp": 1773285579887
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-endorse-cornyn-texas-republicans-maga-mistake-130984170",
     "titleNorm": "should trump endorse cornyn some texas republicans say",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "us will permanently close the consulate in peshawar",
     "type": "reel",
     "timestamp": 1773328591725
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fact-focus-trump-administration-falsely-claiming-jimmy-carter-130981861",
+    "titleNorm": "fact focus the trump administration is falsely claiming",
+    "type": "card",
+    "timestamp": 1773330460658
   }
 ]
