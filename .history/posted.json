@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/rihanna-home-beverly-hills-shooting/",
-    "titleNorm": "rihanna039s beverly hills home hit by gunfire suspect",
-    "type": "card",
-    "timestamp": 1773301215217
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
     "titleNorm": "fbi arrests alleged ms13 member accused in el",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "old dominion university shooting leaves 1 person dead",
     "type": "card",
     "timestamp": 1773344175460
+  },
+  {
+    "url": "https://www.foxnews.com/us/iranian-american-couple-california-speaks-against-anti-war-protests-rescue-mission",
+    "titleNorm": "iranian american couple from california speaks out against",
+    "type": "card",
+    "timestamp": 1773347134261
   }
 ]
