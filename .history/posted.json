@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/beloved-75-year-old-math-teacher-found-dead-inside-baltimore-elementary-school",
-    "titleNorm": "beloved 75yearold math teacher found dead inside baltimore",
-    "type": "reel",
-    "timestamp": 1773293732676
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-oil-strategic-petroleum-reserve-iran-war/",
     "titleNorm": "trump releasing 172 million barrels of oil from",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "alleged hazing death tied to secretive rush night",
     "type": "reel",
     "timestamp": 1773335965917
+  },
+  {
+    "url": "https://www.foxnews.com/us/shooting-old-dominion-university-hall-injures-two-gunman-dead",
+    "titleNorm": "shooting in old dominion university hall injures two",
+    "type": "card",
+    "timestamp": 1773337321992
   }
 ]
