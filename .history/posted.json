@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/12-year-georgia-girl-dies-days-after-collapsing-130981683",
-    "titleNorm": "12yearold girl dies days after collapsing following fight",
-    "type": "reel",
-    "timestamp": 1773313712233
-  },
-  {
     "url": "https://www.cbsnews.com/news/officer-ambulance-sent-man-dying-police-shooting-investigation-connecticut/",
     "titleNorm": "officer took ambulance sent for man dying from",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1773356172198
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/white-house-iran-war-social-media-videos-video-games-football-baseball-rcna263194",
+    "titleNorm": "white house compares deadly conflict to video games",
+    "type": "card",
+    "timestamp": 1773357613727
   }
 ]
