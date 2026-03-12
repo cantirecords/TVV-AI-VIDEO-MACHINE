@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nypd-officer-jonathan-dillers-widow-weeps-sea-blue-fills-courtroom-accused-cop-killers-murder-trial",
-    "titleNorm": "nypd officer jonathan dillers widow weeps as sea",
-    "type": "card",
-    "timestamp": 1773267544260
-  },
-  {
     "url": "https://www.foxnews.com/us/ntsb-zeroes-cause-helicopter-crash-killed-2-officers",
     "titleNorm": "ntsb zeroes in on cause of helicopter crash",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1773308034779
+  },
+  {
+    "url": "https://www.foxnews.com/us/mysterious-calls-placed-from-nyc-terror-suspect-familys-home-hours-after-alleged-isis-inspired-attack",
+    "titleNorm": "mysterious calls placed from nyc terror suspect familys",
+    "type": "card",
+    "timestamp": 1773311533399
   }
 ]
