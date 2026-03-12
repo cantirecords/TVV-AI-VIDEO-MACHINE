@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/video-appears-show-new-york-city-bomb-suspect-130980868",
-    "titleNorm": "video appears to show new york city bomb",
-    "type": "card",
-    "timestamp": 1773264345883
-  },
-  {
     "url": "https://www.foxnews.com/us/nypd-officer-jonathan-dillers-widow-weeps-sea-blue-fills-courtroom-accused-cop-killers-murder-trial",
     "titleNorm": "nypd officer jonathan dillers widow weeps as sea",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1773306546012
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1773308034779
   }
 ]
