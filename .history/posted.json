@@ -100,5 +100,11 @@
     "titleNorm": "video appears to show new york city bomb",
     "type": "card",
     "timestamp": 1773326563738
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-permanently-close-consulate-peshawar-pakistan-closest-mission-130981860",
+    "titleNorm": "us will permanently close the consulate in peshawar",
+    "type": "reel",
+    "timestamp": 1773328591725
   }
 ]
