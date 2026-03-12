@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
-    "titleNorm": "fbi arrests alleged ms13 member accused in el",
-    "type": "card",
-    "timestamp": 1773257799903
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/pentagon-blocks-photographers-hegseths-briefings-iran-war-130975590",
     "titleNorm": "pentagon blocks photographers from hegseths briefings on the",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "iran appears to have conducted a significant cyberattack",
     "type": "reel",
     "timestamp": 1773300609298
+  },
+  {
+    "url": "https://www.cbsnews.com/news/rihanna-home-beverly-hills-shooting/",
+    "titleNorm": "rihanna039s beverly hills home hit by gunfire suspect",
+    "type": "card",
+    "timestamp": 1773301215217
   }
 ]
