@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/report-points-rotor-problem-arizona-police-helicopter-crash-130947779",
-    "titleNorm": "report points to rotor problem in arizona police",
-    "type": "card",
-    "timestamp": 1773247235599
-  },
-  {
-    "url": "https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150",
-    "titleNorm": "us military is using ai to help plan",
-    "type": "reel",
-    "timestamp": 1773249590591
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-iran-fifa-world-cup-us/",
     "titleNorm": "trump told fifa iran is welcome to play",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "should trump endorse cornyn some texas republicans say",
     "type": "card",
     "timestamp": 1773288315520
+  },
+  {
+    "url": "https://www.foxnews.com/us/beloved-75-year-old-math-teacher-found-dead-inside-baltimore-elementary-school",
+    "titleNorm": "beloved 75yearold math teacher found dead inside baltimore",
+    "type": "reel",
+    "timestamp": 1773293732676
   }
 ]
