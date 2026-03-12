@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/pentagon-blocks-photographers-hegseths-briefings-iran-war-130975590",
-    "titleNorm": "pentagon blocks photographers from hegseths briefings on the",
-    "type": "card",
-    "timestamp": 1773260629671
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "rihanna039s beverly hills home hit by gunfire suspect",
     "type": "card",
     "timestamp": 1773301215217
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-arrests-ms13-fugitive-pastor-killing-el-salvador",
+    "titleNorm": "fbi arrests alleged ms13 member accused in el",
+    "type": "card",
+    "timestamp": 1773304369405
   }
 ]
