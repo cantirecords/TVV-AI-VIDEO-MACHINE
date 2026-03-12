@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-iran-fifa-world-cup-us/",
-    "titleNorm": "trump told fifa iran is welcome to play",
-    "type": "card",
-    "timestamp": 1773251002398
-  },
-  {
     "url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump/",
     "titleNorm": "inflation held steady in february before iran war",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "beloved 75yearold math teacher found dead inside baltimore",
     "type": "reel",
     "timestamp": 1773293732676
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-oil-strategic-petroleum-reserve-iran-war/",
+    "titleNorm": "trump releasing 172 million barrels of oil from",
+    "type": "card",
+    "timestamp": 1773294233553
   }
 ]
