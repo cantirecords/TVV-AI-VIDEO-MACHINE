@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/white-house-iran-war-social-media-videos-video-games-football-baseball-rcna263194",
-    "titleNorm": "white house compares deadly conflict to video games",
-    "type": "card",
-    "timestamp": 1773357613727
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/suspect-old-dominion-university-shooting-was-convicted-isis-supporter-rcna263256",
     "titleNorm": "suspect in old dominion university shooting was convicted",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1773399895957
+  },
+  {
+    "url": "https://www.cbsnews.com/news/rotc-students-old-dominion-university-credited-stopping-deadly-classroom-shooting/",
+    "titleNorm": "brave rotc students credited with stopping deadly shooting",
+    "type": "card",
+    "timestamp": 1773401073903
   }
 ]
