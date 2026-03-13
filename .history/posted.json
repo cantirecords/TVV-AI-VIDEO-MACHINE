@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iranian-american-couple-california-speaks-against-anti-war-protests-rescue-mission",
-    "titleNorm": "iranian american couple from california speaks out against",
-    "type": "card",
-    "timestamp": 1773347134261
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1773387521162
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials",
+    "titleNorm": "california shootings leave 2 deputies utility worker injured",
+    "type": "card",
+    "timestamp": 1773390521696
   }
 ]
