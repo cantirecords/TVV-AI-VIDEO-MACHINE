@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/suspect-old-dominion-university-shooting-was-convicted-isis-supporter-rcna263256",
-    "titleNorm": "suspect in old dominion university shooting was convicted",
-    "type": "card",
-    "timestamp": 1773364093309
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/army-sergeant-plead-guilty-georgia-base-shootings-injured-131014762",
     "titleNorm": "army sergeant wants to plead guilty in georgia",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "armed fbi agents carry out search warrant believed",
     "type": "card",
     "timestamp": 1773405400760
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/hockey-player-lost-family-rhode-island-shooting-scores-131000776",
+    "titleNorm": "hockey player who lost family in rhode island",
+    "type": "reel",
+    "timestamp": 1773409278717
   }
 ]
