@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1773399895957
-  },
-  {
     "url": "https://www.cbsnews.com/news/rotc-students-old-dominion-university-credited-stopping-deadly-classroom-shooting/",
     "titleNorm": "brave rotc students credited with stopping deadly shooting",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "damage to historical sites in iran raises alarm",
     "type": "reel",
     "timestamp": 1773442353248
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/missouri-judge-rejects-challenge-new-us-house-districts-131013697",
+    "titleNorm": "missouri judge rejects a challenge to new us",
+    "type": "card",
+    "timestamp": 1773443993351
   }
 ]
