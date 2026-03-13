@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/army-sergeant-plead-guilty-georgia-base-shootings-injured-131014762",
-    "titleNorm": "army sergeant wants to plead guilty in georgia",
-    "type": "reel",
-    "timestamp": 1773371681460
-  },
-  {
     "url": "https://www.nbcnews.com/nightly-news/video/rescue-efforts-underway-after-u-s-refueling-plane-crashes-in-iraq-259224133558",
     "titleNorm": "rescue efforts underway after us refueling plane crashes",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "old dominion university rotc cadets disarm isis supporter",
     "type": "reel",
     "timestamp": 1773414647394
+  },
+  {
+    "url": "https://www.foxnews.com/us/four-us-service-members-dead-after-aircraft-goes-down-iraq-more-top-headlines",
+    "titleNorm": "four us service members dead after aircraft goes",
+    "type": "card",
+    "timestamp": 1773416060532
   }
 ]
