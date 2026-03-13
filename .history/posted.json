@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/officer-ambulance-sent-man-dying-police-shooting-investigation-connecticut/",
-    "titleNorm": "officer took ambulance sent for man dying from",
-    "type": "card",
-    "timestamp": 1773314804768
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/first-6-days-iran-war-cost-11-billion-pentagon-tells-senators-rcna263060",
-    "titleNorm": "first 6 days of iran war cost 113",
-    "type": "card",
-    "timestamp": 1773318948791
-  },
-  {
     "url": "https://www.foxnews.com/us/fireworks-executive-rips-page-from-boston-bombing-playbook-trace-nyc-terror-suspect",
     "titleNorm": "fireworks executive rips page from boston bombing playbook",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "white house compares deadly conflict to video games",
     "type": "card",
     "timestamp": 1773357613727
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/suspect-old-dominion-university-shooting-was-convicted-isis-supporter-rcna263256",
+    "titleNorm": "suspect in old dominion university shooting was convicted",
+    "type": "card",
+    "timestamp": 1773364093309
   }
 ]
