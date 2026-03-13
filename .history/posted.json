@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/trump-trade-war-section-301-rcna263026",
-    "titleNorm": "trump launches the next phase of his trade",
-    "type": "card",
-    "timestamp": 1773340811877
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/damage-historical-sites-iran-raises-alarm-wars-impact-130989751",
-    "titleNorm": "damage to historical sites in iran raises alarm",
-    "type": "reel",
-    "timestamp": 1773343124228
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/gunman-dead-2-people-injured-shooting-old-dominion-university-rcna263189",
     "titleNorm": "old dominion university shooting leaves 1 person dead",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "trump nominates new head of voas parent agency",
     "type": "card",
     "timestamp": 1773383948969
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-held-active-shooter-training-michigan-synagogue-weeks-before-attack",
+    "titleNorm": "fbi held active shooter training at michigan synagogue",
+    "type": "reel",
+    "timestamp": 1773386984074
   }
 ]
