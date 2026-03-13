@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/kari-lake-sarah-rogers-voice-of-america-us-agency-global-media-rcna263261",
-    "titleNorm": "trump nominates new head of voas parent agency",
-    "type": "card",
-    "timestamp": 1773383948969
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-held-active-shooter-training-michigan-synagogue-weeks-before-attack",
     "titleNorm": "fbi held active shooter training at michigan synagogue",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "michigan synagogue security heroes saved lives during temple",
     "type": "card",
     "timestamp": 1773426525164
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-ohio-pastors-emerge-faithful-allies-haitian-migrants-131031509",
+    "titleNorm": "2 ohio pastors emerge as faithful allies for",
+    "type": "reel",
+    "timestamp": 1773428938177
   }
 ]
