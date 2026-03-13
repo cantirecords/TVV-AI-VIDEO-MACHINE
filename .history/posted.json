@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/nightly-news/video/rescue-efforts-underway-after-u-s-refueling-plane-crashes-in-iraq-259224133558",
-    "titleNorm": "rescue efforts underway after us refueling plane crashes",
-    "type": "card",
-    "timestamp": 1773374660632
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-touted-falling-gas-prices-now-says-make-lot-money-go-rcna263169",
     "titleNorm": "trump touted falling gas prices but now says",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "four us service members dead after aircraft goes",
     "type": "card",
     "timestamp": 1773416060532
+  },
+  {
+    "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
+    "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
+    "type": "card",
+    "timestamp": 1773419310924
   }
 ]
