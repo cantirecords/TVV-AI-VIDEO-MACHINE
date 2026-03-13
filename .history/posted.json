@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials",
-    "titleNorm": "california shootings leave 2 deputies utility worker injured",
-    "type": "card",
-    "timestamp": 1773390521696
-  },
-  {
     "url": "https://www.foxnews.com/us/long-island-teen-found-dead-brooklyn-waters",
     "titleNorm": "long island teen who vanished after trip to",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "armed texas man in tactical gear arrested after",
     "type": "card",
     "timestamp": 1773433360230
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials",
+    "titleNorm": "california shootings leave 2 deputies utility worker injured",
+    "type": "reel",
+    "timestamp": 1773435700649
   }
 ]
