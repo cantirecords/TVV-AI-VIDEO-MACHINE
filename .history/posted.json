@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-scandal-plagued-illinois-super-mayor-eyes-political-comeback-republican-georgia",
-    "titleNorm": "former scandalplagued illinois super mayor eyes political comeback",
-    "type": "card",
-    "timestamp": 1773334224385
-  },
-  {
-    "url": "https://www.foxnews.com/us/alleged-hazing-death-tied-secretive-rush-night-ignites-arrests-frat-reckoning",
-    "titleNorm": "alleged hazing death tied to secretive rush night",
-    "type": "reel",
-    "timestamp": 1773335965917
-  },
-  {
     "url": "https://www.foxnews.com/us/shooting-old-dominion-university-hall-injures-two-gunman-dead",
     "titleNorm": "shooting in old dominion university hall injures two",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "rescue efforts underway after us refueling plane crashes",
     "type": "card",
     "timestamp": 1773374660632
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-touted-falling-gas-prices-now-says-make-lot-money-go-rcna263169",
+    "titleNorm": "trump touted falling gas prices but now says",
+    "type": "reel",
+    "timestamp": 1773380015590
   }
 ]
