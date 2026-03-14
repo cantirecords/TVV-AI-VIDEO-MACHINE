@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/four-us-service-members-dead-after-aircraft-goes-down-iraq-more-top-headlines",
-    "titleNorm": "four us service members dead after aircraft goes",
-    "type": "card",
-    "timestamp": 1773416060532
-  },
-  {
     "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
     "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "man accused of attacking tsa officers seriously injuring",
     "type": "reel",
     "timestamp": 1773457974171
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/8-accused-antifa-ties-convicted-terrorism-charges-shooting-131053429",
+    "titleNorm": "8 accused of antifa ties convicted on terrorism",
+    "type": "card",
+    "timestamp": 1773460936798
   }
 ]
