@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-releases-renderings-kennedy-centers-exterior/",
-    "titleNorm": "trump posts renderings showing kennedy center exterior after",
-    "type": "card",
-    "timestamp": 1773473407352
-  },
-  {
     "url": "https://www.cbsnews.com/news/man-charged-with-selling-to-gunman-stolen-firearm-old-dominion-university-shooting/",
     "titleNorm": "man charged with selling stolen firearm used in",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
     "type": "card",
     "timestamp": 1773516076781
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/state-lawmakers-grill-former-special-prosecutor-nathan-wade-131052330",
+    "titleNorm": "state lawmakers grill former special prosecutor nathan wade",
+    "type": "card",
+    "timestamp": 1773519442305
   }
 ]
