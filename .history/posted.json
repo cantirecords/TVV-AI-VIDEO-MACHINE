@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/hockey-player-lost-family-rhode-island-shooting-scores-131000776",
-    "titleNorm": "hockey player who lost family in rhode island",
-    "type": "reel",
-    "timestamp": 1773409278717
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-kc-135-plane-crash-iraq-us-deaths-strait-of-hormuz-no-end-in-sight/",
-    "titleNorm": "4 more us deaths vague threat from trump",
-    "type": "card",
-    "timestamp": 1773410169370
-  },
-  {
-    "url": "https://www.nbcnews.com/world/russia/trump-eases-russian-oil-sanctions-iran-war-prices-ukraine-europe-rcna263310",
-    "titleNorm": "us eases russian oil sanctions as iran war",
-    "type": "card",
-    "timestamp": 1773412594116
-  },
-  {
-    "url": "https://www.foxnews.com/us/old-dominion-university-rotc-cadets-disarm-isis-supporter-shouting-allahu-akbar-during-shooting-officials",
-    "titleNorm": "old dominion university rotc cadets disarm isis supporter",
-    "type": "reel",
-    "timestamp": 1773414647394
-  },
-  {
     "url": "https://www.foxnews.com/us/four-us-service-members-dead-after-aircraft-goes-down-iraq-more-top-headlines",
     "titleNorm": "four us service members dead after aircraft goes",
     "type": "card",
@@ -106,5 +82,11 @@
     "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
     "type": "card",
     "timestamp": 1773450419765
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-attacking-tsa-officers-seriously-injuring-dallas-cop-airport",
+    "titleNorm": "man accused of attacking tsa officers seriously injuring",
+    "type": "reel",
+    "timestamp": 1773457974171
   }
 ]
