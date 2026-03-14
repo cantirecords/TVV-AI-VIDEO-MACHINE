@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
-    "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
-    "type": "card",
-    "timestamp": 1773419310924
-  },
-  {
-    "url": "https://www.foxnews.com/us/california-mountain-biker-dies-after-month-long-hospital-stay-following-rattlesnake-bite",
-    "titleNorm": "california mountain biker dies after monthlong hospital stay",
-    "type": "reel",
-    "timestamp": 1773421632811
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iran-war-uae-tourists-expats-influencers-detained-social-media-posts/",
-    "titleNorm": "tourists expats detained in uae over content showing",
-    "type": "card",
-    "timestamp": 1773422926802
-  },
-  {
     "url": "https://www.foxnews.com/us/michigan-synagogue-security-heroes-saved-lives-during-temple-israel-attack-governor-says",
     "titleNorm": "michigan synagogue security heroes saved lives during temple",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "8 accused of antifa ties convicted on terrorism",
     "type": "card",
     "timestamp": 1773460936798
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1773466331047
   }
 ]
