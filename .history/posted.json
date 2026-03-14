@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/rotc-students-old-dominion-university-credited-stopping-deadly-classroom-shooting/",
-    "titleNorm": "brave rotc students credited with stopping deadly shooting",
-    "type": "card",
-    "timestamp": 1773401073903
-  },
-  {
-    "url": "https://www.foxnews.com/us/armed-fbi-agents-carry-out-search-warrant-believed-connection-synagogue-attacker",
-    "titleNorm": "armed fbi agents carry out search warrant believed",
-    "type": "card",
-    "timestamp": 1773405400760
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/hockey-player-lost-family-rhode-island-shooting-scores-131000776",
     "titleNorm": "hockey player who lost family in rhode island",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "missouri judge rejects a challenge to new us",
     "type": "card",
     "timestamp": 1773443993351
+  },
+  {
+    "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
+    "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
+    "type": "card",
+    "timestamp": 1773450419765
   }
 ]
