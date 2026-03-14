@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/damage-historical-sites-iran-raises-alarm-wars-impact-130989751",
-    "titleNorm": "damage to historical sites in iran raises alarm",
-    "type": "reel",
-    "timestamp": 1773442353248
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/missouri-judge-rejects-challenge-new-us-house-districts-131013697",
     "titleNorm": "missouri judge rejects a challenge to new us",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
     "type": "card",
     "timestamp": 1773483594926
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-michigan-synagogue-attacker-identified",
+    "titleNorm": "fox news antisemitism exposed newsletter michigan synagogue attacker",
+    "type": "reel",
+    "timestamp": 1773485670486
   }
 ]
