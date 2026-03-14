@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/michigan-synagogue-security-heroes-saved-lives-during-temple-israel-attack-governor-says",
-    "titleNorm": "michigan synagogue security heroes saved lives during temple",
-    "type": "card",
-    "timestamp": 1773426525164
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-ohio-pastors-emerge-faithful-allies-haitian-migrants-131031509",
     "titleNorm": "2 ohio pastors emerge as faithful allies for",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "12yearold dies days after violent school bus fight",
     "type": "card",
     "timestamp": 1773466869257
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-gettysburg-mayor-arrested-child-sex-abuse-charges-weeks-resignation",
+    "titleNorm": "former gettysburg mayor arrested on child sex abuse",
+    "type": "card",
+    "timestamp": 1773470097363
   }
 ]
