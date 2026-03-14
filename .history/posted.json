@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/armed-texas-man-dressed-tactical-gear-arrested-after-going-elementary-school-through-unsecure-door",
-    "titleNorm": "armed texas man in tactical gear arrested after",
-    "type": "card",
-    "timestamp": 1773433360230
-  },
-  {
     "url": "https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials",
     "titleNorm": "california shootings leave 2 deputies utility worker injured",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump posts renderings showing kennedy center exterior after",
     "type": "card",
     "timestamp": 1773473407352
+  },
+  {
+    "url": "https://www.cbsnews.com/news/man-charged-with-selling-to-gunman-stolen-firearm-old-dominion-university-shooting/",
+    "titleNorm": "man charged with selling stolen firearm used in",
+    "type": "card",
+    "timestamp": 1773476628679
   }
 ]
