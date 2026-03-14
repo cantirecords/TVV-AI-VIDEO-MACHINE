@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/man-charged-with-selling-to-gunman-stolen-firearm-old-dominion-university-shooting/",
-    "titleNorm": "man charged with selling stolen firearm used in",
-    "type": "card",
-    "timestamp": 1773476628679
-  },
-  {
     "url": "https://www.nbcnews.com/business/consumer/iran-war-fertilizer-prices-food-rcna263336",
     "titleNorm": "the iran wars looming economic threat higher food",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "state lawmakers grill former special prosecutor nathan wade",
     "type": "card",
     "timestamp": 1773519442305
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1773521554848
   }
 ]
