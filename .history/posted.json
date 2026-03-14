@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-ohio-pastors-emerge-faithful-allies-haitian-migrants-131031509",
-    "titleNorm": "2 ohio pastors emerge as faithful allies for",
-    "type": "reel",
-    "timestamp": 1773472382395
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-releases-renderings-kennedy-centers-exterior/",
     "titleNorm": "trump posts renderings showing kennedy center exterior after",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "8 accused of antifa ties convicted on terrorism",
     "type": "reel",
     "timestamp": 1773515077145
+  },
+  {
+    "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
+    "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
+    "type": "card",
+    "timestamp": 1773516076781
   }
 ]
