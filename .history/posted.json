@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/missouri-judge-rejects-challenge-new-us-house-districts-131013697",
-    "titleNorm": "missouri judge rejects a challenge to new us",
-    "type": "card",
-    "timestamp": 1773443993351
-  },
-  {
     "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
     "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1773487016145
+  },
+  {
+    "url": "https://www.foxnews.com/us/four-us-service-members-dead-after-aircraft-goes-down-iraq-more-top-headlines",
+    "titleNorm": "four us service members dead after aircraft goes",
+    "type": "card",
+    "timestamp": 1773491315676
   }
 ]
