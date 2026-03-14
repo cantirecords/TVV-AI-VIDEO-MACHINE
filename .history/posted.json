@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials",
-    "titleNorm": "california shootings leave 2 deputies utility worker injured",
-    "type": "reel",
-    "timestamp": 1773435700649
-  },
-  {
     "url": "https://www.cbsnews.com/news/temple-israel-surveillance-video-synagogue-attacker-buying-fireworks/",
     "titleNorm": "video shows synagogue attacker buying 2250 in fireworks",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "the iran wars looming economic threat higher food",
     "type": "reel",
     "timestamp": 1773478820296
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/republicans-warn-trumps-save-america-act-elections-fail-rcna263250",
+    "titleNorm": "some republicans warn trumps save america act is",
+    "type": "card",
+    "timestamp": 1773480192075
   }
 ]
