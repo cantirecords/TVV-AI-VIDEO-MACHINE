@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/republicans-warn-trumps-save-america-act-elections-fail-rcna263250",
-    "titleNorm": "some republicans warn trumps save america act is",
-    "type": "card",
-    "timestamp": 1773480192075
-  },
-  {
     "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
     "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "charges dropped against teens after teacher dies in",
     "type": "card",
     "timestamp": 1773523152880
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-trump-threatens-irans-oil-infrastructure-after-us-131061811",
+    "titleNorm": "the latest trump threatens irans oil infrastructure after",
+    "type": "card",
+    "timestamp": 1773526623214
   }
 ]
