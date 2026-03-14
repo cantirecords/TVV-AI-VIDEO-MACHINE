@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-accused-attacking-tsa-officers-seriously-injuring-dallas-cop-airport",
-    "titleNorm": "man accused of attacking tsa officers seriously injuring",
-    "type": "reel",
-    "timestamp": 1773457974171
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/8-accused-antifa-ties-convicted-terrorism-charges-shooting-131053429",
     "titleNorm": "8 accused of antifa ties convicted on terrorism",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "high school senior charged with random murder after",
     "type": "reel",
     "timestamp": 1773500107345
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1773501538175
   }
 ]
