@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1773466331047
-  },
-  {
-    "url": "https://www.foxnews.com/us/12-year-old-dies-days-violent-school-bus-fight-caught-video-atlanta-suburb",
-    "titleNorm": "12yearold dies days after violent school bus fight",
-    "type": "card",
-    "timestamp": 1773466869257
-  },
-  {
     "url": "https://www.foxnews.com/us/former-gettysburg-mayor-arrested-child-sex-abuse-charges-weeks-resignation",
     "titleNorm": "former gettysburg mayor arrested on child sex abuse",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "before recent attack michigan synagogue had been bolstering",
     "type": "card",
     "timestamp": 1773508744732
+  },
+  {
+    "url": "https://www.cbsnews.com/news/players-championship-delayed-manhunt-murder-suspect/",
+    "titleNorm": "players championship start delayed amid manhunt for murder",
+    "type": "card",
+    "timestamp": 1773512619796
   }
 ]
