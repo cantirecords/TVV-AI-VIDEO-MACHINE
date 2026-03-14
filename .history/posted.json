@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-gettysburg-mayor-arrested-child-sex-abuse-charges-weeks-resignation",
-    "titleNorm": "former gettysburg mayor arrested on child sex abuse",
-    "type": "card",
-    "timestamp": 1773470097363
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-ohio-pastors-emerge-faithful-allies-haitian-migrants-131031509",
     "titleNorm": "2 ohio pastors emerge as faithful allies for",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "players championship start delayed amid manhunt for murder",
     "type": "card",
     "timestamp": 1773512619796
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/8-accused-antifa-ties-convicted-terrorism-charges-shooting-131053429",
+    "titleNorm": "8 accused of antifa ties convicted on terrorism",
+    "type": "reel",
+    "timestamp": 1773515077145
   }
 ]
