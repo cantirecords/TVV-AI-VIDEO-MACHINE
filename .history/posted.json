@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/temple-israel-surveillance-video-synagogue-attacker-buying-fireworks/",
-    "titleNorm": "video shows synagogue attacker buying 2250 in fireworks",
-    "type": "card",
-    "timestamp": 1773437085115
-  },
-  {
-    "url": "https://www.foxnews.com/us/charges-dropped-against-teens-after-teacher-dies-senior-prank-incident-outside-his-home",
-    "titleNorm": "charges dropped against teens after teacher dies in",
-    "type": "card",
-    "timestamp": 1773440387737
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/damage-historical-sites-iran-raises-alarm-wars-impact-130989751",
     "titleNorm": "damage to historical sites in iran raises alarm",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "some republicans warn trumps save america act is",
     "type": "card",
     "timestamp": 1773480192075
+  },
+  {
+    "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
+    "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
+    "type": "card",
+    "timestamp": 1773483594926
   }
 ]
