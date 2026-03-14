@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
-    "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
-    "type": "card",
-    "timestamp": 1773450419765
-  },
-  {
     "url": "https://www.foxnews.com/us/man-accused-attacking-tsa-officers-seriously-injuring-dallas-cop-airport",
     "titleNorm": "man accused of attacking tsa officers seriously injuring",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "four us service members dead after aircraft goes",
     "type": "card",
     "timestamp": 1773491315676
+  },
+  {
+    "url": "https://www.nbcnews.com/nightly-news/video/surveillance-footage-captures-michigan-synagogue-suspect-buying-fireworks-days-before-attack-259287621872",
+    "titleNorm": "surveillance footage captures michigan synagogue suspect buying fireworks",
+    "type": "reel",
+    "timestamp": 1773494934419
   }
 ]
