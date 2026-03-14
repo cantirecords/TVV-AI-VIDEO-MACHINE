@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack",
-    "titleNorm": "who is ayman mohamad ghazali lebaneseborn american accused",
-    "type": "card",
-    "timestamp": 1773483594926
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-michigan-synagogue-attacker-identified",
     "titleNorm": "fox news antisemitism exposed newsletter michigan synagogue attacker",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "the latest trump threatens irans oil infrastructure after",
     "type": "card",
     "timestamp": 1773526623214
+  },
+  {
+    "url": "https://www.foxnews.com/us/pennsylvania-men-accused-isis-inspired-bomb-attack-nyc-protesters-near-mayors-mansion-timeline",
+    "titleNorm": "pennsylvania men accused of isisinspired bomb attack on",
+    "type": "reel",
+    "timestamp": 1773528782300
   }
 ]
