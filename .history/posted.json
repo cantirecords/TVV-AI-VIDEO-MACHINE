@@ -82,5 +82,11 @@
     "titleNorm": "fox news antisemitism exposed newsletter michigan synagogue attacker",
     "type": "reel",
     "timestamp": 1773485670486
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "card",
+    "timestamp": 1773487016145
   }
 ]
