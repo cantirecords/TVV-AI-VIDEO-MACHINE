@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/consumer/iran-war-fertilizer-prices-food-rcna263336",
-    "titleNorm": "the iran wars looming economic threat higher food",
-    "type": "reel",
-    "timestamp": 1773478820296
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/republicans-warn-trumps-save-america-act-elections-fail-rcna263250",
     "titleNorm": "some republicans warn trumps save america act is",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1773521554848
+  },
+  {
+    "url": "https://www.foxnews.com/us/charges-dropped-against-teens-after-teacher-dies-senior-prank-incident-outside-his-home",
+    "titleNorm": "charges dropped against teens after teacher dies in",
+    "type": "card",
+    "timestamp": 1773523152880
   }
 ]
