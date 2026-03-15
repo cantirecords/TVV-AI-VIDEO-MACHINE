@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/armed-fbi-agents-carry-out-search-warrant-believed-connection-synagogue-attacker",
-    "titleNorm": "armed fbi agents carry out search warrant believed",
-    "type": "reel",
-    "timestamp": 1773559761017
-  },
-  {
     "url": "https://www.foxnews.com/us/manhunt-louisiana-man-wanted-deadly-crash-who-may-have-fled-state-country-continues-6th-month",
     "titleNorm": "manhunt for louisiana man wanted in deadly crash",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1773602515115
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/offshore-wind-project-targeted-trump-administration-starts-sending-131059983",
+    "titleNorm": "offshore wind project targeted by trump administration starts",
+    "type": "card",
+    "timestamp": 1773605952233
   }
 ]
