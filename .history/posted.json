@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/personal-finance/iran-war-tax-refunds-inflation-gas-rcna263337",
-    "titleNorm": "iran war threatens to erase the economic bump",
-    "type": "card",
-    "timestamp": 1773566691931
-  },
-  {
     "url": "https://www.cbsnews.com/news/us-service-members-killed-iran-war-what-we-know/",
     "titleNorm": "what we know about us service members killed",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "before recent attack michigan synagogue had been bolstering",
     "type": "card",
     "timestamp": 1773609678044
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-gettysburg-mayor-arrested-child-sex-abuse-charges-weeks-resignation",
+    "titleNorm": "former gettysburg mayor arrested on child sex abuse",
+    "type": "card",
+    "timestamp": 1773613086044
   }
 ]
