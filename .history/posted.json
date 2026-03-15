@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/us-refueling-plane-crashes-iraq-iran-war-crew-members-killed-rcna263315",
-    "titleNorm": "pentagon identifies 6 us crew members killed in",
-    "type": "reel",
-    "timestamp": 1773553941943
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/weeks-war-iran-trump-knocked-back-political-heels-131079731",
-    "titleNorm": "two weeks into war with iran trump has",
-    "type": "card",
-    "timestamp": 1773554439301
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
     "titleNorm": "family of michigan synagogue suspect killed in lebanon",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1773595244817
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-trump-threatens-irans-oil-infrastructure-after-us-131061811",
+    "titleNorm": "the latest trump threatens irans oil infrastructure after",
+    "type": "card",
+    "timestamp": 1773599126911
   }
 ]
