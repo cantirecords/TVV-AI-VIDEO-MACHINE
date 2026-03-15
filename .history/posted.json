@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/8-accused-antifa-ties-convicted-terrorism-charges-shooting-131053429",
-    "titleNorm": "8 accused of antifa ties convicted on terrorism",
-    "type": "reel",
-    "timestamp": 1773515077145
-  },
-  {
-    "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
-    "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
-    "type": "card",
-    "timestamp": 1773516076781
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/state-lawmakers-grill-former-special-prosecutor-nathan-wade-131052330",
     "titleNorm": "state lawmakers grill former special prosecutor nathan wade",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "family of michigan synagogue suspect killed in lebanon",
     "type": "card",
     "timestamp": 1773558093534
+  },
+  {
+    "url": "https://www.foxnews.com/us/armed-fbi-agents-carry-out-search-warrant-believed-connection-synagogue-attacker",
+    "titleNorm": "armed fbi agents carry out search warrant believed",
+    "type": "reel",
+    "timestamp": 1773559761017
   }
 ]
