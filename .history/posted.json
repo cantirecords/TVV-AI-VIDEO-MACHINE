@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-charged-charlie-kirks-assassination-seeks-seal-evidence-from-public",
-    "titleNorm": "judge rules on motion to seal evidence in",
-    "type": "reel",
-    "timestamp": 1773507453354
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/recent-attack-michigan-synagogue-bolstering-security-131061438",
-    "titleNorm": "before recent attack michigan synagogue had been bolstering",
-    "type": "card",
-    "timestamp": 1773508744732
-  },
-  {
     "url": "https://www.cbsnews.com/news/players-championship-delayed-manhunt-murder-suspect/",
     "titleNorm": "players championship start delayed amid manhunt for murder",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "michigan synagogue security heroes saved lives during temple",
     "type": "card",
     "timestamp": 1773548704622
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/us-refueling-plane-crashes-iraq-iran-war-crew-members-killed-rcna263315",
+    "titleNorm": "pentagon identifies 6 us crew members killed in",
+    "type": "reel",
+    "timestamp": 1773553941943
   }
 ]
