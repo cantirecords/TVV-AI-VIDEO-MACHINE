@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-says-tv-networks-should-maybe-have-their-licenses-revoked/",
-    "titleNorm": "trump says tv networks covering him negatively should",
-    "type": "reel",
-    "timestamp": 1773565363236
-  },
-  {
     "url": "https://www.nbcnews.com/business/personal-finance/iran-war-tax-refunds-inflation-gas-rcna263337",
     "titleNorm": "iran war threatens to erase the economic bump",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "ukraines antidrone tech is in high demand as",
     "type": "reel",
     "timestamp": 1773608032142
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/recent-attack-michigan-synagogue-bolstering-security-131061438",
+    "titleNorm": "before recent attack michigan synagogue had been bolstering",
+    "type": "card",
+    "timestamp": 1773609678044
   }
 ]
