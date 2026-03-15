@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/four-us-service-members-dead-after-aircraft-goes-down-iraq-more-top-headlines",
-    "titleNorm": "four us service members dead after aircraft goes",
-    "type": "card",
-    "timestamp": 1773491315676
-  },
-  {
     "url": "https://www.nbcnews.com/nightly-news/video/surveillance-footage-captures-michigan-synagogue-suspect-buying-fireworks-days-before-attack-259287621872",
     "titleNorm": "surveillance footage captures michigan synagogue suspect buying fireworks",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1773530352437
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "hamas urges key ally iran to halt attacks",
+    "type": "card",
+    "timestamp": 1773537527664
   }
 ]
