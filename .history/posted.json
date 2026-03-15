@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/nightly-news/video/surveillance-footage-captures-michigan-synagogue-suspect-buying-fireworks-days-before-attack-259287621872",
-    "titleNorm": "surveillance footage captures michigan synagogue suspect buying fireworks",
-    "type": "reel",
-    "timestamp": 1773494934419
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-bombs-military-sites-iranian-island-trump-threatens-131060984",
-    "titleNorm": "us bombs military sites on iranian island as",
-    "type": "card",
-    "timestamp": 1773495535487
-  },
-  {
-    "url": "https://www.foxnews.com/us/manhunt-louisiana-man-wanted-deadly-crash-who-may-have-fled-state-country-continues-6th-month",
-    "titleNorm": "manhunt for louisiana man wanted in deadly crash",
-    "type": "card",
-    "timestamp": 1773498111041
-  },
-  {
-    "url": "https://www.foxnews.com/us/high-school-senior-charged-random-murder-68-year-old-woman-found-dead-massachusetts-home",
-    "titleNorm": "high school senior charged with random murder after",
-    "type": "reel",
-    "timestamp": 1773500107345
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1773501538175
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/ukrainian-refugees-years-after-russia-invasion-fear-return-rcna250438",
     "titleNorm": "they fled ukraine and settled into new lives",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "hamas urges key ally iran to halt attacks",
     "type": "card",
     "timestamp": 1773537527664
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1773546043724
   }
 ]
