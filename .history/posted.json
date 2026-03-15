@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1773546043724
-  },
-  {
     "url": "https://www.foxnews.com/us/michigan-synagogue-security-heroes-saved-lives-during-temple-israel-attack-governor-says",
     "titleNorm": "michigan synagogue security heroes saved lives during temple",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "trump urges us allies to send warships to",
     "type": "card",
     "timestamp": 1773587996438
+  },
+  {
+    "url": "https://www.foxnews.com/us/sheriff-warns-nancy-guthrie-suspect-could-absolutely-strike-again-hints-motive",
+    "titleNorm": "sheriff warns nancy guthrie suspect could absolutely strike",
+    "type": "card",
+    "timestamp": 1773591711079
   }
 ]
