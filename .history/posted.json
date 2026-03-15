@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-trump-threatens-irans-oil-infrastructure-after-us-131061811",
-    "titleNorm": "the latest trump threatens irans oil infrastructure after",
-    "type": "card",
-    "timestamp": 1773526623214
-  },
-  {
     "url": "https://www.foxnews.com/us/pennsylvania-men-accused-isis-inspired-bomb-attack-nyc-protesters-near-mayors-mansion-timeline",
     "titleNorm": "pennsylvania men accused of isisinspired bomb attack on",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "iran war threatens to erase the economic bump",
     "type": "card",
     "timestamp": 1773566691931
+  },
+  {
+    "url": "https://www.cbsnews.com/news/us-service-members-killed-iran-war-what-we-know/",
+    "titleNorm": "what we know about us service members killed",
+    "type": "card",
+    "timestamp": 1773570064017
   }
 ]
