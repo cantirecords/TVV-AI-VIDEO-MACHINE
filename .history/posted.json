@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "family of michigan synagogue suspect killed in lebanon",
-    "type": "card",
-    "timestamp": 1773558093534
-  },
-  {
     "url": "https://www.foxnews.com/us/armed-fbi-agents-carry-out-search-warrant-believed-connection-synagogue-attacker",
     "titleNorm": "armed fbi agents carry out search warrant believed",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "the latest trump threatens irans oil infrastructure after",
     "type": "card",
     "timestamp": 1773599126911
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1773601549093
   }
 ]
