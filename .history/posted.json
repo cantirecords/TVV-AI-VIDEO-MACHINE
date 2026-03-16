@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/offshore-wind-project-targeted-trump-administration-starts-sending-131059983",
-    "titleNorm": "offshore wind project targeted by trump administration starts",
-    "type": "card",
-    "timestamp": 1773605952233
-  },
-  {
-    "url": "https://www.nbcnews.com/world/ukraine/ukraines-anti-drone-tech-high-demand-iran-attacks-neighbors-rcna263113",
-    "titleNorm": "ukraines antidrone tech is in high demand as",
-    "type": "reel",
-    "timestamp": 1773608032142
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/recent-attack-michigan-synagogue-bolstering-security-131061438",
-    "titleNorm": "before recent attack michigan synagogue had been bolstering",
-    "type": "card",
-    "timestamp": 1773609678044
-  },
-  {
     "url": "https://www.foxnews.com/us/former-gettysburg-mayor-arrested-child-sex-abuse-charges-weeks-resignation",
     "titleNorm": "former gettysburg mayor arrested on child sex abuse",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "tie at 2026 oscars for best liveaction short",
     "type": "card",
     "timestamp": 1773648185477
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/offshore-wind-project-targeted-trump-administration-starts-sending-131059983",
+    "titleNorm": "offshore wind project targeted by trump administration starts",
+    "type": "reel",
+    "timestamp": 1773654067445
   }
 ]
