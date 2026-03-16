@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jasmine-crocketts-alleged-security-guard-killed-standoff-dallas-swat-team-reports",
-    "titleNorm": "jasmine crocketts alleged security guard killed in standoff",
-    "type": "reel",
-    "timestamp": 1773641164413
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-urges-us-allies-send-warships-strait-hormuz-131080286",
-    "titleNorm": "trump urges us allies to send warships to",
-    "type": "card",
-    "timestamp": 1773641685411
-  },
-  {
     "url": "https://www.foxnews.com/us/11-year-old-accused-premeditated-murder-brothers-death-cant-tried-adult-former-da-says",
     "titleNorm": "11yearold accused of premeditated murder in brothers death",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1773683653361
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-pushes-deportations-immigration-data-harder-find-131082817",
+    "titleNorm": "as trump pushes deportations immigration data becomes harder",
+    "type": "card",
+    "timestamp": 1773686890323
   }
 ]
