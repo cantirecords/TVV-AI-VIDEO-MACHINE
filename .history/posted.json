@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/jones-act-trump-considers-waiver-iran-war-131052858",
-    "titleNorm": "what to know about the jones act as",
-    "type": "card",
-    "timestamp": 1773577765450
-  },
-  {
     "url": "https://www.foxnews.com/us/11-year-old-accused-premeditated-murder-brothers-death-cant-tried-adult-former-da-says",
     "titleNorm": "11yearold accused of premeditated murder in brothers death",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "manhunt for louisiana man wanted in deadly crash",
     "type": "card",
     "timestamp": 1773616831270
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-gulf-countries-report-new-attacks-day-after-131080100",
+    "titleNorm": "the latest gulf countries report new attacks a",
+    "type": "card",
+    "timestamp": 1773623899883
   }
 ]
