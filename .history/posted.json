@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-nation-documentary-examines-chris-watts-colorado-family-murder-case",
-    "titleNorm": "fox nation documentary examines chris watts colorado family",
-    "type": "card",
-    "timestamp": 1773657899832
-  },
-  {
     "url": "https://www.foxnews.com/us/woman-accused-fatal-hit-and-run-killed-8-year-old-laughs-during-first-court-appearance",
     "titleNorm": "woman accused of fatal hitandrun that killed 8yearold",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "us army general who oversaw ukraine left classified",
     "type": "card",
     "timestamp": 1773699896327
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1773701858409
   }
 ]
