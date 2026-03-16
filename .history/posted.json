@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pennsylvania-men-accused-isis-inspired-bomb-attack-nyc-protesters-near-mayors-mansion-timeline",
-    "titleNorm": "pennsylvania men accused of isisinspired bomb attack on",
-    "type": "reel",
-    "timestamp": 1773593880868
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1773595244817
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-trump-threatens-irans-oil-infrastructure-after-us-131061811",
     "titleNorm": "the latest trump threatens irans oil infrastructure after",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "two weeks into war with iran trump has",
     "type": "card",
     "timestamp": 1773635512329
+  },
+  {
+    "url": "https://www.foxnews.com/us/jasmine-crocketts-alleged-security-guard-killed-standoff-dallas-swat-team-reports",
+    "titleNorm": "jasmine crocketts alleged security guard killed in standoff",
+    "type": "reel",
+    "timestamp": 1773641164413
   }
 ]
