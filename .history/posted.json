@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/11-year-old-accused-premeditated-murder-brothers-death-cant-tried-adult-former-da-says",
-    "titleNorm": "11yearold accused of premeditated murder in brothers death",
-    "type": "reel",
-    "timestamp": 1773647756391
-  },
-  {
-    "url": "https://www.cbsnews.com/news/oscars-awards-ties-best-live-action-short-2026/",
-    "titleNorm": "tie at 2026 oscars for best liveaction short",
-    "type": "card",
-    "timestamp": 1773648185477
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/offshore-wind-project-targeted-trump-administration-starts-sending-131059983",
     "titleNorm": "offshore wind project targeted by trump administration starts",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "manhunt for louisiana man wanted in deadly crash",
     "type": "card",
     "timestamp": 1773690582735
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-once-eyed-disappearance-missing-california-teen-now-charged-murder",
+    "titleNorm": "man once eyed in disappearance of missing california",
+    "type": "card",
+    "timestamp": 1773692906662
   }
 ]
