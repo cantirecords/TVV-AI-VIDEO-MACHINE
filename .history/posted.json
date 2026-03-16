@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1773615299607
-  },
-  {
-    "url": "https://www.foxnews.com/us/manhunt-louisiana-man-wanted-deadly-crash-who-may-have-fled-state-country-continues-6th-month",
-    "titleNorm": "manhunt for louisiana man wanted in deadly crash",
-    "type": "card",
-    "timestamp": 1773616831270
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-gulf-countries-report-new-attacks-day-after-131080100",
     "titleNorm": "the latest gulf countries report new attacks a",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "fox nation documentary examines chris watts colorado family",
     "type": "card",
     "timestamp": 1773657899832
+  },
+  {
+    "url": "https://www.foxnews.com/us/woman-accused-fatal-hit-and-run-killed-8-year-old-laughs-during-first-court-appearance",
+    "titleNorm": "woman accused of fatal hitandrun that killed 8yearold",
+    "type": "reel",
+    "timestamp": 1773660521798
   }
 ]
