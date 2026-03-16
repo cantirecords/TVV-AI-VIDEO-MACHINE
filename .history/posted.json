@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/8-accused-antifa-ties-convicted-terrorism-charges-shooting-131053429",
-    "titleNorm": "8 accused of antifa ties convicted on terrorism",
-    "type": "reel",
-    "timestamp": 1773632673678
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/weeks-war-iran-trump-knocked-back-political-heels-131079731",
     "titleNorm": "two weeks into war with iran trump has",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "iranian top official shares why he thinks president",
     "type": "reel",
     "timestamp": 1773675620046
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/radiant-mother-kentucky-6-us-service-members-killed-131088910",
+    "titleNorm": "radiant mother from kentucky was among 6 us",
+    "type": "card",
+    "timestamp": 1773676596329
   }
 ]
