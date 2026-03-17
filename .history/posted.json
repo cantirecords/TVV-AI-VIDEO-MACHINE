@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-suggests-delay-china-trip-bessent-pressure-strait-131107585",
-    "titleNorm": "trump suggests he may delay china trip but",
-    "type": "reel",
-    "timestamp": 1773695125014
-  },
-  {
     "url": "https://www.foxnews.com/us/nancy-guthrie-update-search-savannah-guthrie-missing-mother-enters-seventh-week-no-arrests",
     "titleNorm": "nancy guthrie update search for savannah guthries missing",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1773736808001
+  },
+  {
+    "url": "https://www.foxnews.com/us/greg-bovino-face-trumps-mass-deportation-campaign-retire-controversial-minneapolis-raids",
+    "titleNorm": "greg bovino face of trumps mass deportation campaign",
+    "type": "reel",
+    "timestamp": 1773738928077
   }
 ]
