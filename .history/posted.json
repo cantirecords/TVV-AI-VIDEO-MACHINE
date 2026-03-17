@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1773683653361
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-pushes-deportations-immigration-data-harder-find-131082817",
-    "titleNorm": "as trump pushes deportations immigration data becomes harder",
-    "type": "card",
-    "timestamp": 1773686890323
-  },
-  {
     "url": "https://www.foxnews.com/us/violent-dc-teen-takeover-upscale-neighborhood-escalates-gunfire",
     "titleNorm": "violent dc teen takeover in upscale neighborhood escalates",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "us oil soars past 100 a barrel as",
     "type": "card",
     "timestamp": 1773726776490
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-gulf-countries-report-new-attacks-day-after-131080100",
+    "titleNorm": "the latest gulf countries report new attacks a",
+    "type": "card",
+    "timestamp": 1773730369854
   }
 ]
