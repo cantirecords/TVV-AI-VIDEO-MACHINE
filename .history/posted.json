@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/woman-accused-fatal-hit-and-run-killed-8-year-old-laughs-during-first-court-appearance",
-    "titleNorm": "woman accused of fatal hitandrun that killed 8yearold",
-    "type": "reel",
-    "timestamp": 1773660521798
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/attacks-virginia-university-michigan-synagogue-131061356",
-    "titleNorm": "what to know about attacks at a virginia",
-    "type": "card",
-    "timestamp": 1773661185780
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/republicans-resist-calls-iran-war-hearings-creating-new-131106642",
-    "titleNorm": "republicans resist calls for iran war hearings creating",
-    "type": "card",
-    "timestamp": 1773665120887
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-trump-threatens-irans-oil-infrastructure-after-us-131061811",
     "titleNorm": "the latest trump threatens irans oil infrastructure after",
     "type": "reel",
@@ -112,5 +94,11 @@
     "titleNorm": "two weeks into war with iran trump has",
     "type": "card",
     "timestamp": 1773703352814
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-mass-deportation-agenda-crossroads-homeland-security-shake-131109996",
+    "titleNorm": "trumps mass deportation agenda is at a crossroads",
+    "type": "card",
+    "timestamp": 1773709895712
   }
 ]
