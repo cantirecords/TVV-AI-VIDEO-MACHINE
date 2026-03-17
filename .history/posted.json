@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-once-eyed-disappearance-missing-california-teen-now-charged-murder",
-    "titleNorm": "man once eyed in disappearance of missing california",
-    "type": "card",
-    "timestamp": 1773740692763
-  },
-  {
     "url": "https://www.cbsnews.com/news/afghan-father-former-u-s-military-ally-dies-in-ice-custody-in-texas/",
     "titleNorm": "afghan father former us military ally dies in",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "top iranian officials targeted and killed in military",
     "type": "card",
     "timestamp": 1773782873808
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mills-platner-spar-attack-ad-intensification-maine-primary-131155917",
+    "titleNorm": "mills and platner spar over attack ad in",
+    "type": "card",
+    "timestamp": 1773786254431
   }
 ]
