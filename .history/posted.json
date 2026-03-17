@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nancy-guthrie-update-search-savannah-guthrie-missing-mother-enters-seventh-week-no-arrests",
-    "titleNorm": "nancy guthrie update search for savannah guthries missing",
-    "type": "card",
-    "timestamp": 1773696729003
-  },
-  {
     "url": "https://www.foxnews.com/us/us-army-general-oversaw-ukraine-left-classified-maps-train-overindulged-alcohol-ig-report",
     "titleNorm": "us army general who oversaw ukraine left classified",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "greg bovino face of trumps mass deportation campaign",
     "type": "reel",
     "timestamp": 1773738928077
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-once-eyed-disappearance-missing-california-teen-now-charged-murder",
+    "titleNorm": "man once eyed in disappearance of missing california",
+    "type": "card",
+    "timestamp": 1773740692763
   }
 ]
