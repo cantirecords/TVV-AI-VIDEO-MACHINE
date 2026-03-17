@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1773736808001
-  },
-  {
     "url": "https://www.foxnews.com/us/greg-bovino-face-trumps-mass-deportation-campaign-retire-controversial-minneapolis-raids",
     "titleNorm": "greg bovino face of trumps mass deportation campaign",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "1 hospitalized suspect shot after a shooting at",
     "type": "card",
     "timestamp": 1773776942934
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1773781542893
   }
 ]
