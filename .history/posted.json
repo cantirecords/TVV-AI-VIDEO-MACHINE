@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1773720485876
-  },
-  {
     "url": "https://www.foxnews.com/us/utah-childrens-book-author-kouri-richins-husbands-murder",
     "titleNorm": "utah childrens book author kouri richins convicted in",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "florida feds arrest 15 illegal immigrants with criminal",
     "type": "card",
     "timestamp": 1773762919959
+  },
+  {
+    "url": "https://www.foxnews.com/us/nancy-guthrie-update-search-savannah-guthrie-missing-mother-enters-seventh-week-no-arrests",
+    "titleNorm": "nancy guthrie update search for savannah guthries missing",
+    "type": "card",
+    "timestamp": 1773766615503
   }
 ]
