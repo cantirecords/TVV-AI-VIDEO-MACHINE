@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-army-general-oversaw-ukraine-left-classified-maps-train-overindulged-alcohol-ig-report",
-    "titleNorm": "us army general who oversaw ukraine left classified",
-    "type": "card",
-    "timestamp": 1773699896327
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "man once eyed in disappearance of missing california",
     "type": "card",
     "timestamp": 1773740692763
+  },
+  {
+    "url": "https://www.cbsnews.com/news/afghan-father-former-u-s-military-ally-dies-in-ice-custody-in-texas/",
+    "titleNorm": "afghan father former us military ally dies in",
+    "type": "card",
+    "timestamp": 1773744025544
   }
 ]
