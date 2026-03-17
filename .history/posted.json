@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/greg-bovino-face-trumps-mass-deportation-campaign-retire-controversial-minneapolis-raids",
-    "titleNorm": "greg bovino face of trumps mass deportation campaign",
-    "type": "reel",
-    "timestamp": 1773738928077
-  },
-  {
     "url": "https://www.foxnews.com/us/man-once-eyed-disappearance-missing-california-teen-now-charged-murder",
     "titleNorm": "man once eyed in disappearance of missing california",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1773781542893
+  },
+  {
+    "url": "https://www.foxnews.com/us/top-iranian-officials-targeted-killed-military-strikes-more-top-headlines",
+    "titleNorm": "top iranian officials targeted and killed in military",
+    "type": "card",
+    "timestamp": 1773782873808
   }
 ]
