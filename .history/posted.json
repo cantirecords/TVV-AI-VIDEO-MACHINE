@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-oil-prices-strait-of-hormuz-trump-threat-kharg-island/",
-    "titleNorm": "iran war keeps strait of hormuz paralyzed and",
-    "type": "reel",
-    "timestamp": 1773733113153
-  },
-  {
-    "url": "https://www.foxnews.com/us/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges",
-    "titleNorm": "brother of michigan synagogue attacker was hezbollah commander",
-    "type": "card",
-    "timestamp": 1773733683452
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
     "type": "reel",
     "timestamp": 1773776126766
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/person-hospitalized-suspect-shot-after-shooting-georgia-va-131159647",
+    "titleNorm": "1 hospitalized suspect shot after a shooting at",
+    "type": "card",
+    "timestamp": 1773776942934
   }
 ]
