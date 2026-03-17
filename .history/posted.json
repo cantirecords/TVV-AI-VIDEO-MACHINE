@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/violent-dc-teen-takeover-upscale-neighborhood-escalates-gunfire",
-    "titleNorm": "violent dc teen takeover in upscale neighborhood escalates",
-    "type": "reel",
-    "timestamp": 1773689719732
-  },
-  {
     "url": "https://www.foxnews.com/us/manhunt-louisiana-man-wanted-deadly-crash-who-may-have-fled-state-country-continues-6th-month",
     "titleNorm": "manhunt for louisiana man wanted in deadly crash",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "the latest gulf countries report new attacks a",
     "type": "card",
     "timestamp": 1773730369854
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-oil-prices-strait-of-hormuz-trump-threat-kharg-island/",
+    "titleNorm": "iran war keeps strait of hormuz paralyzed and",
+    "type": "reel",
+    "timestamp": 1773733113153
   }
 ]
