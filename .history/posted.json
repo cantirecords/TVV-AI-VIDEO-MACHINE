@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-gulf-countries-report-new-attacks-day-after-131080100",
-    "titleNorm": "the latest gulf countries report new attacks a",
-    "type": "card",
-    "timestamp": 1773730369854
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-oil-prices-strait-of-hormuz-trump-threat-kharg-island/",
     "titleNorm": "iran war keeps strait of hormuz paralyzed and",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "antiice agitators blow cover in boston allowing child",
     "type": "card",
     "timestamp": 1773773207816
+  },
+  {
+    "url": "https://www.foxnews.com/us/michigan-synagogue-attackers-ex-wife-warned-911-operator-he-was-not-stable-assault-began",
+    "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
+    "type": "reel",
+    "timestamp": 1773776126766
   }
 ]
