@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iranian-top-official-shares-why-he-thinks-president-trump-started-attacking-country-more-top-headlines",
-    "titleNorm": "iranian top official shares why he thinks president",
-    "type": "reel",
-    "timestamp": 1773675620046
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/radiant-mother-kentucky-6-us-service-members-killed-131088910",
-    "titleNorm": "radiant mother from kentucky was among 6 us",
-    "type": "card",
-    "timestamp": 1773676596329
-  },
-  {
     "url": "https://www.cbsnews.com/news/boats-capsize-students-deaths-japan/",
     "titleNorm": "2 dead including girl after boats carrying students",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1773717681378
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1773720485876
   }
 ]
