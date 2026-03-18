@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/anti-ice-agitators-blow-cover-boston-allowing-child-rape-suspect-evade-arrest-weeks",
-    "titleNorm": "antiice agitators blow cover in boston allowing child",
-    "type": "card",
-    "timestamp": 1773819963788
-  },
-  {
     "url": "https://www.cbsnews.com/news/shooting-holloman-air-force-base-new-mexico/",
     "titleNorm": "1 killed another injured in shooting at holloman",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "extv reporter allegedly turned roadside gunman grilled victims",
     "type": "card",
     "timestamp": 1773862987890
+  },
+  {
+    "url": "https://www.foxnews.com/us/michigan-synagogue-attackers-ex-wife-warned-911-operator-he-was-not-stable-assault-began",
+    "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
+    "type": "card",
+    "timestamp": 1773865596290
   }
 ]
