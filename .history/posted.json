@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
-    "titleNorm": "obamaappointed judge orders release of ms13 gang member",
-    "type": "reel",
-    "timestamp": 1773832564491
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-dhs-pick-markwayne-mullin-senators-confirmation-hearing-131176024",
     "titleNorm": "trump dhs pick markwayne mullin will appear before",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "voters in a key pennsylvania swing district weigh",
     "type": "reel",
     "timestamp": 1773874679600
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1773876203017
   }
 ]
