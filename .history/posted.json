@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
-    "titleNorm": "obamaappointed judge orders release of ms13 gang member",
-    "type": "reel",
-    "timestamp": 1773788465863
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "top us intelligence officials set to testify about",
     "type": "card",
     "timestamp": 1773830488757
+  },
+  {
+    "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
+    "titleNorm": "obamaappointed judge orders release of ms13 gang member",
+    "type": "reel",
+    "timestamp": 1773832564491
   }
 ]
