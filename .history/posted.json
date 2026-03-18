@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1773781542893
-  },
-  {
     "url": "https://www.foxnews.com/us/top-iranian-officials-targeted-killed-military-strikes-more-top-headlines",
     "titleNorm": "top iranian officials targeted and killed in military",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "1 killed another injured in shooting at holloman",
     "type": "card",
     "timestamp": 1773823238352
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/israel-killed-larijani-iran-war-leader-winning-trump-hormuz-rcna263860",
+    "titleNorm": "israel says it killed another iranian leader but",
+    "type": "reel",
+    "timestamp": 1773825508251
   }
 ]
