@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate",
-    "titleNorm": "republicans push campus carry laws in nearly a",
-    "type": "reel",
-    "timestamp": 1773819521319
-  },
-  {
     "url": "https://www.foxnews.com/us/anti-ice-agitators-blow-cover-boston-allowing-child-rape-suspect-evade-arrest-weeks",
     "titleNorm": "antiice agitators blow cover in boston allowing child",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "alabama gov orders flags lowered for maj alex",
     "type": "reel",
     "timestamp": 1773862273024
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-tv-reporter-allegedly-turned-roadside-gunman-grilled-victims-ethnicity-before-opening-fire",
+    "titleNorm": "extv reporter allegedly turned roadside gunman grilled victims",
+    "type": "card",
+    "timestamp": 1773862987890
   }
 ]
