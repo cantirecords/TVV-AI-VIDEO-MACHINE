@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alabama-gov-orders-flags-lowered-maj-alex-klinner-fatal-iraq-plane-crash-fundraiser",
-    "titleNorm": "alabama gov orders flags lowered for maj alex",
-    "type": "card",
-    "timestamp": 1773817097569
-  },
-  {
     "url": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate",
     "titleNorm": "republicans push campus carry laws in nearly a",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "iran lashes out with missiles as israel says",
     "type": "card",
     "timestamp": 1773859495957
+  },
+  {
+    "url": "https://www.foxnews.com/us/alabama-gov-orders-flags-lowered-maj-alex-klinner-fatal-iraq-plane-crash-fundraiser",
+    "titleNorm": "alabama gov orders flags lowered for maj alex",
+    "type": "reel",
+    "timestamp": 1773862273024
   }
 ]
