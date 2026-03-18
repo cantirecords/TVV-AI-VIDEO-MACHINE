@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/mills-platner-spar-attack-ad-intensification-maine-primary-131155917",
-    "titleNorm": "mills and platner spar over attack ad in",
-    "type": "card",
-    "timestamp": 1773786254431
-  },
-  {
     "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
     "titleNorm": "obamaappointed judge orders release of ms13 gang member",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "comedy club owner with terminal cancer guns down",
     "type": "card",
     "timestamp": 1773826982127
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/top-us-intelligence-officials-set-testify-iran-war-131172392",
+    "titleNorm": "top us intelligence officials set to testify about",
+    "type": "card",
+    "timestamp": 1773830488757
   }
 ]
