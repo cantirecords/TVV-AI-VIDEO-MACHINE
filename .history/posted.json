@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/michigan-synagogue-attackers-ex-wife-warned-911-operator-he-was-not-stable-assault-began",
-    "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
-    "type": "reel",
-    "timestamp": 1773776126766
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/person-hospitalized-suspect-shot-after-shooting-georgia-va-131159647",
     "titleNorm": "1 hospitalized suspect shot after a shooting at",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "alabama gov orders flags lowered for maj alex",
     "type": "card",
     "timestamp": 1773817097569
+  },
+  {
+    "url": "https://www.foxnews.com/us/republicans-push-campus-carry-laws-nearly-dozen-states-college-shootings-reignite-debate",
+    "titleNorm": "republicans push campus carry laws in nearly a",
+    "type": "reel",
+    "timestamp": 1773819521319
   }
 ]
