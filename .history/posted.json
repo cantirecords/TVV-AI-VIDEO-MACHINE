@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/top-us-intelligence-officials-set-testify-iran-war-131172392",
-    "titleNorm": "top us intelligence officials set to testify about",
-    "type": "card",
-    "timestamp": 1773830488757
-  },
-  {
     "url": "https://www.foxnews.com/us/obama-appointed-judge-orders-release-ms-13-gang-member-history-rape-robbery-attacked-ice-officers",
     "titleNorm": "obamaappointed judge orders release of ms13 gang member",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "mangiones lawyers make second try to toss murder",
     "type": "card",
     "timestamp": 1773872619172
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/voters-key-pennsylvania-swing-district-trump-gas-prices-iran-war-rcna263247",
+    "titleNorm": "voters in a key pennsylvania swing district weigh",
+    "type": "reel",
+    "timestamp": 1773874679600
   }
 ]
