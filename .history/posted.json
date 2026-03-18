@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-tv-reporter-allegedly-turned-roadside-gunman-grilled-victims-ethnicity-before-opening-fire",
-    "titleNorm": "extv reporter allegedly turned roadside gunman grilled victims",
-    "type": "reel",
-    "timestamp": 1773804398839
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-mass-shooting-suspect-avoided-felony-2022-case-misdemeanor-later-dismissed-after-plea-deal-docs",
     "titleNorm": "austin mass shooting suspect avoided felony in 2022",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "republican leaders reject demands for public hearings on",
     "type": "card",
     "timestamp": 1773843334610
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/trumps-dhs-pick-markwayne-mullin-confronted-rand-paul-senate-hearing-rcna264079",
+    "titleNorm": "trumps dhs pick markwayne mullin is confronted by",
+    "type": "reel",
+    "timestamp": 1773848928600
   }
 ]
