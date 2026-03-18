@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-mass-shooting-suspect-avoided-felony-2022-case-misdemeanor-later-dismissed-after-plea-deal-docs",
-    "titleNorm": "austin mass shooting suspect avoided felony in 2022",
-    "type": "card",
-    "timestamp": 1773807264735
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1773812823105
-  },
-  {
     "url": "https://www.foxnews.com/us/mangiones-lawyers-make-second-try-toss-murder-weapon-evidence-new-york-state-court",
     "titleNorm": "mangiones lawyers make second try to toss murder",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "trump administration widens medicaid fraud crackdown to florida",
     "type": "card",
     "timestamp": 1773849675813
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1773856468861
   }
 ]
