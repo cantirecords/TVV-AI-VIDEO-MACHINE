@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-feds-arrest-15-illegal-immigrants-criminal-records-targeted-operation",
-    "titleNorm": "florida feds arrest 15 illegal immigrants with criminal",
-    "type": "card",
-    "timestamp": 1773762919959
-  },
-  {
     "url": "https://www.foxnews.com/us/nancy-guthrie-update-search-savannah-guthrie-missing-mother-enters-seventh-week-no-arrests",
     "titleNorm": "nancy guthrie update search for savannah guthries missing",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "extv reporter allegedly turned roadside gunman grilled victims",
     "type": "reel",
     "timestamp": 1773804398839
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-mass-shooting-suspect-avoided-felony-2022-case-misdemeanor-later-dismissed-after-plea-deal-docs",
+    "titleNorm": "austin mass shooting suspect avoided felony in 2022",
+    "type": "card",
+    "timestamp": 1773807264735
   }
 ]
