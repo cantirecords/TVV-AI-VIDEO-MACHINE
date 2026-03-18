@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mangiones-lawyers-make-second-try-toss-murder-weapon-evidence-new-york-state-court",
-    "titleNorm": "mangiones lawyers make second try to toss murder",
-    "type": "card",
-    "timestamp": 1773813425217
-  },
-  {
     "url": "https://www.foxnews.com/us/alabama-gov-orders-flags-lowered-maj-alex-klinner-fatal-iraq-plane-crash-fundraiser",
     "titleNorm": "alabama gov orders flags lowered for maj alex",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1773856468861
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-persian-gulf-strait-of-hormuz-trump-netanyahu/",
+    "titleNorm": "iran lashes out with missiles as israel says",
+    "type": "card",
+    "timestamp": 1773859495957
   }
 ]
