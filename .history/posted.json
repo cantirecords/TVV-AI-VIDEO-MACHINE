@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/comedy-club-owner-terminal-cancer-guns-down-ex-in-law-hunts-ex-wife-before-turning-up-dead",
-    "titleNorm": "comedy club owner with terminal cancer guns down",
-    "type": "card",
-    "timestamp": 1773826982127
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/top-us-intelligence-officials-set-testify-iran-war-131172392",
     "titleNorm": "top us intelligence officials set to testify about",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "us eases venezuela oil sanctions as trump seeks",
     "type": "card",
     "timestamp": 1773869201204
+  },
+  {
+    "url": "https://www.foxnews.com/us/mangiones-lawyers-make-second-try-toss-murder-weapon-evidence-new-york-state-court",
+    "titleNorm": "mangiones lawyers make second try to toss murder",
+    "type": "card",
+    "timestamp": 1773872619172
   }
 ]
