@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/top-iranian-officials-targeted-killed-military-strikes-more-top-headlines",
-    "titleNorm": "top iranian officials targeted and killed in military",
-    "type": "card",
-    "timestamp": 1773782873808
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/mills-platner-spar-attack-ad-intensification-maine-primary-131155917",
     "titleNorm": "mills and platner spar over attack ad in",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "israel says it killed another iranian leader but",
     "type": "reel",
     "timestamp": 1773825508251
+  },
+  {
+    "url": "https://www.foxnews.com/us/comedy-club-owner-terminal-cancer-guns-down-ex-in-law-hunts-ex-wife-before-turning-up-dead",
+    "titleNorm": "comedy club owner with terminal cancer guns down",
+    "type": "card",
+    "timestamp": 1773826982127
   }
 ]
