@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/anti-ice-agitators-blow-cover-boston-allowing-child-rape-suspect-evade-arrest-weeks",
-    "titleNorm": "antiice agitators blow cover in boston allowing child",
-    "type": "card",
-    "timestamp": 1773773207816
-  },
-  {
     "url": "https://www.foxnews.com/us/michigan-synagogue-attackers-ex-wife-warned-911-operator-he-was-not-stable-assault-began",
     "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "mangiones lawyers make second try to toss murder",
     "type": "card",
     "timestamp": 1773813425217
+  },
+  {
+    "url": "https://www.foxnews.com/us/alabama-gov-orders-flags-lowered-maj-alex-klinner-fatal-iraq-plane-crash-fundraiser",
+    "titleNorm": "alabama gov orders flags lowered for maj alex",
+    "type": "card",
+    "timestamp": 1773817097569
   }
 ]
