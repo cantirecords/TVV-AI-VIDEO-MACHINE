@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/person-hospitalized-suspect-shot-after-shooting-georgia-va-131159647",
-    "titleNorm": "1 hospitalized suspect shot after a shooting at",
-    "type": "card",
-    "timestamp": 1773776942934
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "antiice agitators blow cover in boston allowing child",
     "type": "card",
     "timestamp": 1773819963788
+  },
+  {
+    "url": "https://www.cbsnews.com/news/shooting-holloman-air-force-base-new-mexico/",
+    "titleNorm": "1 killed another injured in shooting at holloman",
+    "type": "card",
+    "timestamp": 1773823238352
   }
 ]
