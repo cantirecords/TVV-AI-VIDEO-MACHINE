@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/israel-killed-larijani-iran-war-leader-winning-trump-hormuz-rcna263860",
-    "titleNorm": "israel says it killed another iranian leader but",
-    "type": "reel",
-    "timestamp": 1773825508251
-  },
-  {
     "url": "https://www.foxnews.com/us/comedy-club-owner-terminal-cancer-guns-down-ex-in-law-hunts-ex-wife-before-turning-up-dead",
     "titleNorm": "comedy club owner with terminal cancer guns down",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1773867880173
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-eases-venezuela-oil-sanctions-trump-seeks-boost-131182882",
+    "titleNorm": "us eases venezuela oil sanctions as trump seeks",
+    "type": "card",
+    "timestamp": 1773869201204
   }
 ]
