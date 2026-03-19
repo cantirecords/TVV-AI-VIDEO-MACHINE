@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iditarod-2026-jessie-holmes-wins-sled-dog-race-again/",
-    "titleNorm": "former reality tv star wins iditarod rewards sled",
-    "type": "card",
-    "timestamp": 1773916270312
-  },
-  {
     "url": "https://www.nbcnews.com/politics/national-security/fbi-investigating-former-trump-official-joe-kent-resigned-iran-war-rcna264232",
     "titleNorm": "fbi conducting leak investigation into former trump official",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "hero police officers storm inferno to save 5",
     "type": "card",
     "timestamp": 1773958781858
+  },
+  {
+    "url": "https://www.foxnews.com/us/masked-gunman-kills-loyola-chicago-college-student-shooting-near-campus-police-hunt-suspect",
+    "titleNorm": "masked gunman kills loyola chicago college student in",
+    "type": "reel",
+    "timestamp": 1773960999799
   }
 ]
