@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1773856468861
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-persian-gulf-strait-of-hormuz-trump-netanyahu/",
     "titleNorm": "iran lashes out with missiles as israel says",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "georgia was going to dump voting machines that",
     "type": "card",
     "timestamp": 1773899525211
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/arrest-made-death-iowa-real-estate-agent-was-killed-open-house-2011-rcna264226",
+    "titleNorm": "arrest made in death of iowa real estate",
+    "type": "card",
+    "timestamp": 1773902692827
   }
 ]
