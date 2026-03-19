@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/jb-pritzker-flexes-political-muscle-politics-desk-rcna264214",
-    "titleNorm": "jb pritzker flexes his political muscle from the",
-    "type": "reel",
-    "timestamp": 1773898964251
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/georgia-dump-voting-machines-trump-hates-things-complicated-131193093",
     "titleNorm": "georgia was going to dump voting machines that",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "trump makes a pearl harbor joke while meeting",
     "type": "reel",
     "timestamp": 1773941625683
+  },
+  {
+    "url": "https://www.cbsnews.com/news/fbi-agents-fired-lawsuit-trump-2020-election/",
+    "titleNorm": "exfbi agents who worked on trump 2020 election",
+    "type": "card",
+    "timestamp": 1773942507031
   }
 ]
