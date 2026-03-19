@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-tv-reporter-allegedly-turned-roadside-gunman-grilled-victims-ethnicity-before-opening-fire",
-    "titleNorm": "extv reporter allegedly turned roadside gunman grilled victims",
-    "type": "card",
-    "timestamp": 1773862987890
-  },
-  {
-    "url": "https://www.foxnews.com/us/michigan-synagogue-attackers-ex-wife-warned-911-operator-he-was-not-stable-assault-began",
-    "titleNorm": "michigan synagogue attackers exwife warned 911 operator he",
-    "type": "card",
-    "timestamp": 1773865596290
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "regulators seek 26m in penalties for deadly 2023",
     "type": "card",
     "timestamp": 1773906038222
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-tugboat-crew-members-killed-confined-space-incident-131198691",
+    "titleNorm": "2 tugboat crew members killed in confined space",
+    "type": "card",
+    "timestamp": 1773909298612
   }
 ]
