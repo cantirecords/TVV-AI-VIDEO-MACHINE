@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1773905605502
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/pennsylvania-regulators-seek-26-million-penalties-deadly-2023-131195320",
-    "titleNorm": "regulators seek 26m in penalties for deadly 2023",
-    "type": "card",
-    "timestamp": 1773906038222
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-tugboat-crew-members-killed-confined-space-incident-131198691",
     "titleNorm": "2 tugboat crew members killed in confined space",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "millionaire developer found dead in ritzy beach home",
     "type": "reel",
     "timestamp": 1773948647803
+  },
+  {
+    "url": "https://www.cbsnews.com/miami/news/teen-dies-florida-immigration-detention-center-ice-glades-county-detention-center-moore-haven/",
+    "titleNorm": "teen dies at florida ice detention center authorities",
+    "type": "card",
+    "timestamp": 1773949256083
   }
 ]
