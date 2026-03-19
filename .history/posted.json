@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/23-arrested-failed-panga-illegal-immigrant-smuggling-plot-off-california-coast",
-    "titleNorm": "23 arrested in alleged panga illegal immigrant smuggling",
-    "type": "card",
-    "timestamp": 1773893582877
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/jb-pritzker-flexes-political-muscle-politics-desk-rcna264214",
     "titleNorm": "jb pritzker flexes his political muscle from the",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "iran war escalation sets key gas sites and",
     "type": "card",
     "timestamp": 1773934983706
+  },
+  {
+    "url": "https://www.foxnews.com/us/homeless-man-charged-attacking-san-francisco-mayors-security-detail-arrested-again-days-after-release",
+    "titleNorm": "homeless man charged with attacking san francisco mayors",
+    "type": "card",
+    "timestamp": 1773938768519
   }
 ]
