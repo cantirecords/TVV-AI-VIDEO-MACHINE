@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash",
-    "titleNorm": "hero police officers storm inferno to save 5",
-    "type": "card",
-    "timestamp": 1773912969949
-  },
-  {
     "url": "https://www.cbsnews.com/news/iditarod-2026-jessie-holmes-wins-sled-dog-race-again/",
     "titleNorm": "former reality tv star wins iditarod rewards sled",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "netanyahu says there is no schedule to end",
     "type": "card",
     "timestamp": 1773955568193
+  },
+  {
+    "url": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash",
+    "titleNorm": "hero police officers storm inferno to save 5",
+    "type": "card",
+    "timestamp": 1773958781858
   }
 ]
