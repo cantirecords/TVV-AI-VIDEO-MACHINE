@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/trumps-dhs-pick-markwayne-mullin-confronted-rand-paul-senate-hearing-rcna264079",
-    "titleNorm": "trumps dhs pick markwayne mullin is confronted by",
-    "type": "reel",
-    "timestamp": 1773848928600
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-widens-medicaid-fraud-crackdown-florida-calling-131165620",
-    "titleNorm": "trump administration widens medicaid fraud crackdown to florida",
-    "type": "card",
-    "timestamp": 1773849675813
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "ice arrests illegal immigrant hitandrun suspect in death",
     "type": "reel",
     "timestamp": 1773890806543
+  },
+  {
+    "url": "https://www.foxnews.com/us/23-arrested-failed-panga-illegal-immigrant-smuggling-plot-off-california-coast",
+    "titleNorm": "23 arrested in alleged panga illegal immigrant smuggling",
+    "type": "card",
+    "timestamp": 1773893582877
   }
 ]
