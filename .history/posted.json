@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1773867880173
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-eases-venezuela-oil-sanctions-trump-seeks-boost-131182882",
     "titleNorm": "us eases venezuela oil sanctions as trump seeks",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "2 tugboat crew members killed in confined space",
     "type": "card",
     "timestamp": 1773909298612
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1773911440783
   }
 ]
