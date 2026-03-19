@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-tugboat-crew-members-killed-confined-space-incident-131198691",
-    "titleNorm": "2 tugboat crew members killed in confined space",
-    "type": "card",
-    "timestamp": 1773909298612
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "pulse nightclub is demolished to make way for",
     "type": "card",
     "timestamp": 1773952013360
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-deputies-mock-rowdy-spring-breakers-ncaa-style-scoreboard-arrests-surge",
+    "titleNorm": "florida deputies mock rowdy spring breakers with ncaastyle",
+    "type": "reel",
+    "timestamp": 1773954308948
   }
 ]
