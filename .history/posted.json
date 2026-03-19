@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mangiones-lawyers-make-second-try-toss-murder-weapon-evidence-new-york-state-court",
-    "titleNorm": "mangiones lawyers make second try to toss murder",
-    "type": "card",
-    "timestamp": 1773872619172
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/voters-key-pennsylvania-swing-district-trump-gas-prices-iran-war-rcna263247",
     "titleNorm": "voters in a key pennsylvania swing district weigh",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "hero police officers storm inferno to save 5",
     "type": "card",
     "timestamp": 1773912969949
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iditarod-2026-jessie-holmes-wins-sled-dog-race-again/",
+    "titleNorm": "former reality tv star wins iditarod rewards sled",
+    "type": "card",
+    "timestamp": 1773916270312
   }
 ]
