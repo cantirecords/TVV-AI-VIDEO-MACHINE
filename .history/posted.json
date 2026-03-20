@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/photos-reveal-devastation-inside-michigan-synagogue-after-attack",
-    "titleNorm": "photos reveal devastation inside michigan synagogue after attack",
-    "type": "card",
-    "timestamp": 1773962473212
-  },
-  {
     "url": "https://www.foxnews.com/us/boston-officer-charged-manslaughter-shooting-carjacking-suspect-video-disputes-account",
     "titleNorm": "boston officer charged with manslaughter after shooting carjacking",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "three men charged with illegally smuggling advanced ai",
     "type": "reel",
     "timestamp": 1774004729984
+  },
+  {
+    "url": "https://www.foxnews.com/us/federal-judge-temporarily-changes-grand-jury-rules-after-trump-effort-charge-members-congress",
+    "titleNorm": "federal judge temporarily changes grand jury rules after",
+    "type": "card",
+    "timestamp": 1774005820982
   }
 ]
