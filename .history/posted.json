@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/mexican-teen-migrant-dies-florida-jail-holding-ice-131234742",
-    "titleNorm": "a mexican teen migrant dies in a florida",
-    "type": "card",
-    "timestamp": 1773979568628
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-former-college-student-19-found-dead-pond-two-months-after-vanishing-near-his-apartment",
     "titleNorm": "missing former college student 19 found dead in",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "what we know about the university of alabama",
     "type": "card",
     "timestamp": 1774020859146
+  },
+  {
+    "url": "https://www.foxnews.com/us/photos-reveal-devastation-inside-michigan-synagogue-after-attack",
+    "titleNorm": "photos reveal devastation inside michigan synagogue after attack",
+    "type": "card",
+    "timestamp": 1774024381316
   }
 ]
