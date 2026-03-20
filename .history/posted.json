@@ -112,5 +112,11 @@
     "titleNorm": "chuck norris action icon and walker texas ranger",
     "type": "reel",
     "timestamp": 1774026616716
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-convicted-murder-2019-death-alabama-college-student-131237415",
+    "titleNorm": "man convicted of murder for 2019 death of",
+    "type": "card",
+    "timestamp": 1774027804474
   }
 ]
