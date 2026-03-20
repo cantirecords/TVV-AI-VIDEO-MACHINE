@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1773997704516
-  },
-  {
     "url": "https://www.cbsnews.com/news/federal-commission-approves-design-trump-commemorative-gold-coin/",
     "titleNorm": "federal commission made up of trump appointees approves",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1774040275532
+  },
+  {
+    "url": "https://www.foxnews.com/us/spring-break-hot-spot-declares-state-emergency-curfew-after-rowdy-takeovers-spark-mass-arrests",
+    "titleNorm": "spring break hot spot declares state of emergency",
+    "type": "card",
+    "timestamp": 1774041801608
   }
 ]
