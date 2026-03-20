@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/federal-commission-approves-design-trump-commemorative-gold-coin/",
-    "titleNorm": "federal commission made up of trump appointees approves",
-    "type": "card",
-    "timestamp": 1773999090188
-  },
-  {
     "url": "https://www.foxnews.com/us/feds-investigate-alarming-near-miss-between-alaska-airlines-jet-fedex-plane-busy-newark-airport",
     "titleNorm": "feds investigate alarming near miss between alaska airlines",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "spring break hot spot declares state of emergency",
     "type": "card",
     "timestamp": 1774041801608
+  },
+  {
+    "url": "https://www.nbcnews.com/business/media/8-states-file-emergency-motion-block-nexstar-tegna-merger-fcc-approval-rcna264485",
+    "titleNorm": "8 states file emergency motion to block nexstartegna",
+    "type": "card",
+    "timestamp": 1774045097496
   }
 ]
