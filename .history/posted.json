@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
-    "titleNorm": "missing university of alabama student jimmy gracey found",
-    "type": "reel",
-    "timestamp": 1773991818541
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1774034034975
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/national-security/us-intelligence-chiefs-testimony-sync-trumps-talking-points-rcna264383",
+    "titleNorm": "intelligence chiefs testimony is out of sync with",
+    "type": "card",
+    "timestamp": 1774035150169
   }
 ]
