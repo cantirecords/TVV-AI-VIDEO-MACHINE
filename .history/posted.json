@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash",
-    "titleNorm": "hero police officers storm inferno to save 5",
-    "type": "card",
-    "timestamp": 1773958781858
-  },
-  {
     "url": "https://www.foxnews.com/us/masked-gunman-kills-loyola-chicago-college-student-shooting-near-campus-police-hunt-suspect",
     "titleNorm": "masked gunman kills loyola chicago college student in",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "federal commission made up of trump appointees approves",
     "type": "card",
     "timestamp": 1773999090188
+  },
+  {
+    "url": "https://www.foxnews.com/us/feds-investigate-alarming-near-miss-between-alaska-airlines-jet-fedex-plane-busy-newark-airport",
+    "titleNorm": "feds investigate alarming near miss between alaska airlines",
+    "type": "card",
+    "timestamp": 1774002568896
   }
 ]
