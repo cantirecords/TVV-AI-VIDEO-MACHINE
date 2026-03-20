@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nypd-officer-mamdani-security-bronx-shooting",
-    "titleNorm": "nypd officer assigned to mayor mamdanis security suspended",
-    "type": "card",
-    "timestamp": 1773945736297
-  },
-  {
     "url": "https://www.foxnews.com/us/millionaire-developer-found-dead-ritzy-beach-home-bizarrely-dressed-suspect-arrested-after-standoff",
     "titleNorm": "millionaire developer found dead in ritzy beach home",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "japans prime minister takaichi meets with trump as",
     "type": "card",
     "timestamp": 1773988901378
+  },
+  {
+    "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
+    "titleNorm": "missing university of alabama student jimmy gracey found",
+    "type": "reel",
+    "timestamp": 1773991818541
   }
 ]
