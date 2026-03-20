@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/iran-war-gas-field-attacks-energy-prices-trump-israel-south-pars-rcna264249",
-    "titleNorm": "iran war escalation sets key gas sites and",
-    "type": "card",
-    "timestamp": 1773934983706
-  },
-  {
     "url": "https://www.foxnews.com/us/homeless-man-charged-attacking-san-francisco-mayors-security-detail-arrested-again-days-after-release",
     "titleNorm": "homeless man charged with attacking san francisco mayors",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "3 men are charged with conspiring to smuggle",
     "type": "reel",
     "timestamp": 1773976598856
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mexican-teen-migrant-dies-florida-jail-holding-ice-131234742",
+    "titleNorm": "a mexican teen migrant dies in a florida",
+    "type": "card",
+    "timestamp": 1773979568628
   }
 ]
