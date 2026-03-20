@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/masked-gunman-kills-loyola-chicago-college-student-shooting-near-campus-police-hunt-suspect",
-    "titleNorm": "masked gunman kills loyola chicago college student in",
-    "type": "reel",
-    "timestamp": 1773960999799
-  },
-  {
     "url": "https://www.foxnews.com/us/photos-reveal-devastation-inside-michigan-synagogue-after-attack",
     "titleNorm": "photos reveal devastation inside michigan synagogue after attack",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "feds investigate alarming near miss between alaska airlines",
     "type": "card",
     "timestamp": 1774002568896
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371",
+    "titleNorm": "three men charged with illegally smuggling advanced ai",
+    "type": "reel",
+    "timestamp": 1774004729984
   }
 ]
