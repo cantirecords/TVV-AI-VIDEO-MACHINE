@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-investigate-alarming-near-miss-between-alaska-airlines-jet-fedex-plane-busy-newark-airport",
-    "titleNorm": "feds investigate alarming near miss between alaska airlines",
-    "type": "card",
-    "timestamp": 1774002568896
-  },
-  {
     "url": "https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371",
     "titleNorm": "three men charged with illegally smuggling advanced ai",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "8 states file emergency motion to block nexstartegna",
     "type": "card",
     "timestamp": 1774045097496
+  },
+  {
+    "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
+    "titleNorm": "missing university of alabama student jimmy gracey found",
+    "type": "reel",
+    "timestamp": 1774047425844
   }
 ]
