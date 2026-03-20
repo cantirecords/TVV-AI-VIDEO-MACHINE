@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/fbi-agents-fired-lawsuit-trump-2020-election/",
-    "titleNorm": "exfbi agents who worked on trump 2020 election",
-    "type": "card",
-    "timestamp": 1773942507031
-  },
-  {
     "url": "https://www.foxnews.com/us/nypd-officer-mamdani-security-bronx-shooting",
     "titleNorm": "nypd officer assigned to mayor mamdanis security suspended",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "val kilmer actor known for the doors and",
     "type": "card",
     "timestamp": 1773985441394
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/japans-prime-minister-takaichi-meets-trump-seeks-securing-131207174",
+    "titleNorm": "japans prime minister takaichi meets with trump as",
+    "type": "card",
+    "timestamp": 1773988901378
   }
 ]
