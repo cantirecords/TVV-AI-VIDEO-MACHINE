@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
-    "titleNorm": "3 men are charged with conspiring to smuggle",
-    "type": "reel",
-    "timestamp": 1773976598856
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/mexican-teen-migrant-dies-florida-jail-holding-ice-131234742",
     "titleNorm": "a mexican teen migrant dies in a florida",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "florida deputies mock rowdy spring breakers with ncaastyle",
     "type": "reel",
     "timestamp": 1774019568865
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/university-alabama-student-found-dead-barcelona-beach-trip-rcna264428",
+    "titleNorm": "what we know about the university of alabama",
+    "type": "card",
+    "timestamp": 1774020859146
   }
 ]
