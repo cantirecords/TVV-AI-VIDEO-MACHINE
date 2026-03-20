@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/boston-officer-charged-manslaughter-shooting-carjacking-suspect-video-disputes-account",
-    "titleNorm": "boston officer charged with manslaughter after shooting carjacking",
-    "type": "card",
-    "timestamp": 1773968978789
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
     "titleNorm": "3 men are charged with conspiring to smuggle",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1774010072768
+  },
+  {
+    "url": "https://www.foxnews.com/us/spring-breakers-caught-camera-viciously-attacking-man-overnight-street-brawl",
+    "titleNorm": "spring breakers caught on camera viciously attacking man",
+    "type": "reel",
+    "timestamp": 1774014104379
   }
 ]
