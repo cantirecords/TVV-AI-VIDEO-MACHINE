@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/miami/news/teen-dies-florida-immigration-detention-center-ice-glades-county-detention-center-moore-haven/",
-    "titleNorm": "teen dies at florida ice detention center authorities",
-    "type": "card",
-    "timestamp": 1773949256083
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/pulse-nightclub-demolished-make-memorial-2016-mass-shooting-131189475",
-    "titleNorm": "pulse nightclub is demolished to make way for",
-    "type": "card",
-    "timestamp": 1773952013360
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-deputies-mock-rowdy-spring-breakers-ncaa-style-scoreboard-arrests-surge",
     "titleNorm": "florida deputies mock rowdy spring breakers with ncaastyle",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1773992380204
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1773995409794
   }
 ]
