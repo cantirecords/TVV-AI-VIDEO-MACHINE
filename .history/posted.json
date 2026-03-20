@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/netanyahu-says-there-is-no-schedule-to-end-of-iran-war-259612741546",
-    "titleNorm": "netanyahu says there is no schedule to end",
-    "type": "card",
-    "timestamp": 1773955568193
-  },
-  {
     "url": "https://www.foxnews.com/us/hero-police-officers-storm-inferno-save-5-passengers-fireball-crash",
     "titleNorm": "hero police officers storm inferno to save 5",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1773997704516
+  },
+  {
+    "url": "https://www.cbsnews.com/news/federal-commission-approves-design-trump-commemorative-gold-coin/",
+    "titleNorm": "federal commission made up of trump appointees approves",
+    "type": "card",
+    "timestamp": 1773999090188
   }
 ]
