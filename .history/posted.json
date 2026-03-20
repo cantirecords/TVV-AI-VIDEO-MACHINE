@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/japans-prime-minister-takaichi-meets-trump-seeks-securing-131207174",
-    "titleNorm": "japans prime minister takaichi meets with trump as",
-    "type": "card",
-    "timestamp": 1773988901378
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
     "titleNorm": "missing university of alabama student jimmy gracey found",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "3 men are charged with conspiring to smuggle",
     "type": "card",
     "timestamp": 1774031634566
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1774034034975
   }
 ]
