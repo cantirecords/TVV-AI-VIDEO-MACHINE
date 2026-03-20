@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/millionaire-developer-found-dead-ritzy-beach-home-bizarrely-dressed-suspect-arrested-after-standoff",
-    "titleNorm": "millionaire developer found dead in ritzy beach home",
-    "type": "reel",
-    "timestamp": 1773948647803
-  },
-  {
     "url": "https://www.cbsnews.com/miami/news/teen-dies-florida-immigration-detention-center-ice-glades-county-detention-center-moore-haven/",
     "titleNorm": "teen dies at florida ice detention center authorities",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "missing university of alabama student jimmy gracey found",
     "type": "reel",
     "timestamp": 1773991818541
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1773992380204
   }
 ]
