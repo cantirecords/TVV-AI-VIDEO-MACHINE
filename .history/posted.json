@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-former-college-student-19-found-dead-pond-two-months-after-vanishing-near-his-apartment",
-    "titleNorm": "missing former college student 19 found dead in",
-    "type": "reel",
-    "timestamp": 1773984916080
-  },
-  {
-    "url": "https://www.cbsnews.com/news/val-kilmer-actor-known-for-the-doors-and-tombstone-dies-at-65/",
-    "titleNorm": "val kilmer actor known for the doors and",
-    "type": "card",
-    "timestamp": 1773985441394
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/japans-prime-minister-takaichi-meets-trump-seeks-securing-131207174",
     "titleNorm": "japans prime minister takaichi meets with trump as",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "man convicted of murder for 2019 death of",
     "type": "card",
     "timestamp": 1774027804474
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
+    "titleNorm": "3 men are charged with conspiring to smuggle",
+    "type": "card",
+    "timestamp": 1774031634566
   }
 ]
