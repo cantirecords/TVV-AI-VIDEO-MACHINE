@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/photos-reveal-devastation-inside-michigan-synagogue-after-attack",
-    "titleNorm": "photos reveal devastation inside michigan synagogue after attack",
-    "type": "card",
-    "timestamp": 1774024381316
-  },
-  {
     "url": "https://www.cbsnews.com/news/chuck-norris-dies-age-86-walker-texas-ranger/",
     "titleNorm": "chuck norris action icon and walker texas ranger",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "a holy time for muslims marred by the",
     "type": "card",
     "timestamp": 1774065427451
+  },
+  {
+    "url": "https://www.foxnews.com/us/highway-shut-down-after-waste-truck-carrying-bird-flu-ducks-crashes-northern-indiana",
+    "titleNorm": "highway shut down after waste truck carrying dead",
+    "type": "card",
+    "timestamp": 1774069335818
   }
 ]
