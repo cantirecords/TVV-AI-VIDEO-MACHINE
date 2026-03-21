@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/national-security/us-intelligence-chiefs-testimony-sync-trumps-talking-points-rcna264383",
-    "titleNorm": "intelligence chiefs testimony is out of sync with",
-    "type": "card",
-    "timestamp": 1774035150169
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/tuskegee-basketball-coach-files-1m-suit-morehouse-college-was-handcuff-rcna264483",
     "titleNorm": "tuskegee basketball coach files 1m suit against morehouse",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
     "type": "card",
     "timestamp": 1774078008890
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-us-deploys-troops-mideast-trump-considers-winding-131277393",
+    "titleNorm": "the latest us deploys more troops to mideast",
+    "type": "card",
+    "timestamp": 1774081238033
   }
 ]
