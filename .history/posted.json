@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1774034034975
-  },
-  {
     "url": "https://www.nbcnews.com/politics/national-security/us-intelligence-chiefs-testimony-sync-trumps-talking-points-rcna264383",
     "titleNorm": "intelligence chiefs testimony is out of sync with",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "white house expands trumprx with three new drugs",
     "type": "reel",
     "timestamp": 1774076930832
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/anti-apartheid-activist-human-rights-campaigner-diplomat-nicholas-131239238",
+    "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
+    "type": "card",
+    "timestamp": 1774078008890
   }
 ]
