@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-is-strategizing-means-to-seize-irans-nuclear-stockpiles-sources-say/",
-    "titleNorm": "trump is strategizing means to seize iran039s nuclear",
-    "type": "reel",
-    "timestamp": 1774083449198
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "police video of justin timberlakes 2024 drunken driving",
     "type": "reel",
     "timestamp": 1774126226796
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
+    "titleNorm": "california man paroled under youthful offender provision for",
+    "type": "card",
+    "timestamp": 1774127855528
   }
 ]
