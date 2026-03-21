@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-us-deploys-troops-mideast-trump-considers-winding-131277393",
-    "titleNorm": "the latest us deploys more troops to mideast",
-    "type": "card",
-    "timestamp": 1774081238033
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-is-strategizing-means-to-seize-irans-nuclear-stockpiles-sources-say/",
     "titleNorm": "trump is strategizing means to seize iran039s nuclear",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "wife of joseph duggar charged with child endangerment",
     "type": "card",
     "timestamp": 1774124117940
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-video-justin-timberlakes-2024-drunken-driving-arrest-131275221",
+    "titleNorm": "police video of justin timberlakes 2024 drunken driving",
+    "type": "reel",
+    "timestamp": 1774126226796
   }
 ]
