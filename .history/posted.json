@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/nicholas-brendon-buffy-the-vampire-slayer-actor-dies/",
-    "titleNorm": "nicholas brendon buffy the vampire slayer actor dies",
-    "type": "reel",
-    "timestamp": 1774090397904
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "supreme court revives suit from evangelical christian challenging",
     "type": "reel",
     "timestamp": 1774133434677
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-woman-video-allegedly-attacking-pregnant-driver-elderly-bystander-biting-police-officer",
+    "titleNorm": "florida woman seen on video allegedly attacking pregnant",
+    "type": "card",
+    "timestamp": 1774134949056
   }
 ]
