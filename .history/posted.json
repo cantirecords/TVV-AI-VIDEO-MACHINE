@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/tuskegee-basketball-coach-files-1m-suit-morehouse-college-was-handcuff-rcna264483",
-    "titleNorm": "tuskegee basketball coach files 1m suit against morehouse",
-    "type": "card",
-    "timestamp": 1774038191836
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "the latest us deploys more troops to mideast",
     "type": "card",
     "timestamp": 1774081238033
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-is-strategizing-means-to-seize-irans-nuclear-stockpiles-sources-say/",
+    "titleNorm": "trump is strategizing means to seize iran039s nuclear",
+    "type": "reel",
+    "timestamp": 1774083449198
   }
 ]
