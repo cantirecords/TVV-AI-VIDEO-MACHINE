@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/media/8-states-file-emergency-motion-block-nexstar-tegna-merger-fcc-approval-rcna264485",
-    "titleNorm": "8 states file emergency motion to block nexstartegna",
-    "type": "card",
-    "timestamp": 1774045097496
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
     "titleNorm": "missing university of alabama student jimmy gracey found",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1774088236210
+  },
+  {
+    "url": "https://www.cbsnews.com/news/nicholas-brendon-buffy-the-vampire-slayer-actor-dies/",
+    "titleNorm": "nicholas brendon buffy the vampire slayer actor dies",
+    "type": "reel",
+    "timestamp": 1774090397904
   }
 ]
