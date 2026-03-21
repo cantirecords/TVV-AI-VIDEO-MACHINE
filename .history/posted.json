@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-convicted-murder-2019-death-alabama-college-student-131237415",
-    "titleNorm": "man convicted of murder for 2019 death of",
-    "type": "card",
-    "timestamp": 1774027804474
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
     "titleNorm": "3 men are charged with conspiring to smuggle",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "california man paroled under youthful offender provision for",
     "type": "reel",
     "timestamp": 1774070865452
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-shooting-father-face-crossbow-captured-after-snowy-manhunt",
+    "titleNorm": "man accused of shooting father in face with",
+    "type": "card",
+    "timestamp": 1774074672993
   }
 ]
