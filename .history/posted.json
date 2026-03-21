@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/highway-shut-down-after-waste-truck-carrying-bird-flu-ducks-crashes-northern-indiana",
-    "titleNorm": "highway shut down after waste truck carrying dead",
-    "type": "card",
-    "timestamp": 1774069335818
-  },
-  {
     "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
     "titleNorm": "california man paroled under youthful offender provision for",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "career criminal accused of breaking into home climbing",
     "type": "reel",
     "timestamp": 1774112105397
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1774113475235
   }
 ]
