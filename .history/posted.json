@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-men-charged-conspiring-smuggle-us-artificial-intelligence-131237823",
-    "titleNorm": "3 men are charged with conspiring to smuggle",
-    "type": "card",
-    "timestamp": 1774031634566
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "man accused of shooting father in face with",
     "type": "card",
     "timestamp": 1774074672993
+  },
+  {
+    "url": "https://www.nbcnews.com/health/health-news/white-house-expands-trumprx-three-new-drugs-rcna264500",
+    "titleNorm": "white house expands trumprx with three new drugs",
+    "type": "reel",
+    "timestamp": 1774076930832
   }
 ]
