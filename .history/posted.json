@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-weighing-several-options-us-troops-iran-rcna263909",
-    "titleNorm": "trump weighing options for deploying possibly thousands of",
-    "type": "card",
-    "timestamp": 1774055114436
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-revives-suit-evangelical-christian-challenging-restrictions-131254551",
     "titleNorm": "supreme court revives suit from evangelical christian challenging",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "democrats aim to turn trumps tariffs against gop",
     "type": "card",
     "timestamp": 1774095998735
+  },
+  {
+    "url": "https://www.cbsnews.com/news/2nd-marine-expeditionary-unit-2200-marines-3-warships-middle-east-as-iran-war-continues/",
+    "titleNorm": "around 2200 marines 3 warships headed to middle",
+    "type": "reel",
+    "timestamp": 1774099597759
   }
 ]
