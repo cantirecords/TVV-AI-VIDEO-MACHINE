@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/white-house-expands-trumprx-three-new-drugs-rcna264500",
-    "titleNorm": "white house expands trumprx with three new drugs",
-    "type": "reel",
-    "timestamp": 1774076930832
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/anti-apartheid-activist-human-rights-campaigner-diplomat-nicholas-131239238",
     "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump weighing options for deploying thousands of ground",
     "type": "reel",
     "timestamp": 1774119801254
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/cuba-refuses-us-embassy-havana-import-diesel-generators-131273345",
+    "titleNorm": "cuba refuses to let us embassy in havana",
+    "type": "card",
+    "timestamp": 1774120641604
   }
 ]
