@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona",
-    "titleNorm": "missing university of alabama student jimmy gracey found",
-    "type": "reel",
-    "timestamp": 1774047425844
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-alabama-student-james-gracey-found-dead-more-top-headlines",
     "titleNorm": "missing alabama student james gracey found dead and",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "nicholas brendon buffy the vampire slayer actor dies",
     "type": "reel",
     "timestamp": 1774090397904
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1774091751649
   }
 ]
