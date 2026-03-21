@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/anti-apartheid-activist-human-rights-campaigner-diplomat-nicholas-131239238",
-    "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
-    "type": "card",
-    "timestamp": 1774078008890
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-us-deploys-troops-mideast-trump-considers-winding-131277393",
     "titleNorm": "the latest us deploys more troops to mideast",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "cuba refuses to let us embassy in havana",
     "type": "card",
     "timestamp": 1774120641604
+  },
+  {
+    "url": "https://www.cbsnews.com/news/kendra-joseph-duggar-arrest-misdemeanor-child-endangerment/",
+    "titleNorm": "wife of joseph duggar charged with child endangerment",
+    "type": "card",
+    "timestamp": 1774124117940
   }
 ]
