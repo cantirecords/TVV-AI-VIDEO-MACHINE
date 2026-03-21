@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-alabama-student-james-gracey-found-dead-more-top-headlines",
-    "titleNorm": "missing alabama student james gracey found dead and",
-    "type": "card",
-    "timestamp": 1774048860874
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/trump-weighing-several-options-us-troops-iran-rcna263909",
     "titleNorm": "trump weighing options for deploying possibly thousands of",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1774091751649
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/democrats-aim-turn-trumps-tariffs-gop-campaigns-governor-131242194",
+    "titleNorm": "democrats aim to turn trumps tariffs against gop",
+    "type": "card",
+    "timestamp": 1774095998735
   }
 ]
