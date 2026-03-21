@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-accused-shooting-father-face-crossbow-captured-after-snowy-manhunt",
-    "titleNorm": "man accused of shooting father in face with",
-    "type": "card",
-    "timestamp": 1774074672993
-  },
-  {
     "url": "https://www.nbcnews.com/health/health-news/white-house-expands-trumprx-three-new-drugs-rcna264500",
     "titleNorm": "white house expands trumprx with three new drugs",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "fox news true crime newsletter jimmy graceys disappearance",
     "type": "card",
     "timestamp": 1774117346165
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/trump-weighing-several-options-us-troops-iran-rcna263909",
+    "titleNorm": "trump weighing options for deploying thousands of ground",
+    "type": "reel",
+    "timestamp": 1774119801254
   }
 ]
