@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/chuck-norris-dies-age-86-walker-texas-ranger/",
-    "titleNorm": "chuck norris action icon and walker texas ranger",
-    "type": "reel",
-    "timestamp": 1774026616716
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-convicted-murder-2019-death-alabama-college-student-131237415",
     "titleNorm": "man convicted of murder for 2019 death of",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "highway shut down after waste truck carrying dead",
     "type": "card",
     "timestamp": 1774069335818
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
+    "titleNorm": "california man paroled under youthful offender provision for",
+    "type": "reel",
+    "timestamp": 1774070865452
   }
 ]
