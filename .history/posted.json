@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/spring-breakers-caught-camera-viciously-attacking-man-overnight-street-brawl",
-    "titleNorm": "spring breakers caught on camera viciously attacking man",
-    "type": "reel",
-    "timestamp": 1774014104379
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-accused-shooting-father-face-crossbow-captured-after-snowy-manhunt",
-    "titleNorm": "man accused of shooting father in face with",
-    "type": "card",
-    "timestamp": 1774014957294
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/authorities-investigating-close-call-alaska-airlines-fedex-planes-131235842",
-    "titleNorm": "authorities investigating close call between alaska airlines and",
-    "type": "card",
-    "timestamp": 1774017466093
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-deputies-mock-rowdy-spring-breakers-ncaa-style-scoreboard-arrests-surge",
     "titleNorm": "florida deputies mock rowdy spring breakers with ncaastyle",
     "type": "reel",
@@ -106,5 +88,11 @@
     "titleNorm": "trump weighing options for deploying possibly thousands of",
     "type": "card",
     "timestamp": 1774055114436
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-revives-suit-evangelical-christian-challenging-restrictions-131254551",
+    "titleNorm": "supreme court revives suit from evangelical christian challenging",
+    "type": "reel",
+    "timestamp": 1774062492980
   }
 ]
