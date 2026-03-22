@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/kendra-joseph-duggar-arrest-misdemeanor-child-endangerment/",
-    "titleNorm": "wife of joseph duggar charged with child endangerment",
-    "type": "card",
-    "timestamp": 1774124117940
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/police-video-justin-timberlakes-2024-drunken-driving-arrest-131275221",
     "titleNorm": "police video of justin timberlakes 2024 drunken driving",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "slain loyola chicago students family fumes over murder",
     "type": "card",
     "timestamp": 1774164794926
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-hints-wind-war-us-sends-troops-iran-131278440",
+    "titleNorm": "trump hints at winddown of war as us",
+    "type": "card",
+    "timestamp": 1774167792378
   }
 ]
