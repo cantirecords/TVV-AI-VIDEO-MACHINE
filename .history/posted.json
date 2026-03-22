@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/career-criminal-accused-breaking-home-climbing-bed-child-family-slept",
-    "titleNorm": "career criminal accused of breaking into home climbing",
-    "type": "card",
-    "timestamp": 1774161510484
-  },
-  {
     "url": "https://www.cbsnews.com/news/west-historic-snow-spring-water-shortages-wildfires/",
     "titleNorm": "the west039s historic snow drought could bring water",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "iran refuses to back down after trump issues",
     "type": "card",
     "timestamp": 1774203801373
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-trump-us-obliterate-irans-power-plants-doesnt-131298537",
+    "titleNorm": "the latest trump says us will obliterate irans",
+    "type": "reel",
+    "timestamp": 1774206300827
   }
 ]
