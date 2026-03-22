@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/police-video-justin-timberlakes-2024-drunken-driving-arrest-131275221",
-    "titleNorm": "police video of justin timberlakes 2024 drunken driving",
-    "type": "reel",
-    "timestamp": 1774126226796
-  },
-  {
     "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
     "titleNorm": "california man paroled under youthful offender provision for",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump hints at winddown of war as us",
     "type": "card",
     "timestamp": 1774167792378
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/trump-threatens-send-federal-immigration-agents-airports-dhs-shutdown-rcna264467",
+    "titleNorm": "trump says hes sending immigration agents to airports",
+    "type": "reel",
+    "timestamp": 1774169940994
   }
 ]
