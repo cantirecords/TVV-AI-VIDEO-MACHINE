@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-19-kids-counting-star-joseph-duggar-arrested-131223376",
-    "titleNorm": "former 19 kids and counting star joseph duggar",
-    "type": "card",
-    "timestamp": 1774142008651
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-pro-wrestler-ted-dibiase-jr-acquitted-mississippi-131263781",
     "titleNorm": "former pro wrestler ted dibiase jr acquitted in",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "trumps epa is paving the way for haze",
     "type": "card",
     "timestamp": 1774182460064
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-revives-suit-evangelical-christian-challenging-restrictions-131254551",
+    "titleNorm": "supreme court revives suit from evangelical christian challenging",
+    "type": "reel",
+    "timestamp": 1774186024447
   }
 ]
