@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/cuba-refuses-us-embassy-havana-import-diesel-generators-131273345",
-    "titleNorm": "cuba refuses to let us embassy in havana",
-    "type": "card",
-    "timestamp": 1774120641604
-  },
-  {
     "url": "https://www.cbsnews.com/news/kendra-joseph-duggar-arrest-misdemeanor-child-endangerment/",
     "titleNorm": "wife of joseph duggar charged with child endangerment",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "the west039s historic snow drought could bring water",
     "type": "reel",
     "timestamp": 1774163707282
+  },
+  {
+    "url": "https://www.foxnews.com/us/slain-loyola-chicago-students-family-fumes-over-murder-manhunt-masked-gunman-attack-near-campus",
+    "titleNorm": "slain loyola chicago students family fumes over murder",
+    "type": "card",
+    "timestamp": 1774164794926
   }
 ]
