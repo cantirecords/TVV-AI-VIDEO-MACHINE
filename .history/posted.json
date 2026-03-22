@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-weighing-several-options-us-troops-iran-rcna263909",
-    "titleNorm": "trump weighing options for deploying thousands of ground",
-    "type": "reel",
-    "timestamp": 1774119801254
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/cuba-refuses-us-embassy-havana-import-diesel-generators-131273345",
     "titleNorm": "cuba refuses to let us embassy in havana",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "career criminal accused of breaking into home climbing",
     "type": "card",
     "timestamp": 1774161510484
+  },
+  {
+    "url": "https://www.cbsnews.com/news/west-historic-snow-spring-water-shortages-wildfires/",
+    "titleNorm": "the west039s historic snow drought could bring water",
+    "type": "reel",
+    "timestamp": 1774163707282
   }
 ]
