@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/patriarch-filaret-fought-independent-ukrainian-orthodox-church-dies-131265344",
-    "titleNorm": "patriarch filaret who fought for an independent ukrainian",
-    "type": "card",
-    "timestamp": 1774109862706
-  },
-  {
-    "url": "https://www.foxnews.com/us/career-criminal-accused-breaking-home-climbing-bed-child-family-slept",
-    "titleNorm": "career criminal accused of breaking into home climbing",
-    "type": "reel",
-    "timestamp": 1774112105397
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1774113475235
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-jimmy-gracey-disappearance-kouri-richins-verdict-luigi-mangione-defense",
     "titleNorm": "fox news true crime newsletter jimmy graceys disappearance",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "missing alabama student james gracey found dead and",
     "type": "card",
     "timestamp": 1774152639279
+  },
+  {
+    "url": "https://www.foxnews.com/us/highway-shut-down-after-waste-truck-carrying-bird-flu-ducks-crashes-northern-indiana",
+    "titleNorm": "highway shut down after waste truck carrying dead",
+    "type": "reel",
+    "timestamp": 1774157899798
   }
 ]
