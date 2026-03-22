@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/2nd-marine-expeditionary-unit-2200-marines-3-warships-middle-east-as-iran-war-continues/",
-    "titleNorm": "around 2200 marines 3 warships headed to middle",
-    "type": "reel",
-    "timestamp": 1774099597759
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/kendra-duggar-faces-charges-husband-arrested-molestation-charges-rcna264537",
-    "titleNorm": "kendra duggar faces misdemeanors after husbands arrest on",
-    "type": "card",
-    "timestamp": 1774100189251
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1774102679137
-  },
-  {
-    "url": "https://www.foxnews.com/us/9-year-old-dies-viral-blackout-challenge-horror-parents-demand-accountability-its-life-death",
-    "titleNorm": "9yearold dies in viral blackout challenge horror as",
-    "type": "reel",
-    "timestamp": 1774104789660
-  },
-  {
-    "url": "https://www.nbcnews.com/nightly-news/video/trump-weighs-deploying-ground-troops-259710021867",
-    "titleNorm": "trump weighs deploying ground troops",
-    "type": "card",
-    "timestamp": 1774106210780
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/patriarch-filaret-fought-independent-ukrainian-orthodox-church-dies-131265344",
     "titleNorm": "patriarch filaret who fought for an independent ukrainian",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "former 19 kids and counting star joseph duggar",
     "type": "card",
     "timestamp": 1774142008651
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-pro-wrestler-ted-dibiase-jr-acquitted-mississippi-131263781",
+    "titleNorm": "former pro wrestler ted dibiase jr acquitted in",
+    "type": "reel",
+    "timestamp": 1774150037664
   }
 ]
