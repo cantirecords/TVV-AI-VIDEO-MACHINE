@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-pro-wrestler-ted-dibiase-jr-acquitted-mississippi-131263781",
-    "titleNorm": "former pro wrestler ted dibiase jr acquitted in",
-    "type": "reel",
-    "timestamp": 1774150037664
-  },
-  {
-    "url": "https://www.foxnews.com/us/missing-alabama-student-james-gracey-found-dead-more-top-headlines",
-    "titleNorm": "missing alabama student james gracey found dead and",
-    "type": "card",
-    "timestamp": 1774152639279
-  },
-  {
     "url": "https://www.foxnews.com/us/highway-shut-down-after-waste-truck-carrying-bird-flu-ducks-crashes-northern-indiana",
     "titleNorm": "highway shut down after waste truck carrying dead",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
     "type": "card",
     "timestamp": 1774192649807
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
+    "titleNorm": "california man paroled under youthful offender provision for",
+    "type": "card",
+    "timestamp": 1774196318974
   }
 ]
