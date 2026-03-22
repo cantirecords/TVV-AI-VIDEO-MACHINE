@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1774091751649
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/democrats-aim-turn-trumps-tariffs-gop-campaigns-governor-131242194",
-    "titleNorm": "democrats aim to turn trumps tariffs against gop",
-    "type": "card",
-    "timestamp": 1774095998735
-  },
-  {
     "url": "https://www.cbsnews.com/news/2nd-marine-expeditionary-unit-2200-marines-3-warships-middle-east-as-iran-war-continues/",
     "titleNorm": "around 2200 marines 3 warships headed to middle",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "florida woman seen on video allegedly attacking pregnant",
     "type": "card",
     "timestamp": 1774134949056
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-19-kids-counting-star-joseph-duggar-arrested-131223376",
+    "titleNorm": "former 19 kids and counting star joseph duggar",
+    "type": "card",
+    "timestamp": 1774142008651
   }
 ]
