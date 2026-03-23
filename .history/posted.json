@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/career-criminal-accused-breaking-home-climbing-bed-child-family-slept",
-    "titleNorm": "career criminal accused of breaking into home climbing",
-    "type": "card",
-    "timestamp": 1774228545552
-  },
-  {
     "url": "https://www.foxnews.com/us/venezuelan-migrant-arrested-after-loyola-chicago-student-fatally-shot-near-campus",
     "titleNorm": "venezuelan migrant arrested after loyola chicago student fatally",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "dead passenger allegedly stored in heated galley for",
     "type": "card",
     "timestamp": 1774269693068
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/democrats-sharpen-criticism-vance-past-trump-2028-presidential-131300965",
+    "titleNorm": "democrats sharpen criticism of vance as they look",
+    "type": "reel",
+    "timestamp": 1774274165606
   }
 ]
