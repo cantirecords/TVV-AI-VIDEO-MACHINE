@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-jimmy-gracey-disappearance-kouri-richins-verdict-luigi-mangione-defense",
-    "titleNorm": "fox news true crime newsletter jimmy graceys disappearance",
-    "type": "reel",
-    "timestamp": 1774219929387
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "illegal immigrant charged with killing loyola student released",
     "type": "card",
     "timestamp": 1774262600481
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1774264612290
   }
 ]
