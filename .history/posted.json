@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-woman-video-allegedly-attacking-pregnant-driver-elderly-bystander-biting-police-officer",
-    "titleNorm": "florida woman seen on video allegedly attacking pregnant",
-    "type": "card",
-    "timestamp": 1774217888739
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-jimmy-gracey-disappearance-kouri-richins-verdict-luigi-mangione-defense",
     "titleNorm": "fox news true crime newsletter jimmy graceys disappearance",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "the latest trump says us will obliterate irans",
     "type": "card",
     "timestamp": 1774259667237
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
+    "titleNorm": "illegal immigrant charged with killing loyola student released",
+    "type": "card",
+    "timestamp": 1774262600481
   }
 ]
