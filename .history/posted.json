@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
-    "titleNorm": "illegal immigrant charged with killing loyola student released",
-    "type": "card",
-    "timestamp": 1774262600481
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "trump backs off escalation but iran war goes",
     "type": "card",
     "timestamp": 1774304527509
+  },
+  {
+    "url": "https://www.foxnews.com/us/air-canada-passenger-says-pilot-did-the-best-thing-he-could-describes-deadly-impact",
+    "titleNorm": "air canada passenger says pilot did the best",
+    "type": "reel",
+    "timestamp": 1774306840873
   }
 ]
