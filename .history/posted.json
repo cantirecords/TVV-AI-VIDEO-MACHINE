@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1774264612290
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/air-canada-flight-collides-port-authority-vehicle-new-131315737",
     "titleNorm": "pilot and copilot killed in collision between jet",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "air canada passenger says pilot did the best",
     "type": "reel",
     "timestamp": 1774306840873
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/aapi-adults-trump-harm-good-immigration-new-poll-131314801",
+    "titleNorm": "aapi adults mostly think trump has done more",
+    "type": "card",
+    "timestamp": 1774308170887
   }
 ]
