@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/highway-shut-down-after-waste-truck-carrying-bird-flu-ducks-crashes-northern-indiana",
-    "titleNorm": "highway shut down after waste truck carrying dead",
-    "type": "card",
-    "timestamp": 1774210633145
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-gas-and-oil-prices-trump-netanyahu-strait-hormuz/",
     "titleNorm": "iran says strait of hormuz will be completely",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trumps epa is paving the way for haze",
     "type": "card",
     "timestamp": 1774252563853
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1774255442734
   }
 ]
