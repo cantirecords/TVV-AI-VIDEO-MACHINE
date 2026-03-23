@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-revives-suit-evangelical-christian-challenging-restrictions-131254551",
-    "titleNorm": "supreme court revives suit from evangelical christian challenging",
-    "type": "reel",
-    "timestamp": 1774186024447
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-weighing-several-options-us-troops-iran-rcna263909",
-    "titleNorm": "trump weighing options for deploying thousands of ground",
-    "type": "card",
-    "timestamp": 1774186641200
-  },
-  {
-    "url": "https://www.nbcnews.com/video/flyers-react-to-trump-s-plan-for-federal-immigration-agents-259826757597",
-    "titleNorm": "flyers react to trumps plan for federal immigration",
-    "type": "card",
-    "timestamp": 1774189323988
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-touted-bigger-tax-refunds-year-americans-spend-131300329",
-    "titleNorm": "trump touted bigger tax refunds this year but",
-    "type": "reel",
-    "timestamp": 1774191302336
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/anti-apartheid-activist-human-rights-campaigner-diplomat-nicholas-131239238",
-    "titleNorm": "antiapartheid activist and un diplomat nicholas haysom dies",
-    "type": "card",
-    "timestamp": 1774192649807
-  },
-  {
     "url": "https://www.foxnews.com/us/california-man-paroled-youthful-offender-provision-2-murders-kills-again-less-year-later",
     "titleNorm": "california man paroled under youthful offender provision for",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "career criminal accused of breaking into home climbing",
     "type": "card",
     "timestamp": 1774228545552
+  },
+  {
+    "url": "https://www.foxnews.com/us/venezuelan-migrant-arrested-after-loyola-chicago-student-fatally-shot-near-campus",
+    "titleNorm": "venezuelan migrant arrested after loyola chicago student fatally",
+    "type": "reel",
+    "timestamp": 1774236831282
   }
 ]
