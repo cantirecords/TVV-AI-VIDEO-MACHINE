@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-touted-bigger-tax-refunds-year-americans-spend-131300329",
-    "titleNorm": "trump touted bigger tax refunds this year but",
-    "type": "card",
-    "timestamp": 1774239463014
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-places-statue-christopher-columbus-white-house-131313864",
     "titleNorm": "trump places statue of christopher columbus near the",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1774281233104
+  },
+  {
+    "url": "https://www.foxnews.com/us/laguardia-plane-crash-air-traffic-control-audio-reveals-frantic-call-truck-stop-stop-stop",
+    "titleNorm": "laguardia plane crash air traffic control audio reveals",
+    "type": "card",
+    "timestamp": 1774284363727
   }
 ]
