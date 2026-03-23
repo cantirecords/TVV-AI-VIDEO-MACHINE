@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/venezuelan-migrant-arrested-after-loyola-chicago-student-fatally-shot-near-campus",
-    "titleNorm": "venezuelan migrant arrested after loyola chicago student fatally",
-    "type": "reel",
-    "timestamp": 1774236831282
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-touted-bigger-tax-refunds-year-americans-spend-131300329",
     "titleNorm": "trump touted bigger tax refunds this year but",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "stocks set to surge after trump postpones ultimatum",
     "type": "card",
     "timestamp": 1774274902249
+  },
+  {
+    "url": "https://www.nbcnews.com/world/united-kingdom/jewish-volunteer-ambulances-set-fire-london-apparent-antisemitic-attac-rcna264680",
+    "titleNorm": "jewish volunteer ambulances set on fire in london",
+    "type": "reel",
+    "timestamp": 1774280165234
   }
 ]
