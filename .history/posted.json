@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/trump-casts-mail-ballot-florida-calls-method-cheating-rcna264762",
-    "titleNorm": "trump casts a mail ballot again in florida",
-    "type": "card",
-    "timestamp": 1774341587408
-  },
-  {
     "url": "https://www.nbcnews.com/select/shopping/best-wellness-awards-products-2026-rcna264334",
     "titleNorm": "nbc select wellness awards 2026 the best fitness",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "suspect in murder of loyola student misses court",
     "type": "card",
     "timestamp": 1774384308846
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-timed-beatings-now-charged-murder-after-woman-found-dead-river-report",
+    "titleNorm": "man accused of timed beatings now charged with",
+    "type": "reel",
+    "timestamp": 1774386372887
   }
 ]
