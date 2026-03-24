@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1774314473561
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-charged-college-students-murder-court-hearing-postponed-after-latest-arrest",
     "titleNorm": "illegal immigrant charged in college students murder has",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "passengers describe laguardia crash and a new gobetween",
     "type": "card",
     "timestamp": 1774356314310
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-places-statue-christopher-columbus-white-house-131313864",
+    "titleNorm": "trump places statue of christopher columbus near the",
+    "type": "reel",
+    "timestamp": 1774360649452
   }
 ]
