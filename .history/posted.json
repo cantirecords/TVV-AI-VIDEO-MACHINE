@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-charged-college-students-murder-court-hearing-postponed-after-latest-arrest",
-    "titleNorm": "illegal immigrant charged in college students murder has",
-    "type": "reel",
-    "timestamp": 1774322441945
-  },
-  {
     "url": "https://www.foxnews.com/us/laguardia-plane-crash-video-shows-jet-collide-fire-truck-after-frantic-air-traffic-control-warning",
     "titleNorm": "laguardia plane crash video shows jet collide with",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "police officer shot by colleague in armed showdown",
     "type": "card",
     "timestamp": 1774361601277
+  },
+  {
+    "url": "https://www.foxnews.com/us/laguardia-plane-crash-air-traffic-control-audio-reveals-frantic-call-truck-stop-stop-stop",
+    "titleNorm": "laguardia plane crash air traffic control audio reveals",
+    "type": "reel",
+    "timestamp": 1774366963139
   }
 ]
