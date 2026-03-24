@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-sued-historic-preservation-groups-block-kennedy-center-131329241",
-    "titleNorm": "trump sued by historic preservation groups to block",
-    "type": "card",
-    "timestamp": 1774297774190
-  },
-  {
     "url": "https://www.foxnews.com/us/two-pilots-dead-after-plane-collides-fire-truck-laguardia-airport-runway-more-top-headlines",
     "titleNorm": "two pilots dead after plane collides with fire",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "2 pilots killed when jet collides with fire",
     "type": "card",
     "timestamp": 1774338449824
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/trump-casts-mail-ballot-florida-calls-method-cheating-rcna264762",
+    "titleNorm": "trump casts a mail ballot again in florida",
+    "type": "card",
+    "timestamp": 1774341587408
   }
 ]
