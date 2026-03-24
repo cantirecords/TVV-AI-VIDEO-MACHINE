@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/spring-break-hot-spots-turn-lawless-fights-erupt-drugs-flow-dozens-arrested-sweeping-crackdowns",
-    "titleNorm": "spring break hot spots turn lawless as fights",
-    "type": "card",
-    "timestamp": 1774301334637
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/trump-iran-war-talks-power-attacks-hormuz-israel-energy-prices-rcna264688",
     "titleNorm": "trump backs off escalation but iran war goes",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "nbc select wellness awards 2026 the best fitness",
     "type": "reel",
     "timestamp": 1774343777811
+  },
+  {
+    "url": "https://www.cbsnews.com/video/trump-urges-gop-leaders-not-to-make-deal-to-end-shutdown-unless-democrats-back-voter-id-bill/",
+    "titleNorm": "trump urges gop leaders not to make deal",
+    "type": "card",
+    "timestamp": 1774345572566
   }
 ]
