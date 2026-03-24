@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/united-kingdom/jewish-volunteer-ambulances-set-fire-london-apparent-antisemitic-attac-rcna264680",
-    "titleNorm": "jewish volunteer ambulances set on fire in london",
-    "type": "reel",
-    "timestamp": 1774280165234
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1774281233104
-  },
-  {
     "url": "https://www.foxnews.com/us/laguardia-plane-crash-air-traffic-control-audio-reveals-frantic-call-truck-stop-stop-stop",
     "titleNorm": "laguardia plane crash air traffic control audio reveals",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "illegal immigrant charged in college students murder has",
     "type": "reel",
     "timestamp": 1774322441945
+  },
+  {
+    "url": "https://www.foxnews.com/us/laguardia-plane-crash-video-shows-jet-collide-fire-truck-after-frantic-air-traffic-control-warning",
+    "titleNorm": "laguardia plane crash video shows jet collide with",
+    "type": "card",
+    "timestamp": 1774325339168
   }
 ]
