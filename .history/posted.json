@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
-    "titleNorm": "illegal immigrant charged with killing loyola student released",
-    "type": "reel",
-    "timestamp": 1774350910861
-  },
-  {
     "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
     "titleNorm": "9 suspects arrested after 7m in stolen cargo",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "supreme court rejects appeal from texas death row",
     "type": "reel",
     "timestamp": 1774393157093
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
+    "titleNorm": "california jury awards woman a total of nearly",
+    "type": "card",
+    "timestamp": 1774394544423
   }
 ]
