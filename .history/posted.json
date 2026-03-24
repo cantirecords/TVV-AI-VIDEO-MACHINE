@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1774291175044
-  },
-  {
     "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
     "titleNorm": "9 suspects arrested after 7m in stolen cargo",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "french company stops us offshore wind projects in",
     "type": "card",
     "timestamp": 1774331726864
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1774335232711
   }
 ]
