@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/aapi-adults-trump-harm-good-immigration-new-poll-131314801",
-    "titleNorm": "aapi adults mostly think trump has done more",
-    "type": "card",
-    "timestamp": 1774308170887
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "illegal immigrant charged with killing loyola student released",
     "type": "reel",
     "timestamp": 1774350910861
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
+    "titleNorm": "9 suspects arrested after 7m in stolen cargo",
+    "type": "card",
+    "timestamp": 1774352317381
   }
 ]
