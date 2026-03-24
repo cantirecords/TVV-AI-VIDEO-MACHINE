@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/trump-iran-war-talks-power-attacks-hormuz-israel-energy-prices-rcna264688",
-    "titleNorm": "trump backs off escalation but iran war goes",
-    "type": "card",
-    "timestamp": 1774304527509
-  },
-  {
     "url": "https://www.foxnews.com/us/air-canada-passenger-says-pilot-did-the-best-thing-he-could-describes-deadly-impact",
     "titleNorm": "air canada passenger says pilot did the best",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump urges gop leaders not to make deal",
     "type": "card",
     "timestamp": 1774345572566
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-girlfriend-3-others-nabbed-killing-tied-alleged-murder-for-hire-plot-unusual-case-police",
+    "titleNorm": "exgirlfriend 3 others nabbed in killing tied to",
+    "type": "card",
+    "timestamp": 1774348899391
   }
 ]
