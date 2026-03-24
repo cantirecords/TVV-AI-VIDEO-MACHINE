@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-girlfriend-3-others-nabbed-killing-tied-alleged-murder-for-hire-plot-unusual-case-police",
-    "titleNorm": "exgirlfriend 3 others nabbed in killing tied to",
-    "type": "card",
-    "timestamp": 1774348899391
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-loyola-student-caught-released-under-biden-dhs-says",
     "titleNorm": "illegal immigrant charged with killing loyola student released",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "examerican idol contestant faces new charges over alleged",
     "type": "card",
     "timestamp": 1774390857020
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-texas-death-row-inmate-131325121",
+    "titleNorm": "supreme court rejects appeal from texas death row",
+    "type": "reel",
+    "timestamp": 1774393157093
   }
 ]
