@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/select/shopping/best-wellness-awards-products-2026-rcna264334",
-    "titleNorm": "nbc select wellness awards 2026 the best fitness",
-    "type": "reel",
-    "timestamp": 1774343777811
-  },
-  {
     "url": "https://www.cbsnews.com/video/trump-urges-gop-leaders-not-to-make-deal-to-end-shutdown-unless-democrats-back-voter-id-bill/",
     "titleNorm": "trump urges gop leaders not to make deal",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "man accused of timed beatings now charged with",
     "type": "reel",
     "timestamp": 1774386372887
+  },
+  {
+    "url": "https://www.foxnews.com/us/laguardia-plane-crash-video-shows-jet-collide-fire-truck-after-frantic-air-traffic-control-warning",
+    "titleNorm": "laguardia plane crash video shows jet collide with",
+    "type": "card",
+    "timestamp": 1774387728559
   }
 ]
