@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-texas-death-row-inmate-131325121",
-    "titleNorm": "supreme court rejects appeal from texas death row",
-    "type": "card",
-    "timestamp": 1774287822947
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1774330969878
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/french-company-stops-us-offshore-wind-projects-1b-131334366",
+    "titleNorm": "french company stops us offshore wind projects in",
+    "type": "card",
+    "timestamp": 1774331726864
   }
 ]
