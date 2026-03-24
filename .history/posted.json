@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1774330969878
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/french-company-stops-us-offshore-wind-projects-1b-131334366",
     "titleNorm": "french company stops us offshore wind projects in",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "quadruple amputee and cornhole pro accused of fatally",
     "type": "reel",
     "timestamp": 1774373502484
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-online-citizen-journalist-arrest-131325823",
+    "titleNorm": "supreme court rejects appeal from online citizen journalist",
+    "type": "card",
+    "timestamp": 1774374509570
   }
 ]
