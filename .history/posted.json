@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-objectives-remain-unfulfilled-wind-conflict-131374194",
-    "titleNorm": "some of trumps iran war objectives remain unfulfilled",
-    "type": "card",
-    "timestamp": 1774424764548
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-upholds-gop-drawn-congressional-map-rcna264990",
     "titleNorm": "missouri supreme court upholds new gopdrawn congressional map",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1774467582378
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-objectives-remain-unfulfilled-wind-conflict-131374194",
+    "titleNorm": "some of trumps iran war objectives remain unfulfilled",
+    "type": "card",
+    "timestamp": 1774470576383
   }
 ]
