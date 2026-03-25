@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ford-recall-lincoln-explorer-rearview-camera-software-issue/",
-    "titleNorm": "ford recalls more than 254000 vehicles due to",
-    "type": "card",
-    "timestamp": 1774378116915
-  },
-  {
     "url": "https://www.foxnews.com/us/see-habitual-offender-10-plus-prior-convictions-arrested-after-driving-backwards-highway-police",
     "titleNorm": "see it habitual offender with 10plus prior convictions",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "senate rejects latest push to rein in trump039s",
     "type": "card",
     "timestamp": 1774418105764
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-park-police-officer-wounded-washington-shooting-131346534",
+    "titleNorm": "us park police officer wounded in washington shooting",
+    "type": "card",
+    "timestamp": 1774421477409
   }
 ]
