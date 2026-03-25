@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/trump-cdc-director-nominate-vaccination-measles-rcna261938",
-    "titleNorm": "trump is expected to name a new cdc",
-    "type": "reel",
-    "timestamp": 1774409071019
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "doctors wife testifies he beat her with rock",
     "type": "card",
     "timestamp": 1774447966319
+  },
+  {
+    "url": "https://www.cbsnews.com/news/russia-ukraine-war-drone-attack-estonia-latvia-drones-hit-nato-territory/",
+    "titleNorm": "2 nato allies report russian drone impacts amid",
+    "type": "reel",
+    "timestamp": 1774453511211
   }
 ]
