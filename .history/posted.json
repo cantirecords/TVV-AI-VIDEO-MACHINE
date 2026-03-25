@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/quadruple-amputee-professional-cornhole-player-charged-murder-after-alleged-roadside-killing",
-    "titleNorm": "quadruple amputee professional cornhole player charged with murder",
-    "type": "reel",
-    "timestamp": 1774417481609
-  },
-  {
-    "url": "https://www.cbsnews.com/news/senate-iran-war-powers-resolution-vote-trump/",
-    "titleNorm": "senate rejects latest push to rein in trump039s",
-    "type": "card",
-    "timestamp": 1774418105764
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-park-police-officer-wounded-washington-shooting-131346534",
     "titleNorm": "us park police officer wounded in washington shooting",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "doj disclosed damning evidence that trump procured classified",
     "type": "reel",
     "timestamp": 1774460163805
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "dozens of bodies mostly infants discovered in kenya",
+    "type": "card",
+    "timestamp": 1774464180231
   }
 ]
