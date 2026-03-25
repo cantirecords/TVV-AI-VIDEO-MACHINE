@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-upholds-gop-drawn-congressional-map-rcna264990",
-    "titleNorm": "missouri supreme court upholds new gopdrawn congressional map",
-    "type": "card",
-    "timestamp": 1774427876480
-  },
-  {
     "url": "https://www.cbsnews.com/news/chad-bianco-riverside-county-election-fraud-investigation/",
     "titleNorm": "court denies appeal to stop riverside county sheriff039s",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "some of trumps iran war objectives remain unfulfilled",
     "type": "card",
     "timestamp": 1774470576383
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
+    "titleNorm": "california jury awards woman a total of nearly",
+    "type": "reel",
+    "timestamp": 1774472524847
   }
 ]
