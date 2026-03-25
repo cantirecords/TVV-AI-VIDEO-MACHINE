@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1774411871494
-  },
-  {
     "url": "https://www.foxnews.com/us/quadruple-amputee-professional-cornhole-player-charged-murder-after-alleged-roadside-killing",
     "titleNorm": "quadruple amputee professional cornhole player charged with murder",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "melania trump hosts world counterparts and tech reps",
     "type": "card",
     "timestamp": 1774454407841
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/rubio-plans-travel-france-sell-iran-war-skeptical-131360196",
+    "titleNorm": "rubio plans travel to france to sell iran",
+    "type": "card",
+    "timestamp": 1774458198580
   }
 ]
