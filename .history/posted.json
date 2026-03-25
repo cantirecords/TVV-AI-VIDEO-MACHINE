@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/chad-bianco-riverside-county-election-fraud-investigation/",
-    "titleNorm": "court denies appeal to stop riverside county sheriff039s",
-    "type": "reel",
-    "timestamp": 1774430148534
-  },
-  {
     "url": "https://www.nbcnews.com/world/united-kingdom/british-pm-starmer-trump-iran-war-criticism-uk-bases-bombing-snl-rcna264861",
     "titleNorm": "oh golly britains embattled starmer navigates trumps iran",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "california jury awards woman a total of nearly",
     "type": "reel",
     "timestamp": 1774472524847
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1774474123854
   }
 ]
