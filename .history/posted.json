@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-cargo-theft-7m-stolen-goods-arrests",
-    "titleNorm": "9 suspects arrested after 7m in stolen cargo",
-    "type": "card",
-    "timestamp": 1774352317381
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/air-canada-laguardia-crash-us-iran-morning-rundown-rcna264850",
-    "titleNorm": "passengers describe laguardia crash and a new gobetween",
-    "type": "card",
-    "timestamp": 1774356314310
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-places-statue-christopher-columbus-white-house-131313864",
     "titleNorm": "trump places statue of christopher columbus near the",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "california jury awards woman a total of nearly",
     "type": "card",
     "timestamp": 1774394544423
+  },
+  {
+    "url": "https://www.foxnews.com/us/pentagon-leaders-award-2-purple-hearts-old-dominion-cadets-who-took-down-isis-supporter",
+    "titleNorm": "pentagon leaders award 2 purple hearts to old",
+    "type": "card",
+    "timestamp": 1774401146884
   }
 ]
