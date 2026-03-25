@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
-    "titleNorm": "california jury awards woman a total of nearly",
-    "type": "card",
-    "timestamp": 1774394544423
-  },
-  {
     "url": "https://www.foxnews.com/us/pentagon-leaders-award-2-purple-hearts-old-dominion-cadets-who-took-down-isis-supporter",
     "titleNorm": "pentagon leaders award 2 purple hearts to old",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "judge grants 1 murder bond for georgia woman",
     "type": "reel",
     "timestamp": 1774437430872
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/trump-gets-daily-video-montage-briefing-iran-war-rcna263912",
+    "titleNorm": "trumps daily iran video briefing fuels concerns hes",
+    "type": "card",
+    "timestamp": 1774438476596
   }
 ]
