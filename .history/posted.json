@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/judge-grants-1-murder-bond-georgia-woman-accused-using-pills-induce-second-trimester-abortion",
-    "titleNorm": "judge grants 1 murder bond for georgia woman",
-    "type": "reel",
-    "timestamp": 1774437430872
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/trump-gets-daily-video-montage-briefing-iran-war-rcna263912",
     "titleNorm": "trumps daily iran video briefing fuels concerns hes",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1774479841547
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-man-accused-synagogue-shooting-threat-targeting-israeli-official-released-bond",
+    "titleNorm": "chicago man accused of synagogue shooting threat targeting",
+    "type": "card",
+    "timestamp": 1774481082661
   }
 ]
