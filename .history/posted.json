@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-texas-death-row-inmate-131325121",
-    "titleNorm": "supreme court rejects appeal from texas death row",
-    "type": "reel",
-    "timestamp": 1774393157093
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
     "titleNorm": "california jury awards woman a total of nearly",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chicago man accused of synagogue shooting threat targeting",
     "type": "card",
     "timestamp": 1774435224833
+  },
+  {
+    "url": "https://www.foxnews.com/us/judge-grants-1-murder-bond-georgia-woman-accused-using-pills-induce-second-trimester-abortion",
+    "titleNorm": "judge grants 1 murder bond for georgia woman",
+    "type": "reel",
+    "timestamp": 1774437430872
   }
 ]
