@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-places-statue-christopher-columbus-white-house-131313864",
-    "titleNorm": "trump places statue of christopher columbus near the",
-    "type": "reel",
-    "timestamp": 1774360649452
-  },
-  {
-    "url": "https://www.foxnews.com/us/police-officer-shot-colleague-armed-showdown-home-could-have-killed-brothers-blue-prosecutors",
-    "titleNorm": "police officer shot by colleague in armed showdown",
-    "type": "card",
-    "timestamp": 1774361601277
-  },
-  {
     "url": "https://www.foxnews.com/us/laguardia-plane-crash-air-traffic-control-audio-reveals-frantic-call-truck-stop-stop-stop",
     "titleNorm": "laguardia plane crash air traffic control audio reveals",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "pentagon leaders award 2 purple hearts to old",
     "type": "card",
     "timestamp": 1774401146884
+  },
+  {
+    "url": "https://www.nbcnews.com/health/health-news/trump-cdc-director-nominate-vaccination-measles-rcna261938",
+    "titleNorm": "trump is expected to name a new cdc",
+    "type": "reel",
+    "timestamp": 1774409071019
   }
 ]
