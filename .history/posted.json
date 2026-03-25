@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-park-police-officer-wounded-washington-shooting-131346534",
-    "titleNorm": "us park police officer wounded in washington shooting",
-    "type": "card",
-    "timestamp": 1774421477409
-  },
-  {
     "url": "https://www.nbcnews.com/world/asia/cockroaches-surveillance-16-hour-days-life-north-korean-worker-russia-rcna264849",
     "titleNorm": "cockroaches surveillance and 16hour days the life of",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "dozens of bodies mostly infants discovered in kenya",
     "type": "card",
     "timestamp": 1774464180231
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-timed-beatings-now-charged-murder-after-woman-found-dead-river-report",
+    "titleNorm": "man accused of timed beatings now charged with",
+    "type": "reel",
+    "timestamp": 1774466278434
   }
 ]
