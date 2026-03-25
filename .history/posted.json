@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-american-idol-contestant-faces-new-charges-over-alleged-murder-wife-ohio-home",
-    "titleNorm": "examerican idol contestant faces new charges over alleged",
-    "type": "card",
-    "timestamp": 1774390857020
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-texas-death-row-inmate-131325121",
     "titleNorm": "supreme court rejects appeal from texas death row",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "oh golly britains embattled starmer navigates trumps iran",
     "type": "card",
     "timestamp": 1774431766274
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-man-accused-synagogue-shooting-threat-targeting-israeli-official-released-bond",
+    "titleNorm": "chicago man accused of synagogue shooting threat targeting",
+    "type": "card",
+    "timestamp": 1774435224833
   }
 ]
