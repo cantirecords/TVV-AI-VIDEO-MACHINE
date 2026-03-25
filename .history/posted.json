@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-accused-timed-beatings-now-charged-murder-after-woman-found-dead-river-report",
-    "titleNorm": "man accused of timed beatings now charged with",
-    "type": "reel",
-    "timestamp": 1774386372887
-  },
-  {
     "url": "https://www.foxnews.com/us/laguardia-plane-crash-video-shows-jet-collide-fire-truck-after-frantic-air-traffic-control-warning",
     "titleNorm": "laguardia plane crash video shows jet collide with",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "missouri supreme court upholds new gopdrawn congressional map",
     "type": "card",
     "timestamp": 1774427876480
+  },
+  {
+    "url": "https://www.cbsnews.com/news/chad-bianco-riverside-county-election-fraud-investigation/",
+    "titleNorm": "court denies appeal to stop riverside county sheriff039s",
+    "type": "reel",
+    "timestamp": 1774430148534
   }
 ]
