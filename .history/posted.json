@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/jeff-webb-cheerleading-entrepreneur-charlie-kirk-mentor-dies-accident-rcna264901",
-    "titleNorm": "jeff webb cheerleading entrepreneur and charlie kirk mentor",
-    "type": "card",
-    "timestamp": 1774371206518
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/quadruple-amputee-cornhole-accused-fatally-shooting-man-driving-rcna264835",
-    "titleNorm": "quadruple amputee and cornhole pro accused of fatally",
-    "type": "reel",
-    "timestamp": 1774373502484
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-online-citizen-journalist-arrest-131325823",
     "titleNorm": "supreme court rejects appeal from online citizen journalist",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1774411871494
+  },
+  {
+    "url": "https://www.foxnews.com/us/quadruple-amputee-professional-cornhole-player-charged-murder-after-alleged-roadside-killing",
+    "titleNorm": "quadruple amputee professional cornhole player charged with murder",
+    "type": "reel",
+    "timestamp": 1774417481609
   }
 ]
