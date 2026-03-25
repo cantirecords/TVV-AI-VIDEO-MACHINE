@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeal-online-citizen-journalist-arrest-131325823",
-    "titleNorm": "supreme court rejects appeal from online citizen journalist",
-    "type": "card",
-    "timestamp": 1774374509570
-  },
-  {
     "url": "https://www.cbsnews.com/news/ford-recall-lincoln-explorer-rearview-camera-software-issue/",
     "titleNorm": "ford recalls more than 254000 vehicles due to",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "quadruple amputee professional cornhole player charged with murder",
     "type": "reel",
     "timestamp": 1774417481609
+  },
+  {
+    "url": "https://www.cbsnews.com/news/senate-iran-war-powers-resolution-vote-trump/",
+    "titleNorm": "senate rejects latest push to rein in trump039s",
+    "type": "card",
+    "timestamp": 1774418105764
   }
 ]
