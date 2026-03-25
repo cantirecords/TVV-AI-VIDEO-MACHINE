@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/laguardia-plane-crash-air-traffic-control-audio-reveals-frantic-call-truck-stop-stop-stop",
-    "titleNorm": "laguardia plane crash air traffic control audio reveals",
-    "type": "reel",
-    "timestamp": 1774366963139
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-us-iran-talking-claim-eliciting-market-cheers-131338965",
-    "titleNorm": "trump says us and iran are talking his",
-    "type": "card",
-    "timestamp": 1774367781266
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/jeff-webb-cheerleading-entrepreneur-charlie-kirk-mentor-dies-accident-rcna264901",
     "titleNorm": "jeff webb cheerleading entrepreneur and charlie kirk mentor",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "trump is expected to name a new cdc",
     "type": "reel",
     "timestamp": 1774409071019
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1774411871494
   }
 ]
