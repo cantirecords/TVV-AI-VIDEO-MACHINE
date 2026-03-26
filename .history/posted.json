@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/large-oil-refinery-explosion-texas-coast-forces-residents-131348696",
-    "titleNorm": "fire out and shelterinplace order is lifted after",
-    "type": "reel",
-    "timestamp": 1774447024848
-  },
-  {
-    "url": "https://www.foxnews.com/us/doctors-wife-testifies-he-beat-her-with-rock-tried-to-force-her-toward-cliff-edge-during-hike",
-    "titleNorm": "doctors wife testifies he beat her with rock",
-    "type": "card",
-    "timestamp": 1774447966319
-  },
-  {
     "url": "https://www.cbsnews.com/news/russia-ukraine-war-drone-attack-estonia-latvia-drones-hit-nato-territory/",
     "titleNorm": "2 nato allies report russian drone impacts amid",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "trump administration to pay michael flynn in settlement",
     "type": "card",
     "timestamp": 1774487874142
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/tech-news/melania-trump-robot-humanoid-robot-white-house-video-rcna265192",
+    "titleNorm": "melania trump walks side by side with humanoid",
+    "type": "reel",
+    "timestamp": 1774496039810
   }
 ]
