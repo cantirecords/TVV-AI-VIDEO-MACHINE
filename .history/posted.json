@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
-    "titleNorm": "illegal immigrant accused of fatal hit and run",
-    "type": "card",
-    "timestamp": 1774511743773
-  },
-  {
     "url": "https://www.nbcnews.com/politics/immigration/doj-says-erroneously-relied-ice-memo-justify-immigration-courthouse-ar-rcna265206",
     "titleNorm": "doj says it erroneously relied on ice memo",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "conservatives gather for cpac with the right openly",
     "type": "card",
     "timestamp": 1774554659892
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
+    "titleNorm": "illegal immigrant accused of fatal hit and run",
+    "type": "card",
+    "timestamp": 1774556809898
   }
 ]
