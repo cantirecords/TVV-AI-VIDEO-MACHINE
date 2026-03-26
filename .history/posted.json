@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
-    "titleNorm": "california jury awards woman a total of nearly",
-    "type": "reel",
-    "timestamp": 1774472524847
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1774474123854
-  },
-  {
     "url": "https://www.foxnews.com/us/two-arrested-after-us-park-police-officer-shot-apparent-dc-ambush",
     "titleNorm": "two arrested after us park police officer shot",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "doj says it erroneously relied on ice memo",
     "type": "card",
     "timestamp": 1774514585700
+  },
+  {
+    "url": "https://www.foxnews.com/us/spring-break-crackdown-cuts-arrests-hot-spot-while-chaos-spreads-other-party-hubs",
+    "titleNorm": "spring break crackdown cuts arrests in hot spot",
+    "type": "reel",
+    "timestamp": 1774517700136
   }
 ]
