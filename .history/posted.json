@@ -70,5 +70,11 @@
     "titleNorm": "white house says trump will unleash hell if",
     "type": "reel",
     "timestamp": 1774510985760
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
+    "titleNorm": "illegal immigrant accused of fatal hit and run",
+    "type": "card",
+    "timestamp": 1774511743773
   }
 ]
