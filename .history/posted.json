@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-gets-daily-video-montage-briefing-iran-war-rcna263912",
-    "titleNorm": "trumps daily iran video briefing fuels concerns hes",
-    "type": "card",
-    "timestamp": 1774438476596
-  },
-  {
-    "url": "https://www.today.com/video/laguardia-collision-investigators-probe-control-tower-black-box-259923013742",
-    "titleNorm": "air canada crash investigators probe laguardia control tower",
-    "type": "card",
-    "timestamp": 1774442501537
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/large-oil-refinery-explosion-texas-coast-forces-residents-131348696",
     "titleNorm": "fire out and shelterinplace order is lifted after",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "chicago man accused of synagogue shooting threat targeting",
     "type": "card",
     "timestamp": 1774481082661
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-pay-michael-flynn-settlement-lawsuit-rcna265203",
+    "titleNorm": "trump administration to pay michael flynn in settlement",
+    "type": "card",
+    "timestamp": 1774487874142
   }
 ]
