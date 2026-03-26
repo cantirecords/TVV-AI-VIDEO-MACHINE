@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/russia-ukraine-war-drone-attack-estonia-latvia-drones-hit-nato-territory/",
-    "titleNorm": "2 nato allies report russian drone impacts amid",
-    "type": "reel",
-    "timestamp": 1774453511211
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/melania-trump-hosts-world-counterparts-tech-reps-discuss-131364129",
-    "titleNorm": "melania trump hosts world counterparts and tech reps",
-    "type": "card",
-    "timestamp": 1774454407841
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/rubio-plans-travel-france-sell-iran-war-skeptical-131360196",
     "titleNorm": "rubio plans travel to france to sell iran",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "melania trump walks side by side with humanoid",
     "type": "reel",
     "timestamp": 1774496039810
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/tensions-flare-iran-briefing-lawmakers-trump-officials-ground-troops-rcna265231",
+    "titleNorm": "tensions flare during iran briefing on capitol hill",
+    "type": "card",
+    "timestamp": 1774499111178
   }
 ]
