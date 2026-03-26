@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/tech/tech-news/melania-trump-robot-humanoid-robot-white-house-video-rcna265192",
-    "titleNorm": "melania trump walks side by side with humanoid",
-    "type": "reel",
-    "timestamp": 1774496039810
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/tensions-flare-iran-briefing-lawmakers-trump-officials-ground-troops-rcna265231",
     "titleNorm": "tensions flare during iran briefing on capitol hill",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "alleged narcoterrorists killed as us forces strike suspected",
     "type": "card",
     "timestamp": 1774534799484
+  },
+  {
+    "url": "https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
+    "titleNorm": "jurors shown bodycam of doctors bloody wife rock",
+    "type": "reel",
+    "timestamp": 1774540318616
   }
 ]
