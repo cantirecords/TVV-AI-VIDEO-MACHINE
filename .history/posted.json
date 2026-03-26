@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-objectives-remain-unfulfilled-wind-conflict-131374194",
-    "titleNorm": "some of trumps iran war objectives remain unfulfilled",
-    "type": "card",
-    "timestamp": 1774470576383
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/california-jury-awards-woman-total-60-million-after-131346533",
     "titleNorm": "california jury awards woman a total of nearly",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "illegal immigrant accused of fatal hit and run",
     "type": "card",
     "timestamp": 1774511743773
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/immigration/doj-says-erroneously-relied-ice-memo-justify-immigration-courthouse-ar-rcna265206",
+    "titleNorm": "doj says it erroneously relied on ice memo",
+    "type": "card",
+    "timestamp": 1774514585700
   }
 ]
