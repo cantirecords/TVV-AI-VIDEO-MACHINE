@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/iranian-couple-mourns-loss-newborn-travel-ban-keeping-apart-adds-pain-rcna263940",
-    "titleNorm": "trump travel ban keeps a couple apart as",
-    "type": "card",
-    "timestamp": 1774521788304
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-sides-cox-communications-copyright-fight-record-131397745",
     "titleNorm": "supreme court sides with cox communications in a",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "nicols maduro heads back to a us court",
     "type": "card",
     "timestamp": 1774563509711
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
+    "titleNorm": "democrats weigh final gop offer to end dhs",
+    "type": "reel",
+    "timestamp": 1774565814136
   }
 ]
