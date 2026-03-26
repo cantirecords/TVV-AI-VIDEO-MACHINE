@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1774479841547
-  },
-  {
-    "url": "https://www.foxnews.com/us/chicago-man-accused-synagogue-shooting-threat-targeting-israeli-official-released-bond",
-    "titleNorm": "chicago man accused of synagogue shooting threat targeting",
-    "type": "card",
-    "timestamp": 1774481082661
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-pay-michael-flynn-settlement-lawsuit-rcna265203",
     "titleNorm": "trump administration to pay michael flynn in settlement",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trump travel ban keeps a couple apart as",
     "type": "card",
     "timestamp": 1774521788304
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-sides-cox-communications-copyright-fight-record-131397745",
+    "titleNorm": "supreme court sides with cox communications in a",
+    "type": "reel",
+    "timestamp": 1774524556988
   }
 ]
