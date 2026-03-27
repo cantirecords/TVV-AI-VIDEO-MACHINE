@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/nicols-maduro-heads-back-us-court-fighting-charges-131421676",
-    "titleNorm": "nicols maduro heads back to a us court",
-    "type": "card",
-    "timestamp": 1774563509711
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
     "titleNorm": "democrats weigh final gop offer to end dhs",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
     "type": "card",
     "timestamp": 1774604645197
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/woman-son-died-drugs-bought-social-media-celebrates-131458972",
+    "titleNorm": "woman whose son died from drugs bought on",
+    "type": "card",
+    "timestamp": 1774607902218
   }
 ]
