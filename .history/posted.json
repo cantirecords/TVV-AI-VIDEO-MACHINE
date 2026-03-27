@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/signature-appear-paper-currency-dollar-bills-first-sitting-president-rcna265389",
-    "titleNorm": "trumps signature to appear on paper currency in",
-    "type": "card",
-    "timestamp": 1774574243188
-  },
-  {
     "url": "https://www.foxnews.com/us/veteran-83-shoved-onto-nyc-subway-tracks-dies-from-injuries-illegal-migrant-charged-murder",
     "titleNorm": "veteran 83 allegedly shoved onto nyc subway tracks",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "a year after trumps doge cuts workers whose",
     "type": "card",
     "timestamp": 1774615197655
+  },
+  {
+    "url": "https://www.foxnews.com/us/accused-gilgo-beach-serial-killer-rex-heuermann-expected-plead-guilty-murder-case-reports",
+    "titleNorm": "accused gilgo beach serial killer rex heuermann expected",
+    "type": "reel",
+    "timestamp": 1774619393310
   }
 ]
