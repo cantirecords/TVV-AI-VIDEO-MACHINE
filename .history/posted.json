@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist",
-    "titleNorm": "illegal immigrant accused of fatal hit and run",
-    "type": "card",
-    "timestamp": 1774556809898
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-extending-pause-strikes-iran-energy-plants-april-6/",
     "titleNorm": "trump says he039s granting iran039s request to extend",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "5 injured in helicopter crash on the hawaiian",
     "type": "card",
     "timestamp": 1774598032343
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/elderly-man-shoved-subway-tracks-dies-prompting-murder-131447382",
+    "titleNorm": "elderly man shoved onto subway tracks dies prompting",
+    "type": "card",
+    "timestamp": 1774600790282
   }
 ]
