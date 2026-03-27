@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
-    "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
-    "type": "card",
-    "timestamp": 1774604645197
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/woman-son-died-drugs-bought-social-media-celebrates-131458972",
     "titleNorm": "woman whose son died from drugs bought on",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "doctors bloodied wife seen in bodycam after screaming",
     "type": "card",
     "timestamp": 1774646846017
+  },
+  {
+    "url": "https://www.foxnews.com/us/fights-arrests-police-resistance-follow-cincinnati-opening-day-celebrations-city",
+    "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
+    "type": "card",
+    "timestamp": 1774650123818
   }
 ]
