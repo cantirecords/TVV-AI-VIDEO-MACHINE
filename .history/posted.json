@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/teen-mobs-swarm-downtown-chaotic-takeover-fights-erupt-cars-targeted-before-curfew-crackdown-hits",
-    "titleNorm": "teen mobs swarm downtown in chaotic takeoverfights erupt",
-    "type": "reel",
-    "timestamp": 1774591154599
-  },
-  {
-    "url": "https://www.foxnews.com/us/michigan-judge-blasts-woman-driving-during-zoom-court-hearing-do-you-think-im-stupid",
-    "titleNorm": "michigan judge blasts woman for driving during zoom",
-    "type": "card",
-    "timestamp": 1774591640741
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-allegedly-stalks-hunts-teenager-through-local-park-armed-attack-police",
     "titleNorm": "illegal immigrant allegedly stalks hunts teenager through local",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "secret service agent assigned to jill biden accidentally",
     "type": "card",
     "timestamp": 1774633341304
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1774637104352
   }
 ]
