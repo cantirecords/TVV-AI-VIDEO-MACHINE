@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-41/",
-    "titleNorm": "democrats weigh final gop offer to end dhs",
-    "type": "reel",
-    "timestamp": 1774565814136
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/trump-says-will-order-dhs-immediately-pay-tsa-officers-partial-shutdow-rcna265393",
     "titleNorm": "trump says he will order dhs to immediately",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "woman whose son died from drugs bought on",
     "type": "card",
     "timestamp": 1774607902218
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-oil-tanker-israel/",
+    "titleNorm": "iran halts 3 ships in strait of hormuz",
+    "type": "reel",
+    "timestamp": 1774610096267
   }
 ]
