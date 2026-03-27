@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/san-francisco-fire-crews-rescue-woman-clinging-cliff-131419251",
-    "titleNorm": "san francisco fire crews rescue woman clinging to",
-    "type": "reel",
-    "timestamp": 1774602874721
-  },
-  {
     "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
     "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "ambitious authoritarian and talking to trump the hardliners",
     "type": "reel",
     "timestamp": 1774645452557
+  },
+  {
+    "url": "https://www.foxnews.com/us/doctors-bloodied-wife-seen-bodycam-after-screaming-help-from-husbands-alleged-attack",
+    "titleNorm": "doctors bloodied wife seen in bodycam after screaming",
+    "type": "card",
+    "timestamp": 1774646846017
   }
 ]
