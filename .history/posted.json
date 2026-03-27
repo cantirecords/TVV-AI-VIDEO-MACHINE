@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jurors-shown-bodycam-doctors-bloody-wife-rock-he-allegedly-used-bash-her-cliffside-attack",
-    "titleNorm": "jurors shown bodycam of doctors bloody wife rock",
-    "type": "reel",
-    "timestamp": 1774540318616
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1774541076837
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/cleveland-mother-pleads-not-guilty-2-daughters-found-suitcases-rcna265270",
     "titleNorm": "cleveland mother pleads not guilty after bodies of",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "veteran 83 allegedly shoved onto nyc subway tracks",
     "type": "reel",
     "timestamp": 1774582814380
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/conflict-eastern-congo-escalating-heavy-weapons-drones-warns-131451783",
+    "titleNorm": "conflict in eastern congo escalating with use of",
+    "type": "card",
+    "timestamp": 1774585617947
   }
 ]
