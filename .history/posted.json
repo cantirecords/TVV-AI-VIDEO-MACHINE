@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-convicted-deadly-2021-assault-thai-grandfather-san-131454880",
-    "titleNorm": "man convicted in the deadly 2021 assault of",
-    "type": "card",
-    "timestamp": 1774680314010
-  },
-  {
     "url": "https://www.foxnews.com/us/lovers-lane-murders-suspect-nabbed-decades-after-couple-found-dead-car",
     "titleNorm": "lovers lane murders suspect nabbed decades after couple",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "tiger woods released on bail after dui arrest",
     "type": "card",
     "timestamp": 1774722376965
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1774724870132
   }
 ]
