@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1774626238204
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/nicols-maduro-heads-back-us-court-fighting-charges-131421676",
     "titleNorm": "nicols maduro heads back to a us court",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "5 injured in helicopter crash on the hawaiian",
     "type": "reel",
     "timestamp": 1774668188437
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/florida-supreme-court-halts-execution-police-officer-convicted-131454603",
+    "titleNorm": "florida court halts execution of police officer convicted",
+    "type": "card",
+    "timestamp": 1774671002406
   }
 ]
