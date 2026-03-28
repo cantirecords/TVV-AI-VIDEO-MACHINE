@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/georgias-fulton-county-heads-court-seek-return-2020-131460381",
-    "titleNorm": "georgias fulton county heads to court to seek",
-    "type": "reel",
-    "timestamp": 1774695531790
-  },
-  {
-    "url": "https://www.cbsnews.com/news/tiger-woods-involved-rollover-crash-jupiter-island-florida/",
-    "titleNorm": "tiger woods charged with dui after crash in",
-    "type": "card",
-    "timestamp": 1774696786283
-  },
-  {
     "url": "https://www.foxnews.com/us/doctors-bloodied-wife-seen-bodycam-after-screaming-help-from-husbands-alleged-attack",
     "titleNorm": "doctors bloodied wife seen in bodycam after screaming",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "henry lee forensic scientist who testified at oj",
     "type": "reel",
     "timestamp": 1774738627955
+  },
+  {
+    "url": "https://www.foxnews.com/us/hawaii-doctors-ex-boss-says-anesthesiologists-have-means-kill-wife-testifies-about-syringe-attack",
+    "titleNorm": "hawaii doctors exboss says anesthesiologists have means to",
+    "type": "card",
+    "timestamp": 1774740130438
   }
 ]
