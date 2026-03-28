@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
-    "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
-    "type": "card",
-    "timestamp": 1774653776758
-  },
-  {
     "url": "https://www.foxnews.com/us/helicopter-crashes-ocean-off-hawaii-coast-leaving-multiple-dead-injured",
     "titleNorm": "helicopter crashes into ocean off hawaii coast leaving",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "tiger woods charged with dui after crash in",
     "type": "card",
     "timestamp": 1774696786283
+  },
+  {
+    "url": "https://www.foxnews.com/us/doctors-bloodied-wife-seen-bodycam-after-screaming-help-from-husbands-alleged-attack",
+    "titleNorm": "doctors bloodied wife seen in bodycam after screaming",
+    "type": "card",
+    "timestamp": 1774701102133
   }
 ]
