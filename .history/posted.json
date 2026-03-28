@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1774611561307
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
-    "titleNorm": "a year after trumps doge cuts workers whose",
-    "type": "card",
-    "timestamp": 1774615197655
-  },
-  {
     "url": "https://www.foxnews.com/us/accused-gilgo-beach-serial-killer-rex-heuermann-expected-plead-guilty-murder-case-reports",
     "titleNorm": "accused gilgo beach serial killer rex heuermann expected",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
     "type": "card",
     "timestamp": 1774653776758
+  },
+  {
+    "url": "https://www.foxnews.com/us/helicopter-crashes-ocean-off-hawaii-coast-leaving-multiple-dead-injured",
+    "titleNorm": "helicopter crashes into ocean off hawaii coast leaving",
+    "type": "card",
+    "timestamp": 1774660378520
   }
 ]
