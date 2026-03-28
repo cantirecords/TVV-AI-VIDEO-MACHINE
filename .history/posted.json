@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fights-arrests-police-resistance-follow-cincinnati-opening-day-celebrations-city",
-    "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
-    "type": "card",
-    "timestamp": 1774650123818
-  },
-  {
     "url": "https://www.nbcnews.com/data-graphics/iran-war-drones-missile-strikes-military-attack-capabilities-rcna263382",
     "titleNorm": "tracking irans military attacks on gulf states",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1774690090902
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1774693364534
   }
 ]
