@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/accused-gilgo-beach-serial-killer-rex-heuermann-expected-plead-guilty-murder-case-reports",
-    "titleNorm": "accused gilgo beach serial killer rex heuermann expected",
-    "type": "reel",
-    "timestamp": 1774619393310
-  },
-  {
-    "url": "https://www.today.com/video/trump-extends-deadline-again-for-iran-to-open-strait-of-hormuz-260181573685",
-    "titleNorm": "trump delays strikes on irans energy sector for",
-    "type": "card",
-    "timestamp": 1774620395939
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/quadruple-amputee-cornhole-player-waives-extradition-hearing-fatal-131440745",
-    "titleNorm": "quadruple amputee cornhole player waives extradition hearing in",
-    "type": "reel",
-    "timestamp": 1774624601400
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -100,5 +82,11 @@
     "titleNorm": "helicopter crashes into ocean off hawaii coast leaving",
     "type": "card",
     "timestamp": 1774660378520
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/5-injured-helicopter-crash-hawaiian-island-kauai-131459569",
+    "titleNorm": "5 injured in helicopter crash on the hawaiian",
+    "type": "reel",
+    "timestamp": 1774668188437
   }
 ]
