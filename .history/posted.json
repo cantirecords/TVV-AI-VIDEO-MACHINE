@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/data-graphics/iran-war-drones-missile-strikes-military-attack-capabilities-rcna263382",
-    "titleNorm": "tracking irans military attacks on gulf states",
-    "type": "reel",
-    "timestamp": 1774652508548
-  },
-  {
     "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
     "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "georgias fulton county heads to court to seek",
     "type": "reel",
     "timestamp": 1774695531790
+  },
+  {
+    "url": "https://www.cbsnews.com/news/tiger-woods-involved-rollover-crash-jupiter-island-florida/",
+    "titleNorm": "tiger woods charged with dui after crash in",
+    "type": "card",
+    "timestamp": 1774696786283
   }
 ]
