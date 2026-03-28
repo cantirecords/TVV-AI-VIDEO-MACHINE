@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/nicols-maduro-heads-back-us-court-fighting-charges-131421676",
-    "titleNorm": "nicols maduro heads back to a us court",
-    "type": "card",
-    "timestamp": 1774629766569
-  },
-  {
-    "url": "https://www.foxnews.com/us/sheridan-gorman-university-newspaper-touts-ice-tracker-after-freshman-allegedly-murdered-illegal-alien",
-    "titleNorm": "sheridan gormans university newspaper touts ice tracker after",
-    "type": "reel",
-    "timestamp": 1774631855140
-  },
-  {
     "url": "https://www.cbsnews.com/news/jill-biden-secret-service-agent-shooting-philadelphia-international-airport/",
     "titleNorm": "secret service agent assigned to jill biden accidentally",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "florida court halts execution of police officer convicted",
     "type": "card",
     "timestamp": 1774671002406
+  },
+  {
+    "url": "https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
+    "titleNorm": "at least 2 students killed several injured in",
+    "type": "reel",
+    "timestamp": 1774676503288
   }
 ]
