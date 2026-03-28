@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/ghalibaf-iran-speaker-trump-talks-irgc-vahidi-mojtaba-khamenei-rcna265072",
-    "titleNorm": "ambitious authoritarian and talking to trump the hardliners",
-    "type": "reel",
-    "timestamp": 1774645452557
-  },
-  {
     "url": "https://www.foxnews.com/us/doctors-bloodied-wife-seen-bodycam-after-screaming-help-from-husbands-alleged-attack",
     "titleNorm": "doctors bloodied wife seen in bodycam after screaming",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "pima county deputy accused of kidnapping woman in",
     "type": "card",
     "timestamp": 1774686519393
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-killing-chicago-college-student-face-court-after-tuberculosis-delay",
+    "titleNorm": "prosecutors detail moments before illegal immigrant allegedly killed",
+    "type": "reel",
+    "timestamp": 1774688708436
   }
 ]
