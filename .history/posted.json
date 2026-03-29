@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
-    "titleNorm": "a year after trumps doge cuts workers whose",
-    "type": "card",
-    "timestamp": 1774776449049
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-backed-houthis-enter-monthlong-war-threaten-global-131516188",
     "titleNorm": "iranbacked houthis enter the monthlong war and could",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1774819390807
+  },
+  {
+    "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
+    "titleNorm": "pima county deputy accused of kidnapping woman in",
+    "type": "card",
+    "timestamp": 1774822794582
   }
 ]
