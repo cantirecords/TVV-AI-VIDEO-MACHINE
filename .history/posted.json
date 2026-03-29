@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/henry-lee-forensic-scientist-oj-simpson-trial-dies/",
-    "titleNorm": "henry lee forensic scientist who testified at oj",
-    "type": "reel",
-    "timestamp": 1774738627955
-  },
-  {
     "url": "https://www.foxnews.com/us/hawaii-doctors-ex-boss-says-anesthesiologists-have-means-kill-wife-testifies-about-syringe-attack",
     "titleNorm": "hawaii doctors exboss says anesthesiologists have means to",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "iranbacked houthis enter the monthlong war and could",
     "type": "card",
     "timestamp": 1774779760092
+  },
+  {
+    "url": "https://www.cbsnews.com/news/no-kings-rallies-protest-trump-millions/",
+    "titleNorm": "millions turn out for no kings rallies held",
+    "type": "reel",
+    "timestamp": 1774782082238
   }
 ]
