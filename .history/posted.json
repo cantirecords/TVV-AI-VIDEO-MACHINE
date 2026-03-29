@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612",
-    "titleNorm": "russia took satellite images of us air base",
-    "type": "card",
-    "timestamp": 1774747257017
-  },
-  {
     "url": "https://www.foxnews.com/us/father-slain-20-year-old-killed-illegal-immigrant-issues-stark-warning-after-sheridan-gorman-killing",
     "titleNorm": "father of slain 20yearold killed by illegal immigrant",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "one month into the war iranians wrestle with",
     "type": "card",
     "timestamp": 1774787490189
+  },
+  {
+    "url": "https://www.foxnews.com/us/sheridan-gorman-university-newspaper-touts-ice-tracker-after-freshman-allegedly-murdered-illegal-alien",
+    "titleNorm": "sheridan gormans university newspaper touts ice tracker after",
+    "type": "reel",
+    "timestamp": 1774791343464
   }
 ]
