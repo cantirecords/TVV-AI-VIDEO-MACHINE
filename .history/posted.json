@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-confesses-2-cold-blooded-murders-months-apart-report",
-    "titleNorm": "illegal immigrant confesses to 2 coldblooded murders months",
-    "type": "reel",
-    "timestamp": 1774769698651
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-fans-cpac-iran-rcna265370",
-    "titleNorm": "trump fans at cpac hope for the best",
-    "type": "card",
-    "timestamp": 1774770403654
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/woman-son-died-drugs-bought-social-media-celebrates-131458972",
     "titleNorm": "woman whose son died from drugs bought on",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "left in limbo afghans who served with the",
     "type": "card",
     "timestamp": 1774812329718
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/florida-supreme-court-halts-execution-police-officer-convicted-131454603",
+    "titleNorm": "florida court halts execution of police officer convicted",
+    "type": "card",
+    "timestamp": 1774815626596
   }
 ]
