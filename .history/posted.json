@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hawaii-doctors-ex-boss-says-anesthesiologists-have-means-kill-wife-testifies-about-syringe-attack",
-    "titleNorm": "hawaii doctors exboss says anesthesiologists have means to",
-    "type": "card",
-    "timestamp": 1774740130438
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612",
     "titleNorm": "russia took satellite images of us air base",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1774783270518
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/month-war-iranians-wrestle-lost-livelihoods-bombs-worries-131497187",
+    "titleNorm": "one month into the war iranians wrestle with",
+    "type": "card",
+    "timestamp": 1774787490189
   }
 ]
