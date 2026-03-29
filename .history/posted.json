@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lovers-lane-murders-suspect-nabbed-decades-after-couple-found-dead-car",
-    "titleNorm": "lovers lane murders suspect nabbed decades after couple",
-    "type": "reel",
-    "timestamp": 1774731424747
-  },
-  {
     "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
     "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "woman whose son died from drugs bought on",
     "type": "card",
     "timestamp": 1774773006276
+  },
+  {
+    "url": "https://www.foxnews.com/us/lovers-lane-murders-suspect-nabbed-decades-after-couple-found-dead-car",
+    "titleNorm": "lovers lane murders suspect nabbed decades after couple",
+    "type": "reel",
+    "timestamp": 1774775149112
   }
 ]
