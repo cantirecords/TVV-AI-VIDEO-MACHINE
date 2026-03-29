@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lovers-lane-murders-suspect-nabbed-decades-after-couple-found-dead-car",
-    "titleNorm": "lovers lane murders suspect nabbed decades after couple",
-    "type": "reel",
-    "timestamp": 1774775149112
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
     "titleNorm": "a year after trumps doge cuts workers whose",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
     "type": "reel",
     "timestamp": 1774817933152
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1774819390807
   }
 ]
