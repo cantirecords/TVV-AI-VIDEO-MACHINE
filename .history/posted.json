@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fights-arrests-police-resistance-follow-cincinnati-opening-day-celebrations-city",
-    "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
-    "type": "reel",
-    "timestamp": 1774717311580
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
-    "titleNorm": "a year after trumps doge cuts workers whose",
-    "type": "card",
-    "timestamp": 1774718616561
-  },
-  {
     "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "tiger woods released on bail after dui arrest",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "us appeals court sides with trump administration on",
     "type": "card",
     "timestamp": 1774758553523
+  },
+  {
+    "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
+    "titleNorm": "pima county deputy accused of kidnapping woman in",
+    "type": "reel",
+    "timestamp": 1774763956760
   }
 ]
