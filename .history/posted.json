@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-arrests-5-illegal-immigrants-convicted-violent-crimes-including-manslaughter-child-assault",
-    "titleNorm": "dhs arrests 5 illegal immigrants convicted of violent",
-    "type": "card",
-    "timestamp": 1774732871400
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/iran-backed-houthis-fire-missile-israel-yemen-risking-escalation-rcna265581",
     "titleNorm": "iranbacked houthis fire missile at israel from yemen",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "lovers lane murders suspect nabbed decades after couple",
     "type": "reel",
     "timestamp": 1774775149112
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
+    "titleNorm": "a year after trumps doge cuts workers whose",
+    "type": "card",
+    "timestamp": 1774776449049
   }
 ]
