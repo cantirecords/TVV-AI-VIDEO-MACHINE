@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/father-slain-20-year-old-killed-illegal-immigrant-issues-stark-warning-after-sheridan-gorman-killing",
-    "titleNorm": "father of slain 20yearold killed by illegal immigrant",
-    "type": "reel",
-    "timestamp": 1774755901485
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-appeals-court-sides-trump-administration-detaining-immigrants-131422242",
     "titleNorm": "us appeals court sides with trump administration on",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "some familiar names to the supreme court in",
     "type": "card",
     "timestamp": 1774797723090
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/5-killed-after-train-van-collide-train-crossing-131494581",
+    "titleNorm": "5 killed after train and van collide in",
+    "type": "card",
+    "timestamp": 1774801421837
   }
 ]
