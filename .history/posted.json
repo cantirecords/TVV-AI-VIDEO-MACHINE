@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/no-kings-rallies-protest-trump-millions/",
-    "titleNorm": "millions turn out for no kings rallies held",
-    "type": "reel",
-    "timestamp": 1774782082238
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1774783270518
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/month-war-iranians-wrestle-lost-livelihoods-bombs-worries-131497187",
     "titleNorm": "one month into the war iranians wrestle with",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "a year after trumps doge cuts workers whose",
     "type": "reel",
     "timestamp": 1774825154968
+  },
+  {
+    "url": "https://www.foxnews.com/us/daughter-air-canada-flight-attendant-ejected-crash-provides-update-details-mothers-injuries",
+    "titleNorm": "daughter of air canada flight attendant ejected from",
+    "type": "card",
+    "timestamp": 1774826585997
   }
 ]
