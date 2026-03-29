@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/woman-son-died-drugs-bought-social-media-celebrates-131458972",
-    "titleNorm": "woman whose son died from drugs bought on",
-    "type": "card",
-    "timestamp": 1774773006276
-  },
-  {
     "url": "https://www.foxnews.com/us/lovers-lane-murders-suspect-nabbed-decades-after-couple-found-dead-car",
     "titleNorm": "lovers lane murders suspect nabbed decades after couple",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "florida court halts execution of police officer convicted",
     "type": "card",
     "timestamp": 1774815626596
+  },
+  {
+    "url": "https://www.foxnews.com/us/fights-arrests-police-resistance-follow-cincinnati-opening-day-celebrations-city",
+    "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
+    "type": "reel",
+    "timestamp": 1774817933152
   }
 ]
