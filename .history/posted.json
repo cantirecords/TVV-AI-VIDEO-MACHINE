@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
-    "titleNorm": "la united school district scandal leads to charges",
-    "type": "reel",
-    "timestamp": 1774851406879
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1774852029866
-  },
-  {
     "url": "https://www.foxnews.com/us/facial-recognition-helped-crack-alleged-student-murder-illegal-migrant-new-bill-could-ban-it-ret-cop",
     "titleNorm": "facial recognition helped crack alleged student murder by",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "father of slain 20yearold killed by illegal immigrant",
     "type": "card",
     "timestamp": 1774893037597
+  },
+  {
+    "url": "https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
+    "titleNorm": "at least 2 students killed several injured in",
+    "type": "card",
+    "timestamp": 1774896346384
   }
 ]
