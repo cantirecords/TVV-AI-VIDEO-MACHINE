@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
-    "titleNorm": "pima county deputy accused of kidnapping woman in",
-    "type": "card",
-    "timestamp": 1774822794582
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
-    "titleNorm": "a year after trumps doge cuts workers whose",
-    "type": "reel",
-    "timestamp": 1774825154968
-  },
-  {
-    "url": "https://www.foxnews.com/us/daughter-air-canada-flight-attendant-ejected-crash-provides-update-details-mothers-injuries",
-    "titleNorm": "daughter of air canada flight attendant ejected from",
-    "type": "card",
-    "timestamp": 1774826585997
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/older-younger-conservatives-cpac-split-trumps-war-iran-131460115",
     "titleNorm": "older and younger conservatives at cpac are split",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "woman helping cancerstricken friend executed in alleged carjacking",
     "type": "card",
     "timestamp": 1774865207579
+  },
+  {
+    "url": "https://www.foxnews.com/us/90-day-fiance-alums-boyfriend-beats-boca-bash-attempted-murder-case-he-rips-ridiculous",
+    "titleNorm": "90 day fiance alums boyfriend beats boca bash",
+    "type": "reel",
+    "timestamp": 1774870456700
   }
 ]
