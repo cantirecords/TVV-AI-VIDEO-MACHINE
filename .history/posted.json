@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/florida-supreme-court-halts-execution-police-officer-convicted-131454603",
-    "titleNorm": "florida court halts execution of police officer convicted",
-    "type": "card",
-    "timestamp": 1774815626596
-  },
-  {
-    "url": "https://www.foxnews.com/us/fights-arrests-police-resistance-follow-cincinnati-opening-day-celebrations-city",
-    "titleNorm": "fights arrests and police resistance follow cincinnatis opening",
-    "type": "reel",
-    "timestamp": 1774817933152
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1774819390807
-  },
-  {
     "url": "https://www.foxnews.com/us/pima-county-deputy-accused-kidnapping-woman-custody-fired-from-department-investigating-guthrie-case",
     "titleNorm": "pima county deputy accused of kidnapping woman in",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "worries about global economic pain deepen as the",
     "type": "card",
     "timestamp": 1774858593597
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1774864548241
   }
 ]
