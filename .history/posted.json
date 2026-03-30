@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/executed-killers-chilling-claim-about-what-she-felt-during-pickax-murders-still-haunts-retired-fbi-agent",
-    "titleNorm": "executed killers chilling claim about what she felt",
-    "type": "card",
-    "timestamp": 1774808846951
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-lawmakers-visit-taiwan-trumps-summit-chinas-xi-131498747",
-    "titleNorm": "us lawmakers say theyll visit taiwan before trumps",
-    "type": "reel",
-    "timestamp": 1774811471959
-  },
-  {
-    "url": "https://www.nbcnews.com/world/afghanistan/left-limbo-afghans-served-us-forces-fear-trump-send-back-taliban-rcna246728",
-    "titleNorm": "left in limbo afghans who served with the",
-    "type": "card",
-    "timestamp": 1774812329718
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/florida-supreme-court-halts-execution-police-officer-convicted-131454603",
     "titleNorm": "florida court halts execution of police officer convicted",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1774852029866
+  },
+  {
+    "url": "https://www.foxnews.com/us/facial-recognition-helped-crack-alleged-student-murder-illegal-migrant-new-bill-could-ban-it-ret-cop",
+    "titleNorm": "facial recognition helped crack alleged student murder by",
+    "type": "reel",
+    "timestamp": 1774858196144
   }
 ]
