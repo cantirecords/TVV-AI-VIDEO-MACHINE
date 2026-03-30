@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/familiar-names-supreme-court-death-row-case-racial-131518003",
-    "titleNorm": "some familiar names to the supreme court in",
-    "type": "reel",
-    "timestamp": 1774842513970
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-backed-houthis-enter-monthlong-war-threaten-global-131516188",
     "titleNorm": "pakistan says it will host usiran talks while",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "one month into iran war some trump objectives",
     "type": "card",
     "timestamp": 1774880523410
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
+    "titleNorm": "oil prices soar as trump threatens to invade",
+    "type": "reel",
+    "timestamp": 1774885906804
   }
 ]
