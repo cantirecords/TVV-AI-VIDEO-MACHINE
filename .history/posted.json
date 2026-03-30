@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1774803825376
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1774804948651
-  },
-  {
     "url": "https://www.foxnews.com/us/executed-killers-chilling-claim-about-what-she-felt-during-pickax-murders-still-haunts-retired-fbi-agent",
     "titleNorm": "executed killers chilling claim about what she felt",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "pakistan says it will host usiran talks while",
     "type": "card",
     "timestamp": 1774845417163
+  },
+  {
+    "url": "https://www.foxnews.com/us/la-united-school-district-scandal-leads-charges-22m-scheme-allegedly-drained-funds-meant-students",
+    "titleNorm": "la united school district scandal leads to charges",
+    "type": "reel",
+    "timestamp": 1774851406879
   }
 ]
