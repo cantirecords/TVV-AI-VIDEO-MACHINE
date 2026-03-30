@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/facial-recognition-helped-crack-alleged-student-murder-illegal-migrant-new-bill-could-ban-it-ret-cop",
-    "titleNorm": "facial recognition helped crack alleged student murder by",
-    "type": "reel",
-    "timestamp": 1774858196144
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/worries-global-economic-pain-deepen-war-iran-drags-131516094",
-    "titleNorm": "worries about global economic pain deepen as the",
-    "type": "card",
-    "timestamp": 1774858593597
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "trump says he has no problem with russian",
     "type": "card",
     "timestamp": 1774900097330
+  },
+  {
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/barbie-dream-fest-event-attendee-backlash-mattel-mischief-management-rcna265830",
+    "titleNorm": "barbies dream fest more like a nightmare warehouse",
+    "type": "card",
+    "timestamp": 1774902902709
   }
 ]
