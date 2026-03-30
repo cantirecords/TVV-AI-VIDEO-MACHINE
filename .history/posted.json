@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/older-younger-conservatives-cpac-split-trumps-war-iran-131460115",
-    "titleNorm": "older and younger conservatives at cpac are split",
-    "type": "card",
-    "timestamp": 1774833717159
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/familiar-names-supreme-court-death-row-case-racial-131518003",
     "titleNorm": "some familiar names to the supreme court in",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "trump weighs sending us forces into iran for",
     "type": "card",
     "timestamp": 1774875255173
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-dismisses-charges-louisville-officers-crafted-breonna-131483064",
+    "titleNorm": "judge dismisses charges against exofficers who crafted breonna",
+    "type": "reel",
+    "timestamp": 1774879676695
   }
 ]
