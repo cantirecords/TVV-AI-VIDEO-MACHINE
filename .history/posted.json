@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1774931262276
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/jan-6-rioter-pardoned-by-trump-sentenced-child-pornography-collection-rcna265963",
     "titleNorm": "jan 6 rioter pardoned by trump gets prison",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "the birthright citizenship case at the supreme court",
     "type": "card",
     "timestamp": 1774972764900
+  },
+  {
+    "url": "https://www.foxnews.com/us/high-school-athlete-paralyzed-after-trying-save-pal-during-late-night-brawl-ended-gunfire-report",
+    "titleNorm": "high school athlete paralyzed after trying to save",
+    "type": "card",
+    "timestamp": 1774976301100
   }
 ]
