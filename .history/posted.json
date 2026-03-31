@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/familiar-names-supreme-court-death-row-case-racial-131518003",
-    "titleNorm": "some familiar names to the supreme court in",
-    "type": "reel",
-    "timestamp": 1774911839465
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1774913226762
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/hacked-hospitals-hidden-spyware-iran-conflict-shows-digital-131515820",
     "titleNorm": "hacked hospitals hidden spyware iran conflict shows how",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "video shows police drone track down madman after",
     "type": "card",
     "timestamp": 1774953869092
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/student-shoots-teacher-texas-high-school-fatally-shooting-131549444",
+    "titleNorm": "student shoots a teacher at texas high school",
+    "type": "reel",
+    "timestamp": 1774956617871
   }
 ]
