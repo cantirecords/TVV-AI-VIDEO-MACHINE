@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/barbie-dream-fest-event-attendee-backlash-mattel-mischief-management-rcna265830",
-    "titleNorm": "barbies dream fest more like a nightmare warehouse",
-    "type": "card",
-    "timestamp": 1774902902709
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "no kings protests draw large crowds to rally",
-    "type": "reel",
-    "timestamp": 1774905055421
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/woman-son-died-drugs-bought-social-media-celebrates-131458972",
-    "titleNorm": "woman whose son died from drugs bought on",
-    "type": "card",
-    "timestamp": 1774906411925
-  },
-  {
     "url": "https://www.foxnews.com/us/iran-vows-enemies-escape-without-lesson-amid-warning-major-world-war-more-top-headlines",
     "titleNorm": "iran vows enemies wont escape without a lesson",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "vermont defends its landmark climate superfund law against",
     "type": "card",
     "timestamp": 1774944136945
+  },
+  {
+    "url": "https://www.foxnews.com/us/michigan-synagogue-attacker-inspired-hezbollah-sought-kill-many-jewish-people-possible-feds",
+    "titleNorm": "michigan synagogue attacker was inspired by hezbollah sought",
+    "type": "reel",
+    "timestamp": 1774950135493
   }
 ]
