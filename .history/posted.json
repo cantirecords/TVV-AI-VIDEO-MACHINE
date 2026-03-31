@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/attack-michigan-temple-was-hezbollah-inspired-fbi-says-rcna265916",
-    "titleNorm": "attack on michigan temple was hezbollahinspired fbi says",
-    "type": "reel",
-    "timestamp": 1774928389959
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "hacked hospitals hidden spyware iran conflict shows how",
     "type": "card",
     "timestamp": 1774967109244
+  },
+  {
+    "url": "https://www.foxnews.com/us/viral-takeover-chaos-erupts-teen-brawl-breaks-out-multiple-arrests-after-mall-melee-caught-video",
+    "titleNorm": "viral takeover chaos erupts as teen brawl breaks",
+    "type": "reel",
+    "timestamp": 1774972312598
   }
 ]
