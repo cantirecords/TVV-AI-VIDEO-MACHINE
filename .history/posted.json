@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1774943539765
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/vermont-defends-landmark-climate-superfund-law-trump-administration-131551208",
-    "titleNorm": "vermont defends its landmark climate superfund law against",
-    "type": "card",
-    "timestamp": 1774944136945
-  },
-  {
     "url": "https://www.foxnews.com/us/michigan-synagogue-attacker-inspired-hezbollah-sought-kill-many-jewish-people-possible-feds",
     "titleNorm": "michigan synagogue attacker was inspired by hezbollah sought",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "judge temporarily blocks construction of trump039s white house",
     "type": "card",
     "timestamp": 1774986456651
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1774989214635
   }
 ]
