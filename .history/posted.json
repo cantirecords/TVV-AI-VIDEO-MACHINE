@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/least-2-students-killed-several-injured-school-bus-crash-tennessee-parents-worst-nightmare",
-    "titleNorm": "at least 2 students killed several injured in",
-    "type": "card",
-    "timestamp": 1774896346384
-  },
-  {
-    "url": "https://www.cbsnews.com/news/michigan-temple-israel-attack-terrorism-inspired-by-hezbollah-federal-officials-say/",
-    "titleNorm": "michigan synagogue attack was act of terrorism inspired",
-    "type": "reel",
-    "timestamp": 1774899312860
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-problem-russian-oil-tanker-bringing-relief-cuba-131530737",
-    "titleNorm": "trump says he has no problem with russian",
-    "type": "card",
-    "timestamp": 1774900097330
-  },
-  {
     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/barbie-dream-fest-event-attendee-backlash-mattel-mischief-management-rcna265830",
     "titleNorm": "barbies dream fest more like a nightmare warehouse",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "trump shares renderings of his presidential library a",
     "type": "card",
     "timestamp": 1774937477665
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1774943539765
   }
 ]
