@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/video-shows-police-drone-track-down-madman-after-alleged-rampage-stabbing-shooting-crash-store",
-    "titleNorm": "video shows police drone track down madman after",
-    "type": "card",
-    "timestamp": 1774953869092
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/student-shoots-teacher-texas-high-school-fatally-shooting-131549444",
     "titleNorm": "student shoots a teacher at texas high school",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "as americans bear costs of iran war and",
     "type": "card",
     "timestamp": 1774995917864
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-crashed-pickup-michigan-synagogue-inspired-iran-backed-131553667",
+    "titleNorm": "man who crashed pickup into michigan synagogue was",
+    "type": "reel",
+    "timestamp": 1774997948692
   }
 ]
