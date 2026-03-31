@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
-    "titleNorm": "oil prices soar as trump threatens to invade",
-    "type": "reel",
-    "timestamp": 1774885906804
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/year-after-trumps-doge-cuts-workers-lives-upended-131464633",
-    "titleNorm": "a year after trumps doge cuts workers whose",
-    "type": "card",
-    "timestamp": 1774886433129
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-arrests-latin-kings-member-after-nyc-sanctuary-release-despite-assault-charge-first-responder",
     "titleNorm": "ice arrests latin kings member after nyc sanctuary",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "attack on michigan temple was hezbollahinspired fbi says",
     "type": "reel",
     "timestamp": 1774928389959
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1774931262276
   }
 ]
