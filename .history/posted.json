@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/high-school-athlete-paralyzed-after-trying-save-pal-during-late-night-brawl-ended-gunfire-report",
-    "titleNorm": "high school athlete paralyzed after trying to save",
-    "type": "card",
-    "timestamp": 1774976301100
-  },
-  {
-    "url": "https://www.nbcnews.com/world/russia/putin-telegram-internet-blackouts-russia-moscow-protests-rcna265067",
-    "titleNorm": "as putin takes russia off the grid there",
-    "type": "reel",
-    "timestamp": 1774978365514
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/justice-department/ex-fbi-agents-trump-cases-cite-todd-blanches-remarks-suit-illegal-firi-rcna266039",
-    "titleNorm": "exfbi agents on trump cases cite todd blanches",
-    "type": "card",
-    "timestamp": 1774979363646
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-student-15-dies-after-shooting-teacher-high-school-authorities-say",
     "titleNorm": "texas student 15 shoots high school teacher before",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "florida supreme court keeps excops execution on hold",
     "type": "card",
     "timestamp": 1775018492535
+  },
+  {
+    "url": "https://www.foxnews.com/us/federal-judge-revokes-us-citizenship-chinese-couple-convicted-stealing-medical-trade-secrets-china",
+    "titleNorm": "federal judge revokes us citizenship of chinese couple",
+    "type": "reel",
+    "timestamp": 1775023976304
   }
 ]
