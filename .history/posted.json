@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-student-15-dies-after-shooting-teacher-high-school-authorities-say",
-    "titleNorm": "texas student 15 shoots high school teacher before",
-    "type": "card",
-    "timestamp": 1774982804973
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/seizing-kharg-island-risk-us-troops-lives-end-131563368",
-    "titleNorm": "seizing kharg island would risk us troops lives",
-    "type": "reel",
-    "timestamp": 1774985729284
-  },
-  {
-    "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-construction-of-trumps-white-house-ballroom/",
-    "titleNorm": "judge temporarily blocks construction of trump039s white house",
-    "type": "card",
-    "timestamp": 1774986456651
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "supreme court seems likely to rule for a",
     "type": "card",
     "timestamp": 1775024509964
+  },
+  {
+    "url": "https://www.foxnews.com/us/air-force-f-35-crashes-near-las-vegas-pilot-survives-minor-injuries",
+    "titleNorm": "air force f35 crashes near las vegas pilot",
+    "type": "reel",
+    "timestamp": 1775030486994
   }
 ]
