@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/retired-nypd-sergeant-arrested-corruption-probe-linked-city-131578376",
-    "titleNorm": "retired nypd sergeant arrested in corruption probe linked",
-    "type": "reel",
-    "timestamp": 1775036756732
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-vote-by-mail-executive-order/",
-    "titleNorm": "trump signs order on mailin ballots and federally",
-    "type": "card",
-    "timestamp": 1775037554668
-  },
-  {
     "url": "https://www.cbsnews.com/news/tiger-woods-stepping-away-treatment-pleads-not-guilty-to-dui/",
     "titleNorm": "tiger woods says he039s stepping away to seek",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "ted bundy unmasked in decadesold teen murder as",
     "type": "card",
     "timestamp": 1775079270072
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/trumps-iran-threats-alarm-war-crimes-experts-rcna265978",
+    "titleNorm": "trumps iran threats alarm war crimes experts",
+    "type": "card",
+    "timestamp": 1775082487035
   }
 ]
