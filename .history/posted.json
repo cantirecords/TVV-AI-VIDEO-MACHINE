@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/birthright-citizenship-case-supreme-court-hits-close-home-131534572",
-    "titleNorm": "the birthright citizenship case at the supreme court",
-    "type": "card",
-    "timestamp": 1774972764900
-  },
-  {
     "url": "https://www.foxnews.com/us/high-school-athlete-paralyzed-after-trying-save-pal-during-late-night-brawl-ended-gunfire-report",
     "titleNorm": "high school athlete paralyzed after trying to save",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "judge blocks trumps termination of parole for migrants",
     "type": "reel",
     "timestamp": 1775015570581
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer",
+    "titleNorm": "florida supreme court keeps excops execution on hold",
+    "type": "card",
+    "timestamp": 1775018492535
   }
 ]
