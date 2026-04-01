@@ -64,5 +64,11 @@
     "titleNorm": "retired nypd sergeant arrested in corruption probe linked",
     "type": "reel",
     "timestamp": 1775036756732
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-vote-by-mail-executive-order/",
+    "titleNorm": "trump signs order on mailin ballots and federally",
+    "type": "card",
+    "timestamp": 1775037554668
   }
 ]
