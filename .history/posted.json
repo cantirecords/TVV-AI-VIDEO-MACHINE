@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/tiger-woods-stepping-away-treatment-pleads-not-guilty-to-dui/",
-    "titleNorm": "tiger woods says he039s stepping away to seek",
-    "type": "card",
-    "timestamp": 1775040875254
-  },
-  {
     "url": "https://www.foxnews.com/us/canadian-murder-suspect-most-wanted-list-arrested-mississippi-us-illegally-dhs-says",
     "titleNorm": "canadian murder suspect on mostwanted list arrested in",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trumps iran threats alarm war crimes experts",
     "type": "card",
     "timestamp": 1775082487035
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-prior-arrest-caught-trying-shove-stranger-train-tracks-twice-terrifying-video",
+    "titleNorm": "man with prior arrest caught allegedly trying to",
+    "type": "reel",
+    "timestamp": 1775084913711
   }
 ]
