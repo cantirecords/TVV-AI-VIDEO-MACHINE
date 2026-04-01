@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/americans-sacrifice-iran-war-dhs-shutdown-washington-politicians-leave-rcna265832",
-    "titleNorm": "as americans bear costs of iran war and",
-    "type": "card",
-    "timestamp": 1774995917864
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-crashed-pickup-michigan-synagogue-inspired-iran-backed-131553667",
     "titleNorm": "man who crashed pickup into michigan synagogue was",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "trump signs order on mailin ballots and federally",
     "type": "card",
     "timestamp": 1775037554668
+  },
+  {
+    "url": "https://www.cbsnews.com/news/tiger-woods-stepping-away-treatment-pleads-not-guilty-to-dui/",
+    "titleNorm": "tiger woods says he039s stepping away to seek",
+    "type": "card",
+    "timestamp": 1775040875254
   }
 ]
