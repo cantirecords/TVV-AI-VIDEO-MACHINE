@@ -94,5 +94,11 @@
     "titleNorm": "president trump to address nation with important update",
     "type": "reel",
     "timestamp": 1775072397481
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-woman-returns-home-after-trump-administration-deported-131602492",
+    "titleNorm": "california woman returns home after the trump administration",
+    "type": "card",
+    "timestamp": 1775073116448
   }
 ]
