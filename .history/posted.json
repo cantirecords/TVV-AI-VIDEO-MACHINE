@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-judge-revokes-us-citizenship-chinese-couple-convicted-stealing-medical-trade-secrets-china",
-    "titleNorm": "federal judge revokes us citizenship of chinese couple",
-    "type": "reel",
-    "timestamp": 1775023976304
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rule-black-death-row-inmate-mississippi-131589231",
-    "titleNorm": "supreme court seems likely to rule for a",
-    "type": "card",
-    "timestamp": 1775024509964
-  },
-  {
     "url": "https://www.foxnews.com/us/air-force-f-35-crashes-near-las-vegas-pilot-survives-minor-injuries",
     "titleNorm": "air force f35 crashes near las vegas pilot",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "plane lost engine power before crashing into phoenixarea",
     "type": "card",
     "timestamp": 1775065523230
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/supreme-court/birthright-citizenship-supreme-court-arguments-trump-executive-order-rcna266011",
+    "titleNorm": "supreme court appears skeptical of trumps attempt to",
+    "type": "card",
+    "timestamp": 1775069117825
   }
 ]
