@@ -64,5 +64,11 @@
     "titleNorm": "canadian murder suspect on mostwanted list arrested in",
     "type": "reel",
     "timestamp": 1775043198717
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1775043860198
   }
 ]
