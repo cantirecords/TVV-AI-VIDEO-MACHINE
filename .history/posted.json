@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1774989214635
-  },
-  {
-    "url": "https://www.foxnews.com/us/woman-dies-after-falling-from-60-foot-cliff-along-popular-smoky-mountains-trail",
-    "titleNorm": "woman dies after falling from 60foot cliff along",
-    "type": "reel",
-    "timestamp": 1774991154648
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/americans-sacrifice-iran-war-dhs-shutdown-washington-politicians-leave-rcna265832",
     "titleNorm": "as americans bear costs of iran war and",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "hacked hospitals hidden spyware iran conflict shows how",
     "type": "card",
     "timestamp": 1775030951993
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/retired-nypd-sergeant-arrested-corruption-probe-linked-city-131578376",
+    "titleNorm": "retired nypd sergeant arrested in corruption probe linked",
+    "type": "reel",
+    "timestamp": 1775036756732
   }
 ]
