@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer",
-    "titleNorm": "florida supreme court keeps excops execution on hold",
-    "type": "card",
-    "timestamp": 1775018492535
-  },
-  {
     "url": "https://www.foxnews.com/us/federal-judge-revokes-us-citizenship-chinese-couple-convicted-stealing-medical-trade-secrets-china",
     "titleNorm": "federal judge revokes us citizenship of chinese couple",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1775059381808
+  },
+  {
+    "url": "https://www.foxnews.com/us/repeat-offender-allegedly-stabs-pregnant-mom-random-grocery-store-parking-lot-attack-with-steak-knife",
+    "titleNorm": "repeat offender allegedly stabs pregnant mom in random",
+    "type": "reel",
+    "timestamp": 1775064853644
   }
 ]
