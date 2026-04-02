@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1775077959539
-  },
-  {
-    "url": "https://www.foxnews.com/us/ted-bundy-unmasked-decades-old-teen-murder-cold-case-finally-solved-dna-report",
-    "titleNorm": "ted bundy unmasked in decadesold teen murder as",
-    "type": "card",
-    "timestamp": 1775079270072
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/trumps-iran-threats-alarm-war-crimes-experts-rcna265978",
     "titleNorm": "trumps iran threats alarm war crimes experts",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1775120146767
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "reel",
+    "timestamp": 1775122609525
   }
 ]
