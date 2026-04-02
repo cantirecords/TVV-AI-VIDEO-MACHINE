@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-hears-high-profile-fight-trumps-bid-131602067",
-    "titleNorm": "supreme court hears highprofile fight over trumps bid",
-    "type": "reel",
-    "timestamp": 1775128603025
-  },
-  {
     "url": "https://www.foxnews.com/us/ted-bundy-unmasked-decades-old-teen-murder-cold-case-finally-solved-dna-report",
     "titleNorm": "ted bundy unmasked in decadesold teen murder as",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "trump says hell sign order to pay all",
     "type": "reel",
     "timestamp": 1775170812995
+  },
+  {
+    "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "macron calls trumps remarks on his marriage inelegant",
+    "type": "card",
+    "timestamp": 1775172324139
   }
 ]
