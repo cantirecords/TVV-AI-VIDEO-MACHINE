@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/brief-fire-causes-evacuation-injuries-historic-detroit-college-131626828",
-    "titleNorm": "brief fire causes evacuation but no injuries at",
-    "type": "card",
-    "timestamp": 1775086094337
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-supreme-court-keeps-ex-cops-execution-hold-dna-test-fails-give-clear-answer",
     "titleNorm": "florida supreme court keeps excops execution on hold",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "supreme court hears highprofile fight over trumps bid",
     "type": "reel",
     "timestamp": 1775128603025
+  },
+  {
+    "url": "https://www.foxnews.com/us/ted-bundy-unmasked-decades-old-teen-murder-cold-case-finally-solved-dna-report",
+    "titleNorm": "ted bundy unmasked in decadesold teen murder as",
+    "type": "card",
+    "timestamp": 1775129966369
   }
 ]
