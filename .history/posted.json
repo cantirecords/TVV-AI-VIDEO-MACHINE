@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/california-woman-returns-home-after-trump-administration-deported-131602492",
-    "titleNorm": "california woman returns home after the trump administration",
-    "type": "card",
-    "timestamp": 1775073116448
-  },
-  {
     "url": "https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police",
     "titleNorm": "man charged in particularly heinous killing of dc",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "captain charged in boat crash that killed 3",
     "type": "reel",
     "timestamp": 1775116108502
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/baby-killed-stray-bullet-after-drive-attack-brooklyn-131630794",
+    "titleNorm": "baby killed by a stray bullet after driveby",
+    "type": "card",
+    "timestamp": 1775116810856
   }
 ]
