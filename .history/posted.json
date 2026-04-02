@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1775120146767
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "ice nabs alleged machetewielding ms13 gangster wanted for",
     "type": "card",
     "timestamp": 1775161568076
+  },
+  {
+    "url": "https://www.foxnews.com/us/multiple-community-honored-firefighters-charged-child-sex-abuse-case-targeting-same-juvenile-victim",
+    "titleNorm": "multiple communityhonored firefighters charged in child sex abuse",
+    "type": "reel",
+    "timestamp": 1775163807158
   }
 ]
