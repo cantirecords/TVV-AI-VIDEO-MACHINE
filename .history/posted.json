@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "families cram into greek court for trial into",
-    "type": "card",
-    "timestamp": 1775103577928
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/quadruple-amputee-cornhole-player-acted-defense-shooting-car-131618569",
     "titleNorm": "quadruple amputee cornhole player acted in selfdefense when",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1775145078333
+  },
+  {
+    "url": "https://www.nbcnews.com/health/health-news/bacterial-disease-hib-doctors-warn-rising-vaccination-rates-drop-rcna265851",
+    "titleNorm": "a deadly bacterial disease is making a comeback",
+    "type": "card",
+    "timestamp": 1775148289869
   }
 ]
