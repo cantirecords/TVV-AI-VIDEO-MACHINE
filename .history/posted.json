@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jealous-ex-boyfriend-accused-vicious-acid-attack-that-left-college-student-severely-burned-da",
-    "titleNorm": "jealous exboyfriend accused of vicious acid attack that",
-    "type": "card",
-    "timestamp": 1775179132246
-  },
-  {
     "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
     "titleNorm": "two arrested in nc after police find 13yearold",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "why irans hackers keep overselling their cyberattacks",
     "type": "card",
     "timestamp": 1775219914814
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/",
+    "titleNorm": "iran hits gulf states as trump touts strikes",
+    "type": "reel",
+    "timestamp": 1775223837131
   }
 ]
