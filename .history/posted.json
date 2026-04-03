@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
-    "titleNorm": "two arrested in nc after police find 13yearold",
-    "type": "reel",
-    "timestamp": 1775187278862
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1775190112899
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/colorado-appeals-court-orders-resentencing-former-county-clerk-131653051",
     "titleNorm": "colorado appeals court orders resentencing for former county",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1775230363146
+  },
+  {
+    "url": "https://www.foxnews.com/us/nancy-guthrie-sheriff-dragged-hot-seat-stalled-case-stirs-past-scandals",
+    "titleNorm": "nancy guthrie sheriff to get dragged to hot",
+    "type": "card",
+    "timestamp": 1775233758365
   }
 ]
