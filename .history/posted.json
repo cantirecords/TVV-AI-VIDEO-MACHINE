@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-community-honored-firefighters-charged-child-sex-abuse-case-targeting-same-juvenile-victim",
-    "titleNorm": "multiple communityhonored firefighters charged in child sex abuse",
-    "type": "reel",
-    "timestamp": 1775163807158
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/state-finds-explosion-killed-la-county-deputies-involved-131629461",
     "titleNorm": "explosion that killed la county deputies involved serious",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "maui doctor accused of trying to murder wife",
     "type": "card",
     "timestamp": 1775205764736
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/exclusive-universities-wisconsin-leaders-oust-system-president-refuses-131660468",
+    "titleNorm": "exclusive universities of wisconsin leaders looking to oust",
+    "type": "reel",
+    "timestamp": 1775207900364
   }
 ]
