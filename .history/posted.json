@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-nabs-alleged-machete-wielding-ms-13-gangster-wanted-murder-the-witch",
-    "titleNorm": "ice nabs alleged machetewielding ms13 gangster wanted for",
-    "type": "card",
-    "timestamp": 1775161568076
-  },
-  {
     "url": "https://www.foxnews.com/us/multiple-community-honored-firefighters-charged-child-sex-abuse-case-targeting-same-juvenile-victim",
     "titleNorm": "multiple communityhonored firefighters charged in child sex abuse",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "justice department employee who was prosecuted over jan",
     "type": "card",
     "timestamp": 1775203014951
+  },
+  {
+    "url": "https://www.cbsnews.com/news/maui-doctor-gerhardt-konig-accused-trying-to-murder-wife-takes-stand-claims-self-defense/",
+    "titleNorm": "maui doctor accused of trying to murder wife",
+    "type": "card",
+    "timestamp": 1775205764736
   }
 ]
