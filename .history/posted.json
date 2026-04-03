@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
-    "titleNorm": "us crude tops 110 per barrel and wall",
-    "type": "reel",
-    "timestamp": 1775202271024
-  },
-  {
-    "url": "https://www.cbsnews.com/news/justice-department-employee-prosecuted-jan-6-capitol-riot-resigned/",
-    "titleNorm": "justice department employee who was prosecuted over jan",
-    "type": "card",
-    "timestamp": 1775203014951
-  },
-  {
     "url": "https://www.cbsnews.com/news/maui-doctor-gerhardt-konig-accused-trying-to-murder-wife-takes-stand-claims-self-defense/",
     "titleNorm": "maui doctor accused of trying to murder wife",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "trump to sign executive order to expand ncaa039s",
     "type": "card",
     "timestamp": 1775244777840
+  },
+  {
+    "url": "https://www.today.com/video/why-did-trump-fire-pam-bondi-as-us-attorney-general-260647493890",
+    "titleNorm": "pam bondi responds after trump fires her as",
+    "type": "card",
+    "timestamp": 1775247912374
   }
 ]
