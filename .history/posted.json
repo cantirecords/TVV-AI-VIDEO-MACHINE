@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/plane-lost-engine-power-before-crashing-phoenix-area-homes-ntsb-says",
-    "titleNorm": "plane lost engine power before crashing into phoenixarea",
-    "type": "reel",
-    "timestamp": 1775144174181
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1775145078333
-  },
-  {
     "url": "https://www.nbcnews.com/health/health-news/bacterial-disease-hib-doctors-warn-rising-vaccination-rates-drop-rcna265851",
     "titleNorm": "a deadly bacterial disease is making a comeback",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "two arrested in nc after police find 13yearold",
     "type": "reel",
     "timestamp": 1775187278862
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1775190112899
   }
 ]
