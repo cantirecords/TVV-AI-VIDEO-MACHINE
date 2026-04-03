@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/bacterial-disease-hib-doctors-warn-rising-vaccination-rates-drop-rcna265851",
-    "titleNorm": "a deadly bacterial disease is making a comeback",
-    "type": "card",
-    "timestamp": 1775148289869
-  },
-  {
-    "url": "https://www.nbcnews.com/business/markets/oil-prices-stock-market-iran-war-trump-rcna266351",
-    "titleNorm": "oil soars past 110 after trumps iran war",
-    "type": "reel",
-    "timestamp": 1775150381544
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/brief-fire-causes-evacuation-injuries-historic-detroit-college-131626828",
-    "titleNorm": "brief fire causes evacuation but no injuries at",
-    "type": "card",
-    "timestamp": 1775151778389
-  },
-  {
     "url": "https://www.foxnews.com/us/7-month-old-baby-killed-stray-bullet-brooklyn-shooting-police-say",
     "titleNorm": "7monthold baby killed by stray bullet in brooklyn",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1775190112899
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/colorado-appeals-court-orders-resentencing-former-county-clerk-131653051",
+    "titleNorm": "colorado appeals court orders resentencing for former county",
+    "type": "reel",
+    "timestamp": 1775195906371
   }
 ]
