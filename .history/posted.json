@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/state-finds-explosion-killed-la-county-deputies-involved-131629461",
-    "titleNorm": "explosion that killed la county deputies involved serious",
-    "type": "card",
-    "timestamp": 1775165309795
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-outlines-next-phase-iran-war-national-address-more-top-headlines",
     "titleNorm": "trump outlines next phase of iran war in",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "exclusive universities of wisconsin leaders looking to oust",
     "type": "reel",
     "timestamp": 1775207900364
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hegseth-troops-personal-firearms-military-bases/",
+    "titleNorm": "hegseth says he will let troops take personal",
+    "type": "card",
+    "timestamp": 1775209453027
   }
 ]
