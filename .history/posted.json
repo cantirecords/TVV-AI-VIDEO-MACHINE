@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "macron calls trumps remarks on his marriage inelegant",
-    "type": "card",
-    "timestamp": 1775172324139
-  },
-  {
     "url": "https://www.foxnews.com/us/jealous-ex-boyfriend-accused-vicious-acid-attack-that-left-college-student-severely-burned-da",
     "titleNorm": "jealous exboyfriend accused of vicious acid attack that",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "march jobs report expected to show labor market",
     "type": "reel",
     "timestamp": 1775214666679
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/north-carolina-supreme-court-throws-longtime-suit-education-131668601",
+    "titleNorm": "north carolina supreme court throws out longtime suit",
+    "type": "card",
+    "timestamp": 1775215871723
   }
 ]
