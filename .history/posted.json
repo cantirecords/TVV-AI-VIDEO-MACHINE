@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/colorado-appeals-court-orders-resentencing-former-county-clerk-131653051",
-    "titleNorm": "colorado appeals court orders resentencing for former county",
-    "type": "reel",
-    "timestamp": 1775195906371
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-supporter-allegedly-killed-by-ex-coworker-who-expressed-animosity-over-political-beliefs-complaint",
-    "titleNorm": "trump supporter allegedly killed by excoworker who expressed",
-    "type": "card",
-    "timestamp": 1775196507782
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
     "titleNorm": "us crude tops 110 per barrel and wall",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "macron calls trumps remarks on his marriage inelegant",
     "type": "card",
     "timestamp": 1775237149134
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
+    "titleNorm": "two arrested in nc after police find 13yearold",
+    "type": "card",
+    "timestamp": 1775241229594
   }
 ]
