@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-outlines-next-phase-iran-war-national-address-more-top-headlines",
-    "titleNorm": "trump outlines next phase of iran war in",
-    "type": "card",
-    "timestamp": 1775168682553
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-says-sign-order-pay-dhs-employees-shutdown-rcna266422",
-    "titleNorm": "trump says hell sign order to pay all",
-    "type": "reel",
-    "timestamp": 1775170812995
-  },
-  {
     "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
     "titleNorm": "macron calls trumps remarks on his marriage inelegant",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "hegseth says he will let troops take personal",
     "type": "card",
     "timestamp": 1775209453027
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/march-jobs-report-iran-war-rcna266503",
+    "titleNorm": "march jobs report expected to show labor market",
+    "type": "reel",
+    "timestamp": 1775214666679
   }
 ]
