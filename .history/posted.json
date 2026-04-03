@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/exclusive-universities-wisconsin-leaders-oust-system-president-refuses-131660468",
-    "titleNorm": "exclusive universities of wisconsin leaders looking to oust",
-    "type": "reel",
-    "timestamp": 1775207900364
-  },
-  {
     "url": "https://www.cbsnews.com/news/hegseth-troops-personal-firearms-military-bases/",
     "titleNorm": "hegseth says he will let troops take personal",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
     "type": "reel",
     "timestamp": 1775250210156
+  },
+  {
+    "url": "https://www.cbsnews.com/news/samuel-alito-dehydration-ill-supreme-court/",
+    "titleNorm": "alito treated for dehydration after falling ill in",
+    "type": "card",
+    "timestamp": 1775251445840
   }
 ]
