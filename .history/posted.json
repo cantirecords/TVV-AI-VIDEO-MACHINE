@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/7-month-old-baby-killed-stray-bullet-brooklyn-shooting-police-say",
-    "titleNorm": "7monthold baby killed by stray bullet in brooklyn",
-    "type": "card",
-    "timestamp": 1775155432256
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-democratic-party-vice-chairs-husband-charged-murder-after-she-was-found-dead-home",
-    "titleNorm": "florida democratic party vice chairs husband charged with",
-    "type": "reel",
-    "timestamp": 1775158255031
-  },
-  {
-    "url": "https://www.cbsnews.com/news/stocks-down-today-trump-speech-sp500-index-djia-oil-prices/",
-    "titleNorm": "stocks slide after trump vows to continue iran",
-    "type": "card",
-    "timestamp": 1775158968567
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-nabs-alleged-machete-wielding-ms-13-gangster-wanted-murder-the-witch",
     "titleNorm": "ice nabs alleged machetewielding ms13 gangster wanted for",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "trump supporter allegedly killed by excoworker who expressed",
     "type": "card",
     "timestamp": 1775196507782
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
+    "titleNorm": "us crude tops 110 per barrel and wall",
+    "type": "reel",
+    "timestamp": 1775202271024
   }
 ]
