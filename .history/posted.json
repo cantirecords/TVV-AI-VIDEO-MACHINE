@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/march-jobs-report-iran-war-rcna266503",
-    "titleNorm": "march jobs report expected to show labor market",
-    "type": "reel",
-    "timestamp": 1775214666679
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/north-carolina-supreme-court-throws-longtime-suit-education-131668601",
     "titleNorm": "north carolina supreme court throws out longtime suit",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "reel",
     "timestamp": 1775257437912
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
+    "titleNorm": "us crude tops 110 per barrel and wall",
+    "type": "card",
+    "timestamp": 1775258729819
   }
 ]
