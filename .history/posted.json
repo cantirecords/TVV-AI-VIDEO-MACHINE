@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/hegseth-troops-personal-firearms-military-bases/",
-    "titleNorm": "hegseth says he will let troops take personal",
-    "type": "card",
-    "timestamp": 1775209453027
-  },
-  {
     "url": "https://www.nbcnews.com/business/economy/march-jobs-report-iran-war-rcna266503",
     "titleNorm": "march jobs report expected to show labor market",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "alito treated for dehydration after falling ill in",
     "type": "card",
     "timestamp": 1775251445840
+  },
+  {
+    "url": "https://www.foxnews.com/us/federal-officials-highlight-arrests-migrants-convicted-arson-other-crimes-enforcement-continues",
+    "titleNorm": "federal officials highlight arrests of migrants convicted of",
+    "type": "card",
+    "timestamp": 1775255024731
   }
 ]
