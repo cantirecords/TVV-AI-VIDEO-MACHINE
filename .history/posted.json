@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/maui-doctor-gerhardt-konig-accused-trying-to-murder-wife-takes-stand-claims-self-defense/",
-    "titleNorm": "maui doctor accused of trying to murder wife",
-    "type": "card",
-    "timestamp": 1775205764736
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/exclusive-universities-wisconsin-leaders-oust-system-president-refuses-131660468",
     "titleNorm": "exclusive universities of wisconsin leaders looking to oust",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "pam bondi responds after trump fires her as",
     "type": "card",
     "timestamp": 1775247912374
+  },
+  {
+    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
+    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
+    "type": "reel",
+    "timestamp": 1775250210156
   }
 ]
