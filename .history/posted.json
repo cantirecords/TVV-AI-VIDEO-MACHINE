@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/amazon-slap-35-surcharge-party-sellers-iran-war-131672640",
-    "titleNorm": "amazon to slap a 35 surcharge on thirdparty",
-    "type": "reel",
-    "timestamp": 1775272963601
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accomplice-get-5-years-for-murder-in-sweetheart-deal-with-progressive-virginia-da",
-    "titleNorm": "illegal immigrant accomplice get 5 years for murder",
-    "type": "card",
-    "timestamp": 1775275702514
-  },
-  {
     "url": "https://www.foxnews.com/us/walmart-employee-fatally-stabbed-random-attack-man-allegedly-believed-victim-demon-police",
     "titleNorm": "walmart employee fatally stabbed in random attack by",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "card",
     "timestamp": 1775316152476
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
+    "titleNorm": "ice detains president of wisconsins largest mosque alleging",
+    "type": "card",
+    "timestamp": 1775319839208
   }
 ]
