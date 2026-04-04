@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/samuel-alito-dehydration-ill-supreme-court/",
-    "titleNorm": "alito treated for dehydration after falling ill in",
-    "type": "card",
-    "timestamp": 1775251445840
-  },
-  {
     "url": "https://www.foxnews.com/us/federal-officials-highlight-arrests-migrants-convicted-arson-other-crimes-enforcement-continues",
     "titleNorm": "federal officials highlight arrests of migrants convicted of",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "california woman returns home after the trump administration",
     "type": "reel",
     "timestamp": 1775293583648
+  },
+  {
+    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
+    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
+    "type": "card",
+    "timestamp": 1775295027598
   }
 ]
