@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-officials-highlight-arrests-migrants-convicted-arson-other-crimes-enforcement-continues",
-    "titleNorm": "federal officials highlight arrests of migrants convicted of",
-    "type": "card",
-    "timestamp": 1775255024731
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "moms for liberty wanted seat on school board",
     "type": "card",
     "timestamp": 1775298210765
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
+    "titleNorm": "two arrested in nc after police find 13yearold",
+    "type": "reel",
+    "timestamp": 1775300402025
   }
 ]
