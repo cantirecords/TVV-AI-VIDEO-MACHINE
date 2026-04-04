@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
-    "titleNorm": "two arrested in nc after police find 13yearold",
-    "type": "card",
-    "timestamp": 1775241229594
-  },
-  {
     "url": "https://www.foxnews.com/us/ny-prosecutor-sidesteps-sanctuary-law-coordinates-ice-arrest-guatemalan-child-rape-suspect",
     "titleNorm": "ny prosecutor sidesteps sanctuary law and coordinates ice",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "jealous exboyfriend accused of vicious acid attack that",
     "type": "card",
     "timestamp": 1775281783666
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/trump-signs-memo-directing-dhs-pay-all-employees-shutdown-rcna266657",
+    "titleNorm": "trump signs memo directing dhs to pay all",
+    "type": "card",
+    "timestamp": 1775285252093
   }
 ]
