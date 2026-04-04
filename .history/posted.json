@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-    "titleNorm": "florida man charged with murder after allegedly stabbing",
-    "type": "reel",
-    "timestamp": 1775257437912
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
     "titleNorm": "us crude tops 110 per barrel and wall",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "two arrested in nc after police find 13yearold",
     "type": "reel",
     "timestamp": 1775300402025
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-murdering-wife-texas-weeks-marriage-ice-fights-release",
+    "titleNorm": "illegal immigrant accused of murdering wife in texas",
+    "type": "card",
+    "timestamp": 1775301773585
   }
 ]
