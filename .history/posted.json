@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
-    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
-    "type": "reel",
-    "timestamp": 1775250210156
-  },
-  {
     "url": "https://www.cbsnews.com/news/samuel-alito-dehydration-ill-supreme-court/",
     "titleNorm": "alito treated for dehydration after falling ill in",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1775291394897
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-woman-returns-home-after-trump-administration-deported-131602492",
+    "titleNorm": "california woman returns home after the trump administration",
+    "type": "reel",
+    "timestamp": 1775293583648
   }
 ]
