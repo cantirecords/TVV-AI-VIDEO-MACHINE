@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/walmart-employee-fatally-stabbed-random-attack-man-allegedly-believed-victim-demon-police",
-    "titleNorm": "walmart employee fatally stabbed in random attack by",
-    "type": "reel",
-    "timestamp": 1775281266674
-  },
-  {
-    "url": "https://www.foxnews.com/us/jealous-ex-boyfriend-accused-vicious-acid-attack-that-left-college-student-severely-burned-da",
-    "titleNorm": "jealous exboyfriend accused of vicious acid attack that",
-    "type": "card",
-    "timestamp": 1775281783666
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/trump-signs-memo-directing-dhs-pay-all-employees-shutdown-rcna266657",
     "titleNorm": "trump signs memo directing dhs to pay all",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "illegal migrant babysitter accused in 5yearold attack now",
     "type": "card",
     "timestamp": 1775323353451
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-accomplice-get-5-years-for-murder-in-sweetheart-deal-with-progressive-virginia-da",
+    "titleNorm": "illegal immigrant accomplice get 5 years for murder",
+    "type": "card",
+    "timestamp": 1775327254384
   }
 ]
