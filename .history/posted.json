@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/moms-liberty-wanted-seat-school-board-trump-gave-131707543",
-    "titleNorm": "moms for liberty wanted seat on school board",
-    "type": "card",
-    "timestamp": 1775298210765
-  },
-  {
     "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
     "titleNorm": "two arrested in nc after police find 13yearold",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "crews making progress containing southern california wildfire",
     "type": "card",
     "timestamp": 1775341141752
+  },
+  {
+    "url": "https://www.foxnews.com/us/ny-prosecutor-sidesteps-sanctuary-law-coordinates-ice-arrest-guatemalan-child-rape-suspect",
+    "titleNorm": "ny prosecutor sidesteps sanctuary law and coordinates ice",
+    "type": "reel",
+    "timestamp": 1775343596647
   }
 ]
