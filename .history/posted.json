@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-arrested-nc-after-police-find-13-year-old-kept-dog-kennel-5-other-kids-filthy-home",
-    "titleNorm": "two arrested in nc after police find 13yearold",
-    "type": "reel",
-    "timestamp": 1775300402025
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-murdering-wife-texas-weeks-marriage-ice-fights-release",
-    "titleNorm": "illegal immigrant accused of murdering wife in texas",
-    "type": "card",
-    "timestamp": 1775301773585
-  },
-  {
-    "url": "https://www.nbcnews.com/world/asia/young-people-china-found-digital-lucky-charm-kris-jenner-rcna266191",
-    "titleNorm": "young people in china have found a digital",
-    "type": "card",
-    "timestamp": 1775305886574
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/",
     "titleNorm": "us races to find missing crew member as",
     "type": "reel",
@@ -112,5 +94,11 @@
     "titleNorm": "ny prosecutor sidesteps sanctuary law and coordinates ice",
     "type": "reel",
     "timestamp": 1775343596647
+  },
+  {
+    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
+    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
+    "type": "card",
+    "timestamp": 1775352096928
   }
 ]
