@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accomplice-get-5-years-for-murder-in-sweetheart-deal-with-progressive-virginia-da",
-    "titleNorm": "illegal immigrant accomplice get 5 years for murder",
-    "type": "card",
-    "timestamp": 1775327254384
-  },
-  {
-    "url": "https://www.foxnews.com/us/viral-surveillance-video-shows-suspects-killing-7-month-old-flung-from-moped-frenzied-getaway-crash",
-    "titleNorm": "viral surveillance video shows suspects in killing of",
-    "type": "reel",
-    "timestamp": 1775329838510
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/retail-sales-rise-06-february-impact-iran-war-131611815",
-    "titleNorm": "retail sales rise 06 in february but impact",
-    "type": "card",
-    "timestamp": 1775330692578
-  },
-  {
     "url": "https://www.foxnews.com/us/california-4-year-old-boy-survives-attack-coyote-bit-tried-drag-him-away",
     "titleNorm": "california 4yearold boy survives attack by coyote that",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1775369400528
+  },
+  {
+    "url": "https://www.foxnews.com/us/viral-surveillance-video-shows-suspects-killing-7-month-old-flung-from-moped-frenzied-getaway-crash",
+    "titleNorm": "viral surveillance video shows suspects in killing of",
+    "type": "reel",
+    "timestamp": 1775374763040
   }
 ]
