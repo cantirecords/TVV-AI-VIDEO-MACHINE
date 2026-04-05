@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/viral-surveillance-video-shows-suspects-killing-7-month-old-flung-from-moped-frenzied-getaway-crash",
-    "titleNorm": "viral surveillance video shows suspects in killing of",
-    "type": "reel",
-    "timestamp": 1775374763040
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1775375398717
-  },
-  {
     "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "trump seeks 15tn for defence alongside domestic spending",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "4 killed in alabama car crash during pursuit",
     "type": "card",
     "timestamp": 1775417278772
+  },
+  {
+    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
+    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
+    "type": "card",
+    "timestamp": 1775420471924
   }
 ]
