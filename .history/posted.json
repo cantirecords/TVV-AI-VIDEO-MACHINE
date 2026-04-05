@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
-    "titleNorm": "ice detains president of wisconsins largest mosque alleging",
-    "type": "card",
-    "timestamp": 1775319839208
-  },
-  {
     "url": "https://www.cbsnews.com/news/washington-dc-bus-crash-ambar-restaurant/",
     "titleNorm": "3 hospitalized after bus crashes through washington dc",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "reel",
     "timestamp": 1775360658566
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
+    "titleNorm": "ice detains president of wisconsins largest mosque alleging",
+    "type": "card",
+    "timestamp": 1775363342250
   }
 ]
