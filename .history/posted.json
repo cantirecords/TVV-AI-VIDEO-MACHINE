@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/",
-    "titleNorm": "us races to find missing crew member as",
-    "type": "reel",
-    "timestamp": 1775309697369
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-orders-dhs-to-pay-all-employees-shutdown/",
-    "titleNorm": "trump orders dhs to pay all employees despite",
-    "type": "card",
-    "timestamp": 1775310349961
-  },
-  {
-    "url": "https://www.nbcnews.com/news/news-quiz/trump-fires-official-news-quiz-rcna266493",
-    "titleNorm": "trump fires another top official and nasa launches",
-    "type": "card",
-    "timestamp": 1775312902080
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/au-pair-murders-brendan-banfield-juliana-peres-magalhaes-rcna266291",
-    "titleNorm": "a death wish and a catfish how an",
-    "type": "reel",
-    "timestamp": 1775314860232
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-    "titleNorm": "florida man charged with murder after allegedly stabbing",
-    "type": "card",
-    "timestamp": 1775316152476
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
     "titleNorm": "ice detains president of wisconsins largest mosque alleging",
     "type": "card",
@@ -100,5 +70,11 @@
     "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
     "type": "card",
     "timestamp": 1775352096928
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
+    "titleNorm": "florida man charged with murder after allegedly stabbing",
+    "type": "reel",
+    "timestamp": 1775360658566
   }
 ]
