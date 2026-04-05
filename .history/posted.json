@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-4-year-old-boy-survives-attack-coyote-bit-tried-drag-him-away",
-    "titleNorm": "california 4yearold boy survives attack by coyote that",
-    "type": "card",
-    "timestamp": 1775333980953
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/captain-charged-boat-crash-killed-3-girls-miami-131601508",
     "titleNorm": "captain charged in boat crash that killed 3",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1775375398717
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "trump seeks 15tn for defence alongside domestic spending",
+    "type": "card",
+    "timestamp": 1775377962740
   }
 ]
