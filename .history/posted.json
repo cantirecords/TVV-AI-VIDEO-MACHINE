@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
-    "titleNorm": "ice detains president of wisconsins largest mosque alleging",
-    "type": "card",
-    "timestamp": 1775363342250
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "experts dispute us account of deadly iran sports",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "trumps 15 trillion military budget request faces uphill",
     "type": "card",
     "timestamp": 1775406427071
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-pennsylvania-firefighters-utv-killed-head-crash-search-131744441",
+    "titleNorm": "2 pennsylvania firefighters in utv killed in headon",
+    "type": "reel",
+    "timestamp": 1775408627687
   }
 ]
