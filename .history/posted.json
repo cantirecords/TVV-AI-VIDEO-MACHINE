@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
-    "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
-    "type": "card",
-    "timestamp": 1775352096928
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "california 4yearold boy survives attack by coyote that",
     "type": "card",
     "timestamp": 1775392436124
+  },
+  {
+    "url": "https://www.foxnews.com/us/three-people-hospitalized-city-bus-crashes-popular-dc-restaurant-officials",
+    "titleNorm": "three people hospitalized after city bus crashes into",
+    "type": "reel",
+    "timestamp": 1775396168527
   }
 ]
