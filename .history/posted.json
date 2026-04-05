@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-    "titleNorm": "florida man charged with murder after allegedly stabbing",
-    "type": "reel",
-    "timestamp": 1775360658566
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-detains-president-wisconsin-largest-mosque-alleging-hid-conviction-attacks-israelis",
     "titleNorm": "ice detains president of wisconsins largest mosque alleging",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "secret service investigates reports of gunfire near lafayette",
     "type": "card",
     "timestamp": 1775402654624
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/tim-kaine-congress-trump-military-budget-request-iran-hegseth-rcna266776",
+    "titleNorm": "trumps 15 trillion military budget request faces uphill",
+    "type": "card",
+    "timestamp": 1775406427071
   }
 ]
