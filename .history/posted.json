@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trump seeks 15tn for defence alongside domestic spending",
-    "type": "card",
-    "timestamp": 1775377962740
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-halts-trump-effort-requiring-colleges-show-arent-131725784",
     "titleNorm": "judge halts trump effort requiring colleges to show",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
     "type": "card",
     "timestamp": 1775420471924
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-migrant-charged-deadly-124-mph-chase-killed-pregnant-teen-unborn-child",
+    "titleNorm": "illegal migrant charged in deadly 124 mph chase",
+    "type": "reel",
+    "timestamp": 1775422784557
   }
 ]
