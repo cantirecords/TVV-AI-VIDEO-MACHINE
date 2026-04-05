@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "man charged over fatal shooting of baby in",
-    "type": "card",
-    "timestamp": 1775381427071
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1775424232999
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/crews-making-progress-southern-california-wildfire-mandatory-evacuations-131725399",
+    "titleNorm": "crews making progress containing southern california wildfire",
+    "type": "card",
+    "timestamp": 1775427649957
   }
 ]
