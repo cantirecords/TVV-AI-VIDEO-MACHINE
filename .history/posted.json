@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1775384611682
-  },
-  {
     "url": "https://www.cbsnews.com/news/louisiana-lao-new-year-festival-vehicle-crash/",
     "titleNorm": "driver charged with dwi after vehicle crashes into",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "crews making progress containing southern california wildfire",
     "type": "card",
     "timestamp": 1775427649957
+  },
+  {
+    "url": "https://www.foxnews.com/us/billboard-trolling-dale-warner-goes-viral-after-his-murder-conviction-wife-dees-case",
+    "titleNorm": "billboard trolling dale warner goes viral after his",
+    "type": "reel",
+    "timestamp": 1775430001916
   }
 ]
