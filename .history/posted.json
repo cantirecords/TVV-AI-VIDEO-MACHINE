@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/louisiana-lao-new-year-festival-vehicle-crash/",
-    "titleNorm": "driver charged with dwi after vehicle crashes into",
-    "type": "reel",
-    "timestamp": 1775387057282
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-murdering-wife-texas-weeks-marriage-ice-fights-release",
-    "titleNorm": "illegal immigrant accused of murdering wife in texas",
-    "type": "card",
-    "timestamp": 1775388184485
-  },
-  {
     "url": "https://www.foxnews.com/us/california-4-year-old-boy-survives-attack-coyote-bit-tried-drag-him-away",
     "titleNorm": "california 4yearold boy survives attack by coyote that",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "billboard trolling dale warner goes viral after his",
     "type": "reel",
     "timestamp": 1775430001916
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1775431507721
   }
 ]
