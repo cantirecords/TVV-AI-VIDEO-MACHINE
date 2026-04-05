@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/captain-charged-boat-crash-killed-3-girls-miami-131601508",
-    "titleNorm": "captain charged in boat crash that killed 3",
-    "type": "reel",
-    "timestamp": 1775336252085
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trump seeks 15tn for defence alongside domestic spending",
     "type": "card",
     "timestamp": 1775377962740
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-halts-trump-effort-requiring-colleges-show-arent-131725784",
+    "titleNorm": "judge halts trump effort requiring colleges to show",
+    "type": "reel",
+    "timestamp": 1775380152886
   }
 ]
