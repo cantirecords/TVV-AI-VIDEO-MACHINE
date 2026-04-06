@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/skilled-sewers-demand-tailors-dressmakers-age-photos-131756272",
-    "titleNorm": "skilled sewers in demand as tailors and dressmakers",
-    "type": "reel",
-    "timestamp": 1775468911780
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1775469573584
-  },
-  {
     "url": "https://www.cbsnews.com/news/cia-world-factbook-shuttered-trump-administration/",
     "titleNorm": "cia world factbook shuttered by trump administration",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1775510936575
+  },
+  {
+    "url": "https://www.cbsnews.com/news/social-media-steroids-teens-extreme-body-transformations/",
+    "titleNorm": "social media driving teens toward steroids extreme body",
+    "type": "card",
+    "timestamp": 1775514350466
   }
 ]
