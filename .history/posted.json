@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fast-growing-wildfire-windy-southern-california-triggers-evacuations-131700798",
-    "titleNorm": "fastgrowing wildfire in windy southern california triggers evacuations",
-    "type": "card",
-    "timestamp": 1775450232678
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tailors-dressmakers-retire-pincushions-us-demand-skilled-sewers-131756176",
     "titleNorm": "tailors dressmakers retire their pincushions as us demand",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1775493401201
+  },
+  {
+    "url": "https://www.foxnews.com/us/daughters-relentless-search-shatters-overdose-claim-leads-arrest-moms-1992-murder",
+    "titleNorm": "daughters relentless search shatters overdose claim leads to",
+    "type": "reel",
+    "timestamp": 1775495756978
   }
 ]
