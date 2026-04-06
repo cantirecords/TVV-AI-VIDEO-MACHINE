@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-pennsylvania-firefighters-utv-killed-head-crash-search-131744441",
-    "titleNorm": "2 pennsylvania firefighters in utv killed in headon",
-    "type": "reel",
-    "timestamp": 1775408627687
-  },
-  {
-    "url": "https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon",
-    "titleNorm": "artemis ii astronauts face toilet trouble as they",
-    "type": "card",
-    "timestamp": 1775409778201
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
     "titleNorm": "florida man charged with murder after allegedly stabbing",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "fastgrowing wildfire in windy southern california triggers evacuations",
     "type": "card",
     "timestamp": 1775450232678
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tailors-dressmakers-retire-pincushions-us-demand-skilled-sewers-131756176",
+    "titleNorm": "tailors dressmakers retire their pincushions as us demand",
+    "type": "reel",
+    "timestamp": 1775456195239
   }
 ]
