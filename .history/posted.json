@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/art-heist-targeting-million-dollar-masterpieces-exposes-blind-spots-in-museum-defenses-expert-warns",
-    "titleNorm": "art heist targeting milliondollar masterpieces exposes blind spots",
-    "type": "reel",
-    "timestamp": 1775447266770
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/fast-growing-wildfire-windy-southern-california-triggers-evacuations-131700798",
     "titleNorm": "fastgrowing wildfire in windy southern california triggers evacuations",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "illegal migrant charged in deadly 124 mph chase",
     "type": "card",
     "timestamp": 1775489869110
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1775493401201
   }
 ]
