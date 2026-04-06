@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/crews-making-progress-southern-california-wildfire-mandatory-evacuations-131725399",
-    "titleNorm": "crews making progress containing southern california wildfire",
-    "type": "card",
-    "timestamp": 1775427649957
-  },
-  {
     "url": "https://www.foxnews.com/us/billboard-trolling-dale-warner-goes-viral-after-his-murder-conviction-wife-dees-case",
     "titleNorm": "billboard trolling dale warner goes viral after his",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1775469573584
+  },
+  {
+    "url": "https://www.cbsnews.com/news/cia-world-factbook-shuttered-trump-administration/",
+    "titleNorm": "cia world factbook shuttered by trump administration",
+    "type": "card",
+    "timestamp": 1775473001174
   }
 ]
