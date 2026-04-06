@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/tim-kaine-congress-trump-military-budget-request-iran-hegseth-rcna266776",
-    "titleNorm": "trumps 15 trillion military budget request faces uphill",
-    "type": "card",
-    "timestamp": 1775406427071
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-pennsylvania-firefighters-utv-killed-head-crash-search-131744441",
     "titleNorm": "2 pennsylvania firefighters in utv killed in headon",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "art heist targeting milliondollar masterpieces exposes blind spots",
     "type": "reel",
     "timestamp": 1775447266770
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fast-growing-wildfire-windy-southern-california-triggers-evacuations-131700798",
+    "titleNorm": "fastgrowing wildfire in windy southern california triggers evacuations",
+    "type": "card",
+    "timestamp": 1775450232678
   }
 ]
