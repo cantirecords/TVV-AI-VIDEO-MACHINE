@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-    "titleNorm": "florida man charged with murder after allegedly stabbing",
-    "type": "card",
-    "timestamp": 1775413706807
-  },
-  {
-    "url": "https://www.nbcnews.com/world/iran/ahead-latest-strait-hormuz-deadline-trump-threatens-irans-energy-rcna266770",
-    "titleNorm": "trump again threatens irans infrastructure ahead of his",
-    "type": "reel",
-    "timestamp": 1775416343977
-  },
-  {
-    "url": "https://www.cbsnews.com/news/deadly-alabama-car-chase-crash/",
-    "titleNorm": "4 killed in alabama car crash during pursuit",
-    "type": "card",
-    "timestamp": 1775417278772
-  },
-  {
     "url": "https://www.foxnews.com/us/parents-macdill-bomb-suspects-illegal-immigrants-dhs-warns-birthright-citizenship-dangers",
     "titleNorm": "parents of macdill bomb suspects are illegal immigrants",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "pope leo warns the world is becoming indifferent",
     "type": "card",
     "timestamp": 1775456798437
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/amazon-slap-35-surcharge-party-sellers-iran-war-131672640",
+    "titleNorm": "amazon to slap a 35 surcharge on thirdparty",
+    "type": "reel",
+    "timestamp": 1775463029369
   }
 ]
