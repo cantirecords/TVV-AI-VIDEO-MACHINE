@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-supreme-court-race-georgia-runoff-marjorie-taylor-greene-rcna266257",
-    "titleNorm": "voters set to decide wisconsin supreme court race",
-    "type": "card",
-    "timestamp": 1775559182883
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-halts-trump-effort-requiring-colleges-show-arent-131725784",
     "titleNorm": "judge halts trump effort requiring colleges to show",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1775600948108
+  },
+  {
+    "url": "https://www.foxnews.com/us/china-cries-foul-college-researchers-fatal-fall-claims-us-questioning-feds-stay-tight-lipped",
+    "titleNorm": "china cries foul after college researchers fatal fall",
+    "type": "reel",
+    "timestamp": 1775603209280
   }
 ]
