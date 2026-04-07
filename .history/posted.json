@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/social-media-steroids-teens-extreme-body-transformations/",
-    "titleNorm": "social media driving teens toward steroids extreme body",
-    "type": "card",
-    "timestamp": 1775514350466
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-terminates-agreements-protect-transgender-students-schools-131777464",
     "titleNorm": "trump administration terminates agreements to protect transgender students",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "daughters relentless search shatters overdose claim leads to",
     "type": "card",
     "timestamp": 1775556073170
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-supreme-court-race-georgia-runoff-marjorie-taylor-greene-rcna266257",
+    "titleNorm": "voters set to decide wisconsin supreme court race",
+    "type": "card",
+    "timestamp": 1775559182883
   }
 ]
