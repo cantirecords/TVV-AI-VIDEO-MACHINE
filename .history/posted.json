@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/three-people-hospitalized-city-bus-crashes-popular-dc-restaurant-officials",
-    "titleNorm": "three people hospitalized after city bus crashes into",
-    "type": "reel",
-    "timestamp": 1775474955553
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-    "titleNorm": "florida man charged with murder after allegedly stabbing",
-    "type": "card",
-    "timestamp": 1775475663780
-  },
-  {
-    "url": "https://www.foxnews.com/us/viral-surveillance-video-shows-suspects-killing-7-month-old-flung-from-moped-frenzied-getaway-crash",
-    "titleNorm": "viral surveillance video shows suspects in killing of",
-    "type": "card",
-    "timestamp": 1775479589189
-  },
-  {
     "url": "https://www.foxnews.com/us/new-hampshire-suspect-who-shot-officer-triggered-massive-manhunt-killed-police-gunfight",
     "titleNorm": "new hampshire suspect who shot officer and triggered",
     "type": "reel",
@@ -112,5 +94,11 @@
     "titleNorm": "tyler robinson defense asks court to bar cameras",
     "type": "card",
     "timestamp": 1775518091400
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/crews-making-progress-southern-california-wildfire-mandatory-evacuations-131725399",
+    "titleNorm": "crews making progress containing southern california wildfire",
+    "type": "card",
+    "timestamp": 1775524775164
   }
 ]
