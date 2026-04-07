@@ -82,5 +82,11 @@
     "titleNorm": "us markets are mixed oil prices fall as",
     "type": "reel",
     "timestamp": 1775533101866
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/us-fighter-jet-was-downed-iran-shoulder-fired-missile-rcna266907",
+    "titleNorm": "the us fighter jet was downed in iran",
+    "type": "card",
+    "timestamp": 1775535948110
   }
 ]
