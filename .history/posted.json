@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/asian-shares-gain-oil-prices-rising-131755398",
-    "titleNorm": "us markets are mixed oil prices fall as",
-    "type": "reel",
-    "timestamp": 1775533101866
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/us-fighter-jet-was-downed-iran-shoulder-fired-missile-rcna266907",
     "titleNorm": "the us fighter jet was downed in iran",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "menopause products are having a hot minute but",
     "type": "card",
     "timestamp": 1775571995303
+  },
+  {
+    "url": "https://www.foxnews.com/us/video-shows-teens-take-over-chicago-streets-mayor-warns-trends-turn-deadly",
+    "titleNorm": "video shows teens take over chicago streets as",
+    "type": "card",
+    "timestamp": 1775577892180
   }
 ]
