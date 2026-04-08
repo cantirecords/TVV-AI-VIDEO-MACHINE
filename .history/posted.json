@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/menopause-products-hot-minute-doctors-urge-women-wary-131756127",
-    "titleNorm": "menopause products are having a hot minute but",
-    "type": "card",
-    "timestamp": 1775645707159
-  },
-  {
     "url": "https://www.foxnews.com/us/violent-mob-juveniles-swarms-streets-attacks-officers-wild-teen-takeover-caught-video",
     "titleNorm": "violent mob of juveniles swarms streets attacks officers",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "trial to begin over fatal los angeles police",
     "type": "card",
     "timestamp": 1775687501610
+  },
+  {
+    "url": "https://www.foxnews.com/us/charlotte-light-rail-murder-suspect-ruled-incompetent-stand-trial-history-crazed-claims-trails-case",
+    "titleNorm": "charlotte lightrail murder suspect ruled incompetent to stand",
+    "type": "reel",
+    "timestamp": 1775689739333
   }
 ]
