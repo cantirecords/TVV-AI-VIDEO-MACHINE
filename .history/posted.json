@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-impeachment-rfk-jr-votes-bill-cassidy-political-survival-rcna266014",
-    "titleNorm": "trump impeachment and rfk jr votes loom as",
-    "type": "card",
-    "timestamp": 1775611235158
-  },
-  {
     "url": "https://www.foxnews.com/us/athena-strand-photo-shows-deadly-ride-fedex-driver-admitted-killing-girl-christmas-delivery",
     "titleNorm": "athena strand photo shows deadly ride with fedex",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "markets embrace iran ceasefire news despite ongoing strikes",
     "type": "card",
     "timestamp": 1775652949552
+  },
+  {
+    "url": "https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft",
+    "titleNorm": "a10 warthog given new maritime role targeting boats",
+    "type": "card",
+    "timestamp": 1775658611134
   }
 ]
