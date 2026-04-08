@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/girl-survived-brutal-florida-shark-attack-returns-waters-happened-shes-fearless-",
-    "titleNorm": "girl who survived brutal florida shark attack returns",
-    "type": "card",
-    "timestamp": 1775587644430
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-terminates-agreements-protect-transgender-students-schools-131777464",
-    "titleNorm": "trump administration terminates agreements to protect transgender students",
-    "type": "reel",
-    "timestamp": 1775590691318
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1775591623114
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/asian-shares-gain-oil-prices-rising-131755398",
     "titleNorm": "us markets are mixed oil prices fall as",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "trump has repeatedly delayed deadlines for iran but",
     "type": "card",
     "timestamp": 1775628969429
+  },
+  {
+    "url": "https://www.nbcnews.com/nightly-news/video/ice-officers-involved-in-california-shooting-260858437898",
+    "titleNorm": "ice officers involved in california shooting",
+    "type": "reel",
+    "timestamp": 1775635203536
   }
 ]
