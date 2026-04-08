@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/athena-strand-photo-shows-deadly-ride-fedex-driver-admitted-killing-girl-christmas-delivery",
-    "titleNorm": "athena strand photo shows deadly ride with fedex",
-    "type": "reel",
-    "timestamp": 1775619613344
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-involved-shooting-after-agency-says-illegal-immigrant-gang-member-tried-ram-officer",
     "titleNorm": "ice involved in shooting after agency says illegal",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "a10 warthog given new maritime role targeting boats",
     "type": "card",
     "timestamp": 1775658611134
+  },
+  {
+    "url": "https://www.foxnews.com/us/alleged-gilgo-beach-serial-killer-rex-heuermann-pleads-guilty-decades-long-string-murders",
+    "titleNorm": "alleged gilgo beach serial killer rex heuermann pleads",
+    "type": "reel",
+    "timestamp": 1775663694718
   }
 ]
