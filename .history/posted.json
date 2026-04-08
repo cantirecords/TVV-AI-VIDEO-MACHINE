@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/video-shows-teens-take-over-chicago-streets-mayor-warns-trends-turn-deadly",
-    "titleNorm": "video shows teens take over chicago streets as",
-    "type": "card",
-    "timestamp": 1775577892180
-  },
-  {
     "url": "https://www.cbsnews.com/news/vance-hungary-viktor-orban-reelection-trump-iran/",
     "titleNorm": "vance in hungary expresses optimism iran will respond",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "athena strand photo shows deadly ride with fedex",
     "type": "reel",
     "timestamp": 1775619613344
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-involved-shooting-after-agency-says-illegal-immigrant-gang-member-tried-ram-officer",
+    "titleNorm": "ice involved in shooting after agency says illegal",
+    "type": "card",
+    "timestamp": 1775622504654
   }
 ]
