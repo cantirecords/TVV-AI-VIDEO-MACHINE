@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/first-ever-photo-earth-moons-far-side-unveiled-artemis-ii-begins-journey-home-trump-weighs",
-    "titleNorm": "firstever photo of earth from moons far side",
-    "type": "reel",
-    "timestamp": 1775641497989
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
-    "titleNorm": "us and iran reach ceasefire deal launching 2week",
-    "type": "card",
-    "timestamp": 1775642421898
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/menopause-products-hot-minute-doctors-urge-women-wary-131756127",
     "titleNorm": "menopause products are having a hot minute but",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "athena strand photo shows deadly ride with fedex",
     "type": "card",
     "timestamp": 1775684110317
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trial-begin-lawsuit-fatal-los-angeles-police-shooting-131826049",
+    "titleNorm": "trial to begin over fatal los angeles police",
+    "type": "card",
+    "timestamp": 1775687501610
   }
 ]
