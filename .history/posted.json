@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/jim-whittaker-american-climb-everest-dies-97-131855767",
-    "titleNorm": "jim whittaker first american to climb everest dies",
-    "type": "reel",
-    "timestamp": 1775721725689
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/coast-guard-opens-criminal-investigation-american-woman-missing-bahama-rcna267373",
-    "titleNorm": "man arrested in american womans disappearance in bahamas",
-    "type": "card",
-    "timestamp": 1775722338102
-  },
-  {
     "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
     "titleNorm": "how trumps tax law boosts the wealthy and",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "wave of alleged migrant murders ignites fury across",
     "type": "card",
     "timestamp": 1775764695615
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/strait-hormuz-shipping-traffic-effectively-standstill-iran-ceasefire-rcna267391",
+    "titleNorm": "strait of hormuz shipping traffic is effectively at",
+    "type": "card",
+    "timestamp": 1775767492275
   }
 ]
