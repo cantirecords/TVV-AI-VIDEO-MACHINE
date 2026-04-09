@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/violent-mob-juveniles-swarms-streets-attacks-officers-wild-teen-takeover-caught-video",
-    "titleNorm": "violent mob of juveniles swarms streets attacks officers",
-    "type": "reel",
-    "timestamp": 1775648033993
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-arrests-illegal-immigrant-accused-kidnapping-4-year-old-girl-laundromat",
-    "titleNorm": "ice arrests illegal immigrant accused of kidnapping 4yearold",
-    "type": "card",
-    "timestamp": 1775648749431
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues/",
-    "titleNorm": "markets embrace iran ceasefire news despite ongoing strikes",
-    "type": "card",
-    "timestamp": 1775652949552
-  },
-  {
     "url": "https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft",
     "titleNorm": "a10 warthog given new maritime role targeting boats",
     "type": "card",
@@ -94,5 +76,11 @@
     "titleNorm": "israel launches sprawling attacks on lebanon after iran",
     "type": "card",
     "timestamp": 1775691036730
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/ice-shooting-mendoza-hernandez-california-rcna267275",
+    "titleNorm": "family of man wounded in ice shooting insists",
+    "type": "card",
+    "timestamp": 1775697038327
   }
 ]
