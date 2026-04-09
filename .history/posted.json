@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
-    "titleNorm": "how trumps tax law boosts the wealthy and",
-    "type": "reel",
-    "timestamp": 1775728184961
-  },
-  {
-    "url": "https://www.foxnews.com/us/alleged-gilgo-beach-serial-killer-rex-heuermann-pleads-guilty-decades-long-string-murders",
-    "titleNorm": "gilgo beach serial killer rex heuermann pleads guilty",
-    "type": "card",
-    "timestamp": 1775729012083
-  },
-  {
     "url": "https://www.foxnews.com/us/michigan-woman-arrested-allegedly-starving-torturing-disabled-sister-in-law-she-locked-basement",
     "titleNorm": "michigan woman arrested for allegedly starving torturing disabled",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "south carolina pastor wife arrested after alleged sexual",
     "type": "card",
     "timestamp": 1775770806354
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
+    "titleNorm": "how trumps tax law boosts the wealthy and",
+    "type": "card",
+    "timestamp": 1775773897347
   }
 ]
