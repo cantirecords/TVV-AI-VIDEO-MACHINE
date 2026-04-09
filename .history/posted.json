@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/things-stand-after-tentative-2-week-iran-ceasefire-131836665",
-    "titleNorm": "heres where things stand after a tentative 2week",
-    "type": "card",
-    "timestamp": 1775680372652
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-involved-shooting-after-agency-says-illegal-immigrant-gang-member-tried-ram-officer",
-    "titleNorm": "ice involved in shooting after agency says illegal",
-    "type": "reel",
-    "timestamp": 1775682669474
-  },
-  {
-    "url": "https://www.foxnews.com/us/athena-strand-photo-shows-deadly-ride-fedex-driver-admitted-killing-girl-christmas-delivery",
-    "titleNorm": "athena strand photo shows deadly ride with fedex",
-    "type": "card",
-    "timestamp": 1775684110317
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trial-begin-lawsuit-fatal-los-angeles-police-shooting-131826049",
     "titleNorm": "trial to begin over fatal los angeles police",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "man arrested in american womans disappearance in bahamas",
     "type": "card",
     "timestamp": 1775722338102
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
+    "titleNorm": "how trumps tax law boosts the wealthy and",
+    "type": "reel",
+    "timestamp": 1775728184961
   }
 ]
