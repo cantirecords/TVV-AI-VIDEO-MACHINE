@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft",
-    "titleNorm": "a10 warthog given new maritime role targeting boats",
-    "type": "card",
-    "timestamp": 1775658611134
-  },
-  {
     "url": "https://www.foxnews.com/us/alleged-gilgo-beach-serial-killer-rex-heuermann-pleads-guilty-decades-long-string-murders",
     "titleNorm": "alleged gilgo beach serial killer rex heuermann pleads",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of man wounded in ice shooting insists",
     "type": "card",
     "timestamp": 1775697038327
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-arrested-allegedly-burning-home-killing-man-tried-stop-second-blaze",
+    "titleNorm": "florida man arrested after allegedly burning his own",
+    "type": "reel",
+    "timestamp": 1775705720435
   }
 ]
