@@ -76,5 +76,11 @@
     "titleNorm": "oil prices rise above 100 again as doubts",
     "type": "reel",
     "timestamp": 1775750511424
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1775751186392
   }
 ]
