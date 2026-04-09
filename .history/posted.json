@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alleged-gilgo-beach-serial-killer-rex-heuermann-pleads-guilty-decades-long-string-murders",
-    "titleNorm": "alleged gilgo beach serial killer rex heuermann pleads",
-    "type": "reel",
-    "timestamp": 1775663694718
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/third-country-deportations-trump-democrats-rcna267098",
-    "titleNorm": "democrats demand watchdogs investigate trump administrations use of",
-    "type": "card",
-    "timestamp": 1775664523241
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "florida man arrested after allegedly burning his own",
     "type": "reel",
     "timestamp": 1775705720435
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pakistani-man-charged-plotting-attack-jewish-center-new-131858392",
+    "titleNorm": "pakistani man charged with plotting to attack jewish",
+    "type": "card",
+    "timestamp": 1775708702864
   }
 ]
