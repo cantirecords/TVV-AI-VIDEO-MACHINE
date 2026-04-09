@@ -88,5 +88,11 @@
     "titleNorm": "oil prices plunge toward 90 a barrel and",
     "type": "reel",
     "timestamp": 1775764037836
+  },
+  {
+    "url": "https://www.foxnews.com/us/wave-alleged-migrant-murders-ignites-fury-across-us-officials-warn-carnage-crackdown-needed",
+    "titleNorm": "wave of alleged migrant murders ignites fury across",
+    "type": "card",
+    "timestamp": 1775764695615
   }
 ]
