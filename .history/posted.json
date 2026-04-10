@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-threatening-irans-annihilation-agreeing-week-ceasefire-tehran-131826559",
-    "titleNorm": "how trump went from threatening irans annihilation to",
-    "type": "reel",
-    "timestamp": 1775776088396
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
     "titleNorm": "welltimed bets on polymarket tied to iran war",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "a mother mourning the son she lost in",
     "type": "card",
     "timestamp": 1775818564611
+  },
+  {
+    "url": "https://www.cbsnews.com/news/white-house-staff-email-warning-bets-prediction-markets-kalshi-polymarket/",
+    "titleNorm": "white house staff received email warning not to",
+    "type": "reel",
+    "timestamp": 1775820433270
   }
 ]
