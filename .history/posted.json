@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
-    "titleNorm": "welltimed bets on polymarket tied to iran war",
-    "type": "card",
-    "timestamp": 1775777456958
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/trump-party-confront-political-perils-chaos-politics-desk-rcna267534",
     "titleNorm": "trump and his party confront the political perils",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "white house staff received email warning not to",
     "type": "reel",
     "timestamp": 1775820433270
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/takeaways-gilgo-beach-case-rex-heuermann-pleads-guilty-131865605",
+    "titleNorm": "takeaways from the gilgo beach case as rex",
+    "type": "card",
+    "timestamp": 1775821241098
   }
 ]
