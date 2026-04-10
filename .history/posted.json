@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/trump-party-confront-political-perils-chaos-politics-desk-rcna267534",
-    "titleNorm": "trump and his party confront the political perils",
-    "type": "card",
-    "timestamp": 1775784088238
-  },
-  {
     "url": "https://www.nbcnews.com/nightly-news/video/strikes-continue-in-middle-east-amid-fragile-ceasefire-261058629927",
     "titleNorm": "strikes continue in middle east amid fragile ceasefire",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "ice detainer lodged for illegal migrant accused of",
     "type": "card",
     "timestamp": 1775825216702
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
+    "titleNorm": "suspect who killed california deputy run over by",
+    "type": "reel",
+    "timestamp": 1775829354386
   }
 ]
