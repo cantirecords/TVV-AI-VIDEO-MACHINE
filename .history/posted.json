@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
-    "titleNorm": "how trumps tax law boosts the wealthy and",
-    "type": "card",
-    "timestamp": 1775773897347
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-threatening-irans-annihilation-agreeing-week-ceasefire-tehran-131826559",
     "titleNorm": "how trump went from threatening irans annihilation to",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "lynette hooker missing in bahamas timeline of michigan",
     "type": "card",
     "timestamp": 1775815189437
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/mother-son-killed-iran-war-told-trump-go-get-em-cody-khork-rcna267473",
+    "titleNorm": "a mother mourning the son she lost in",
+    "type": "card",
+    "timestamp": 1775818564611
   }
 ]
