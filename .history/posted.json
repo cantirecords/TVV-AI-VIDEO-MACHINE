@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-ceasefire-doubts-rcna267421",
-    "titleNorm": "oil prices rise above 100 again as doubts",
-    "type": "reel",
-    "timestamp": 1775750511424
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1775751186392
-  },
-  {
     "url": "https://www.today.com/video/husband-arrested-days-after-saying-missing-wife-fell-overboard-260993093920",
     "titleNorm": "husband arrested days after saying missing wife fell",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "strikes continue in middle east amid fragile ceasefire",
     "type": "reel",
     "timestamp": 1775792875591
+  },
+  {
+    "url": "https://www.foxnews.com/us/five-arrested-alleged-267m-hospice-fraud-scheme-exploited-californias-medi-cal-system",
+    "titleNorm": "five arrested in alleged 267m hospice fraud scheme",
+    "type": "card",
+    "timestamp": 1775795912624
   }
 ]
