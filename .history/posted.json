@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-killed-plane-crash-small-airport-arizona-131863947",
-    "titleNorm": "2 killed in plane crash at small airport",
-    "type": "reel",
-    "timestamp": 1775808491148
-  },
-  {
-    "url": "https://www.foxnews.com/us/michigan-woman-arrested-allegedly-starving-torturing-disabled-sister-in-law-she-locked-basement",
-    "titleNorm": "michigan woman arrested for allegedly starving torturing disabled",
-    "type": "card",
-    "timestamp": 1775808963378
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-new-arch-resembling-arc-de-triomphe/",
     "titleNorm": "arc de trump president shows off model of",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "openai ceo sam altmans home targeted in molotov",
     "type": "card",
     "timestamp": 1775849838829
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1775852801359
   }
 ]
