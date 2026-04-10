@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1775802384659
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-killed-plane-crash-small-airport-arizona-131863947",
     "titleNorm": "2 killed in plane crash at small airport",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "doj argues dc pipe bomb defendant not covered",
     "type": "card",
     "timestamp": 1775842959715
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-proposes-painting-executive-office-building-white/",
+    "titleNorm": "trump proposes painting executive office building white",
+    "type": "card",
+    "timestamp": 1775846353174
   }
 ]
