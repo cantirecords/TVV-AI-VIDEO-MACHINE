@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/spring-break-beach-trip-turns-deadly-fiery-crash-kills-3-teens-leaves-1-fighting-for-life",
-    "titleNorm": "spring break beach trip turns deadly as fiery",
-    "type": "reel",
-    "timestamp": 1775744494059
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/oil-prices-rise-world-shares-retreat-fragile-iran-131867471",
-    "titleNorm": "oil prices jump back up near 100 a",
-    "type": "card",
-    "timestamp": 1775746450380
-  },
-  {
     "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-ceasefire-doubts-rcna267421",
     "titleNorm": "oil prices rise above 100 again as doubts",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "trump and his party confront the political perils",
     "type": "card",
     "timestamp": 1775784088238
+  },
+  {
+    "url": "https://www.nbcnews.com/nightly-news/video/strikes-continue-in-middle-east-amid-fragile-ceasefire-261058629927",
+    "titleNorm": "strikes continue in middle east amid fragile ceasefire",
+    "type": "reel",
+    "timestamp": 1775792875591
   }
 ]
