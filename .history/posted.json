@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/strait-hormuz-shipping-traffic-effectively-standstill-iran-ceasefire-rcna267391",
-    "titleNorm": "strait of hormuz shipping traffic is effectively at",
-    "type": "card",
-    "timestamp": 1775767492275
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/focus-groups-dissatisfied-democratic-voters-hunt-winners-pull-party-fo-rcna266953",
-    "titleNorm": "focus groups dissatisfied democratic voters hunt for winners",
-    "type": "reel",
-    "timestamp": 1775769016912
-  },
-  {
-    "url": "https://www.foxnews.com/us/south-carolina-pastor-wife-arrested-after-alleged-sexual-physical-abuse-foster-children",
-    "titleNorm": "south carolina pastor wife arrested after alleged sexual",
-    "type": "card",
-    "timestamp": 1775770806354
-  },
-  {
     "url": "https://www.nbcnews.com/business/economy/trump-tax-law-tips-overtime-social-security-outcome-wealthy-reality-rcna266612",
     "titleNorm": "how trumps tax law boosts the wealthy and",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "michigan woman arrested for allegedly starving torturing disabled",
     "type": "card",
     "timestamp": 1775808963378
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-new-arch-resembling-arc-de-triomphe/",
+    "titleNorm": "arc de trump president shows off model of",
+    "type": "reel",
+    "timestamp": 1775814399267
   }
 ]
