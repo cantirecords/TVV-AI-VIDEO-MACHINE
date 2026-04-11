@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/250-foot-arch-renderings-washington-potomac-arlington-cemetery-rcna273733",
-    "titleNorm": "trump arch renderings offer new details on the",
-    "type": "reel",
-    "timestamp": 1775862306005
-  },
-  {
     "url": "https://www.foxnews.com/us/realtors-cold-case-murder-suspect-accused-fleeing-scene-skipping-911-call-new-witness-account-report",
     "titleNorm": "realtors cold case murder suspect accused of fleeing",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "a ceasefire gets off to a rocky start",
     "type": "reel",
     "timestamp": 1775905431828
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/",
+    "titleNorm": "vance arrives in pakistan for iran talks as",
+    "type": "card",
+    "timestamp": 1775906616666
   }
 ]
