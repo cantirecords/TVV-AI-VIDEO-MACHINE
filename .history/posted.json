@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-proposes-painting-executive-office-building-white/",
-    "titleNorm": "trump proposes painting executive office building white",
-    "type": "card",
-    "timestamp": 1775846353174
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-arch-would-dwarf-lincoln-memorial-new-plans-show/",
     "titleNorm": "new plans for trump arch show it would",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1775886937759
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-iran-talks-set-bring-vance-iranian-officials-131944633",
+    "titleNorm": "usiran talks set to bring together vance and",
+    "type": "card",
+    "timestamp": 1775890191911
   }
 ]
