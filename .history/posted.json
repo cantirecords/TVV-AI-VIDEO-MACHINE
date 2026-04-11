@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/realtors-cold-case-murder-suspect-accused-fleeing-scene-skipping-911-call-new-witness-account-report",
-    "titleNorm": "realtors cold case murder suspect accused of fleeing",
-    "type": "card",
-    "timestamp": 1775863574683
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "vance arrives in pakistan for iran talks as",
     "type": "card",
     "timestamp": 1775906616666
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-detainer-lodged-illegal-migrant-accused-murdering-15-year-old-missouri-boy-begged-life",
+    "titleNorm": "ice detainer lodged for illegal migrant accused of",
+    "type": "card",
+    "timestamp": 1775910872327
   }
 ]
