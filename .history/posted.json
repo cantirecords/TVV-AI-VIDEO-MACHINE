@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/white-house-staff-email-warning-bets-prediction-markets-kalshi-polymarket/",
-    "titleNorm": "white house staff received email warning not to",
-    "type": "reel",
-    "timestamp": 1775820433270
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/takeaways-gilgo-beach-case-rex-heuermann-pleads-guilty-131865605",
-    "titleNorm": "takeaways from the gilgo beach case as rex",
-    "type": "card",
-    "timestamp": 1775821241098
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-detainer-lodged-illegal-migrant-accused-murdering-15-year-old-missouri-boy-begged-life",
-    "titleNorm": "ice detainer lodged for illegal migrant accused of",
-    "type": "card",
-    "timestamp": 1775825216702
-  },
-  {
     "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
     "titleNorm": "suspect who killed california deputy run over by",
     "type": "reel",
@@ -112,5 +94,11 @@
     "titleNorm": "realtors cold case murder suspect accused of fleeing",
     "type": "card",
     "timestamp": 1775863574683
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1775870152084
   }
 ]
