@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1775898506968
-  },
-  {
     "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
     "titleNorm": "openai ceo sam altmans home targeted in molotov",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "realtors cold case murder suspect accused of fleeing",
     "type": "reel",
     "timestamp": 1775941188304
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1775942644963
   }
 ]
