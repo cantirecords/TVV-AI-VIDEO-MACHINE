@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-iran-talks-set-bring-vance-iranian-officials-131944633",
-    "titleNorm": "usiran talks set to bring together vance and",
-    "type": "card",
-    "timestamp": 1775890191911
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tribal-gas-stations-offer-reprieve-high-prices-iran-131943979",
     "titleNorm": "tribal gas stations offer a reprieve from high",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1775932165818
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/7-arrested-northern-california-fireworks-warehouse-blast-killed-131923392",
+    "titleNorm": "7 arrested in deadly northern california fireworks warehouse",
+    "type": "reel",
+    "timestamp": 1775934794787
   }
 ]
