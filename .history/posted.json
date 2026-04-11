@@ -88,5 +88,11 @@
     "titleNorm": "welltimed bets on polymarket tied to iran war",
     "type": "reel",
     "timestamp": 1775914690416
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
+    "titleNorm": "the vulnpocalypse why experts fear ai could tip",
+    "type": "card",
+    "timestamp": 1775915336277
   }
 ]
