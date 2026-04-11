@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
-    "titleNorm": "openai ceo sam altmans home targeted in molotov",
-    "type": "card",
-    "timestamp": 1775849838829
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "tribal gas stations offer a reprieve from high",
     "type": "reel",
     "timestamp": 1775892880630
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-vance-arrives-pakistan-talks-iranian-officials-shore-131944657",
+    "titleNorm": "the latest vance arrives in pakistan for talks",
+    "type": "card",
+    "timestamp": 1775893422242
   }
 ]
