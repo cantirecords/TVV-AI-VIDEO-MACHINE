@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/oil-prices-rise-world-shares-retreat-fragile-iran-131867471",
-    "titleNorm": "oil prices jump back up near 100 a",
-    "type": "card",
-    "timestamp": 1775860069437
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/250-foot-arch-renderings-washington-potomac-arlington-cemetery-rcna273733",
     "titleNorm": "trump arch renderings offer new details on the",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "teens suspected of murdering congressional intern linked by",
     "type": "card",
     "timestamp": 1775903058919
+  },
+  {
+    "url": "https://www.nbcnews.com/news/news-quiz/us-iran-ceasefire-news-quiz-rcna267519",
+    "titleNorm": "a ceasefire gets off to a rocky start",
+    "type": "reel",
+    "timestamp": 1775905431828
   }
 ]
