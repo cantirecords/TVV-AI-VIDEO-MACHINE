@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1775870152084
-  },
-  {
     "url": "https://www.foxnews.com/us/five-arrested-alleged-267m-hospice-fraud-scheme-exploited-californias-medi-cal-system",
     "titleNorm": "five arrested in alleged 267m hospice fraud scheme",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "ice detainer lodged for illegal migrant accused of",
     "type": "card",
     "timestamp": 1775910872327
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
+    "titleNorm": "welltimed bets on polymarket tied to iran war",
+    "type": "reel",
+    "timestamp": 1775914690416
   }
 ]
