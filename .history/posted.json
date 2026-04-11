@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
-    "titleNorm": "openai ceo sam altmans home targeted in molotov",
-    "type": "card",
-    "timestamp": 1775899986331
-  },
-  {
     "url": "https://www.foxnews.com/us/teens-suspected-murdering-congressional-intern-linked-dna-shell-casings-prosecutors-say",
     "titleNorm": "teens suspected of murdering congressional intern linked by",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1775942644963
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
+    "titleNorm": "uk puts chagos islands handover deal on hold",
+    "type": "card",
+    "timestamp": 1775946083273
   }
 ]
