@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
-    "titleNorm": "suspect who killed california deputy run over by",
-    "type": "reel",
-    "timestamp": 1775829354386
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-widens-rift-european-nationalists-viewed-131865153",
-    "titleNorm": "trumps iran war widens rift with european nationalists",
-    "type": "card",
-    "timestamp": 1775830231882
-  },
-  {
-    "url": "https://www.foxnews.com/us/child-among-4-dead-accused-arsonist-allegedly-drank-beer-during-chaos",
-    "titleNorm": "child among 4 dead as accused arsonist allegedly",
-    "type": "reel",
-    "timestamp": 1775834223567
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -100,5 +82,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1775870152084
+  },
+  {
+    "url": "https://www.foxnews.com/us/five-arrested-alleged-267m-hospice-fraud-scheme-exploited-californias-medi-cal-system",
+    "titleNorm": "five arrested in alleged 267m hospice fraud scheme",
+    "type": "reel",
+    "timestamp": 1775878017768
   }
 ]
