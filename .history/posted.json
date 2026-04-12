@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1775942644963
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
     "titleNorm": "uk puts chagos islands handover deal on hold",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "iran war diverts us military and attention from",
     "type": "reel",
     "timestamp": 1775985220180
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-widens-rift-european-nationalists-viewed-131865153",
+    "titleNorm": "trumps iran war widens rift with european nationalists",
+    "type": "card",
+    "timestamp": 1775986626724
   }
 ]
