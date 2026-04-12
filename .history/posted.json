@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/takeaways-gilgo-beach-case-rex-heuermann-pleads-guilty-131865605",
-    "titleNorm": "takeaways from the gilgo beach case as rex",
-    "type": "card",
-    "timestamp": 1775968738303
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-promised-cut-electric-costs-half-bills-energy-131865347",
     "titleNorm": "trump promised to cut electric costs in half",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1776011295990
+  },
+  {
+    "url": "https://www.foxnews.com/us/realtors-cold-case-murder-suspect-accused-fleeing-scene-skipping-911-call-new-witness-account-report",
+    "titleNorm": "realtors cold case murder suspect accused of fleeing",
+    "type": "reel",
+    "timestamp": 1776013548099
   }
 ]
