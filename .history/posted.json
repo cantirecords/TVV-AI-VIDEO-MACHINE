@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-iran-war-widens-rift-european-nationalists-viewed-131865153",
-    "titleNorm": "trumps iran war widens rift with european nationalists",
-    "type": "card",
-    "timestamp": 1775986626724
-  },
-  {
     "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
     "titleNorm": "suspect who killed california deputy run over by",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "welltimed bets on polymarket tied to iran war",
     "type": "card",
     "timestamp": 1776029070852
+  },
+  {
+    "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
+    "titleNorm": "atlanta teen arrested for murder after fatal shooting",
+    "type": "card",
+    "timestamp": 1776032626813
   }
 ]
