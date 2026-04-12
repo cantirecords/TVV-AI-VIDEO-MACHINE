@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/child-among-4-dead-accused-arsonist-allegedly-drank-beer-during-chaos",
-    "titleNorm": "child among 4 dead as accused arsonist allegedly",
-    "type": "card",
-    "timestamp": 1775924780262
-  },
-  {
     "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
     "titleNorm": "suspect who killed california deputy run over by",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "why this disillusioned trump voter spends hours searching",
     "type": "reel",
     "timestamp": 1775965956185
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/takeaways-gilgo-beach-case-rex-heuermann-pleads-guilty-131865605",
+    "titleNorm": "takeaways from the gilgo beach case as rex",
+    "type": "card",
+    "timestamp": 1775968738303
   }
 ]
