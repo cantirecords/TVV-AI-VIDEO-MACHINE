@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-promised-cut-electric-costs-half-bills-energy-131865347",
-    "titleNorm": "trump promised to cut electric costs in half",
-    "type": "reel",
-    "timestamp": 1775974270528
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "we need real peace easter truce fails to",
-    "type": "card",
-    "timestamp": 1775974743821
-  },
-  {
     "url": "https://www.foxnews.com/us/scenic-southern-cities-tarnished-homeless-crime-scourge-must-hold-feet-fire-gop-lawmaker-warns",
     "titleNorm": "scenic southern cities tarnished by homeless crime scourge",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "at least 30 killed in stampede at popular",
     "type": "card",
     "timestamp": 1776014821080
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-iran-talks-set-bring-vance-iranian-officials-131944633",
+    "titleNorm": "usiran talks set to bring together vance and",
+    "type": "card",
+    "timestamp": 1776018792626
   }
 ]
