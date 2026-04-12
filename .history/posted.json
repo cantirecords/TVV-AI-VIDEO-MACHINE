@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
-    "titleNorm": "iran war diverts us military and attention from",
-    "type": "reel",
-    "timestamp": 1775985220180
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-iran-war-widens-rift-european-nationalists-viewed-131865153",
     "titleNorm": "trumps iran war widens rift with european nationalists",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1776027776882
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
+    "titleNorm": "welltimed bets on polymarket tied to iran war",
+    "type": "card",
+    "timestamp": 1776029070852
   }
 ]
