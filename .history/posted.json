@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
-    "titleNorm": "welltimed bets on polymarket tied to iran war",
-    "type": "reel",
-    "timestamp": 1775914690416
-  },
-  {
-    "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
-    "titleNorm": "the vulnpocalypse why experts fear ai could tip",
-    "type": "card",
-    "timestamp": 1775915336277
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trial-begin-lawsuit-fatal-los-angeles-police-shooting-131826049",
-    "titleNorm": "trial to begin over fatal los angeles police",
-    "type": "card",
-    "timestamp": 1775917798061
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1775919793875
-  },
-  {
-    "url": "https://www.foxnews.com/us/scenic-southern-cities-tarnished-homeless-crime-scourge-must-hold-feet-fire-gop-lawmaker-warns",
-    "titleNorm": "scenic southern cities tarnished by homeless crime scourge",
-    "type": "card",
-    "timestamp": 1775921098948
-  },
-  {
     "url": "https://www.foxnews.com/us/child-among-4-dead-accused-arsonist-allegedly-drank-beer-during-chaos",
     "titleNorm": "child among 4 dead as accused arsonist allegedly",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "nyc judge seeks to make example of officer",
     "type": "card",
     "timestamp": 1775957162526
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "why this disillusioned trump voter spends hours searching",
+    "type": "reel",
+    "timestamp": 1775965956185
   }
 ]
