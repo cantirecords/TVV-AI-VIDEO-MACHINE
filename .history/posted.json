@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash",
-    "titleNorm": "nyc judge seeks to make example of officer",
-    "type": "card",
-    "timestamp": 1775957162526
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "why this disillusioned trump voter spends hours searching",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "doj argues dc pipe bomb defendant not covered",
     "type": "card",
     "timestamp": 1775997423229
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
+    "titleNorm": "uk puts chagos islands handover deal on hold",
+    "type": "reel",
+    "timestamp": 1776001254673
   }
 ]
