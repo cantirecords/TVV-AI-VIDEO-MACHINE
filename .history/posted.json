@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-iran-talks-set-bring-vance-iranian-officials-131944633",
-    "titleNorm": "usiran talks set to bring together vance and",
-    "type": "card",
-    "timestamp": 1775949851290
-  },
-  {
     "url": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash",
     "titleNorm": "nyc judge seeks to make example of officer",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "exnypd officer gets 3 to 9 years in",
     "type": "reel",
     "timestamp": 1775992079876
+  },
+  {
+    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
+    "titleNorm": "openai ceo sam altmans home targeted in molotov",
+    "type": "card",
+    "timestamp": 1775993288730
   }
 ]
