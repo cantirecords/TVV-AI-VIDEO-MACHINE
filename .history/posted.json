@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1775932165818
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/7-arrested-northern-california-fireworks-warehouse-blast-killed-131923392",
-    "titleNorm": "7 arrested in deadly northern california fireworks warehouse",
-    "type": "reel",
-    "timestamp": 1775934794787
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trump unveils giant goldaccented victory arch design for",
-    "type": "card",
-    "timestamp": 1775935736324
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-vance-arrives-pakistan-talks-iranian-officials-shore-131944657",
     "titleNorm": "the latest vance arrives in pakistan for talks",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "we need real peace easter truce fails to",
     "type": "card",
     "timestamp": 1775974743821
+  },
+  {
+    "url": "https://www.foxnews.com/us/scenic-southern-cities-tarnished-homeless-crime-scourge-must-hold-feet-fire-gop-lawmaker-warns",
+    "titleNorm": "scenic southern cities tarnished by homeless crime scourge",
+    "type": "reel",
+    "timestamp": 1775980280666
   }
 ]
