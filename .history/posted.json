@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-detainer-lodged-illegal-migrant-accused-murdering-15-year-old-missouri-boy-begged-life",
-    "titleNorm": "ice detainer lodged for illegal migrant accused of",
-    "type": "card",
-    "timestamp": 1775910872327
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
     "titleNorm": "welltimed bets on polymarket tied to iran war",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "usiran talks set to bring together vance and",
     "type": "card",
     "timestamp": 1775949851290
+  },
+  {
+    "url": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash",
+    "titleNorm": "nyc judge seeks to make example of officer",
+    "type": "card",
+    "timestamp": 1775957162526
   }
 ]
