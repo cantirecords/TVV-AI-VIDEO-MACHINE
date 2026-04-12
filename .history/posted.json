@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
-    "titleNorm": "uk puts chagos islands handover deal on hold",
-    "type": "card",
-    "timestamp": 1775946083273
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
     "titleNorm": "minnesota fraud suspect skips court forfeits bond throwing",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trumps iran war widens rift with european nationalists",
     "type": "card",
     "timestamp": 1775986626724
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff",
+    "titleNorm": "suspect who killed california deputy run over by",
+    "type": "card",
+    "timestamp": 1775989781577
   }
 ]
