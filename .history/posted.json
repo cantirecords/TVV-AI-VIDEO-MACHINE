@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/realtors-cold-case-murder-suspect-accused-fleeing-scene-skipping-911-call-new-witness-account-report",
-    "titleNorm": "realtors cold case murder suspect accused of fleeing",
-    "type": "reel",
-    "timestamp": 1775941188304
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1775983423375
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
+    "titleNorm": "iran war diverts us military and attention from",
+    "type": "reel",
+    "timestamp": 1775985220180
   }
 ]
