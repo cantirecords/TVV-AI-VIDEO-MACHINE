@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-nypd-officer-faces-sentencing-cooler-throwing-death-131865992",
-    "titleNorm": "exnypd officer gets 3 to 9 years in",
-    "type": "reel",
-    "timestamp": 1775992079876
-  },
-  {
     "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
     "titleNorm": "openai ceo sam altmans home targeted in molotov",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "scenic southern cities tarnished by homeless crime scourge",
     "type": "reel",
     "timestamp": 1776035078025
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
+    "titleNorm": "minnesota fraud suspect skips court forfeits bond throwing",
+    "type": "card",
+    "timestamp": 1776036330821
   }
 ]
