@@ -64,5 +64,11 @@
     "titleNorm": "election loss for hungarian pm orbn has ripple",
     "type": "reel",
     "timestamp": 1776089711047
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-arrested-possible-shooting-near-openai-ceo-sam-altmans-home",
+    "titleNorm": "two arrested in possible shooting near openai ceo",
+    "type": "card",
+    "timestamp": 1776091830222
   }
 ]
