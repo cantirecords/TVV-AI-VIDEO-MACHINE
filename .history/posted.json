@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
-    "titleNorm": "uk puts chagos islands handover deal on hold",
-    "type": "reel",
-    "timestamp": 1776001254673
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/federal-appeals-court-allows-construction-white-house-ballroom-rcna266914",
-    "titleNorm": "appeals court rules trumps white house ballroom construction",
-    "type": "card",
-    "timestamp": 1776002034049
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/latest-vance-arrives-pakistan-talks-iranian-officials-shore-131944657",
-    "titleNorm": "the latest vance arrives in pakistan for talks",
-    "type": "card",
-    "timestamp": 1776004449636
-  },
-  {
-    "url": "https://www.foxnews.com/us/teens-suspected-murdering-congressional-intern-linked-dna-shell-casings-prosecutors-say",
-    "titleNorm": "teens suspected of murdering congressional intern linked by",
-    "type": "reel",
-    "timestamp": 1776006360692
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1776007706347
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "oil prices surge after trump says us will",
     "type": "card",
     "timestamp": 1776043647227
+  },
+  {
+    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
+    "titleNorm": "openai ceo sam altmans home targeted in molotov",
+    "type": "reel",
+    "timestamp": 1776052795627
   }
 ]
