@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
-    "titleNorm": "openai ceo sam altmans home targeted in molotov",
-    "type": "reel",
-    "timestamp": 1776052795627
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "two arrested in possible shooting near openai ceo",
     "type": "card",
     "timestamp": 1776091830222
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1776096087594
   }
 ]
