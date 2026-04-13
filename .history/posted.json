@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/markets/oil-prices-surge-trump-says-us-will-blockade-strait-hormuz-rcna330824",
-    "titleNorm": "oil prices surge after trump says us will",
-    "type": "card",
-    "timestamp": 1776043647227
-  },
-  {
     "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
     "titleNorm": "openai ceo sam altmans home targeted in molotov",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "husband arrested in bahamas in connection to wife039s",
     "type": "card",
     "timestamp": 1776085239210
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/election-loss-hungarian-prime-minister-orbn-ripple-effects-131982673",
+    "titleNorm": "election loss for hungarian pm orbn has ripple",
+    "type": "reel",
+    "timestamp": 1776089711047
   }
 ]
