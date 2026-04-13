@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/person-throws-molotov-cocktail-openai-ceo-sam-altmans-home-company-says",
-    "titleNorm": "openai ceo sam altmans home targeted in molotov",
-    "type": "card",
-    "timestamp": 1775993288730
-  },
-  {
-    "url": "https://www.cbsnews.com/news/justice-dept-argues-d-c-pipe-bomb-defendant-not-covered-by-trumps-jan-6-pardons/",
-    "titleNorm": "doj argues dc pipe bomb defendant not covered",
-    "type": "card",
-    "timestamp": 1775997423229
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
     "titleNorm": "uk puts chagos islands handover deal on hold",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "minnesota fraud suspect skips court forfeits bond throwing",
     "type": "card",
     "timestamp": 1776036330821
+  },
+  {
+    "url": "https://www.nbcnews.com/business/markets/oil-prices-surge-trump-says-us-will-blockade-strait-hormuz-rcna330824",
+    "titleNorm": "oil prices surge after trump says us will",
+    "type": "card",
+    "timestamp": 1776043647227
   }
 ]
