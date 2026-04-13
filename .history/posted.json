@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/financial-pressure-midwest-soybean-farmers-squeezed-tariffs-iran-131983134",
-    "titleNorm": "already under financial pressure midwest soybean farmers are",
-    "type": "reel",
-    "timestamp": 1776069089978
-  },
-  {
     "url": "https://www.cbsnews.com/news/britney-spears-rehab-southern-california-dui-arrest/",
     "titleNorm": "britney spears voluntarily checks into rehab after california",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "1yearold injured after teen driver crashes car off",
     "type": "card",
     "timestamp": 1776110826711
+  },
+  {
+    "url": "https://www.foxnews.com/us/bahamas-authorities-race-deadline-charge-cut-loose-husband-missing-american-woman",
+    "titleNorm": "bahamas authorities race against deadline to charge or",
+    "type": "reel",
+    "timestamp": 1776114892889
   }
 ]
