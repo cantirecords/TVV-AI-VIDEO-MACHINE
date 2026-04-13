@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-iran-talks-set-bring-vance-iranian-officials-131944633",
-    "titleNorm": "usiran talks set to bring together vance and",
-    "type": "card",
-    "timestamp": 1776018792626
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-iran-end-ceasefire-talks-vance-heads-home-131965808",
     "titleNorm": "us and iran end ceasefire talks and vance",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "the latest us military says it will blockade",
     "type": "reel",
     "timestamp": 1776061912113
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-not-big-fan-weak-terrible-pope-leo-rcna331461",
+    "titleNorm": "trump assails pope leo as weak and terrible",
+    "type": "card",
+    "timestamp": 1776064222097
   }
 ]
