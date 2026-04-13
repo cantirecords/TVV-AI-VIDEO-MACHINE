@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
-    "titleNorm": "minnesota fraud suspect skips court forfeits bond throwing",
-    "type": "card",
-    "timestamp": 1776036330821
-  },
-  {
     "url": "https://www.nbcnews.com/business/markets/oil-prices-surge-trump-says-us-will-blockade-strait-hormuz-rcna330824",
     "titleNorm": "oil prices surge after trump says us will",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1776078579637
+  },
+  {
+    "url": "https://www.nbcnews.com/world/europe/europe-celebrates-orban-defeat-hungary-election-putin-trump-maga-rcna331478",
+    "titleNorm": "europe celebrates as orbns landslide defeat deals a",
+    "type": "reel",
+    "timestamp": 1776081085018
   }
 ]
