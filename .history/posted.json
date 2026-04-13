@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-not-big-fan-weak-terrible-pope-leo-rcna331461",
-    "titleNorm": "trump assails pope leo as weak and terrible",
-    "type": "card",
-    "timestamp": 1776064222097
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/financial-pressure-midwest-soybean-farmers-squeezed-tariffs-iran-131983134",
     "titleNorm": "already under financial pressure midwest soybean farmers are",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "bodies of two iron workers recovered from rubble",
     "type": "card",
     "timestamp": 1776106867396
+  },
+  {
+    "url": "https://www.foxnews.com/us/1-year-old-injured-teen-driver-crashes-car-oklahoma-bridge",
+    "titleNorm": "1yearold injured after teen driver crashes car off",
+    "type": "card",
+    "timestamp": 1776110826711
   }
 ]
