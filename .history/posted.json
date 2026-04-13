@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
-    "titleNorm": "atlanta teen arrested for murder after fatal shooting",
-    "type": "card",
-    "timestamp": 1776032626813
-  },
-  {
-    "url": "https://www.foxnews.com/us/scenic-southern-cities-tarnished-homeless-crime-scourge-must-hold-feet-fire-gop-lawmaker-warns",
-    "titleNorm": "scenic southern cities tarnished by homeless crime scourge",
-    "type": "reel",
-    "timestamp": 1776035078025
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-skips-court-forfeits-bond-throwing-11m-medicaid-case-doubt",
     "titleNorm": "minnesota fraud suspect skips court forfeits bond throwing",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "what to know about trumps tax breaks for",
     "type": "reel",
     "timestamp": 1776075382282
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1776078579637
   }
 ]
