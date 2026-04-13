@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/britney-spears-rehab-southern-california-dui-arrest/",
-    "titleNorm": "britney spears voluntarily checks into rehab after california",
-    "type": "card",
-    "timestamp": 1776072466248
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-tax-breaks-tips-overtime-filing-state-tax-131965165",
     "titleNorm": "what to know about trumps tax breaks for",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "bahamas authorities race against deadline to charge or",
     "type": "reel",
     "timestamp": 1776114892889
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
+    "titleNorm": "iran war diverts us military and attention from",
+    "type": "card",
+    "timestamp": 1776116456680
   }
 ]
