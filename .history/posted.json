@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1776027776882
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/timed-bets-polymarket-tied-iran-war-draw-calls-131891242",
-    "titleNorm": "welltimed bets on polymarket tied to iran war",
-    "type": "card",
-    "timestamp": 1776029070852
-  },
-  {
     "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
     "titleNorm": "atlanta teen arrested for murder after fatal shooting",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "already under financial pressure midwest soybean farmers are",
     "type": "reel",
     "timestamp": 1776069089978
+  },
+  {
+    "url": "https://www.cbsnews.com/news/britney-spears-rehab-southern-california-dui-arrest/",
+    "titleNorm": "britney spears voluntarily checks into rehab after california",
+    "type": "card",
+    "timestamp": 1776072466248
   }
 ]
