@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
-    "titleNorm": "atlanta teen arrested for murder after fatal shooting",
-    "type": "card",
-    "timestamp": 1776130078658
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
     "titleNorm": "uk puts chagos islands handover deal on hold",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "trump faces bipartisan backlash over feud with pope",
     "type": "card",
     "timestamp": 1776171576785
+  },
+  {
+    "url": "https://www.foxnews.com/us/molotov-cocktail-attack-sam-altman-home-sparks-fears-copycat-strikes-tech-executives",
+    "titleNorm": "molotov cocktail attack on sam altmans home sparks",
+    "type": "reel",
+    "timestamp": 1776176510076
   }
 ]
