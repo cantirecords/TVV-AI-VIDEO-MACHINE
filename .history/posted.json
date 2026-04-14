@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-biden-staffer-claims-accidental-shot-killed-girlfriend-dad-blasts-toxic-abusive-relationship-report",
-    "titleNorm": "exbiden staffer claims accidental shot killed girlfriend as",
-    "type": "reel",
-    "timestamp": 1776101998403
-  },
-  {
-    "url": "https://www.foxnews.com/us/watch-eviction-standoff-turns-war-zone-gunman-kills-deputy-ambush-gets-run-armored-vehicle",
-    "titleNorm": "watch eviction standoff turns to war zone as",
-    "type": "card",
-    "timestamp": 1776102732308
-  },
-  {
     "url": "https://www.foxnews.com/us/bodies-two-iron-workers-recovered-rubble-philadelphia-parking-garage-5-days-partial-collapse",
     "titleNorm": "bodies of two iron workers recovered from rubble",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "the latest us military says it will blockade",
     "type": "card",
     "timestamp": 1776141458901
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/100-days-rally-mamdani-celebrates-charts-city-run-131979411",
+    "titleNorm": "at 100 days rally mamdani celebrates and charts",
+    "type": "card",
+    "timestamp": 1776147987364
   }
 ]
