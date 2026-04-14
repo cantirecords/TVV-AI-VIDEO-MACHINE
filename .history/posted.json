@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/100-days-rally-mamdani-celebrates-charts-city-run-131979411",
-    "titleNorm": "at 100 days rally mamdani celebrates and charts",
-    "type": "card",
-    "timestamp": 1776147987364
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dozens-arrested-protesters-demand-schumer-gillibrand-block-sale-132007441",
     "titleNorm": "dozens arrested as protesters demand schumer and gillibrand",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "already under financial pressure midwest soybean farmers are",
     "type": "card",
     "timestamp": 1776189626176
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
+    "titleNorm": "a 57 earthquake jolts rural nevada near carson",
+    "type": "card",
+    "timestamp": 1776193606938
   }
 ]
