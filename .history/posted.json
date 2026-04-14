@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dozens-arrested-protesters-demand-schumer-gillibrand-block-sale-132007441",
-    "titleNorm": "dozens arrested as protesters demand schumer and gillibrand",
-    "type": "reel",
-    "timestamp": 1776154360205
-  },
-  {
-    "url": "https://www.foxnews.com/us/1-year-old-injured-teen-driver-crashes-car-oklahoma-bridge",
-    "titleNorm": "1yearold injured after teen driver crashes car off",
-    "type": "card",
-    "timestamp": 1776154928007
-  },
-  {
     "url": "https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead",
     "titleNorm": "manhunt underway after gunmen storm chickfila leaving 1",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "woman killed in officerinvolved shooting at omaha walmart",
     "type": "reel",
     "timestamp": 1776196239489
+  },
+  {
+    "url": "https://www.foxnews.com/us/new-jersey-nurse-gunned-work-estranged-husband-murder-suicide-police",
+    "titleNorm": "new jersey nurse gunned down at work by",
+    "type": "card",
+    "timestamp": 1776199344718
   }
 ]
