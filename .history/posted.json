@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bodies-two-iron-workers-recovered-rubble-philadelphia-parking-garage-5-days-partial-collapse",
-    "titleNorm": "bodies of two iron workers recovered from rubble",
-    "type": "card",
-    "timestamp": 1776106867396
-  },
-  {
-    "url": "https://www.foxnews.com/us/1-year-old-injured-teen-driver-crashes-car-oklahoma-bridge",
-    "titleNorm": "1yearold injured after teen driver crashes car off",
-    "type": "card",
-    "timestamp": 1776110826711
-  },
-  {
     "url": "https://www.foxnews.com/us/bahamas-authorities-race-deadline-charge-cut-loose-husband-missing-american-woman",
     "titleNorm": "bahamas authorities race against deadline to charge or",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "at 100 days rally mamdani celebrates and charts",
     "type": "card",
     "timestamp": 1776147987364
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/dozens-arrested-protesters-demand-schumer-gillibrand-block-sale-132007441",
+    "titleNorm": "dozens arrested as protesters demand schumer and gillibrand",
+    "type": "reel",
+    "timestamp": 1776154360205
   }
 ]
