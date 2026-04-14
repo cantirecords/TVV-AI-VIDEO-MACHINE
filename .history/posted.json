@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/europe-celebrates-orban-defeat-hungary-election-putin-trump-maga-rcna331478",
-    "titleNorm": "europe celebrates as orbns landslide defeat deals a",
-    "type": "reel",
-    "timestamp": 1776081085018
-  },
-  {
-    "url": "https://www.cbsnews.com/news/lynette-hooker-bahamas-criminal-investigation-coast-guard/",
-    "titleNorm": "husband arrested in bahamas in connection to wife039s",
-    "type": "card",
-    "timestamp": 1776085239210
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/election-loss-hungarian-prime-minister-orbn-ripple-effects-131982673",
     "titleNorm": "election loss for hungarian pm orbn has ripple",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "illegal immigrant accused of easter kidnapping sex assault",
     "type": "card",
     "timestamp": 1776123337267
+  },
+  {
+    "url": "https://www.foxnews.com/us/atlanta-teen-arrested-murder-after-fatal-shooting-12-year-old-inside-home",
+    "titleNorm": "atlanta teen arrested for murder after fatal shooting",
+    "type": "card",
+    "timestamp": 1776130078658
   }
 ]
