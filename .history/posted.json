@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-us-vice-president-vance-leaves-pakistan-after-131965352",
-    "titleNorm": "the latest us military says it will blockade",
-    "type": "card",
-    "timestamp": 1776141458901
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/100-days-rally-mamdani-celebrates-charts-city-run-131979411",
     "titleNorm": "at 100 days rally mamdani celebrates and charts",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "at least 16 wounded in turkey high school",
     "type": "card",
     "timestamp": 1776182487907
+  },
+  {
+    "url": "https://www.foxnews.com/us/watch-rowdy-teenagers-swarm-dc-navy-yard-waterfront-takeover-despite-police-juvenile-curfew-zone",
+    "titleNorm": "watch rowdy teenagers swarm dc navy yard in",
+    "type": "reel",
+    "timestamp": 1776188582545
   }
 ]
