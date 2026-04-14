@@ -64,5 +64,11 @@
     "titleNorm": "molotov cocktail attack on sam altmans home sparks",
     "type": "reel",
     "timestamp": 1776176510076
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-promised-tax-relief-polling-shows-americans-overpaying-132021710",
+    "titleNorm": "trump promised tax relief but polling shows most",
+    "type": "card",
+    "timestamp": 1776178266733
   }
 ]
