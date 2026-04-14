@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/uk-puts-chagos-islands-handover-deal-hold-after-131946939",
-    "titleNorm": "uk puts chagos islands handover deal on hold",
-    "type": "reel",
-    "timestamp": 1776138575757
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/latest-us-vice-president-vance-leaves-pakistan-after-131965352",
     "titleNorm": "the latest us military says it will blockade",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trump promised tax relief but polling shows most",
     "type": "card",
     "timestamp": 1776178266733
+  },
+  {
+    "url": "https://www.cbsnews.com/news/mark-meadows-reimbursement-justice-department-legal-fees-trump-probe/",
+    "titleNorm": "meadows seeks reimbursement from doj for legal fees",
+    "type": "reel",
+    "timestamp": 1776181797915
   }
 ]
