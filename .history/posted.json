@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bahamas-authorities-race-deadline-charge-cut-loose-husband-missing-american-woman",
-    "titleNorm": "bahamas authorities race against deadline to charge or",
-    "type": "reel",
-    "timestamp": 1776114892889
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/iran-war-diverts-us-military-attention-asia-ahead-131964994",
-    "titleNorm": "iran war diverts us military and attention from",
-    "type": "card",
-    "timestamp": 1776116456680
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-iran-end-ceasefire-talks-vance-heads-home-131965808",
     "titleNorm": "us military says it will blockade iranian ports",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "1yearold injured after teen driver crashes car off",
     "type": "card",
     "timestamp": 1776154928007
+  },
+  {
+    "url": "https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead",
+    "titleNorm": "manhunt underway after gunmen storm chickfila leaving 1",
+    "type": "reel",
+    "timestamp": 1776160567857
   }
 ]
