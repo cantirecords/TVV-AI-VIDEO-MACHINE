@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/mark-meadows-reimbursement-justice-department-legal-fees-trump-probe/",
-    "titleNorm": "meadows seeks reimbursement from doj for legal fees",
-    "type": "reel",
-    "timestamp": 1776181797915
-  },
-  {
-    "url": "https://www.cbsnews.com/news/turkey-high-school-shooting-gunman-dead/",
-    "titleNorm": "at least 16 wounded in turkey high school",
-    "type": "card",
-    "timestamp": 1776182487907
-  },
-  {
     "url": "https://www.foxnews.com/us/watch-rowdy-teenagers-swarm-dc-navy-yard-waterfront-takeover-despite-police-juvenile-curfew-zone",
     "titleNorm": "watch rowdy teenagers swarm dc navy yard in",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "doj seeks to vacate jan 6 convictions in",
     "type": "reel",
     "timestamp": 1776224883838
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1776227886975
   }
 ]
