@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/watch-rowdy-teenagers-swarm-dc-navy-yard-waterfront-takeover-despite-police-juvenile-curfew-zone",
-    "titleNorm": "watch rowdy teenagers swarm dc navy yard in",
-    "type": "reel",
-    "timestamp": 1776188582545
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/financial-pressure-midwest-soybean-farmers-squeezed-tariffs-iran-131983134",
-    "titleNorm": "already under financial pressure midwest soybean farmers are",
-    "type": "card",
-    "timestamp": 1776189626176
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
     "titleNorm": "a 57 earthquake jolts rural nevada near carson",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1776227886975
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/boat-strike-eastern-pacific-ocean-leaves-2-dead-132013977",
+    "titleNorm": "another boat strike in the eastern pacific ocean",
+    "type": "reel",
+    "timestamp": 1776233945256
   }
 ]
