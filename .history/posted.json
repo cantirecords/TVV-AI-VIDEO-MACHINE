@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-biden-staffer-claims-accidental-shot-killed-girlfriend-dad-blasts-toxic-abusive-relationship-report",
-    "titleNorm": "exbiden staffer claims accidental shot killed girlfriend as",
-    "type": "reel",
-    "timestamp": 1776166801522
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-accused-easter-kidnapping-sex-assault-college-town-dhs-rips-second-attack-weeks",
-    "titleNorm": "illegal immigrant accused of easter kidnapping sex assault",
-    "type": "card",
-    "timestamp": 1776167492995
-  },
-  {
-    "url": "https://www.today.com/video/trump-says-he-won-t-apologize-to-pope-leo-amid-backlash-261313093856",
-    "titleNorm": "trump faces bipartisan backlash over feud with pope",
-    "type": "card",
-    "timestamp": 1776171576785
-  },
-  {
     "url": "https://www.foxnews.com/us/molotov-cocktail-attack-sam-altman-home-sparks-fears-copycat-strikes-tech-executives",
     "titleNorm": "molotov cocktail attack on sam altmans home sparks",
     "type": "reel",
@@ -100,5 +82,11 @@
     "titleNorm": "cop who killed drug suspect with igloo cooler",
     "type": "card",
     "timestamp": 1776209747376
+  },
+  {
+    "url": "https://www.cbsnews.com/news/house-passes-alert-act-aviation-safety-bill/",
+    "titleNorm": "house passes aviation safety bill in response to",
+    "type": "card",
+    "timestamp": 1776216253444
   }
 ]
