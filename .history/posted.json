@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/boat-strike-eastern-pacific-ocean-leaves-2-dead-132013977",
-    "titleNorm": "another boat strike in the eastern pacific ocean",
-    "type": "reel",
-    "timestamp": 1776233945256
-  },
-  {
-    "url": "https://www.foxnews.com/us/three-year-old-girl-killed-pregnant-mother-injured-alleged-drag-racers-split-car-half-arizona",
-    "titleNorm": "threeyearold girl killed pregnant mother injured after alleged",
-    "type": "card",
-    "timestamp": 1776234452966
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "suspect arrested after housekeeper tied up attacked in",
     "type": "reel",
     "timestamp": 1776274740216
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1776279584124
   }
 ]
