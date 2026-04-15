@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1776240891412
-  },
-  {
-    "url": "https://www.foxnews.com/us/house-vote-aviation-safety-bill-after-deadly-dc-midair-crash",
-    "titleNorm": "house to vote on aviation safety bill after",
-    "type": "card",
-    "timestamp": 1776241338759
-  },
-  {
     "url": "https://www.foxnews.com/us/suspect-sam-altman-molotov-cocktail-plot-cries-meltdown-attempted-murder-judge-keeps-locked",
     "titleNorm": "suspect in sam altman molotov cocktail plot cries",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "widow son of late chicago commissioner found shot",
     "type": "card",
     "timestamp": 1776283427592
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1776287701758
   }
 ]
