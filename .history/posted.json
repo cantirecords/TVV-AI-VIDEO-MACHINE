@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cop-killed-drug-suspect-igloo-cooler-appeals-conviction-made-example",
-    "titleNorm": "cop who killed drug suspect with igloo cooler",
-    "type": "card",
-    "timestamp": 1776209747376
-  },
-  {
     "url": "https://www.cbsnews.com/news/house-passes-alert-act-aviation-safety-bill/",
     "titleNorm": "house passes aviation safety bill in response to",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "baby jessica arrested in texas following alleged domestic",
     "type": "reel",
     "timestamp": 1776252868284
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/bodycam-video-contradicts-st-louis-polices-earlier-account-132013446",
+    "titleNorm": "bodycam video contradicts polices earlier account in fatal",
+    "type": "card",
+    "timestamp": 1776253620151
   }
 ]
