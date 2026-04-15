@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/house-passes-alert-act-aviation-safety-bill/",
-    "titleNorm": "house passes aviation safety bill in response to",
-    "type": "card",
-    "timestamp": 1776216253444
-  },
-  {
     "url": "https://www.foxnews.com/us/doj-seeks-vacate-jan-6-convictions-sweeping-move-trump-order",
     "titleNorm": "doj seeks to vacate jan 6 convictions in",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "trump says iran war is close to over",
     "type": "card",
     "timestamp": 1776257919111
+  },
+  {
+    "url": "https://www.foxnews.com/us/president-trump-says-iran-war-very-close-being-over-more-top-headlines",
+    "titleNorm": "president trump says iran war is very close",
+    "type": "reel",
+    "timestamp": 1776262484629
   }
 ]
