@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/molotov-cocktail-attack-sam-altman-home-sparks-fears-copycat-strikes-tech-executives",
-    "titleNorm": "molotov cocktail attack on sam altmans home sparks",
-    "type": "reel",
-    "timestamp": 1776176510076
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-promised-tax-relief-polling-shows-americans-overpaying-132021710",
-    "titleNorm": "trump promised tax relief but polling shows most",
-    "type": "card",
-    "timestamp": 1776178266733
-  },
-  {
     "url": "https://www.cbsnews.com/news/mark-meadows-reimbursement-justice-department-legal-fees-trump-probe/",
     "titleNorm": "meadows seeks reimbursement from doj for legal fees",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "house passes aviation safety bill in response to",
     "type": "card",
     "timestamp": 1776216253444
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-seeks-vacate-jan-6-convictions-sweeping-move-trump-order",
+    "titleNorm": "doj seeks to vacate jan 6 convictions in",
+    "type": "reel",
+    "timestamp": 1776224883838
   }
 ]
