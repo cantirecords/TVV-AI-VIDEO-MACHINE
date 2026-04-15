@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/doj-seeks-vacate-jan-6-convictions-sweeping-move-trump-order",
-    "titleNorm": "doj seeks to vacate jan 6 convictions in",
-    "type": "reel",
-    "timestamp": 1776224883838
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "anna kepners dad wants accused stepbrother in orange",
     "type": "reel",
     "timestamp": 1776268065104
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-rejects-colorado-amid-accusations-playing-politics-disaster-132041360",
+    "titleNorm": "trump again rejects colorado amid accusations of playing",
+    "type": "card",
+    "timestamp": 1776268757509
   }
 ]
