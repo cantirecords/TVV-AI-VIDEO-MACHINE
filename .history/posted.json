@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-jersey-nurse-gunned-work-estranged-husband-murder-suicide-police",
-    "titleNorm": "new jersey nurse gunned down at work by",
-    "type": "card",
-    "timestamp": 1776199344718
-  },
-  {
-    "url": "https://www.foxnews.com/us/anna-kepner-dad-wants-accused-stepbrother-orange-jumpsuit-handcuffs-alleged-cruise-murder",
-    "titleNorm": "anna kepners dad wants accused stepbrother in orange",
-    "type": "reel",
-    "timestamp": 1776201277472
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1776202927242
-  },
-  {
     "url": "https://www.foxnews.com/us/jd-vance-says-ball-in-irans-court-potential-agreement-more-top-headlines",
     "titleNorm": "jd vance says the ball is in irans",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "house to vote on aviation safety bill after",
     "type": "card",
     "timestamp": 1776241338759
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspect-sam-altman-molotov-cocktail-plot-cries-meltdown-attempted-murder-judge-keeps-locked",
+    "titleNorm": "suspect in sam altman molotov cocktail plot cries",
+    "type": "reel",
+    "timestamp": 1776247077462
   }
 ]
