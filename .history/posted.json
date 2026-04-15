@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/baby-jessica-arrested-texas-following-alleged-domestic-disturbance",
-    "titleNorm": "baby jessica arrested in texas following alleged domestic",
-    "type": "reel",
-    "timestamp": 1776252868284
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/bodycam-video-contradicts-st-louis-polices-earlier-account-132013446",
     "titleNorm": "bodycam video contradicts polices earlier account in fatal",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "4 killed after us strikes suspected drug boat",
     "type": "reel",
     "timestamp": 1776294632472
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-extends-pause-work-turn-maryland-warehouse-immigrant-132079527",
+    "titleNorm": "judge extends pause on work to turn maryland",
+    "type": "card",
+    "timestamp": 1776296087197
   }
 ]
