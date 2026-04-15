@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/suspect-sam-altman-molotov-cocktail-plot-cries-meltdown-attempted-murder-judge-keeps-locked",
-    "titleNorm": "suspect in sam altman molotov cocktail plot cries",
-    "type": "reel",
-    "timestamp": 1776247077462
-  },
-  {
-    "url": "https://www.foxnews.com/us/georgia-attack-suspect-uk-naturalized-citizen-dhs",
-    "titleNorm": "suspect in string of random attacks in georgia",
-    "type": "card",
-    "timestamp": 1776247684683
-  },
-  {
     "url": "https://www.foxnews.com/us/baby-jessica-arrested-texas-following-alleged-domestic-disturbance",
     "titleNorm": "baby jessica arrested in texas following alleged domestic",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "disgruntled worker invokes luigi mangione in 500m warehouse",
     "type": "card",
     "timestamp": 1776289404642
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
+    "titleNorm": "a 57 earthquake jolts rural nevada near carson",
+    "type": "card",
+    "timestamp": 1776292397815
   }
 ]
