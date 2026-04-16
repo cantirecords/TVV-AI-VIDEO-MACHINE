@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1776279584124
-  },
-  {
-    "url": "https://www.cbsnews.com/news/turkey-school-shooting-kahramanmaras/",
-    "titleNorm": "eighth grader kills 9 wounds 13 in turkey",
-    "type": "reel",
-    "timestamp": 1776282628253
-  },
-  {
-    "url": "https://www.foxnews.com/us/widow-son-late-chicago-commissioner-found-shot-dead-inside-home-suspected-homicide",
-    "titleNorm": "widow son of late chicago commissioner found shot",
-    "type": "card",
-    "timestamp": 1776283427592
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -76,5 +58,11 @@
     "titleNorm": "trump to promote tax breaks in las vegas",
     "type": "card",
     "timestamp": 1776321033190
+  },
+  {
+    "url": "https://www.foxnews.com/us/navy-reservist-accused-murdering-wife-hiding-her-body-freezer-arrested-after-international-manhunt",
+    "titleNorm": "navy reservist accused of murdering wife and hiding",
+    "type": "reel",
+    "timestamp": 1776327256542
   }
 ]
