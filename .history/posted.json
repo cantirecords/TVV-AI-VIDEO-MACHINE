@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/senate-republicans-block-democratic-effort-end-trumps-iran-war-rcna331819",
-    "titleNorm": "senate republicans again block democratic effort to end",
-    "type": "reel",
-    "timestamp": 1776311613527
-  },
-  {
     "url": "https://www.foxnews.com/us/man-joker-inspired-rifle-fires-gun-runs-traffic-near-trump-golf-course-deputies-say",
     "titleNorm": "man with jokerinspired rifle fires gun runs into",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "drugmakers raised prices on hundreds of drugs despite",
     "type": "card",
     "timestamp": 1776352916949
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-aircraft-carrier-breaks-record-longest-deployment-vietnam-132079140",
+    "titleNorm": "us aircraft carrier breaks record for longest deployment",
+    "type": "reel",
+    "timestamp": 1776355515296
   }
 ]
