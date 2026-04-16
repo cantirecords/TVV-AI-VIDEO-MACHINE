@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/justice-department/doj-hosts-anti-abortion-advocates-fired-staff-work-abortion-rights-org-rcna331956",
-    "titleNorm": "doj hosts antiabortion advocates after it fired staff",
-    "type": "card",
-    "timestamp": 1776302959809
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/senate-republicans-block-democratic-effort-end-trumps-iran-war-rcna331819",
     "titleNorm": "senate republicans again block democratic effort to end",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "molotovslinging menace allegedly strikes tesla shop amid wave",
     "type": "card",
     "timestamp": 1776344618204
+  },
+  {
+    "url": "https://www.cbsnews.com/news/justin-fairfax-murder-suicide-wife-cerine-fairfax/",
+    "titleNorm": "former virginia lt gov justin fairfax wife dead",
+    "type": "reel",
+    "timestamp": 1776349334051
   }
 ]
