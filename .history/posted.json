@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-rejects-colorado-amid-accusations-playing-politics-disaster-132041360",
-    "titleNorm": "trump again rejects colorado amid accusations of playing",
-    "type": "card",
-    "timestamp": 1776268757509
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-prosecutors-turned-federal-reserve-building-trump-threatens-132063466",
     "titleNorm": "federal prosecutors turned away from federal reserve building",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "senate republicans again block democratic effort to end",
     "type": "reel",
     "timestamp": 1776311613527
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-joker-inspired-rifle-fires-gun-runs-traffic-near-trump-golf-course-deputies-say",
+    "titleNorm": "man with jokerinspired rifle fires gun runs into",
+    "type": "card",
+    "timestamp": 1776314689024
   }
 ]
