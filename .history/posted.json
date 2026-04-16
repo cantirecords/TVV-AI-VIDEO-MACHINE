@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/navy-reservist-accused-murdering-wife-hiding-her-body-freezer-arrested-after-international-manhunt",
-    "titleNorm": "navy reservist accused of murdering wife and hiding",
-    "type": "reel",
-    "timestamp": 1776327256542
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1776327825404
-  },
-  {
     "url": "https://www.cbsnews.com/news/3-killed-latest-us-strike-alleged-drug-boat-eastern-pacific/",
     "titleNorm": "3 killed in latest us strike on alleged",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "firefighter accused of killing cheerleading coach he called",
     "type": "card",
     "timestamp": 1776369476381
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-plan-build-triumphal-arch-gets-hearing-key-132092676",
+    "titleNorm": "trumps plan to build a triumphal arch gets",
+    "type": "card",
+    "timestamp": 1776372109418
   }
 ]
