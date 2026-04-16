@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1776287701758
-  },
-  {
-    "url": "https://www.foxnews.com/us/disgruntled-worker-invokes-luigi-mangione-500m-warehouse-inferno-filmed-anti-capitalist-rage-feds",
-    "titleNorm": "disgruntled worker invokes luigi mangione in 500m warehouse",
-    "type": "card",
-    "timestamp": 1776289404642
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
     "titleNorm": "a 57 earthquake jolts rural nevada near carson",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1776327825404
+  },
+  {
+    "url": "https://www.cbsnews.com/news/3-killed-latest-us-strike-alleged-drug-boat-eastern-pacific/",
+    "titleNorm": "3 killed in latest us strike on alleged",
+    "type": "reel",
+    "timestamp": 1776333422461
   }
 ]
