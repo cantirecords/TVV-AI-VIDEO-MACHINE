@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-joker-inspired-rifle-fires-gun-runs-traffic-near-trump-golf-course-deputies-say",
-    "titleNorm": "man with jokerinspired rifle fires gun runs into",
-    "type": "card",
-    "timestamp": 1776314689024
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-prosecutors-turned-federal-reserve-building-trump-threatens-132063466",
     "titleNorm": "federal prosecutors turned away from federal reserve building",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "us aircraft carrier breaks record for longest deployment",
     "type": "reel",
     "timestamp": 1776355515296
+  },
+  {
+    "url": "https://www.foxnews.com/us/widow-son-late-chicago-commissioner-found-shot-dead-inside-home-suspected-homicide",
+    "titleNorm": "widow son of late chicago commissioner found shot",
+    "type": "card",
+    "timestamp": 1776358972070
   }
 ]
