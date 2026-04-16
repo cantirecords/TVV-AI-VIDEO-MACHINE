@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/president-trump-says-iran-war-very-close-being-over-more-top-headlines",
-    "titleNorm": "president trump says iran war is very close",
-    "type": "reel",
-    "timestamp": 1776262484629
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1776263408317
-  },
-  {
-    "url": "https://www.foxnews.com/us/anna-kepner-dad-wants-accused-stepbrother-orange-jumpsuit-handcuffs-alleged-cruise-murder",
-    "titleNorm": "anna kepners dad wants accused stepbrother in orange",
-    "type": "reel",
-    "timestamp": 1776268065104
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-rejects-colorado-amid-accusations-playing-politics-disaster-132041360",
     "titleNorm": "trump again rejects colorado amid accusations of playing",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "doj hosts antiabortion advocates after it fired staff",
     "type": "card",
     "timestamp": 1776302959809
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/senate-republicans-block-democratic-effort-end-trumps-iran-war-rcna331819",
+    "titleNorm": "senate republicans again block democratic effort to end",
+    "type": "reel",
+    "timestamp": 1776311613527
   }
 ]
