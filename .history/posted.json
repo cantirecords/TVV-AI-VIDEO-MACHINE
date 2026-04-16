@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/3-killed-latest-us-strike-alleged-drug-boat-eastern-pacific/",
-    "titleNorm": "3 killed in latest us strike on alleged",
-    "type": "reel",
-    "timestamp": 1776333422461
-  },
-  {
     "url": "https://www.foxnews.com/us/woman-added-fbis-ten-wanted-list-arrested-hours-later-tips-poured-florida-patel",
     "titleNorm": "woman added to fbis ten most wanted list",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "2 detained after shooting in new york leaves",
     "type": "card",
     "timestamp": 1776375259387
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/house-resolution-end-trumps-war-iran-fails-one-vote-rcna332178",
+    "titleNorm": "house effort to end trumps war with iran",
+    "type": "card",
+    "timestamp": 1776378632704
   }
 ]
