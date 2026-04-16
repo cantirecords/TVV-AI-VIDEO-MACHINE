@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/federal-prosecutors-turned-federal-reserve-building-trump-threatens-132063466",
-    "titleNorm": "federal prosecutors turned away from federal reserve building",
-    "type": "card",
-    "timestamp": 1776272619443
-  },
-  {
-    "url": "https://www.foxnews.com/us/suspect-arrested-after-housekeeper-tied-up-attacked-massachusetts-mansion-heist",
-    "titleNorm": "suspect arrested after housekeeper tied up attacked in",
-    "type": "reel",
-    "timestamp": 1776274740216
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "man with jokerinspired rifle fires gun runs into",
     "type": "card",
     "timestamp": 1776314689024
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-prosecutors-turned-federal-reserve-building-trump-threatens-132063466",
+    "titleNorm": "federal prosecutors turned away from federal reserve building",
+    "type": "reel",
+    "timestamp": 1776320419333
   }
 ]
