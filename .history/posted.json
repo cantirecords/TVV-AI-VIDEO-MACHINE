@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire/",
-    "titleNorm": "israel039s 10day ceasefire in lebanon begins",
-    "type": "card",
-    "timestamp": 1776389266139
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-pregnant-woman-found-dead-mysterious-texas-disappearance-",
     "titleNorm": "missing pregnant woman found dead after mysterious texas",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "trump expected to nominate cameron hamilton to lead",
     "type": "card",
     "timestamp": 1776430603790
+  },
+  {
+    "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
+    "titleNorm": "sailors injured after fire breaks out on aircraft",
+    "type": "reel",
+    "timestamp": 1776434728025
   }
 ]
