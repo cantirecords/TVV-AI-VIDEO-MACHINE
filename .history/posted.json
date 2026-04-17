@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-plan-build-triumphal-arch-gets-hearing-key-132092676",
-    "titleNorm": "trumps plan to build a triumphal arch gets",
-    "type": "card",
-    "timestamp": 1776372109418
-  },
-  {
-    "url": "https://www.nbcnews.com/health/health-news/former-deputy-surgeon-general-recommended-cdc-director-sources-say-rcna331905",
-    "titleNorm": "trump nominates dr erica schwartz former deputy surgeon",
-    "type": "reel",
-    "timestamp": 1776373829798
-  },
-  {
-    "url": "https://www.foxnews.com/us/2-detained-after-shooting-new-york-leaves-15-year-old-killed-two-others-wounded-police",
-    "titleNorm": "2 detained after shooting in new york leaves",
-    "type": "card",
-    "timestamp": 1776375259387
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/house-resolution-end-trumps-war-iran-fails-one-vote-rcna332178",
     "titleNorm": "house effort to end trumps war with iran",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "homeland security worker and another woman are killed",
     "type": "card",
     "timestamp": 1776414082449
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-extends-pause-work-turn-maryland-warehouse-immigrant-132079527",
+    "titleNorm": "judge extends pause on work to turn maryland",
+    "type": "reel",
+    "timestamp": 1776419728860
   }
 ]
