@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/woman-added-fbis-ten-wanted-list-arrested-hours-later-tips-poured-florida-patel",
-    "titleNorm": "woman added to fbis ten most wanted list",
-    "type": "reel",
-    "timestamp": 1776339480270
-  },
-  {
-    "url": "https://www.cbsnews.com/news/gabbard-criminal-referrals-doj-whistleblower-watchdog-trump-first-impeachment/",
-    "titleNorm": "gabbard sends criminal referrals to doj for 2",
-    "type": "card",
-    "timestamp": 1776340298968
-  },
-  {
-    "url": "https://www.foxnews.com/us/molotov-slinging-menace-allegedly-strikes-tesla-shop-amid-wave-corporate-arson-attacks",
-    "titleNorm": "molotovslinging menace allegedly strikes tesla shop amid wave",
-    "type": "card",
-    "timestamp": 1776344618204
-  },
-  {
     "url": "https://www.cbsnews.com/news/justin-fairfax-murder-suicide-wife-cerine-fairfax/",
     "titleNorm": "former virginia lt gov justin fairfax wife dead",
     "type": "reel",
@@ -100,5 +82,11 @@
     "titleNorm": "us intelligence detects signs china is weighing giving",
     "type": "card",
     "timestamp": 1776382335966
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire/",
+    "titleNorm": "israel039s 10day ceasefire in lebanon begins",
+    "type": "card",
+    "timestamp": 1776389266139
   }
 ]
