@@ -70,5 +70,11 @@
     "titleNorm": "singer d4vd arrested and held without bail in",
     "type": "reel",
     "timestamp": 1776413659651
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/homeland-security-worker-woman-killed-series-atlanta-area-132071507",
+    "titleNorm": "homeland security worker and another woman are killed",
+    "type": "card",
+    "timestamp": 1776414082449
   }
 ]
