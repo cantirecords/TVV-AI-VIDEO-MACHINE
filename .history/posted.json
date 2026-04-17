@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/melania-trump-push-updating-foster-care-program-rare-132054154",
-    "titleNorm": "melania trump will push for updating a foster",
-    "type": "card",
-    "timestamp": 1776365884076
-  },
-  {
-    "url": "https://www.cbsnews.com/news/arc-de-trump-preliminary-design-approval-arts-commission/",
-    "titleNorm": "arc de trump receives preliminary design approval from",
-    "type": "reel",
-    "timestamp": 1776368790407
-  },
-  {
-    "url": "https://www.foxnews.com/us/firefighter-accused-killing-cheerleading-coach-he-called-second-mom-then-responding-scene-he-set-cops",
-    "titleNorm": "firefighter accused of killing cheerleading coach he called",
-    "type": "card",
-    "timestamp": 1776369476381
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-plan-build-triumphal-arch-gets-hearing-key-132092676",
     "titleNorm": "trumps plan to build a triumphal arch gets",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1776407500805
+  },
+  {
+    "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
+    "titleNorm": "singer d4vd arrested and held without bail in",
+    "type": "reel",
+    "timestamp": 1776413659651
   }
 ]
