@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/widow-son-late-chicago-commissioner-found-shot-dead-inside-home-suspected-homicide",
-    "titleNorm": "widow son of late chicago commissioner found shot",
-    "type": "card",
-    "timestamp": 1776358972070
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1776361936961
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/melania-trump-push-updating-foster-care-program-rare-132054154",
     "titleNorm": "melania trump will push for updating a foster",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "trump rails against court decision that once again",
     "type": "card",
     "timestamp": 1776400858009
+  },
+  {
+    "url": "https://www.foxnews.com/us/altman-attack-suspect-referenced-luigi-mangione-copycat-fears-grow",
+    "titleNorm": "altman attack suspect referenced luigi mangione as copycat",
+    "type": "reel",
+    "timestamp": 1776406829875
   }
 ]
