@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/altman-attack-suspect-referenced-luigi-mangione-copycat-fears-grow",
-    "titleNorm": "altman attack suspect referenced luigi mangione as copycat",
-    "type": "reel",
-    "timestamp": 1776406829875
-  },
-  {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1776407500805
-  },
-  {
     "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
     "titleNorm": "singer d4vd arrested and held without bail in",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "trump to nominate cameron hamilton to run fema",
     "type": "card",
     "timestamp": 1776447754747
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/atlanta-area-attacks-killed-2-including-federal-worker-132087434",
+    "titleNorm": "what to know about atlantaarea attacks that killed",
+    "type": "card",
+    "timestamp": 1776451409097
   }
 ]
