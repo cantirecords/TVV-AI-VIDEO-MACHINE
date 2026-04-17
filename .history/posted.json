@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
-    "titleNorm": "singer d4vd arrested and held without bail in",
-    "type": "reel",
-    "timestamp": 1776413659651
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/homeland-security-worker-woman-killed-series-atlanta-area-132071507",
-    "titleNorm": "homeland security worker and another woman are killed",
-    "type": "card",
-    "timestamp": 1776414082449
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-extends-pause-work-turn-maryland-warehouse-immigrant-132079527",
     "titleNorm": "judge extends pause on work to turn maryland",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "influencers safari getaway turns deadly days after proposal",
     "type": "card",
     "timestamp": 1776455500571
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-woman-killed-rip-current-lifeguard-shortage-leaves-danger-zones-beach-destination",
+    "titleNorm": "man woman killed in rip current as lifeguard",
+    "type": "card",
+    "timestamp": 1776458124846
   }
 ]
