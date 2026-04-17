@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-aircraft-carrier-breaks-record-longest-deployment-vietnam-132079140",
-    "titleNorm": "us aircraft carrier breaks record for longest deployment",
-    "type": "reel",
-    "timestamp": 1776355515296
-  },
-  {
     "url": "https://www.foxnews.com/us/widow-son-late-chicago-commissioner-found-shot-dead-inside-home-suspected-homicide",
     "titleNorm": "widow son of late chicago commissioner found shot",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "missing pregnant woman found dead after mysterious texas",
     "type": "reel",
     "timestamp": 1776397909084
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-rails-court-decision-stalls-white-house-ballroom-132107645",
+    "titleNorm": "trump rails against court decision that once again",
+    "type": "card",
+    "timestamp": 1776400858009
   }
 ]
