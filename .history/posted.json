@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/us-intelligence-signs-china-iran-advance-radar-systems/",
-    "titleNorm": "us intelligence detects signs china is weighing giving",
-    "type": "card",
-    "timestamp": 1776382335966
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire/",
     "titleNorm": "israel039s 10day ceasefire in lebanon begins",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1776425483294
+  },
+  {
+    "url": "https://www.foxnews.com/us/exclusive-nyc-officials-refuse-ice-hold-illegal-alien-accused-arson-killed-4-injured-7-dhs",
+    "titleNorm": "exclusive nyc officials refuse ice hold for illegal",
+    "type": "card",
+    "timestamp": 1776426172175
   }
 ]
