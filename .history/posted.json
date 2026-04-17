@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/house-resolution-end-trumps-war-iran-fails-one-vote-rcna332178",
-    "titleNorm": "house effort to end trumps war with iran",
-    "type": "card",
-    "timestamp": 1776378632704
-  },
-  {
-    "url": "https://www.foxnews.com/us/chicago-mayor-warns-teen-trend-takeover-chaos-violence-concerns-grow",
-    "titleNorm": "chicago mayor warns of teen trend after takeover",
-    "type": "reel",
-    "timestamp": 1776381106879
-  },
-  {
     "url": "https://www.cbsnews.com/news/us-intelligence-signs-china-iran-advance-radar-systems/",
     "titleNorm": "us intelligence detects signs china is weighing giving",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "trumps plan to build a triumphal arch gets",
     "type": "card",
     "timestamp": 1776420312447
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1776425483294
   }
 ]
