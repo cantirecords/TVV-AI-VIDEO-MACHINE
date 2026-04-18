@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-promote-tax-breaks-las-vegas-residents-feel-132087978",
-    "titleNorm": "trump to promote tax breaks in las vegas",
-    "type": "card",
-    "timestamp": 1776468683290
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/navy-reservist-arrested-accused-fleeing-hong-kong-after-132111785",
     "titleNorm": "navy reservist arrested accused of fleeing to hong",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "how the dispute between trump and pope leo",
     "type": "card",
     "timestamp": 1776511806946
+  },
+  {
+    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
+    "titleNorm": "2 us army soldiers in alaska injured in",
+    "type": "card",
+    "timestamp": 1776515840458
   }
 ]
