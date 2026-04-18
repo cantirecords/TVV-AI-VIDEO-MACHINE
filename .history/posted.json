@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
-    "titleNorm": "white house eyes alleged utah scandal as gop",
-    "type": "card",
-    "timestamp": 1776501505927
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-accused-killing-charlie-kirk-pushes-ban-cameras-132126570",
     "titleNorm": "man accused of killing charlie kirk pushes to",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "after war of words on iran pope leo",
     "type": "card",
     "timestamp": 1776543982492
+  },
+  {
+    "url": "https://www.foxnews.com/us/airline-worker-stole-plane-performed-barrel-roll-deadly-crash-inside-final-moments",
+    "titleNorm": "airline worker stole plane performed barrel roll before",
+    "type": "reel",
+    "timestamp": 1776546215865
   }
 ]
