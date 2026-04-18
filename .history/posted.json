@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-accused-killing-charlie-kirk-pushes-ban-cameras-132126570",
-    "titleNorm": "man accused of killing charlie kirk pushes to",
-    "type": "reel",
-    "timestamp": 1776503578242
-  },
-  {
     "url": "https://www.cbsnews.com/news/supreme-court-justices-alito-thomas-not-retiring-sources-say/",
     "titleNorm": "thomas alito not planning to retire from supreme",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "airline worker stole plane performed barrel roll before",
     "type": "reel",
     "timestamp": 1776546215865
+  },
+  {
+    "url": "https://www.cbsnews.com/news/2-soldiers-attacked-by-bear-during-training-at-army-base-alaska/",
+    "titleNorm": "2 soldiers attacked by bear during training at",
+    "type": "card",
+    "timestamp": 1776547494268
   }
 ]
