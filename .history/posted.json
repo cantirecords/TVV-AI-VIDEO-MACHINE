@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/navy-reservist-arrested-accused-fleeing-hong-kong-after-132111785",
-    "titleNorm": "navy reservist arrested accused of fleeing to hong",
-    "type": "card",
-    "timestamp": 1776475140610
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/alec-baldwin-rust-shooting-civil-trial-can-proceed-judge-rules-rcna332390",
     "titleNorm": "alec baldwin to face civil trial over alleged",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "2 us army soldiers in alaska injured in",
     "type": "card",
     "timestamp": 1776515840458
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pilot-hawaii-tour-helicopter-vibrated-spun-crash-killed-132149925",
+    "titleNorm": "pilot says hawaii tour helicopter vibrated and spun",
+    "type": "reel",
+    "timestamp": 1776519697743
   }
 ]
