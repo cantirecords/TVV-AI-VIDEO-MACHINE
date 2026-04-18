@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/atlanta-area-attacks-killed-2-including-federal-worker-132087434",
-    "titleNorm": "what to know about atlantaarea attacks that killed",
-    "type": "card",
-    "timestamp": 1776451409097
-  },
-  {
-    "url": "https://www.foxnews.com/us/firefighter-accused-killing-cheerleading-coach-he-called-second-mom-then-responding-scene-he-set-cops",
-    "titleNorm": "firefighter accused of killing cheerleading coach he called",
-    "type": "reel",
-    "timestamp": 1776454673329
-  },
-  {
     "url": "https://www.foxnews.com/us/influencers-safari-getaway-turns-deadly-days-proposal-police-question-fiance-family-demands-answers",
     "titleNorm": "influencers safari getaway turns deadly days after proposal",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "trump and the irs are in talks to",
     "type": "card",
     "timestamp": 1776492403329
+  },
+  {
+    "url": "https://www.foxnews.com/us/one-million-bees-swarm-highway-crash-shuts-interstate-ramp-hours",
+    "titleNorm": "1 million bees swarm highway after crash shuts",
+    "type": "reel",
+    "timestamp": 1776498126944
   }
 ]
