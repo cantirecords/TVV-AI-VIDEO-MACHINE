@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-woman-killed-rip-current-lifeguard-shortage-leaves-danger-zones-beach-destination",
-    "titleNorm": "man woman killed in rip current as lifeguard",
-    "type": "card",
-    "timestamp": 1776458124846
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "roommates of man accused of killing 2 say",
     "type": "card",
     "timestamp": 1776498812534
+  },
+  {
+    "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
+    "titleNorm": "white house eyes alleged utah scandal as gop",
+    "type": "card",
+    "timestamp": 1776501505927
   }
 ]
