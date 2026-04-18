@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
-    "titleNorm": "sailors injured after fire breaks out on aircraft",
-    "type": "card",
-    "timestamp": 1776508355689
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "white house eyes alleged utah scandal as gop",
     "type": "card",
     "timestamp": 1776550998706
+  },
+  {
+    "url": "https://www.cbsnews.com/news/former-chef-facing-14-murder-charges-to-plead-guilty-to-aiding-suicide/",
+    "titleNorm": "former chef facing 14 murder charges to plead",
+    "type": "reel",
+    "timestamp": 1776553488953
   }
 ]
