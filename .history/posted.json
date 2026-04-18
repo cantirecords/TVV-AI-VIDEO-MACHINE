@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
-    "titleNorm": "sailors injured after fire breaks out on aircraft",
-    "type": "reel",
-    "timestamp": 1776434728025
-  },
-  {
-    "url": "https://www.nbcnews.com/health/health-news/former-deputy-surgeon-general-recommended-cdc-director-sources-say-rcna331905",
-    "titleNorm": "trump nominates dr erica schwartz former deputy surgeon",
-    "type": "card",
-    "timestamp": 1776435437158
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
     "titleNorm": "a 57 earthquake jolts rural nevada near carson",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "navy reservist arrested accused of fleeing to hong",
     "type": "card",
     "timestamp": 1776475140610
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/alec-baldwin-rust-shooting-civil-trial-can-proceed-judge-rules-rcna332390",
+    "titleNorm": "alec baldwin to face civil trial over alleged",
+    "type": "reel",
+    "timestamp": 1776483415413
   }
 ]
