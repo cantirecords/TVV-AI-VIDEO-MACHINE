@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1776425483294
-  },
-  {
-    "url": "https://www.foxnews.com/us/exclusive-nyc-officials-refuse-ice-hold-illegal-alien-accused-arson-killed-4-injured-7-dhs",
-    "titleNorm": "exclusive nyc officials refuse ice hold for illegal",
-    "type": "card",
-    "timestamp": 1776426172175
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-expected-nominate-cameron-hamilton-lead-fema-after-132123369",
-    "titleNorm": "trump expected to nominate cameron hamilton to lead",
-    "type": "card",
-    "timestamp": 1776430603790
-  },
-  {
     "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
     "titleNorm": "sailors injured after fire breaks out on aircraft",
     "type": "reel",
@@ -112,5 +94,11 @@
     "titleNorm": "trump to promote tax breaks in las vegas",
     "type": "card",
     "timestamp": 1776468683290
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/navy-reservist-arrested-accused-fleeing-hong-kong-after-132111785",
+    "titleNorm": "navy reservist arrested accused of fleeing to hong",
+    "type": "card",
+    "timestamp": 1776475140610
   }
 ]
