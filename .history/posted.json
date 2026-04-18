@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/supreme-court-justices-alito-thomas-not-retiring-sources-say/",
-    "titleNorm": "thomas alito not planning to retire from supreme",
-    "type": "card",
-    "timestamp": 1776505111937
-  },
-  {
     "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
     "titleNorm": "sailors injured after fire breaks out on aircraft",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "2 soldiers attacked by bear during training at",
     "type": "card",
     "timestamp": 1776547494268
+  },
+  {
+    "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
+    "titleNorm": "white house eyes alleged utah scandal as gop",
+    "type": "card",
+    "timestamp": 1776550998706
   }
 ]
