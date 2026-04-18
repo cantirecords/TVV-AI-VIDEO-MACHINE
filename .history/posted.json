@@ -100,5 +100,11 @@
     "titleNorm": "us sanctions two firms over allegedly recruiting colombian",
     "type": "reel",
     "timestamp": 1776524759506
+  },
+  {
+    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
+    "titleNorm": "ups plane aborts landing in near miss at",
+    "type": "card",
+    "timestamp": 1776526159454
   }
 ]
