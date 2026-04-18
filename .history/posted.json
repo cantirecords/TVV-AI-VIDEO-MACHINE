@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1776461603209
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-rails-court-decision-stalls-white-house-ballroom-132107645",
     "titleNorm": "trump rails against court decision that once again",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "man accused of killing charlie kirk pushes to",
     "type": "reel",
     "timestamp": 1776503578242
+  },
+  {
+    "url": "https://www.cbsnews.com/news/supreme-court-justices-alito-thomas-not-retiring-sources-say/",
+    "titleNorm": "thomas alito not planning to retire from supreme",
+    "type": "card",
+    "timestamp": 1776505111937
   }
 ]
