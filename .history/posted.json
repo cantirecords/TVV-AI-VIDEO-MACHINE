@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1776460228115
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "white house eyes alleged utah scandal as gop",
     "type": "card",
     "timestamp": 1776501505927
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-accused-killing-charlie-kirk-pushes-ban-cameras-132126570",
+    "titleNorm": "man accused of killing charlie kirk pushes to",
+    "type": "reel",
+    "timestamp": 1776503578242
   }
 ]
