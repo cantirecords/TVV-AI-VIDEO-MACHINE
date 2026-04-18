@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-rails-court-decision-stalls-white-house-ballroom-132107645",
-    "titleNorm": "trump rails against court decision that once again",
-    "type": "card",
-    "timestamp": 1776464944228
-  },
-  {
     "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
     "titleNorm": "ups plane aborts landing in near miss at",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "thomas alito not planning to retire from supreme",
     "type": "card",
     "timestamp": 1776505111937
+  },
+  {
+    "url": "https://www.foxnews.com/us/sailors-injured-fire-breaks-aircraft-carrier-uss-eisenhower-shipyard-maintenance",
+    "titleNorm": "sailors injured after fire breaks out on aircraft",
+    "type": "card",
+    "timestamp": 1776508355689
   }
 ]
