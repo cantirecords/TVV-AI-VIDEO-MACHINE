@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/alec-baldwin-rust-shooting-civil-trial-can-proceed-judge-rules-rcna332390",
-    "titleNorm": "alec baldwin to face civil trial over alleged",
-    "type": "reel",
-    "timestamp": 1776483415413
-  },
-  {
-    "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
-    "titleNorm": "singer d4vd arrested and held without bail in",
-    "type": "card",
-    "timestamp": 1776486316755
-  },
-  {
     "url": "https://www.foxnews.com/us/two-boys-dead-illegal-immigrant-mexico-allegedly-drove-drunk-hit-sidewalk",
     "titleNorm": "two boys dead after illegal immigrant from mexico",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "ups plane aborts landing in near miss at",
     "type": "card",
     "timestamp": 1776526159454
+  },
+  {
+    "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
+    "titleNorm": "singer d4vd arrested and held without bail in",
+    "type": "card",
+    "timestamp": 1776529667985
   }
 ]
