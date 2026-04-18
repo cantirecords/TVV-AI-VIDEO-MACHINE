@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/influencers-safari-getaway-turns-deadly-days-proposal-police-question-fiance-family-demands-answers",
-    "titleNorm": "influencers safari getaway turns deadly days after proposal",
-    "type": "card",
-    "timestamp": 1776455500571
-  },
-  {
     "url": "https://www.foxnews.com/us/man-woman-killed-rip-current-lifeguard-shortage-leaves-danger-zones-beach-destination",
     "titleNorm": "man woman killed in rip current as lifeguard",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "1 million bees swarm highway after crash shuts",
     "type": "reel",
     "timestamp": 1776498126944
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/roommates-man-accused-killing-2-dispute-preceded-atlanta-132154751",
+    "titleNorm": "roommates of man accused of killing 2 say",
+    "type": "card",
+    "timestamp": 1776498812534
   }
 ]
