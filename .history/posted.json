@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
-    "titleNorm": "ups plane aborts landing in near miss at",
-    "type": "reel",
-    "timestamp": 1776467546340
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-promote-tax-breaks-las-vegas-residents-feel-132087978",
     "titleNorm": "trump to promote tax breaks in las vegas",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1776510493913
+  },
+  {
+    "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
+    "titleNorm": "how the dispute between trump and pope leo",
+    "type": "card",
+    "timestamp": 1776511806946
   }
 ]
