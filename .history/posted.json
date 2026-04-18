@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/57-earthquake-jolts-rural-nevada-carson-city-causing-132015977",
-    "titleNorm": "a 57 earthquake jolts rural nevada near carson",
-    "type": "reel",
-    "timestamp": 1776440325136
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/man-ar-style-pistol-arrested-aetnas-connecticut-headquarters-132117519",
-    "titleNorm": "man with arstyle pistol arrested at aetnas connecticut",
-    "type": "card",
-    "timestamp": 1776441022916
-  },
-  {
     "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-xiv-greeted-crowd-cameroon-attacks-uneven-distribution-rcna332305",
     "titleNorm": "pope leo xiv greeted by crowd of 120000",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "alec baldwin to face civil trial over alleged",
     "type": "reel",
     "timestamp": 1776483415413
+  },
+  {
+    "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
+    "titleNorm": "singer d4vd arrested and held without bail in",
+    "type": "card",
+    "timestamp": 1776486316755
   }
 ]
