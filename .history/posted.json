@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/orange-crush-festival-returns-tybee-island-police-brace-50000-partiers-teen-takeover-gunfire",
-    "titleNorm": "orange crush festival returns to tybee island as",
-    "type": "card",
-    "timestamp": 1776573843967
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604",
     "titleNorm": "trump voters say the pope should stay in",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "two boys dead after illegal immigrant from mexico",
     "type": "card",
     "timestamp": 1776616121655
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-accused-killing-charlie-kirk-pushes-ban-cameras-132126570",
+    "titleNorm": "man accused of killing charlie kirk pushes to",
+    "type": "reel",
+    "timestamp": 1776618498560
   }
 ]
