@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-teen-shot-dead-queens-basketball-court-bystanders-filmed-police-searching-gunman",
-    "titleNorm": "nyc teen shot dead on queens basketball court",
-    "type": "reel",
-    "timestamp": 1776571060872
-  },
-  {
     "url": "https://www.foxnews.com/us/orange-crush-festival-returns-tybee-island-police-brace-50000-partiers-teen-takeover-gunfire",
     "titleNorm": "orange crush festival returns to tybee island as",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1776612586847
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-boys-dead-illegal-immigrant-mexico-allegedly-drove-drunk-hit-sidewalk",
+    "titleNorm": "two boys dead after illegal immigrant from mexico",
+    "type": "card",
+    "timestamp": 1776616121655
   }
 ]
