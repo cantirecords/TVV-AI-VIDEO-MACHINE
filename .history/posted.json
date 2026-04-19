@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/appeals-court-construction-trump-white-house-ballroom-rcna340814",
-    "titleNorm": "appeals court allows white house ballroom construction to",
-    "type": "card",
-    "timestamp": 1776562232973
-  },
-  {
     "url": "https://www.foxnews.com/us/nyc-teen-shot-dead-queens-basketball-court-bystanders-filmed-police-searching-gunman",
     "titleNorm": "nyc teen shot dead on queens basketball court",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1776602200431
+  },
+  {
+    "url": "https://www.foxnews.com/us/watch-illegal-street-racing-takeover-explodes-hundreds-swarm-streets-suspects-bolt",
+    "titleNorm": "watch illegal street racing takeover explodes as hundreds",
+    "type": "reel",
+    "timestamp": 1776606208918
   }
 ]
