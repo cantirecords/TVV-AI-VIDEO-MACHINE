@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
-    "titleNorm": "how the dispute between trump and pope leo",
-    "type": "card",
-    "timestamp": 1776511806946
-  },
-  {
-    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
-    "titleNorm": "2 us army soldiers in alaska injured in",
-    "type": "card",
-    "timestamp": 1776515840458
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/pilot-hawaii-tour-helicopter-vibrated-spun-crash-killed-132149925",
     "titleNorm": "pilot says hawaii tour helicopter vibrated and spun",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1776554763083
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/appeals-court-construction-trump-white-house-ballroom-rcna340814",
+    "titleNorm": "appeals court allows white house ballroom construction to",
+    "type": "card",
+    "timestamp": 1776562232973
   }
 ]
