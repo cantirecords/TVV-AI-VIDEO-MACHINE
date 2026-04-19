@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ukraine-mass-shooting-deaths-injuries-kyiv-gunman-hostage/",
-    "titleNorm": "6 killed after gunman opens fire in kyiv",
-    "type": "reel",
-    "timestamp": 1776590035960
-  },
-  {
     "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
     "titleNorm": "2 us army soldiers in alaska injured in",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "orange crush festival returns to tybee island as",
     "type": "reel",
     "timestamp": 1776632731266
+  },
+  {
+    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
+    "titleNorm": "ups plane aborts landing in near miss at",
+    "type": "card",
+    "timestamp": 1776634034533
   }
 ]
