@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
-    "titleNorm": "white house eyes alleged utah scandal as gop",
-    "type": "card",
-    "timestamp": 1776550998706
-  },
-  {
     "url": "https://www.cbsnews.com/news/former-chef-facing-14-murder-charges-to-plead-guilty-to-aiding-suicide/",
     "titleNorm": "former chef facing 14 murder charges to plead",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "2 us army soldiers in alaska injured in",
     "type": "card",
     "timestamp": 1776591887791
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tear-gas-pepper-spray-arrests-protesters-storm-wisconsin-132174335",
+    "titleNorm": "tear gas pepper spray and arrests as protesters",
+    "type": "card",
+    "timestamp": 1776594656957
   }
 ]
