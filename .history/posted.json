@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/former-chef-facing-14-murder-charges-to-plead-guilty-to-aiding-suicide/",
-    "titleNorm": "former chef facing 14 murder charges to plead",
-    "type": "reel",
-    "timestamp": 1776553488953
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "tear gas pepper spray and arrests as protesters",
     "type": "card",
     "timestamp": 1776594656957
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1776596876613
   }
 ]
