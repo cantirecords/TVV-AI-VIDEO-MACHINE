@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tear-gas-pepper-spray-arrests-protesters-storm-wisconsin-132174335",
-    "titleNorm": "tear gas pepper spray and arrests as protesters",
-    "type": "card",
-    "timestamp": 1776594656957
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "8 children killed in louisiana mass shooting and",
     "type": "card",
     "timestamp": 1776637561604
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/atlanta-area-attacks-killed-2-including-federal-worker-132087434",
+    "titleNorm": "what to know about atlantaarea attacks that killed",
+    "type": "reel",
+    "timestamp": 1776639853876
   }
 ]
