@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-woman-killed-rip-current-lifeguard-shortage-leaves-danger-zones-beach-destination",
-    "titleNorm": "man woman killed in rip current as lifeguard",
-    "type": "reel",
-    "timestamp": 1776531962825
-  },
-  {
-    "url": "https://www.cbsnews.com/news/united-kingdom-police-arson-attack-jewish-charity/",
-    "titleNorm": "uk police probe arson attack on building formerly",
-    "type": "card",
-    "timestamp": 1776533394902
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "orange crush festival returns to tybee island as",
     "type": "card",
     "timestamp": 1776573843967
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604",
+    "titleNorm": "trump voters say the pope should stay in",
+    "type": "reel",
+    "timestamp": 1776579302179
   }
 ]
