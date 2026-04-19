@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/pilot-hawaii-tour-helicopter-vibrated-spun-crash-killed-132149925",
-    "titleNorm": "pilot says hawaii tour helicopter vibrated and spun",
-    "type": "reel",
-    "timestamp": 1776519697743
-  },
-  {
-    "url": "https://www.nbcnews.com/news/news-quiz/supreme-court-apology-news-quiz-rcna332260",
-    "titleNorm": "a rare supreme court apology and some very",
-    "type": "card",
-    "timestamp": 1776520568428
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-expected-nominate-cameron-hamilton-lead-fema-after-132123369",
-    "titleNorm": "trump expected to nominate cameron hamilton to lead",
-    "type": "card",
-    "timestamp": 1776522907194
-  },
-  {
-    "url": "https://www.nbcnews.com/world/africa/us-sanctions-firms-allegedly-recruiting-colombian-mercenaries-sudan-rcna340773",
-    "titleNorm": "us sanctions two firms over allegedly recruiting colombian",
-    "type": "reel",
-    "timestamp": 1776524759506
-  },
-  {
-    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
-    "titleNorm": "ups plane aborts landing in near miss at",
-    "type": "card",
-    "timestamp": 1776526159454
-  },
-  {
     "url": "https://www.foxnews.com/us/singer-d4vd-arrested-held-bail-case-tied-teen-found-dead-tesla-police",
     "titleNorm": "singer d4vd arrested and held without bail in",
     "type": "card",
@@ -106,5 +76,11 @@
     "titleNorm": "appeals court allows white house ballroom construction to",
     "type": "card",
     "timestamp": 1776562232973
+  },
+  {
+    "url": "https://www.foxnews.com/us/nyc-teen-shot-dead-queens-basketball-court-bystanders-filmed-police-searching-gunman",
+    "titleNorm": "nyc teen shot dead on queens basketball court",
+    "type": "reel",
+    "timestamp": 1776571060872
   }
 ]
