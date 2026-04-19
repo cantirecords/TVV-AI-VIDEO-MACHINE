@@ -112,5 +112,11 @@
     "titleNorm": "1 million bees swarm highway after crash shuts",
     "type": "reel",
     "timestamp": 1776626213186
+  },
+  {
+    "url": "https://www.cbsnews.com/news/1-dead-small-plane-crash-florida/",
+    "titleNorm": "1 dead after small plane crashes into florida",
+    "type": "card",
+    "timestamp": 1776627371100
   }
 ]
