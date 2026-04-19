@@ -70,5 +70,11 @@
     "titleNorm": "man woman killed in rip current as lifeguard",
     "type": "reel",
     "timestamp": 1776585310212
+  },
+  {
+    "url": "https://www.cbsnews.com/news/skydiver-rescued-crash-scoreboard-virginia-tech-football-scrimmage/",
+    "titleNorm": "skydiver rescued after crashing into scoreboard during virginia",
+    "type": "card",
+    "timestamp": 1776585661199
   }
 ]
