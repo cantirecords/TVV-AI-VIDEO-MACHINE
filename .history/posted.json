@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
-    "titleNorm": "2 us army soldiers in alaska injured in",
-    "type": "card",
-    "timestamp": 1776591887791
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tear-gas-pepper-spray-arrests-protesters-storm-wisconsin-132174335",
     "titleNorm": "tear gas pepper spray and arrests as protesters",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "ups plane aborts landing in near miss at",
     "type": "card",
     "timestamp": 1776634034533
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/louisiana-shreveport-mass-shooting-rcna340868",
+    "titleNorm": "8 children killed in louisiana mass shooting and",
+    "type": "card",
+    "timestamp": 1776637561604
   }
 ]
