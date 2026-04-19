@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/2-soldiers-attacked-by-bear-during-training-at-army-base-alaska/",
-    "titleNorm": "2 soldiers attacked by bear during training at",
-    "type": "card",
-    "timestamp": 1776547494268
-  },
-  {
     "url": "https://www.cbsnews.com/news/white-house-alleged-utah-scandal-gop-redistricting/",
     "titleNorm": "white house eyes alleged utah scandal as gop",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "6 killed after gunman opens fire in kyiv",
     "type": "reel",
     "timestamp": 1776590035960
+  },
+  {
+    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
+    "titleNorm": "2 us army soldiers in alaska injured in",
+    "type": "card",
+    "timestamp": 1776591887791
   }
 ]
