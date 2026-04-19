@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1776596876613
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "building of trumps white house ballroom can resume",
-    "type": "card",
-    "timestamp": 1776598074752
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "what to know about atlantaarea attacks that killed",
     "type": "reel",
     "timestamp": 1776639853876
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pilot-hawaii-tour-helicopter-vibrated-spun-crash-killed-132149925",
+    "titleNorm": "pilot says hawaii tour helicopter vibrated and spun",
+    "type": "card",
+    "timestamp": 1776641322757
   }
 ]
