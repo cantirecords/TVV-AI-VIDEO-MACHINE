@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-voters-say-pope-stay-lane-fight-iran-war-rcna331604",
-    "titleNorm": "trump voters say the pope should stay in",
-    "type": "reel",
-    "timestamp": 1776579302179
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/transgender-athlete-focuses-track-season-supreme-court-ruling-132144439",
-    "titleNorm": "transgender athlete focuses on what may be her",
-    "type": "card",
-    "timestamp": 1776579941992
-  },
-  {
     "url": "https://www.foxnews.com/us/man-woman-killed-rip-current-lifeguard-shortage-leaves-danger-zones-beach-destination",
     "titleNorm": "man woman killed in rip current as lifeguard",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "8 children dead after a mass shooting in",
     "type": "card",
     "timestamp": 1776619681009
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-expected-nominate-cameron-hamilton-lead-fema-after-132123369",
+    "titleNorm": "trump expected to nominate cameron hamilton to lead",
+    "type": "card",
+    "timestamp": 1776623655442
   }
 ]
