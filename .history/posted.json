@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1776589149533
-  },
-  {
     "url": "https://www.cbsnews.com/news/ukraine-mass-shooting-deaths-injuries-kyiv-gunman-hostage/",
     "titleNorm": "6 killed after gunman opens fire in kyiv",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "transgender athlete focuses on what may be her",
     "type": "card",
     "timestamp": 1776630366662
+  },
+  {
+    "url": "https://www.foxnews.com/us/orange-crush-festival-returns-tybee-island-police-brace-50000-partiers-teen-takeover-gunfire",
+    "titleNorm": "orange crush festival returns to tybee island as",
+    "type": "reel",
+    "timestamp": 1776632731266
   }
 ]
