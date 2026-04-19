@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/airline-worker-stole-plane-performed-barrel-roll-deadly-crash-inside-final-moments",
-    "titleNorm": "airline worker stole plane performed barrel roll before",
-    "type": "reel",
-    "timestamp": 1776546215865
-  },
-  {
     "url": "https://www.cbsnews.com/news/2-soldiers-attacked-by-bear-during-training-at-army-base-alaska/",
     "titleNorm": "2 soldiers attacked by bear during training at",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1776589149533
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ukraine-mass-shooting-deaths-injuries-kyiv-gunman-hostage/",
+    "titleNorm": "6 killed after gunman opens fire in kyiv",
+    "type": "reel",
+    "timestamp": 1776590035960
   }
 ]
