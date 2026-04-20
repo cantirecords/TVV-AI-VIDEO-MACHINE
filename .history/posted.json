@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1776602200431
-  },
-  {
     "url": "https://www.foxnews.com/us/watch-illegal-street-racing-takeover-explodes-hundreds-swarm-streets-suspects-bolt",
     "titleNorm": "watch illegal street racing takeover explodes as hundreds",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "pilot says hawaii tour helicopter vibrated and spun",
     "type": "card",
     "timestamp": 1776641322757
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "eight children killed in louisiana shooting police say",
+    "type": "card",
+    "timestamp": 1776648489594
   }
 ]
