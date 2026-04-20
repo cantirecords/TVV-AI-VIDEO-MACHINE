@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-boys-dead-illegal-immigrant-mexico-allegedly-drove-drunk-hit-sidewalk",
-    "titleNorm": "two boys dead after illegal immigrant from mexico",
-    "type": "card",
-    "timestamp": 1776616121655
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-accused-killing-charlie-kirk-pushes-ban-cameras-132126570",
     "titleNorm": "man accused of killing charlie kirk pushes to",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "tear gas pepper spray and arrests as protesters",
     "type": "reel",
     "timestamp": 1776657508691
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-boys-dead-illegal-immigrant-mexico-allegedly-drove-drunk-hit-sidewalk",
+    "titleNorm": "two boys dead after illegal immigrant from mexico",
+    "type": "card",
+    "timestamp": 1776660701249
   }
 ]
