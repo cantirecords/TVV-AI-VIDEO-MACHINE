@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/8-children-dead-mass-shooting-began-domestic-dispute-police-say",
-    "titleNorm": "police identify suspect who killed eight kids most",
-    "type": "reel",
-    "timestamp": 1776674261210
-  },
-  {
     "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
     "titleNorm": "ups plane aborts landing in near miss at",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "third person dies after atlantaarea shootings by navy",
     "type": "card",
     "timestamp": 1776717350115
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-hawaii-gov-george-ariyoshi-1st-us-governor-132216189",
+    "titleNorm": "former hawaii gov george ariyoshi first of asian",
+    "type": "reel",
+    "timestamp": 1776719398606
   }
 ]
