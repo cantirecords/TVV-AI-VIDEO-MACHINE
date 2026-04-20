@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/orange-crush-festival-returns-tybee-island-police-brace-50000-partiers-teen-takeover-gunfire",
-    "titleNorm": "orange crush festival returns to tybee island as",
-    "type": "reel",
-    "timestamp": 1776632731266
-  },
-  {
-    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
-    "titleNorm": "ups plane aborts landing in near miss at",
-    "type": "card",
-    "timestamp": 1776634034533
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/louisiana-shreveport-mass-shooting-rcna340868",
     "titleNorm": "8 children killed in louisiana mass shooting and",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "police identify suspect who killed eight kids most",
     "type": "reel",
     "timestamp": 1776674261210
+  },
+  {
+    "url": "https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15",
+    "titleNorm": "ups plane aborts landing in near miss at",
+    "type": "card",
+    "timestamp": 1776678571506
   }
 ]
