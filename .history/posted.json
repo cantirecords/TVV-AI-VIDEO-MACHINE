@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-expected-nominate-cameron-hamilton-lead-fema-after-132123369",
-    "titleNorm": "trump expected to nominate cameron hamilton to lead",
-    "type": "card",
-    "timestamp": 1776623655442
-  },
-  {
     "url": "https://www.foxnews.com/us/one-million-bees-swarm-highway-crash-shuts-interstate-ramp-hours",
     "titleNorm": "1 million bees swarm highway after crash shuts",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1776666773625
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "building of trumps white house ballroom can resume",
+    "type": "card",
+    "timestamp": 1776669064252
   }
 ]
