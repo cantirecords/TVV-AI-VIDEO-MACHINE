@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "eight children killed in louisiana shooting police say",
-    "type": "card",
-    "timestamp": 1776648489594
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tear-gas-pepper-spray-arrests-protesters-storm-wisconsin-132174335",
     "titleNorm": "tear gas pepper spray and arrests as protesters",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "what consumers can do as the iran war",
     "type": "card",
     "timestamp": 1776690277148
+  },
+  {
+    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
+    "titleNorm": "2 us army soldiers in alaska injured in",
+    "type": "reel",
+    "timestamp": 1776694832287
   }
 ]
