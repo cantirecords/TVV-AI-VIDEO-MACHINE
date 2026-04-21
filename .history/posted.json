@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/2-us-army-soldiers-alaska-injured-bear-attack-training-exercise",
-    "titleNorm": "2 us army soldiers in alaska injured in",
-    "type": "reel",
-    "timestamp": 1776694832287
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/republicans-plan-big-spending-ohios-senate-seat-bribery-132181692",
-    "titleNorm": "republicans plan big spending to keep ohios senate",
-    "type": "card",
-    "timestamp": 1776697795632
-  },
-  {
     "url": "https://www.foxnews.com/us/one-million-bees-swarm-highway-crash-shuts-interstate-ramp-hours",
     "titleNorm": "1 million bees swarm highway after crash shuts",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "los angeles woman arrested on iranian arms trafficking",
     "type": "card",
     "timestamp": 1776734706929
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/afghan-charged-deadly-bombing-kabul-airport-gave-false-132217647",
+    "titleNorm": "afghan charged in deadly bombing at kabul airport",
+    "type": "reel",
+    "timestamp": 1776743496304
   }
 ]
