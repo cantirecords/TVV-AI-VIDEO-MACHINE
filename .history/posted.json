@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/afghan-charged-deadly-bombing-kabul-airport-gave-false-132217647",
-    "titleNorm": "afghan charged in deadly bombing at kabul airport",
-    "type": "reel",
-    "timestamp": 1776743496304
-  },
-  {
     "url": "https://www.foxnews.com/us/distress-call-captures-tanker-under-fire-iran-shuts-strait-hormuz-more-top-headlines",
     "titleNorm": "distress call captures tanker under fire as iran",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "singer d4vd pleads not guilty to murder of",
     "type": "card",
     "timestamp": 1776782815993
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/small-plane-crashes-parking-lot-southern-california-auto-132216002",
+    "titleNorm": "small plane crashes in parking lot of southern",
+    "type": "card",
+    "timestamp": 1776787450571
   }
 ]
