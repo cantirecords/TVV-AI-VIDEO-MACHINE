@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mom-pregnant-teen-12-year-old-found-bound-murdered-police-hunt-multiple-suspects",
-    "titleNorm": "mom pregnant teen and 12yearold found bound and",
-    "type": "reel",
-    "timestamp": 1776752453798
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1776752974377
-  },
-  {
     "url": "https://www.foxnews.com/us/mob-teens-chases-college-student-campus-dorm-unleashes-violent-attack-police-hunt-suspects-police",
     "titleNorm": "mob of teens chases college student into campus",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "trump and other top republicans will read passages",
     "type": "card",
     "timestamp": 1776793891574
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-set-neighbor-fire-home-burglary-set-executed-132226124",
+    "titleNorm": "man who set neighbor on fire during a",
+    "type": "card",
+    "timestamp": 1776797817923
   }
 ]
