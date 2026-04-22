@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/georgia-troopers-fired-alleged-practice-seeking-insurance-payouts-132252464",
-    "titleNorm": "georgia troopers fired over alleged practice of seeking",
-    "type": "reel",
-    "timestamp": 1776838860285
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-extending-ceasefire-in-iran-indefinitely-until-discussions-are-concluded/",
-    "titleNorm": "trump extends ceasefire in iran indefinitely",
-    "type": "card",
-    "timestamp": 1776839385401
-  },
-  {
     "url": "https://www.foxnews.com/us/exclusive-dhs-honors-angel-families-during-national-crime-victims-week-calls-crimes-completely-preventable",
     "titleNorm": "exclusive dhs honors angel families during national crime",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "rep david scott a georgia democrat dies at",
     "type": "card",
     "timestamp": 1776880370564
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wildfires-georgia-florida-destroyed-50-homes-forcing-evacuations-132274985",
+    "titleNorm": "wildfires across georgia florida destroy nearly 50 homes",
+    "type": "card",
+    "timestamp": 1776884319465
   }
 ]
