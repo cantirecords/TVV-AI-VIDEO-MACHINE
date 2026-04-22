@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1776781177040
-  },
-  {
-    "url": "https://www.foxnews.com/us/singer-d4vd-pleads-murder-young-girl-allegedly-found-dismembered-decomposing-car",
-    "titleNorm": "singer d4vd pleads not guilty to murder of",
-    "type": "card",
-    "timestamp": 1776782815993
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/small-plane-crashes-parking-lot-southern-california-auto-132216002",
     "titleNorm": "small plane crashes in parking lot of southern",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1776821105310
+  },
+  {
+    "url": "https://www.cbsnews.com/news/federal-appeals-court-upholds-texas-law-requiring-ten-commandments-in-classrooms/",
+    "titleNorm": "court upholds texas law requiring ten commandments in",
+    "type": "reel",
+    "timestamp": 1776829727104
   }
 ]
