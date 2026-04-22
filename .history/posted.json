@@ -64,5 +64,11 @@
     "titleNorm": "at least 2 ships attacked in strait of",
     "type": "card",
     "timestamp": 1776858724485
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-strait-hormuz-ship-attacked-us-military-buildup/",
+    "titleNorm": "iran attacks ships in strait of hormuz after",
+    "type": "card",
+    "timestamp": 1776862790389
   }
 ]
