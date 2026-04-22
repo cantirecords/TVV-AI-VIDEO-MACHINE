@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/prosecutors-warn-anna-kepner-stepbrother-shouldnt-roam-free-alleged-cruise-ship-murder",
-    "titleNorm": "prosecutors warn anna kepners stepbrother shouldnt roam free",
-    "type": "reel",
-    "timestamp": 1776792905532
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-top-republicans-read-passages-marathon-bible-event-132230408",
-    "titleNorm": "trump and other top republicans will read passages",
-    "type": "card",
-    "timestamp": 1776793891574
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-set-neighbor-fire-home-burglary-set-executed-132226124",
     "titleNorm": "man who set neighbor on fire during a",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "iranian official targets trump with stark warning and",
     "type": "card",
     "timestamp": 1776832778124
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/georgia-troopers-fired-alleged-practice-seeking-insurance-payouts-132252464",
+    "titleNorm": "georgia troopers fired over alleged practice of seeking",
+    "type": "reel",
+    "timestamp": 1776838860285
   }
 ]
