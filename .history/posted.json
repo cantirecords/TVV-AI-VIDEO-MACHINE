@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iranian-official-targets-trump-stark-warning-more-top-headlines",
-    "titleNorm": "iranian official targets trump with stark warning and",
-    "type": "card",
-    "timestamp": 1776832778124
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/georgia-troopers-fired-alleged-practice-seeking-insurance-payouts-132252464",
     "titleNorm": "georgia troopers fired over alleged practice of seeking",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "mom who lost 3 kids in louisiana shooting",
     "type": "card",
     "timestamp": 1776873750665
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1776879189754
   }
 ]
