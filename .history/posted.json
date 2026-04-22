@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-arrest-illegal-immigrant-repeat-offender-they-say-dodged-deportation-decades-amid-sanctuary-policies",
-    "titleNorm": "feds arrest illegal immigrant repeat offender they say",
-    "type": "reel",
-    "timestamp": 1776852119289
-  },
-  {
-    "url": "https://www.foxnews.com/us/us-military-launches-first-ever-autonomous-warfare-command-deploy-unmanned-systems-across-latin-america",
-    "titleNorm": "us military launches firstever autonomous warfare command to",
-    "type": "card",
-    "timestamp": 1776852713231
-  },
-  {
     "url": "https://www.foxnews.com/us/appeals-court-rules-alligator-alcatraz-can-stay-open-rejecting-push-federal-environmental-impact-review",
     "titleNorm": "appeals court rules alligator alcatraz can stay open",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "doj readies up to 35 billion in law",
     "type": "card",
     "timestamp": 1776894130760
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-military-launches-first-ever-autonomous-warfare-command-deploy-unmanned-systems-across-latin-america",
+    "titleNorm": "us military launches first autonomous warfare command to",
+    "type": "card",
+    "timestamp": 1776897529596
   }
 ]
