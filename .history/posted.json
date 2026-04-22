@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/louisiana-man-charged-lying-authorities-gun-used-mass-shooting-rcna341326",
-    "titleNorm": "louisiana man charged with lying to authorities about",
-    "type": "card",
-    "timestamp": 1776810682407
-  },
-  {
-    "url": "https://www.foxnews.com/us/activist-tied-oprah-biden-stabbed-teacher-mom-slain-ambush-quiet-neighborhood",
-    "titleNorm": "activist tied to oprah biden stabbed and teacher",
-    "type": "reel",
-    "timestamp": 1776812889334
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-military-pushes-boost-2027-spending-drones-air-132243881",
-    "titleNorm": "us military pushes for boost in 2027 spending",
-    "type": "card",
-    "timestamp": 1776814111519
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "us military launches firstever autonomous warfare command to",
     "type": "card",
     "timestamp": 1776852713231
+  },
+  {
+    "url": "https://www.foxnews.com/us/appeals-court-rules-alligator-alcatraz-can-stay-open-rejecting-push-federal-environmental-impact-review",
+    "titleNorm": "appeals court rules alligator alcatraz can stay open",
+    "type": "reel",
+    "timestamp": 1776857962676
   }
 ]
