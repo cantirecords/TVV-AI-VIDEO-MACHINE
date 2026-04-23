@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/mother-shreveport-louisiana-shooting-children-rcna341313",
-    "titleNorm": "mom who lost 3 kids in louisiana shooting",
-    "type": "card",
-    "timestamp": 1776873750665
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "texas can require schools to display ten commandments",
     "type": "reel",
     "timestamp": 1776916527876
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-strait-hormuz-ship-attacked-us-military-buildup/",
+    "titleNorm": "iran attacks ships in strait of hormuz after",
+    "type": "card",
+    "timestamp": 1776919446310
   }
 ]
