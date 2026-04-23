@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/desert-street-racing-circus-crushed-cops-swarm-late-night-takeover-suspects-hauled-rides-seized",
-    "titleNorm": "desert street racing circus crushed cops swarm latenight",
-    "type": "card",
-    "timestamp": 1776927325452
-  },
-  {
     "url": "https://www.foxnews.com/us/myrtle-beach-man-lengthy-arrest-record-charged-stabbing-two-people-popular-beach-destination",
     "titleNorm": "myrtle beach man with lengthy arrest record charged",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump administration moves to ease restrictions on medical",
     "type": "card",
     "timestamp": 1776970484163
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-university-california-berkeley-investigate-2-dead-men-found-campus",
+    "titleNorm": "police at university of california berkeley investigate 2",
+    "type": "reel",
+    "timestamp": 1776973902562
   }
 ]
