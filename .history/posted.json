@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-strait-hormuz-ship-attacked-us-military-buildup/",
-    "titleNorm": "iran attacks ships in strait of hormuz after",
-    "type": "card",
-    "timestamp": 1776919446310
-  },
-  {
     "url": "https://www.foxnews.com/us/workers-killed-many-treated-after-refinery-chemical-release-investigators-probe-cause",
     "titleNorm": "workers killed and many treated after refinery chemical",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "rectal cancer deaths rising rapidly among millennials its",
     "type": "reel",
     "timestamp": 1776961186136
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/mike-vrabel-skip-draft-counseling-dianna-russini-scandal-rcna341599",
+    "titleNorm": "mike vrabel to skip some of nfl draft",
+    "type": "card",
+    "timestamp": 1776964166018
   }
 ]
