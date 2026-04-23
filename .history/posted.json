@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/wildfires-georgia-florida-destroyed-50-homes-forcing-evacuations-132274985",
-    "titleNorm": "wildfires across georgia florida destroy nearly 50 homes",
-    "type": "card",
-    "timestamp": 1776884319465
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-says-iran-collapsing-financially-tensions-escalate-over-blockade-more-top-headlines",
-    "titleNorm": "ships reportedly attacked in key oil route after",
-    "type": "reel",
-    "timestamp": 1776887321564
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/federal-appeals-court-blocks-california-law-requiring-federal-132281463",
-    "titleNorm": "federal appeals court blocks california law requiring federal",
-    "type": "card",
-    "timestamp": 1776888229483
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/2-dead-chemical-release-west-virginia-manufacturing-facility-rcna341515",
     "titleNorm": "2 dead in chemical release at west virginia",
     "type": "reel",
@@ -76,5 +58,11 @@
     "titleNorm": "desert street racing circus crushed cops swarm latenight",
     "type": "card",
     "timestamp": 1776927325452
+  },
+  {
+    "url": "https://www.foxnews.com/us/myrtle-beach-man-lengthy-arrest-record-charged-stabbing-two-people-popular-beach-destination",
+    "titleNorm": "myrtle beach man with lengthy arrest record charged",
+    "type": "reel",
+    "timestamp": 1776932385317
   }
 ]
