@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/marine-veteran-allegedly-gunned-husband-attack-outside-home-police-say",
-    "titleNorm": "marine veteran allegedly gunned down by husband in",
-    "type": "reel",
-    "timestamp": 1776938666710
-  },
-  {
-    "url": "https://www.cbsnews.com/news/john-phelan-out-navy-secretary/",
-    "titleNorm": "john phelan out as navy secretary in latest",
-    "type": "card",
-    "timestamp": 1776939269206
-  },
-  {
     "url": "https://www.foxnews.com/us/emmy-award-winning-journalist-allegedly-hid-cameras-tv-station-dressing-rooms-police-say",
     "titleNorm": "emmyaward winning journalist allegedly hid cameras in tv",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "communication issues contributed to fatal laguardia crash preliminary",
     "type": "card",
     "timestamp": 1776980442285
+  },
+  {
+    "url": "https://www.foxnews.com/us/mexican-mafia-turned-american-neighborhoods-gangstas-paradise-murders-kidnappings-drugs-feds",
+    "titleNorm": "mexican mafia turned american neighborhoods into gangstas paradise",
+    "type": "card",
+    "timestamp": 1776983689923
   }
 ]
