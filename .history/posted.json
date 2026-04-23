@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/myrtle-beach-man-lengthy-arrest-record-charged-stabbing-two-people-popular-beach-destination",
-    "titleNorm": "myrtle beach man with lengthy arrest record charged",
-    "type": "reel",
-    "timestamp": 1776932385317
-  },
-  {
-    "url": "https://www.foxnews.com/us/idaho-murders-new-book-kohberger-reveals-previously-unseen-evidence-claims-sheath-could-be-inadmissible",
-    "titleNorm": "idaho murders new book on kohberger reveals previously",
-    "type": "card",
-    "timestamp": 1776932923849
-  },
-  {
     "url": "https://www.foxnews.com/us/marine-veteran-allegedly-gunned-husband-attack-outside-home-police-say",
     "titleNorm": "marine veteran allegedly gunned down by husband in",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "nyc councilman and mamdani ally chi oss arrested",
     "type": "card",
     "timestamp": 1776974556967
+  },
+  {
+    "url": "https://www.foxnews.com/us/law-enforcement-responding-active-shooter-mall-louisiana-gov-landry",
+    "titleNorm": "several shoppers caught in crossfire wounded as shooting",
+    "type": "reel",
+    "timestamp": 1776978974540
   }
 ]
