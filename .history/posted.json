@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/beneath-trumps-ballroom-legal-case-brief-history-white-132266554",
-    "titleNorm": "beneath trumps ballroom legal case a brief history",
-    "type": "reel",
-    "timestamp": 1776867424066
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/family-teen-girl-found-dead-trunk-singer-d4vds-tesla-says-want-justice-rcna341289",
-    "titleNorm": "family of teen girl found dead in trunk",
-    "type": "card",
-    "timestamp": 1776869226711
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1776872982946
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mother-shreveport-louisiana-shooting-children-rcna341313",
     "titleNorm": "mom who lost 3 kids in louisiana shooting",
     "type": "card",
@@ -88,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1776907727710
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-require-public-schools-display-ten-commandments-classrooms-132255317",
+    "titleNorm": "texas can require schools to display ten commandments",
+    "type": "reel",
+    "timestamp": 1776916527876
   }
 ]
