@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-military-launches-first-ever-autonomous-warfare-command-deploy-unmanned-systems-across-latin-america",
-    "titleNorm": "us military launches first autonomous warfare command to",
-    "type": "card",
-    "timestamp": 1776897529596
-  },
-  {
-    "url": "https://www.cbsnews.com/news/senate-trump-war-powers-iran/",
-    "titleNorm": "senate defeats democrats039 5th attempt to limit trump039s",
-    "type": "reel",
-    "timestamp": 1776899631266
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/graham-platner-lays-kind-senator-politics-desk-rcna341536",
-    "titleNorm": "graham platner lays out what kind of senator",
-    "type": "card",
-    "timestamp": 1776901092636
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "john phelan out as navy secretary in latest",
     "type": "card",
     "timestamp": 1776939269206
+  },
+  {
+    "url": "https://www.foxnews.com/us/emmy-award-winning-journalist-allegedly-hid-cameras-tv-station-dressing-rooms-police-say",
+    "titleNorm": "emmyaward winning journalist allegedly hid cameras in tv",
+    "type": "reel",
+    "timestamp": 1776944413752
   }
 ]
