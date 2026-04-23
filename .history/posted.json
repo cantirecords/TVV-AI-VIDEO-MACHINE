@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/workers-killed-many-treated-after-refinery-chemical-release-investigators-probe-cause",
-    "titleNorm": "workers killed and many treated after refinery chemical",
-    "type": "reel",
-    "timestamp": 1776925585682
-  },
-  {
     "url": "https://www.foxnews.com/us/desert-street-racing-circus-crushed-cops-swarm-late-night-takeover-suspects-hauled-rides-seized",
     "titleNorm": "desert street racing circus crushed cops swarm latenight",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "navy secretary john phelan fired amid tensions with",
     "type": "reel",
     "timestamp": 1776966969558
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-moves-ease-restrictions-medical-marijuana-rcna341584",
+    "titleNorm": "trump administration moves to ease restrictions on medical",
+    "type": "card",
+    "timestamp": 1776970484163
   }
 ]
