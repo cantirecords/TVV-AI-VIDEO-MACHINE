@@ -70,5 +70,11 @@
     "titleNorm": "trump likes a naval blockade but iran presents",
     "type": "reel",
     "timestamp": 1777040083210
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1777041833791
   }
 ]
