@@ -64,5 +64,11 @@
     "titleNorm": "federal authorities arrest 2 dozen mexican mafia members",
     "type": "reel",
     "timestamp": 1777025378048
+  },
+  {
+    "url": "https://www.foxnews.com/us/ntsb-report-details-controller-decision-tech-failures-led-deadly-runway-collision",
+    "titleNorm": "ntsb report details how controller decision and tech",
+    "type": "card",
+    "timestamp": 1777026087394
   }
 ]
