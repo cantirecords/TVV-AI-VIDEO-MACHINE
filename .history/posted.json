@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/offshore-wind-farms-shape-rhode-islands-coast-trump-132327080",
-    "titleNorm": "offshore wind farms take shape along rhode islands",
-    "type": "card",
-    "timestamp": 1777013933067
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/southern-us-wildfires-force-residents-flee-leaving-unsure-132315318",
     "titleNorm": "debris from hurricane helene is helping fuel georgias",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "former north carolina police officer arrested for allegedly",
     "type": "card",
     "timestamp": 1777055858206
+  },
+  {
+    "url": "https://www.nbcnews.com/science/climate-change/florida-georgia-wildfires-hurricanes-heat-dry-climate-change-rcna341857",
+    "titleNorm": "hot dry and hurricanescarred how climate change fueled",
+    "type": "reel",
+    "timestamp": 1777058920631
   }
 ]
