@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/mike-vrabel-skip-draft-counseling-dianna-russini-scandal-rcna341599",
-    "titleNorm": "mike vrabel to skip some of nfl draft",
-    "type": "card",
-    "timestamp": 1776964166018
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/navy-secretary-phelan-exits-administration-rcna341532",
-    "titleNorm": "navy secretary john phelan fired amid tensions with",
-    "type": "reel",
-    "timestamp": 1776966969558
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-moves-ease-restrictions-medical-marijuana-rcna341584",
     "titleNorm": "trump administration moves to ease restrictions on medical",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1777006078075
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "no cartels involved but mexicos pyramid attack prompts",
+    "type": "reel",
+    "timestamp": 1777011965321
   }
 ]
