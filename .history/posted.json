@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/emmy-award-winning-journalist-allegedly-hid-cameras-tv-station-dressing-rooms-police-say",
-    "titleNorm": "emmyaward winning journalist allegedly hid cameras in tv",
-    "type": "reel",
-    "timestamp": 1776944413752
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/federal-appeals-court-blocks-california-law-requiring-federal-132281463",
-    "titleNorm": "federal appeals court blocks california law requiring federal",
-    "type": "card",
-    "timestamp": 1776945292180
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-flies-10-year-back-cuba-amid-132289483",
-    "titleNorm": "trump administration flies 10yearold back from cuba amid",
-    "type": "card",
-    "timestamp": 1776949184947
-  },
-  {
     "url": "https://www.today.com/video/spirit-airlines-nears-rescue-deal-with-trump-administration-261961285582",
     "titleNorm": "spirit airlines nears bankruptcy bailout from trump administration",
     "type": "reel",
@@ -94,5 +76,11 @@
     "titleNorm": "us special forces soldier who won 409k on",
     "type": "card",
     "timestamp": 1776987422122
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-renovate-reflecting-pool-national-mall-rcna341726",
+    "titleNorm": "trump says hell renovate filthy reflecting pool on",
+    "type": "card",
+    "timestamp": 1776994087399
   }
 ]
