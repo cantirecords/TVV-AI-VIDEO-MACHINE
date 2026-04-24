@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/emory-professors-university-after-arrests-2024-israel-hamas-132326570",
-    "titleNorm": "emory professors take on their own university after",
-    "type": "card",
-    "timestamp": 1777021185032
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-authorities-arrest-2-dozen-mexican-mafia-members-132319245",
     "titleNorm": "federal authorities arrest 2 dozen mexican mafia members",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trump says he wont rush into agreement to",
     "type": "card",
     "timestamp": 1777063006522
+  },
+  {
+    "url": "https://www.cbsnews.com/news/lebanon-israel-war-crime-journalist-killed-drone-strike/",
+    "titleNorm": "lebanon accuses israel of war crime in killing",
+    "type": "reel",
+    "timestamp": 1777065270625
   }
 ]
