@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/federal-authorities-arrest-2-dozen-mexican-mafia-members-132319245",
-    "titleNorm": "federal authorities arrest 2 dozen mexican mafia members",
-    "type": "reel",
-    "timestamp": 1777025378048
-  },
-  {
-    "url": "https://www.foxnews.com/us/ntsb-report-details-controller-decision-tech-failures-led-deadly-runway-collision",
-    "titleNorm": "ntsb report details how controller decision and tech",
-    "type": "card",
-    "timestamp": 1777026087394
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/north-carolina-woman-held-10m-bond-alleged-plot-132322670",
     "titleNorm": "north carolina woman held on 10m bond in",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "three alleged antifalinked protesters indicted in atlanta police",
     "type": "card",
     "timestamp": 1777066838654
+  },
+  {
+    "url": "https://www.foxnews.com/us/beloved-teacher-killed-slept-daughter-stabbed-attack-motive-remains-unclear-da",
+    "titleNorm": "beloved teacher killed as she slept daughter stabbed",
+    "type": "card",
+    "timestamp": 1777069946707
   }
 ]
