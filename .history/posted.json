@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/southern-us-wildfires-force-residents-flee-leaving-unsure-132315318",
-    "titleNorm": "debris from hurricane helene is helping fuel georgias",
-    "type": "reel",
-    "timestamp": 1777019523844
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/emory-professors-university-after-arrests-2024-israel-hamas-132326570",
     "titleNorm": "emory professors take on their own university after",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "iea says iran war will keep the natural",
     "type": "card",
     "timestamp": 1777059855976
+  },
+  {
+    "url": "https://www.today.com/video/israel-lebanon-truce-extended-trump-says-won-t-rush-iran-deal-262059077580",
+    "titleNorm": "trump says he wont rush into agreement to",
+    "type": "card",
+    "timestamp": 1777063006522
   }
 ]
