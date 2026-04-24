@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-university-california-berkeley-investigate-2-dead-men-found-campus",
-    "titleNorm": "police at university of california berkeley investigate 2",
-    "type": "reel",
-    "timestamp": 1776973902562
-  },
-  {
-    "url": "https://www.foxnews.com/us/nyc-councilman-mamdani-ally-chi-oss-arrested-eviction-protest-video-shows",
-    "titleNorm": "nyc councilman and mamdani ally chi oss arrested",
-    "type": "card",
-    "timestamp": 1776974556967
-  },
-  {
     "url": "https://www.foxnews.com/us/law-enforcement-responding-active-shooter-mall-louisiana-gov-landry",
     "titleNorm": "several shoppers caught in crossfire wounded as shooting",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "offshore wind farms take shape along rhode islands",
     "type": "card",
     "timestamp": 1777013933067
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/southern-us-wildfires-force-residents-flee-leaving-unsure-132315318",
+    "titleNorm": "debris from hurricane helene is helping fuel georgias",
+    "type": "reel",
+    "timestamp": 1777019523844
   }
 ]
