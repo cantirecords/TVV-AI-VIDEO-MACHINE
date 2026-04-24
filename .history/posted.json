@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/law-enforcement-responding-active-shooter-mall-louisiana-gov-landry",
-    "titleNorm": "several shoppers caught in crossfire wounded as shooting",
-    "type": "reel",
-    "timestamp": 1776978974540
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/communication-issues-contributed-fatal-laguardia-crash-preliminary-rep-rcna341689",
-    "titleNorm": "communication issues contributed to fatal laguardia crash preliminary",
-    "type": "card",
-    "timestamp": 1776980442285
-  },
-  {
     "url": "https://www.foxnews.com/us/mexican-mafia-turned-american-neighborhoods-gangstas-paradise-murders-kidnappings-drugs-feds",
     "titleNorm": "mexican mafia turned american neighborhoods into gangstas paradise",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "emory professors take on their own university after",
     "type": "card",
     "timestamp": 1777021185032
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-authorities-arrest-2-dozen-mexican-mafia-members-132319245",
+    "titleNorm": "federal authorities arrest 2 dozen mexican mafia members",
+    "type": "reel",
+    "timestamp": 1777025378048
   }
 ]
