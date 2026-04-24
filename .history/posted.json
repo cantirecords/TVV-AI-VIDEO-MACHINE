@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1777003162626
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "army soldier involved in maduro capture arrested for",
     "type": "reel",
     "timestamp": 1777045631366
+  },
+  {
+    "url": "https://www.foxnews.com/us/north-carolina-woman-charged-alleged-houston-synagogue-attack-plot-investigators-search-2-others",
+    "titleNorm": "north carolina woman charged in alleged houston synagogue",
+    "type": "card",
+    "timestamp": 1777046394969
   }
 ]
