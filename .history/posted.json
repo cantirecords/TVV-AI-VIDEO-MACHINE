@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "no cartels involved but mexicos pyramid attack prompts",
-    "type": "reel",
-    "timestamp": 1777011965321
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/offshore-wind-farms-shape-rhode-islands-coast-trump-132327080",
     "titleNorm": "offshore wind farms take shape along rhode islands",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "rob reiners son described his parents deaths as",
     "type": "card",
     "timestamp": 1777052666326
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-north-carolina-police-officer-arrested-allegedly-planning-mass-shooting-new-orleans-festival",
+    "titleNorm": "former north carolina police officer arrested for allegedly",
+    "type": "card",
+    "timestamp": 1777055858206
   }
 ]
