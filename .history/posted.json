@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/award-winning-university-chef-allegedly-beat-wife-death-campus-hotel-officials",
-    "titleNorm": "awardwinning university chef allegedly beat his wife to",
-    "type": "reel",
-    "timestamp": 1777072081947
-  },
-  {
     "url": "https://www.foxnews.com/us/historic-nyc-church-engulfed-5-alarm-blaze-6-firefighters-injured-battling-stubborn-flames",
     "titleNorm": "historic nyc church engulfed in 5alarm blaze 6",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "bus crash near pentagon injures 23 including 10",
     "type": "card",
     "timestamp": 1777113481807
+  },
+  {
+    "url": "https://www.foxnews.com/us/semitruck-driver-deadly-interstate-crash-fraudulently-obtained-license-citizenship-officials",
+    "titleNorm": "semitruck driver in deadly interstate crash fraudulently obtained",
+    "type": "reel",
+    "timestamp": 1777115572971
   }
 ]
