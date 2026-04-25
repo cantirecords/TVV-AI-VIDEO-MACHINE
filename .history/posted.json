@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bus-crash-pentagon-injures-23-10-war-department-personnel",
-    "titleNorm": "bus crash near pentagon injures 23 including 10",
-    "type": "card",
-    "timestamp": 1777113481807
-  },
-  {
     "url": "https://www.foxnews.com/us/semitruck-driver-deadly-interstate-crash-fraudulently-obtained-license-citizenship-officials",
     "titleNorm": "semitruck driver in deadly interstate crash fraudulently obtained",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "father recalls horror after son murdered his 5",
     "type": "card",
     "timestamp": 1777155958740
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/sudden-shift-ice-arrests-drop-12-after-minneapolis-132374841",
+    "titleNorm": "ice arrests drop nearly 12 after minneapolis killings",
+    "type": "reel",
+    "timestamp": 1777158329159
   }
 ]
