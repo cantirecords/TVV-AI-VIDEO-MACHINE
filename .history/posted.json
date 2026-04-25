@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1777088368176
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/federal-judge-questions-basis-trumps-10-billion-irs-lawsuit-rcna341984",
-    "titleNorm": "judge questions legal basis for trumps 10 billion",
-    "type": "card",
-    "timestamp": 1777091285011
-  },
-  {
     "url": "https://www.cbsnews.com/news/us-rearms-iran-ceasefire-advanced-munitions-supplies/",
     "titleNorm": "as us rearms during ceasefire longterm concerns emerge",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "trump set to attend his first white house",
     "type": "card",
     "timestamp": 1777131145909
+  },
+  {
+    "url": "https://www.foxnews.com/us/barricaded-suspect-murder-charges-2-doctoral-students-vanished-1-body-remains-missing",
+    "titleNorm": "barricaded suspect faces murder charges after 2 doctoral",
+    "type": "card",
+    "timestamp": 1777134624465
   }
 ]
