@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/three-alleged-antifa-linked-protesters-indicted-atlanta-police-training-center-contractor-firebombing",
-    "titleNorm": "three alleged antifalinked protesters indicted in atlanta police",
-    "type": "card",
-    "timestamp": 1777066838654
-  },
-  {
     "url": "https://www.foxnews.com/us/beloved-teacher-killed-slept-daughter-stabbed-attack-motive-remains-unclear-da",
     "titleNorm": "beloved teacher killed as she slept daughter stabbed",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "deadly mass shooting at high school and home",
     "type": "reel",
     "timestamp": 1777109437453
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "the kashmir town trying to win back tourists",
+    "type": "card",
+    "timestamp": 1777110124500
   }
 ]
