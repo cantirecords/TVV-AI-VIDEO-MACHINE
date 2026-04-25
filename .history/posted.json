@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/army-soldier-involved-maduro-capture-arrested-allegedly-using-classified-intel-win-410k-bets",
-    "titleNorm": "army soldier involved in maduro capture arrested for",
-    "type": "reel",
-    "timestamp": 1777045631366
-  },
-  {
-    "url": "https://www.foxnews.com/us/north-carolina-woman-charged-alleged-houston-synagogue-attack-plot-investigators-search-2-others",
-    "titleNorm": "north carolina woman charged in alleged houston synagogue",
-    "type": "card",
-    "timestamp": 1777046394969
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-vows-crackdown-chinese-companies-exploiting-ai-132331866",
     "titleNorm": "trump administration vows crackdown on chinese companies exploiting",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1777088368176
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/federal-judge-questions-basis-trumps-10-billion-irs-lawsuit-rcna341984",
+    "titleNorm": "judge questions legal basis for trumps 10 billion",
+    "type": "card",
+    "timestamp": 1777091285011
   }
 ]
