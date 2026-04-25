@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/israel-lebanon-truce-extended-trump-says-won-t-rush-iran-deal-262059077580",
-    "titleNorm": "trump says he wont rush into agreement to",
-    "type": "card",
-    "timestamp": 1777063006522
-  },
-  {
     "url": "https://www.cbsnews.com/news/lebanon-israel-war-crime-journalist-killed-drone-strike/",
     "titleNorm": "lebanon accuses israel of war crime in killing",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trump embraced the gambling industry for decades now",
     "type": "card",
     "timestamp": 1777103997097
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
+    "titleNorm": "sens katie britt and john fetterman warn against",
+    "type": "card",
+    "timestamp": 1777107222406
   }
 ]
