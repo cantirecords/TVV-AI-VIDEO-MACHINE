@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/us-rearms-iran-ceasefire-advanced-munitions-supplies/",
-    "titleNorm": "as us rearms during ceasefire longterm concerns emerge",
-    "type": "reel",
-    "timestamp": 1777097145299
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/mississippi-middle-school-students-stop-bus-crashing-after-132365008",
-    "titleNorm": "mississippi middle school students stop bus from crashing",
-    "type": "card",
-    "timestamp": 1777097794269
-  },
-  {
     "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
     "titleNorm": "dhs blames weak biden border policies after piracylinked",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "beloved teacher killed as she slept daughter stabbed",
     "type": "card",
     "timestamp": 1777138227010
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-sends-envoys-islamabad-iran-rules-direct-talks-132371272",
+    "titleNorm": "trump sends envoys to islamabad as iran rules",
+    "type": "card",
+    "timestamp": 1777142128942
   }
 ]
