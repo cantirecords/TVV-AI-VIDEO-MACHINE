@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
-    "titleNorm": "dhs blames weak biden border policies after piracylinked",
-    "type": "reel",
-    "timestamp": 1777103609416
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-embraced-gambling-industry-decades-now-hedging-bet-prediction-ma-rcna341871",
-    "titleNorm": "trump embraced the gambling industry for decades now",
-    "type": "card",
-    "timestamp": 1777103997097
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
     "titleNorm": "sens katie britt and john fetterman warn against",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "trump says he canceled kushner witkoff trip for",
     "type": "card",
     "timestamp": 1777145907722
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mississippi-middle-school-students-stop-bus-crashing-after-132365008",
+    "titleNorm": "mississippi middle school students stop bus from crashing",
+    "type": "card",
+    "timestamp": 1777148868395
   }
 ]
