@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/historic-nyc-church-engulfed-5-alarm-blaze-6-firefighters-injured-battling-stubborn-flames",
-    "titleNorm": "historic nyc church engulfed in 5alarm blaze 6",
-    "type": "card",
-    "timestamp": 1777073505172
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "semitruck driver in deadly interstate crash fraudulently obtained",
     "type": "reel",
     "timestamp": 1777115572971
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/podcast-helps-louisiana-state-police-arrest-4-suspects-132366426",
+    "titleNorm": "podcast helps louisiana state police arrest 4 suspects",
+    "type": "card",
+    "timestamp": 1777116713940
   }
 ]
