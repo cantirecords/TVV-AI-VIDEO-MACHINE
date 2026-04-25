@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/semitruck-driver-deadly-interstate-crash-fraudulently-obtained-license-citizenship-officials",
-    "titleNorm": "semitruck driver in deadly interstate crash fraudulently obtained",
-    "type": "reel",
-    "timestamp": 1777115572971
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/podcast-helps-louisiana-state-police-arrest-4-suspects-132366426",
     "titleNorm": "podcast helps louisiana state police arrest 4 suspects",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "ice arrests drop nearly 12 after minneapolis killings",
     "type": "reel",
     "timestamp": 1777158329159
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-association-dinner/",
+    "titleNorm": "trump expected to appear at white house press",
+    "type": "card",
+    "timestamp": 1777159728320
   }
 ]
