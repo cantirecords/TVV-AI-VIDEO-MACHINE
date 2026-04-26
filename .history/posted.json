@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-association-dinner/",
-    "titleNorm": "trump expected to appear at white house press",
-    "type": "card",
-    "timestamp": 1777159728320
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/roommate-missing-usf-student-charged-murder-rcna342042",
     "titleNorm": "roommate of slain usf student is charged with",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "thousands at risk after multimillion dollar everest flood",
     "type": "reel",
     "timestamp": 1777201888011
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/afghanistan-calls-afghans-helped-us-war-now-stuck-132372622",
+    "titleNorm": "afghanistan calls on afghans who helped us in",
+    "type": "card",
+    "timestamp": 1777203183488
   }
 ]
