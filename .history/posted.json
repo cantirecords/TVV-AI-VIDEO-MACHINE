@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/barricaded-suspect-murder-charges-2-doctoral-students-vanished-1-body-remains-missing",
-    "titleNorm": "barricaded suspect faces murder charges after 2 doctoral",
-    "type": "card",
-    "timestamp": 1777179090818
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
     "titleNorm": "sens katie britt and john fetterman warn against",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trump sends envoys to islamabad as iran rules",
     "type": "card",
     "timestamp": 1777221109250
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146",
+    "titleNorm": "suspect in white house correspondents dinner shooting wrote",
+    "type": "reel",
+    "timestamp": 1777223436882
   }
 ]
