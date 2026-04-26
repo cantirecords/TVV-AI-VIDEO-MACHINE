@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/father-recalls-horror-son-murdered-5-grandchildren-knew-killed",
-    "titleNorm": "father recalls horror after son murdered his 5",
-    "type": "card",
-    "timestamp": 1777155958740
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/sudden-shift-ice-arrests-drop-12-after-minneapolis-132374841",
     "titleNorm": "ice arrests drop nearly 12 after minneapolis killings",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1777196713261
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-alien-accused-biting-3-year-old-girls-face-texas-park-ice-lodges-detainer-arrest-dhs",
+    "titleNorm": "illegal alien accused of biting 3yearold girls face",
+    "type": "card",
+    "timestamp": 1777199811529
   }
 ]
