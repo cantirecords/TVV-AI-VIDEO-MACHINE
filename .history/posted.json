@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
-    "titleNorm": "sens katie britt and john fetterman warn against",
-    "type": "reel",
-    "timestamp": 1777184695209
-  },
-  {
     "url": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack",
     "titleNorm": "mississippi middle schoolers stop runaway bus after driver",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "son warns suspected killer may get away with",
     "type": "card",
     "timestamp": 1777224704504
+  },
+  {
+    "url": "https://www.foxnews.com/us/mom-got-2-day-sentence-killing-baby-high-arrested-endangering-someone-elses-child",
+    "titleNorm": "mom who got 2day sentence after killing baby",
+    "type": "card",
+    "timestamp": 1777228645627
   }
 ]
