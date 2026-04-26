@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/jack-thornell-ap-photographer-captured-assassination-attempt-james-132357054",
-    "titleNorm": "jack thornell ap photographer who captured assassination attempt",
-    "type": "reel",
-    "timestamp": 1777136920491
-  },
-  {
-    "url": "https://www.foxnews.com/us/beloved-teacher-killed-slept-daughter-stabbed-attack-motive-remains-unclear-da",
-    "titleNorm": "beloved teacher killed as she slept daughter stabbed",
-    "type": "card",
-    "timestamp": 1777138227010
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-sends-envoys-islamabad-iran-rules-direct-talks-132371272",
     "titleNorm": "trump sends envoys to islamabad as iran rules",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "barricaded suspect faces murder charges after 2 doctoral",
     "type": "card",
     "timestamp": 1777179090818
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
+    "titleNorm": "sens katie britt and john fetterman warn against",
+    "type": "reel",
+    "timestamp": 1777184695209
   }
 ]
