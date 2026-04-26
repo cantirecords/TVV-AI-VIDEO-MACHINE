@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/semitruck-driver-deadly-interstate-crash-fraudulently-obtained-license-citizenship-officials",
-    "titleNorm": "semitruck driver in deadly interstate crash fraudulently obtained",
-    "type": "reel",
-    "timestamp": 1777176244044
-  },
-  {
     "url": "https://www.foxnews.com/us/barricaded-suspect-murder-charges-2-doctoral-students-vanished-1-body-remains-missing",
     "titleNorm": "barricaded suspect faces murder charges after 2 doctoral",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "chicago hospital shooting leaves 1 officer dead other",
     "type": "card",
     "timestamp": 1777217788522
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-sends-envoys-islamabad-iran-rules-direct-talks-132371272",
+    "titleNorm": "trump sends envoys to islamabad as iran rules",
+    "type": "card",
+    "timestamp": 1777221109250
   }
 ]
