@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-york-bills-could-abolish-life-without-parole-serial-killers-cop-killers-critics-warn",
-    "titleNorm": "new york bills could abolish life without parole",
-    "type": "card",
-    "timestamp": 1777242540760
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss",
     "titleNorm": "the kashmir town trying to win back tourists",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1777284333964
+  },
+  {
+    "url": "https://www.foxnews.com/us/son-warns-suspected-killer-may-get-away-murder-conviction-tossed-moms-execution-style-slaying",
+    "titleNorm": "son warns suspected killer may get away with",
+    "type": "reel",
+    "timestamp": 1777286019714
   }
 ]
