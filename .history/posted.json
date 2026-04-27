@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1777284333964
-  },
-  {
-    "url": "https://www.foxnews.com/us/son-warns-suspected-killer-may-get-away-murder-conviction-tossed-moms-execution-style-slaying",
-    "titleNorm": "son warns suspected killer may get away with",
-    "type": "reel",
-    "timestamp": 1777286019714
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/what-we-know-white-house-correspondents-dinner-shooting-rcna342143",
     "titleNorm": "what we know about the white house correspondents",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "unearthed video reveals cole allen as quiet inventor",
     "type": "card",
     "timestamp": 1777326320876
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/melania-trump-rips-jimmy-kimmel-urges-abc-take-stand-rcna342319",
+    "titleNorm": "trump and first lady rip jimmy kimmel call",
+    "type": "card",
+    "timestamp": 1777329618840
   }
 ]
