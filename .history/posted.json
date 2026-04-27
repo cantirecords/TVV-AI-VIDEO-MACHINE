@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-gunmen-suspected-indiana-university-area-shooting-leaves-9-injured-police-say",
-    "titleNorm": "two gunmen suspected after indiana universityarea shooting leaves",
-    "type": "card",
-    "timestamp": 1777266085420
-  },
-  {
     "url": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack",
     "titleNorm": "mississippi middle schoolers stop runaway bus after driver",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "accused attacker at washington media dinner is a",
     "type": "card",
     "timestamp": 1777306832322
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-correspondents-dinner-shooting-white-house-ballroom-rcna342180",
+    "titleNorm": "trump uses the correspondents dinner shooting to renew",
+    "type": "reel",
+    "timestamp": 1777312211761
   }
 ]
