@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/father-recalls-horror-son-murdered-5-grandchildren-knew-killed",
-    "titleNorm": "father recalls horror after son murdered his 5",
-    "type": "reel",
-    "timestamp": 1777231708836
-  },
-  {
     "url": "https://www.foxnews.com/us/masked-burglary-crews-terrorizing-ritzy-neighborhoods-show-theyre-homework-veteran-cop-warns",
     "titleNorm": "masked burglary crews terrorizing ritzy neighborhoods show theyre",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "mississippi middle schoolers stop runaway bus after driver",
     "type": "reel",
     "timestamp": 1777274068014
+  },
+  {
+    "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
+    "titleNorm": "dhs blames weak biden border policies after piracylinked",
+    "type": "card",
+    "timestamp": 1777275281982
   }
 ]
