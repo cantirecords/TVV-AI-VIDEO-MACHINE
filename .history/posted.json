@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mississippi-middle-schoolers-stop-runaway-bus-driver-loses-consciousness-asthma-attack",
-    "titleNorm": "mississippi middle schoolers stop runaway bus after driver",
-    "type": "reel",
-    "timestamp": 1777274068014
-  },
-  {
     "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
     "titleNorm": "dhs blames weak biden border policies after piracylinked",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "robbery suspect charged with murder attempted murder of",
     "type": "card",
     "timestamp": 1777312783826
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/haitians-syrians-immigrants-watching-us-supreme-court-arguments-132410343",
+    "titleNorm": "haitians syrians arent the only immigrants watching us",
+    "type": "card",
+    "timestamp": 1777317766384
   }
 ]
