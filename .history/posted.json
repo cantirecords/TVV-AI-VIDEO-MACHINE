@@ -58,5 +58,11 @@
     "titleNorm": "trump uses the correspondents dinner shooting to renew",
     "type": "reel",
     "timestamp": 1777312211761
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/robbery-suspect-charged-murder-attempted-murder-chicago-police-132421765",
+    "titleNorm": "robbery suspect charged with murder attempted murder of",
+    "type": "card",
+    "timestamp": 1777312783826
   }
 ]
