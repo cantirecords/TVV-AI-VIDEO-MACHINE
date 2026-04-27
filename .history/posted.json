@@ -52,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1777300458757
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tornadoes-northern-texas-leave-2-dead-destroy-multiple-132403612",
+    "titleNorm": "tornadoes in northern texas leave at least 2",
+    "type": "card",
+    "timestamp": 1777301882150
   }
 ]
