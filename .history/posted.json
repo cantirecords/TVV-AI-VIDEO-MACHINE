@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-blames-weak-biden-border-policies-piracy-linked-somali-illegal-immigrant-nabbed-northern-border",
-    "titleNorm": "dhs blames weak biden border policies after piracylinked",
-    "type": "card",
-    "timestamp": 1777275281982
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "haitians syrians arent the only immigrants watching us",
     "type": "card",
     "timestamp": 1777317766384
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspect-fled-us-arrested-connection-caught-camera-killing-15-year-old-nyc-park",
+    "titleNorm": "suspect who fled us arrested in caughtoncamera killing",
+    "type": "reel",
+    "timestamp": 1777319738550
   }
 ]
