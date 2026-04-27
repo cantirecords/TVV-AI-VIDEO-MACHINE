@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/mississippi-middle-school-students-stop-bus-crashing-after-132365008",
-    "titleNorm": "mississippi middle school students stop bus from crashing",
-    "type": "reel",
-    "timestamp": 1777262867889
-  },
-  {
     "url": "https://www.foxnews.com/us/two-gunmen-suspected-indiana-university-area-shooting-leaves-9-injured-police-say",
     "titleNorm": "two gunmen suspected after indiana universityarea shooting leaves",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "tornadoes in northern texas leave at least 2",
     "type": "card",
     "timestamp": 1777301882150
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/accused-attacker-washington-media-dinner-tutor-computer-engineer-132393550",
+    "titleNorm": "accused attacker at washington media dinner is a",
+    "type": "card",
+    "timestamp": 1777306832322
   }
 ]
