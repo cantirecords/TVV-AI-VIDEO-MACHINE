@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/masked-burglary-crews-terrorizing-ritzy-neighborhoods-show-theyre-homework-veteran-cop-warns",
-    "titleNorm": "masked burglary crews terrorizing ritzy neighborhoods show theyre",
-    "type": "card",
-    "timestamp": 1777232373799
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/sickness-cold-killed-30-sloths-florida-import-warehouse-132401191",
-    "titleNorm": "sickness cold killed nearly 30 sloths at florida",
-    "type": "reel",
-    "timestamp": 1777237562589
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1777238946345
-  },
-  {
     "url": "https://www.foxnews.com/us/new-york-bills-could-abolish-life-without-parole-serial-killers-cop-killers-critics-warn",
     "titleNorm": "new york bills could abolish life without parole",
     "type": "card",
@@ -64,5 +46,11 @@
     "titleNorm": "dhs blames weak biden border policies after piracylinked",
     "type": "card",
     "timestamp": 1777275281982
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1777284333964
   }
 ]
