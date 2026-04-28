@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/tech/misinformation/conspiracy-theories-staged-white-house-correspondents-dinner-rcna342212",
-    "titleNorm": "correspondents dinner conspiracy theories spread so fast that",
-    "type": "reel",
-    "timestamp": 1777360503989
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-migrant-accused-ny-dumpster-rape-captured-texas-bus-fled-toward-southern-border-da",
     "titleNorm": "illegal migrant accused of ny dumpster rape captured",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "king charles heads to capitol for speech to",
     "type": "reel",
     "timestamp": 1777399411452
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
+    "titleNorm": "chicago officer killed at hospital by suspect who",
+    "type": "card",
+    "timestamp": 1777403888604
   }
 ]
