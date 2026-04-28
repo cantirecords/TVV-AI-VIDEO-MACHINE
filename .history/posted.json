@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1777372318763
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/trump-white-house-correspondents-dinner-shooting-suspect-court/",
     "titleNorm": "correspondents039 dinner suspect charged with trying to assassinate",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "witness says dc shooting suspect fell right at",
     "type": "card",
     "timestamp": 1777413363166
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/reporters-covered-correspondents-dinner-shooting-real-time-conspiracy-132431993",
+    "titleNorm": "reporters covered the correspondents dinner shooting in real",
+    "type": "card",
+    "timestamp": 1777416361658
   }
 ]
