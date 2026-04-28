@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1777300458757
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/tornadoes-northern-texas-leave-2-dead-destroy-multiple-132403612",
-    "titleNorm": "tornadoes in northern texas leave at least 2",
-    "type": "card",
-    "timestamp": 1777301882150
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/accused-attacker-washington-media-dinner-tutor-computer-engineer-132393550",
     "titleNorm": "accused attacker at washington media dinner is a",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "mother from affluent boston suburb accused of murdering",
     "type": "card",
     "timestamp": 1777341279004
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/prisoners-charged-murder-crimes-deadly-fight-georgia-state-132432781",
+    "titleNorm": "prisoners charged with murder and other crimes in",
+    "type": "reel",
+    "timestamp": 1777349592931
   }
 ]
