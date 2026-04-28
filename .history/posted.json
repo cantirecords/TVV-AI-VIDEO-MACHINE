@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-migrant-accused-ny-dumpster-rape-captured-texas-bus-fled-toward-southern-border-da",
-    "titleNorm": "illegal migrant accused of ny dumpster rape captured",
-    "type": "card",
-    "timestamp": 1777363547741
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "utah charges man with murder in january shooting",
     "type": "reel",
     "timestamp": 1777406547975
+  },
+  {
+    "url": "https://www.cbsnews.com/news/national-science-foundation-board-fired-trump-administration/",
+    "titleNorm": "trump administration fires board overseeing national science foundation",
+    "type": "card",
+    "timestamp": 1777410032295
   }
 ]
