@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/accused-attacker-washington-media-dinner-tutor-computer-engineer-132393550",
-    "titleNorm": "accused attacker at washington media dinner is a",
-    "type": "card",
-    "timestamp": 1777306832322
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-correspondents-dinner-shooting-white-house-ballroom-rcna342180",
     "titleNorm": "trump uses the correspondents dinner shooting to renew",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "prisoners charged with murder and other crimes in",
     "type": "reel",
     "timestamp": 1777349592931
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/jimmy-kimmel-says-joke-was-not-call-assassination-trumps-call-ouster-s-rcna342419",
+    "titleNorm": "jimmy kimmel says joke was not call for",
+    "type": "card",
+    "timestamp": 1777353791341
   }
 ]
