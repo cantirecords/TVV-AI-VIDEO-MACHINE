@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/melania-trump-rips-jimmy-kimmel-urges-abc-take-stand-rcna342319",
-    "titleNorm": "trump and first lady rip jimmy kimmel call",
-    "type": "card",
-    "timestamp": 1777329618840
-  },
-  {
     "url": "https://www.nbcnews.com/video/suspect-cole-tomas-allen-charged-with-attempting-to-assassinate-president-trump-262184005766",
     "titleNorm": "suspect cole tomas allen charged with attempting to",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1777372318763
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/trump-white-house-correspondents-dinner-shooting-suspect-court/",
+    "titleNorm": "correspondents039 dinner suspect charged with trying to assassinate",
+    "type": "card",
+    "timestamp": 1777373640041
   }
 ]
