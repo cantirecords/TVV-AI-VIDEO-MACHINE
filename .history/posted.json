@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/suspect-cole-tomas-allen-charged-with-attempting-to-assassinate-president-trump-262184005766",
-    "titleNorm": "suspect cole tomas allen charged with attempting to",
-    "type": "reel",
-    "timestamp": 1777331842056
-  },
-  {
-    "url": "https://www.cbsnews.com/news/82nd-airborne-soldiers-training-drone-countering-maneuvers-ukraine/",
-    "titleNorm": "82nd airborne soldiers train on dronecountering maneuvers used",
-    "type": "card",
-    "timestamp": 1777333372203
-  },
-  {
     "url": "https://www.foxnews.com/us/mother-affluent-boston-suburb-accused-murdering-two-children-custody-dispute",
     "titleNorm": "mother from affluent boston suburb accused of murdering",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "correspondents039 dinner suspect charged with trying to assassinate",
     "type": "card",
     "timestamp": 1777373640041
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "at least 42 killed in chad after water",
+    "type": "reel",
+    "timestamp": 1777378388951
   }
 ]
