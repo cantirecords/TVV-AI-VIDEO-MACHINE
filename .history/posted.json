@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1777427774038
-  },
-  {
     "url": "https://www.cbsnews.com/news/appeals-court-rejects-trump-immigration-detention-policy/",
     "titleNorm": "appeals court rejects trump039s mandatory ice detention policy",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "supreme court to weigh trump administration push to",
     "type": "card",
     "timestamp": 1777464678798
+  },
+  {
+    "url": "https://www.cbsnews.com/news/supreme-court-louisiana-congressional-map-voting-rights-act/",
+    "titleNorm": "supreme court strikes down louisiana congressional map narrowing",
+    "type": "reel",
+    "timestamp": 1777473533351
   }
 ]
