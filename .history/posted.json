@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "at least 42 killed in chad after water",
-    "type": "reel",
-    "timestamp": 1777378388951
-  },
-  {
-    "url": "https://www.cbsnews.com/news/todd-blanche-white-house-ballroom-construction-press-dinner-shooting/",
-    "titleNorm": "acting ag blanche asks court to let white",
-    "type": "card",
-    "timestamp": 1777378926432
-  },
-  {
     "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "rescuers race to free survivors trapped inside train",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "russian fighters confirm withdrawal from northern mali city",
     "type": "card",
     "timestamp": 1777419870375
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1777427774038
   }
 ]
