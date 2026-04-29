@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/appeals-court-rejects-trump-immigration-detention-policy/",
-    "titleNorm": "appeals court rejects trump039s mandatory ice detention policy",
-    "type": "reel",
-    "timestamp": 1777435875958
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-pay-2-companies-walk-us-offshore-132434353",
     "titleNorm": "trump administration to pay 2 more companies to",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "king charles delivers pointed message on us visit",
     "type": "card",
     "timestamp": 1777474954757
+  },
+  {
+    "url": "https://www.foxnews.com/us/carnival-cruise-ship-passenger-dies-falling-balcony-fbi-investigates-high-seas-horror",
+    "titleNorm": "carnival cruise ship passenger dies after falling from",
+    "type": "card",
+    "timestamp": 1777482986212
   }
 ]
