@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
-    "titleNorm": "chicago officer killed at hospital by suspect who",
-    "type": "card",
-    "timestamp": 1777403888604
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/utah-charges-man-murder-january-shooting-church-salt-132436944",
     "titleNorm": "utah charges man with murder in january shooting",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "illegal migrant accused of ny dumpster rape captured",
     "type": "reel",
     "timestamp": 1777445117694
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-support-violent-actions-attorney-says-political-attacks-mount-across-us",
+    "titleNorm": "luigi mangione does not support violent actions attorney",
+    "type": "card",
+    "timestamp": 1777449537879
   }
 ]
