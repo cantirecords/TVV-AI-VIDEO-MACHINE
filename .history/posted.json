@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "rescuers race to free survivors trapped inside train",
-    "type": "reel",
-    "timestamp": 1777388584839
-  },
-  {
-    "url": "https://www.nbcnews.com/business/energy/uae-quits-opec-oil-iran-talks-rcna342465",
-    "titleNorm": "united arab emirates quits opec as iran war",
-    "type": "card",
-    "timestamp": 1777389308285
-  },
-  {
     "url": "https://www.foxnews.com/us/5-bald-eagles-found-dead-michigan-raising-poaching-concerns",
     "titleNorm": "5 bald eagles found dead in michigan raising",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1777427774038
+  },
+  {
+    "url": "https://www.cbsnews.com/news/appeals-court-rejects-trump-immigration-detention-policy/",
+    "titleNorm": "appeals court rejects trump039s mandatory ice detention policy",
+    "type": "reel",
+    "timestamp": 1777435875958
   }
 ]
