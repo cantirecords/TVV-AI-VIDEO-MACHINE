@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/utah-charges-man-murder-january-shooting-church-salt-132436944",
-    "titleNorm": "utah charges man with murder in january shooting",
-    "type": "reel",
-    "timestamp": 1777406547975
-  },
-  {
-    "url": "https://www.cbsnews.com/news/national-science-foundation-board-fired-trump-administration/",
-    "titleNorm": "trump administration fires board overseeing national science foundation",
-    "type": "card",
-    "timestamp": 1777410032295
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "russian superyacht sails through strait of hormuz despite",
-    "type": "reel",
-    "timestamp": 1777412281094
-  },
-  {
-    "url": "https://www.cbsnews.com/news/witness-suspect-white-house-correspondents-dinner-shooting-ballroom/",
-    "titleNorm": "witness says dc shooting suspect fell right at",
-    "type": "card",
-    "timestamp": 1777413363166
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/reporters-covered-correspondents-dinner-shooting-real-time-conspiracy-132431993",
     "titleNorm": "reporters covered the correspondents dinner shooting in real",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "luigi mangione does not support violent actions attorney",
     "type": "card",
     "timestamp": 1777449537879
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
+    "titleNorm": "chicago officer killed at hospital by suspect who",
+    "type": "card",
+    "timestamp": 1777457008976
   }
 ]
