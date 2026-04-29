@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
-    "titleNorm": "chicago officer killed at hospital by suspect who",
-    "type": "card",
-    "timestamp": 1777457008976
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/judge-tosses-murder-conviction-man-served-25-years-132438282",
-    "titleNorm": "judge tosses murder conviction for man who served",
-    "type": "reel",
-    "timestamp": 1777458266674
-  },
-  {
     "url": "https://www.cbsnews.com/news/judge-tosses-trump-lawsuit-seeking-arizona-voter-data/",
     "titleNorm": "judge tosses trump admin lawsuit seeking access to",
     "type": "reel",
@@ -76,5 +64,11 @@
     "titleNorm": "former us officials criticise pentagon silence on deadly",
     "type": "card",
     "timestamp": 1777499580636
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress/",
+    "titleNorm": "iran war has cost 25 billion to date",
+    "type": "card",
+    "timestamp": 1777502793009
   }
 ]
