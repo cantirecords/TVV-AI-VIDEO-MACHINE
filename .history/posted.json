@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-migrant-accused-ny-dumpster-rape-captured-texas-bus-fled-toward-southern-border-da",
-    "titleNorm": "illegal migrant accused of ny dumpster rape captured",
-    "type": "reel",
-    "timestamp": 1777445117694
-  },
-  {
     "url": "https://www.foxnews.com/us/luigi-mangione-support-violent-actions-attorney-says-political-attacks-mount-across-us",
     "titleNorm": "luigi mangione does not support violent actions attorney",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1777485550278
+  },
+  {
+    "url": "https://www.cbsnews.com/news/supreme-court-arguments-temporary-protected-status-haiti-syria/",
+    "titleNorm": "supreme court hears arguments over deportation shield for",
+    "type": "card",
+    "timestamp": 1777489718202
   }
 ]
