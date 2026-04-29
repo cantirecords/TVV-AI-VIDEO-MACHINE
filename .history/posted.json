@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/luigi-mangione-support-violent-actions-attorney-says-political-attacks-mount-across-us",
-    "titleNorm": "luigi mangione does not support violent actions attorney",
-    "type": "card",
-    "timestamp": 1777449537879
-  },
-  {
     "url": "https://www.foxnews.com/us/chicago-officer-killed-hospital-suspect-free-pretrial-release-prosecutors-allege",
     "titleNorm": "chicago officer killed at hospital by suspect who",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court hears arguments over deportation shield for",
     "type": "card",
     "timestamp": 1777489718202
+  },
+  {
+    "url": "https://www.cbsnews.com/news/comey-appears-court-after-his-indictment-for-allegedly-threatening-trump/",
+    "titleNorm": "comey appears in court after his indictment for",
+    "type": "reel",
+    "timestamp": 1777492876932
   }
 ]
