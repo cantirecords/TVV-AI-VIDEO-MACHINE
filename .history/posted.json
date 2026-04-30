@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/father-daughter-duped-nycs-art-world-fake-warhols-132514690",
-    "titleNorm": "how a father and daughter duped nycs art",
-    "type": "card",
-    "timestamp": 1777536132009
-  },
-  {
     "url": "https://www.foxnews.com/us/us-charges-mexican-governor-top-officials-cartel-conspiracy-mexico-fires-back-proof",
     "titleNorm": "us charges mexican governor top officials in cartel",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1777579126751
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/head-organization-overseeing-nuclear-test-ban-treaty-issues-132521541",
+    "titleNorm": "head of organization overseeing nuclear test ban treaty",
+    "type": "card",
+    "timestamp": 1777579513295
   }
 ]
