@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-hunt-mystery-drone-thieves-swiped-15-sprayers-army-warned-could-weaponized",
-    "titleNorm": "feds hunt mystery drone thieves who swiped 15",
-    "type": "reel",
-    "timestamp": 1777522488460
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "louisiana plans to delay house primaries after supreme",
     "type": "card",
     "timestamp": 1777561256170
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/new-zealand-appeals-court-rejects-bid-brenton-tarrant-132520377",
+    "titleNorm": "new zealand appeals court rejects bid by brenton",
+    "type": "card",
+    "timestamp": 1777565861042
   }
 ]
