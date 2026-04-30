@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress/",
-    "titleNorm": "iran war has cost 25 billion to date",
-    "type": "card",
-    "timestamp": 1777502793009
-  },
-  {
-    "url": "https://www.foxnews.com/us/suspect-arrested-mom-pregnant-teen-12-year-old-found-bound-murdered",
-    "titleNorm": "suspect arrested after mom pregnant teen 12yearold found",
-    "type": "reel",
-    "timestamp": 1777505451222
-  },
-  {
-    "url": "https://www.foxnews.com/us/anti-gun-violence-nonprofit-founder-ex-mma-fighter-convicted-fatal-2024-shooting-murder",
-    "titleNorm": "antigun violence nonprofit founder and exmma fighter convicted",
-    "type": "card",
-    "timestamp": 1777506296858
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/afghan-man-convicted-conspiracy-deadly-suicide-bombing-kabul-132504895",
     "titleNorm": "afghan man convicted of conspiracy in deadly suicide",
     "type": "card",
@@ -52,5 +34,11 @@
     "titleNorm": "us charges mexican governor top officials in cartel",
     "type": "card",
     "timestamp": 1777545916357
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump/",
+    "titleNorm": "as iran war nears key 60day deadline congress",
+    "type": "reel",
+    "timestamp": 1777550381437
   }
 ]
