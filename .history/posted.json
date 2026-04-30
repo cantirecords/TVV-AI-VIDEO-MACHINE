@@ -64,5 +64,11 @@
     "titleNorm": "trump pulls dr casey means nomination for surgeon",
     "type": "reel",
     "timestamp": 1777584769983
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-possible-reduction-us-troops-germany/",
+    "titleNorm": "trump says us may cut the number of",
+    "type": "card",
+    "timestamp": 1777585682456
   }
 ]
