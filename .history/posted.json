@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-sides-anti-abortion-center-raising-1st-132495717",
-    "titleNorm": "supreme court sides with antiabortion center raising 1st",
-    "type": "card",
-    "timestamp": 1777496060972
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/latest-supreme-court-weakens-key-tool-voting-rights-132498141",
-    "titleNorm": "the latest supreme court weakens a key tool",
-    "type": "reel",
-    "timestamp": 1777498844416
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "former us officials criticise pentagon silence on deadly",
-    "type": "card",
-    "timestamp": 1777499580636
-  },
-  {
     "url": "https://www.cbsnews.com/news/iran-war-25-billion-hegseth-congress/",
     "titleNorm": "iran war has cost 25 billion to date",
     "type": "card",
@@ -64,5 +46,11 @@
     "titleNorm": "how a father and daughter duped nycs art",
     "type": "card",
     "timestamp": 1777536132009
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-charges-mexican-governor-top-officials-cartel-conspiracy-mexico-fires-back-proof",
+    "titleNorm": "us charges mexican governor top officials in cartel",
+    "type": "card",
+    "timestamp": 1777545916357
   }
 ]
