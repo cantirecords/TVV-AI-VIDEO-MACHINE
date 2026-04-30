@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/afghan-man-convicted-conspiracy-deadly-suicide-bombing-kabul-132504895",
-    "titleNorm": "afghan man convicted of conspiracy in deadly suicide",
-    "type": "card",
-    "timestamp": 1777514078270
-  },
-  {
     "url": "https://www.foxnews.com/us/feds-hunt-mystery-drone-thieves-swiped-15-sprayers-army-warned-could-weaponized",
     "titleNorm": "feds hunt mystery drone thieves who swiped 15",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "smalltown virginia mayor reportedly arrested for allegedly showing",
     "type": "card",
     "timestamp": 1777550924303
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-allegedly-steals-fire-truck-parked-colorado-jail-moments-released-custody",
+    "titleNorm": "man allegedly steals fire truck parked outside colorado",
+    "type": "reel",
+    "timestamp": 1777559668850
   }
 ]
