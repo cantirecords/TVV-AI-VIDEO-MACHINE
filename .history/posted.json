@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/judge-tosses-trump-lawsuit-seeking-arizona-voter-data/",
-    "titleNorm": "judge tosses trump admin lawsuit seeking access to",
-    "type": "reel",
-    "timestamp": 1777464029544
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-weigh-trump-administration-push-end-protections-132483410",
-    "titleNorm": "supreme court to weigh trump administration push to",
-    "type": "card",
-    "timestamp": 1777464678798
-  },
-  {
     "url": "https://www.cbsnews.com/news/supreme-court-louisiana-congressional-map-voting-rights-act/",
     "titleNorm": "supreme court strikes down louisiana congressional map narrowing",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "antigun violence nonprofit founder and exmma fighter convicted",
     "type": "card",
     "timestamp": 1777506296858
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/afghan-man-convicted-conspiracy-deadly-suicide-bombing-kabul-132504895",
+    "titleNorm": "afghan man convicted of conspiracy in deadly suicide",
+    "type": "card",
+    "timestamp": 1777514078270
   }
 ]
