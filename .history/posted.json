@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-charges-mexican-governor-top-officials-cartel-conspiracy-mexico-fires-back-proof",
-    "titleNorm": "us charges mexican governor top officials in cartel",
-    "type": "card",
-    "timestamp": 1777545916357
-  },
-  {
     "url": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump/",
     "titleNorm": "as iran war nears key 60day deadline congress",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trump says he is weighing reducing american troop",
     "type": "card",
     "timestamp": 1777588871989
+  },
+  {
+    "url": "https://www.foxnews.com/us/prosecutor-drops-case-woman-accused-threatening-trump-tiktok",
+    "titleNorm": "prosecutor drops case against woman accused of threatening",
+    "type": "reel",
+    "timestamp": 1777591737712
   }
 ]
