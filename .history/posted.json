@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/maritime-spies-catch-800m-oil-scheme-trumps-naval-blockade-squeezes-tehran-more-top-headlines",
-    "titleNorm": "maritime spies catch 800m oil scheme as trumps",
-    "type": "card",
-    "timestamp": 1777592600063
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-hegseth-costs-strait-of-hormuz/",
     "titleNorm": "iran war pushes oil prices to 4year high",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "trump says he is weighing reducing american troop",
     "type": "reel",
     "timestamp": 1777635548188
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-releases-haunting-images-from-whca-dinner-attack-more-top-headlines",
+    "titleNorm": "doj releases haunting images from whca dinner attack",
+    "type": "card",
+    "timestamp": 1777640186771
   }
 ]
