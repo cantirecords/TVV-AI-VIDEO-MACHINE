@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/trump-pulls-casey-means-nomination-general-replacement-nicole-saphier-rcna261423",
-    "titleNorm": "trump pulls dr casey means nomination for surgeon",
-    "type": "reel",
-    "timestamp": 1777584769983
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-possible-reduction-us-troops-germany/",
-    "titleNorm": "trump says us may cut the number of",
-    "type": "card",
-    "timestamp": 1777585682456
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-weighing-reducing-american-troop-presence-germany-after-132518873",
     "titleNorm": "trump says he is weighing reducing american troop",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "fbi says trucker found dead after suspected hijacking",
     "type": "reel",
     "timestamp": 1777624384965
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1777629029667
   }
 ]
