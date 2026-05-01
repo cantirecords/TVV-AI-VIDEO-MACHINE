@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1777613781802
-  },
-  {
     "url": "https://www.cbsnews.com/news/uk-raises-terrorism-threat-level-severe-after-golders-green-attack/",
     "titleNorm": "uk raises terrorism threat level to severe after",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trump says spirit given final proposal on bailout",
     "type": "reel",
     "timestamp": 1777656807466
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/louisiana-congressional-primaries-suspended-result-supreme-courts-ruling-132534290",
+    "titleNorm": "louisiana congressional primaries are suspended as a result",
+    "type": "card",
+    "timestamp": 1777657862689
   }
 ]
