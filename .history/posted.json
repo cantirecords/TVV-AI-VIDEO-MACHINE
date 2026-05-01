@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/uk-raises-terrorism-threat-level-severe-after-golders-green-attack/",
-    "titleNorm": "uk raises terrorism threat level to severe after",
-    "type": "card",
-    "timestamp": 1777622476490
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-says-trucker-found-dead-after-suspected-hijacking-key-details-remain-unclear",
     "titleNorm": "fbi says trucker found dead after suspected hijacking",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "could the fcc really yank abc039s tv licenses",
     "type": "reel",
     "timestamp": 1777664967464
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-kentucky-bank-employees-shot-killed-during-robbery-police-hunting-suspect",
+    "titleNorm": "two kentucky bank employees shot and killed during",
+    "type": "card",
+    "timestamp": 1777665733448
   }
 ]
