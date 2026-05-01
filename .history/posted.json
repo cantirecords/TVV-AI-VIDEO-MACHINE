@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1777629029667
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-says-us-not-war-iran-white-house-approaches-rcna342868",
-    "titleNorm": "mike johnson says us not at war with",
-    "type": "reel",
-    "timestamp": 1777630037275
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/head-organization-overseeing-nuclear-test-ban-treaty-issues-132521541",
     "titleNorm": "head of organization overseeing nuclear test ban treaty",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "republicans say they will defer to trump on",
     "type": "card",
     "timestamp": 1777671868872
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-suspect-murder-two-bank-employees-kentucky-leads-police-wild-130-mph-chase",
+    "titleNorm": "teen suspect in murder of two bank employees",
+    "type": "card",
+    "timestamp": 1777675228291
   }
 ]
