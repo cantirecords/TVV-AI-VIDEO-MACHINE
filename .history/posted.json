@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/taylor-frankie-paul-dakota-mortensen-rcna342525",
-    "titleNorm": "inside the utah courtroom where taylor frankie paul",
-    "type": "reel",
-    "timestamp": 1777610392415
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "illegal immigrant suspected in chandra levy murder may",
     "type": "card",
     "timestamp": 1777650404794
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/biden-endorses-keisha-lance-bottoms-georgia-governor-rcna343057",
+    "titleNorm": "biden backs keisha lance bottoms for georgia governor",
+    "type": "card",
+    "timestamp": 1777653831570
   }
 ]
