@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump/",
-    "titleNorm": "as iran war nears key 60day deadline congress",
-    "type": "reel",
-    "timestamp": 1777550381437
-  },
-  {
-    "url": "https://www.foxnews.com/us/small-town-virginia-mayor-reportedly-arrested-allegedly-showing-drunk-scene-train-derailment",
-    "titleNorm": "smalltown virginia mayor reportedly arrested for allegedly showing",
-    "type": "card",
-    "timestamp": 1777550924303
-  },
-  {
     "url": "https://www.foxnews.com/us/man-allegedly-steals-fire-truck-parked-colorado-jail-moments-released-custody",
     "titleNorm": "man allegedly steals fire truck parked outside colorado",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "maritime spies catch 800m oil scheme as trumps",
     "type": "card",
     "timestamp": 1777592600063
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-hegseth-costs-strait-of-hormuz/",
+    "titleNorm": "iran war pushes oil prices to 4year high",
+    "type": "card",
+    "timestamp": 1777600589016
   }
 ]
