@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/prosecutor-drops-case-woman-accused-threatening-trump-tiktok",
-    "titleNorm": "prosecutor drops case against woman accused of threatening",
-    "type": "reel",
-    "timestamp": 1777591737712
-  },
-  {
     "url": "https://www.foxnews.com/us/maritime-spies-catch-800m-oil-scheme-trumps-naval-blockade-squeezes-tehran-more-top-headlines",
     "titleNorm": "maritime spies catch 800m oil scheme as trumps",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "head of organization overseeing nuclear test ban treaty",
     "type": "card",
     "timestamp": 1777633273281
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-weighing-reducing-american-troop-presence-germany-after-132518873",
+    "titleNorm": "trump says he is weighing reducing american troop",
+    "type": "reel",
+    "timestamp": 1777635548188
   }
 ]
