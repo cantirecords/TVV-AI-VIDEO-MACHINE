@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-weighing-reducing-american-troop-presence-germany-after-132518873",
-    "titleNorm": "trump says he is weighing reducing american troop",
-    "type": "reel",
-    "timestamp": 1777635548188
-  },
-  {
     "url": "https://www.foxnews.com/us/doj-releases-haunting-images-from-whca-dinner-attack-more-top-headlines",
     "titleNorm": "doj releases haunting images from whca dinner attack",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "dominican migrant with deportation order wanted for murder",
     "type": "reel",
     "timestamp": 1777677299855
+  },
+  {
+    "url": "https://www.foxnews.com/us/female-inmate-sues-washington-state-alleged-attack-male-born-prisoner-womens-facility",
+    "titleNorm": "female inmate sues washington state after alleged attack",
+    "type": "card",
+    "timestamp": 1777678909454
   }
 ]
