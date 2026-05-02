@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1777697528935
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-germany-5000-troops/",
     "titleNorm": "trump administration to cut 5000 us troops from",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "in court fights over policy trump officials rack",
     "type": "card",
     "timestamp": 1777739788768
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/air-force-former-qatari-747-ready-fly-trump-132590507",
+    "titleNorm": "air force says former qatari 747 will be",
+    "type": "reel",
+    "timestamp": 1777742089587
   }
 ]
