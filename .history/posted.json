@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-germany-5000-troops/",
-    "titleNorm": "trump administration to cut 5000 us troops from",
-    "type": "reel",
-    "timestamp": 1777703156059
-  },
-  {
     "url": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "new cctv footage appears to shows when shots",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "biden backs keisha lance bottoms for georgia governor",
     "type": "card",
     "timestamp": 1777743433587
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fema-tells-court-offering-jobs-back-employees-january-132592918",
+    "titleNorm": "fema tells court it is offering jobs back",
+    "type": "card",
+    "timestamp": 1777747365255
   }
 ]
