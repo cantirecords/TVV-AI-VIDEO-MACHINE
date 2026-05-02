@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/teen-suspect-murder-two-bank-employees-kentucky-leads-police-wild-130-mph-chase",
-    "titleNorm": "teen suspect in murder of two bank employees",
-    "type": "card",
-    "timestamp": 1777675228291
-  },
-  {
     "url": "https://www.foxnews.com/us/dominican-migrant-deportation-order-wanted-murder-home-country-freed-biden-appointed-judge",
     "titleNorm": "dominican migrant with deportation order wanted for murder",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "anger and despair among jewish britons after spate",
     "type": "card",
     "timestamp": 1777715611284
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/after-major-enforcement-operations-trump-administration-recalibrates-immigration-132564739",
+    "titleNorm": "after major enforcement operations the trump administration recalibrates",
+    "type": "card",
+    "timestamp": 1777718476770
   }
 ]
