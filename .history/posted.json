@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/doj-releases-haunting-images-from-whca-dinner-attack-more-top-headlines",
-    "titleNorm": "doj releases haunting images from whca dinner attack",
-    "type": "card",
-    "timestamp": 1777640186771
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/small-plane-crashed-austin-texas-killing-5-aboard-132568995",
     "titleNorm": "small plane crashes near austin killing all 5",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "female inmate sues washington state after alleged attack",
     "type": "card",
     "timestamp": 1777678909454
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspect-arrested-allegedly-running-meth-lab-michigan-state-universitys-largest-academic-building",
+    "titleNorm": "suspect arrested for allegedly running meth lab at",
+    "type": "card",
+    "timestamp": 1777686367665
   }
 ]
