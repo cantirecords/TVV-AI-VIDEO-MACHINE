@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1777720513714
-  },
-  {
     "url": "https://www.nbcnews.com/world/israel/boy-14-shot-dead-israeli-settlers-west-bank-escalation-violence-rcna342543",
     "titleNorm": "boy 14 shot dead by israeli settlers in",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1777763431943
+  },
+  {
+    "url": "https://www.foxnews.com/us/activist-remains-perched-atop-dc-bridge-protesting-iran-war-ai-development-spirit-moves",
+    "titleNorm": "activist remains perched atop dc bridge protesting iran",
+    "type": "card",
+    "timestamp": 1777764925108
   }
 ]
