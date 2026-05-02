@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/consumer/spirit-airlines-bailout-shut-down-rcna343089",
-    "titleNorm": "trump says spirit given final proposal on bailout",
-    "type": "reel",
-    "timestamp": 1777656807466
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/louisiana-congressional-primaries-suspended-result-supreme-courts-ruling-132534290",
-    "titleNorm": "louisiana congressional primaries are suspended as a result",
-    "type": "card",
-    "timestamp": 1777657862689
-  },
-  {
     "url": "https://www.cbsnews.com/news/2-employees-killed-kentucky-bank-robbery/",
     "titleNorm": "2 employees killed in kentucky bank robbery person",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1777697528935
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-germany-5000-troops/",
+    "titleNorm": "trump administration to cut 5000 us troops from",
+    "type": "reel",
+    "timestamp": 1777703156059
   }
 ]
