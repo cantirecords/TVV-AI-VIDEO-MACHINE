@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/after-major-enforcement-operations-trump-administration-recalibrates-immigration-132564739",
-    "titleNorm": "after major enforcement operations the trump administration recalibrates",
-    "type": "card",
-    "timestamp": 1777718476770
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "europe rattled by disastrous trend as trump pulls",
     "type": "card",
     "timestamp": 1777761017341
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1777763431943
   }
 ]
