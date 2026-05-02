@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trump claims other presidents flouted war powers law",
-    "type": "reel",
-    "timestamp": 1777709214353
-  },
-  {
-    "url": "https://www.foxnews.com/us/doj-releases-haunting-images-from-whca-dinner-attack-more-top-headlines",
-    "titleNorm": "doj releases haunting images from whca dinner attack",
-    "type": "card",
-    "timestamp": 1777709938385
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "beloved crossing guard killed by alleged drunk driver",
     "type": "card",
     "timestamp": 1777751180385
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "trump tells congress ceasefire means he does not",
+    "type": "card",
+    "timestamp": 1777753858522
   }
 ]
