@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dominican-migrant-deportation-order-wanted-murder-home-country-freed-biden-appointed-judge",
-    "titleNorm": "dominican migrant with deportation order wanted for murder",
-    "type": "reel",
-    "timestamp": 1777677299855
-  },
-  {
     "url": "https://www.foxnews.com/us/female-inmate-sues-washington-state-alleged-attack-male-born-prisoner-womens-facility",
     "titleNorm": "female inmate sues washington state after alleged attack",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "after major enforcement operations the trump administration recalibrates",
     "type": "card",
     "timestamp": 1777718476770
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1777720513714
   }
 ]
