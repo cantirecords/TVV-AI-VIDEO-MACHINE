@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/fcc-disney-abc-broadcast-licenses-kimmel-trump/",
-    "titleNorm": "could the fcc really yank abc039s tv licenses",
-    "type": "reel",
-    "timestamp": 1777664967464
-  },
-  {
-    "url": "https://www.foxnews.com/us/two-kentucky-bank-employees-shot-killed-during-robbery-police-hunting-suspect",
-    "titleNorm": "two kentucky bank employees shot and killed during",
-    "type": "card",
-    "timestamp": 1777665733448
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-lost-control-conspiracy-theories-rcna342504",
     "titleNorm": "trump has lost control of the conspiracy theories",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "new cctv footage appears to shows when shots",
     "type": "card",
     "timestamp": 1777705018061
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "trump claims other presidents flouted war powers law",
+    "type": "reel",
+    "timestamp": 1777709214353
   }
 ]
