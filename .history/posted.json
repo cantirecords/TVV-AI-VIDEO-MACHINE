@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/2-employees-killed-kentucky-bank-robbery/",
-    "titleNorm": "2 employees killed in kentucky bank robbery person",
-    "type": "card",
-    "timestamp": 1777661807520
-  },
-  {
     "url": "https://www.cbsnews.com/news/fcc-disney-abc-broadcast-licenses-kimmel-trump/",
     "titleNorm": "could the fcc really yank abc039s tv licenses",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trump administration to cut 5000 us troops from",
     "type": "reel",
     "timestamp": 1777703156059
+  },
+  {
+    "url": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "new cctv footage appears to shows when shots",
+    "type": "card",
+    "timestamp": 1777705018061
   }
 ]
