@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "missing oscar found after academy award winner blocked",
-    "type": "reel",
-    "timestamp": 1777694348625
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "elizabeth warren to campaign in iowa for progressive",
     "type": "card",
     "timestamp": 1777736264965
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/court-fights-policy-trump-officials-rack-extraordinary-record-132593957",
+    "titleNorm": "in court fights over policy trump officials rack",
+    "type": "card",
+    "timestamp": 1777739788768
   }
 ]
