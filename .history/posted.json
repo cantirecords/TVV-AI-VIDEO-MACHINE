@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-fights-policy-trump-officials-rack-extraordinary-record-132593957",
-    "titleNorm": "in court fights over policy trump officials rack",
-    "type": "card",
-    "timestamp": 1777739788768
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/air-force-former-qatari-747-ready-fly-trump-132590507",
-    "titleNorm": "air force says former qatari 747 will be",
-    "type": "reel",
-    "timestamp": 1777742089587
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/biden-endorses-keisha-lance-bottoms-georgia-governor-rcna343057",
     "titleNorm": "biden backs keisha lance bottoms for georgia governor",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "trump says he is reviewing irans new offer",
     "type": "reel",
     "timestamp": 1777782581489
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/air-force-former-qatari-747-ready-fly-trump-132590507",
+    "titleNorm": "air force says former qatari 747 will be",
+    "type": "card",
+    "timestamp": 1777785735358
   }
 ]
