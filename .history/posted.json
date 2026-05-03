@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "the iran war has strengthened ukraine in surprising",
-    "type": "reel",
-    "timestamp": 1777806871017
-  },
-  {
     "url": "https://www.foxnews.com/us/female-inmate-sues-washington-state-alleged-attack-male-born-prisoner-womens-facility",
     "titleNorm": "female inmate sues washington state after alleged attack",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "california woman charged with manslaughter in death of",
     "type": "reel",
     "timestamp": 1777849986876
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1777851271782
   }
 ]
