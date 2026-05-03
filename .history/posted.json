@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
-    "titleNorm": "cole allens crosscountry train musings show scattered mindset",
-    "type": "card",
-    "timestamp": 1777805053393
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "the iran war has strengthened ukraine in surprising",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "trump says us will begin escorting ships through",
     "type": "card",
     "timestamp": 1777847415743
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-woman-charged-manslaughter-death-man-killed-son-132591090",
+    "titleNorm": "california woman charged with manslaughter in death of",
+    "type": "reel",
+    "timestamp": 1777849986876
   }
 ]
