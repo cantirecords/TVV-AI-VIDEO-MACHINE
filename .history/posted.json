@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189",
-    "titleNorm": "europe rattled by disastrous trend as trump pulls",
-    "type": "card",
-    "timestamp": 1777761017341
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1777801595895
+  },
+  {
+    "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
+    "titleNorm": "cole allens crosscountry train musings show scattered mindset",
+    "type": "card",
+    "timestamp": 1777805053393
   }
 ]
