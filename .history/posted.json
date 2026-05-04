@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
-    "titleNorm": "antiice demonstrators detained after protesting arrest of illegal",
-    "type": "card",
-    "timestamp": 1777892100684
-  },
-  {
     "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
     "titleNorm": "iran issues threat after trump announces strait of",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1777934964306
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1777936763138
   }
 ]
