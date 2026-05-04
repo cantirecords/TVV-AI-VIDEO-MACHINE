@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1777879982049
-  },
-  {
     "url": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss",
     "titleNorm": "massive fire destroys university of south florida laboratory",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "for foreign workers in the mideast risk from",
     "type": "card",
     "timestamp": 1777921988527
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1777924948105
   }
 ]
