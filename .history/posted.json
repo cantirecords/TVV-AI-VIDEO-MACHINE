@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-fights-policy-trump-officials-rack-extraordinary-record-132593957",
-    "titleNorm": "in court fights over policy trump officials rack",
-    "type": "reel",
-    "timestamp": 1777836894595
-  },
-  {
-    "url": "https://www.foxnews.com/us/activist-remains-perched-atop-dc-bridge-protesting-iran-war-ai-development-spirit-moves",
-    "titleNorm": "activist remains perched atop dc bridge protesting iran",
-    "type": "card",
-    "timestamp": 1777837555997
-  },
-  {
     "url": "https://www.foxnews.com/us/beloved-crossing-guard-killed-alleged-drunk-driver-helping-kids-cross-street-louisiana",
     "titleNorm": "beloved crossing guard killed by alleged drunk driver",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1777879982049
+  },
+  {
+    "url": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss",
+    "titleNorm": "massive fire destroys university of south florida laboratory",
+    "type": "card",
+    "timestamp": 1777882562435
   }
 ]
