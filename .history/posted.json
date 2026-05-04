@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/faa-investigating-after-united-flight-landing-newark-strikes-132621754",
-    "titleNorm": "united flight landing in newark strikes light pole",
-    "type": "reel",
-    "timestamp": 1777868371976
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-warns-shipping-firms-face-sanctions-paying-iranian-132594905",
     "titleNorm": "us warns shipping firms they could face sanctions",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1777907009215
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-arrests-leftist-senate-hopeful-alleged-death-threats-against-trump-congress-member-daughter",
+    "titleNorm": "fbi arrests leftist senate hopeful for alleged death",
+    "type": "card",
+    "timestamp": 1777915335270
   }
 ]
