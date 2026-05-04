@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/female-inmate-sues-washington-state-alleged-attack-male-born-prisoner-womens-facility",
-    "titleNorm": "female inmate sues washington state after alleged attack",
-    "type": "card",
-    "timestamp": 1777808116022
-  },
-  {
-    "url": "https://www.nbcnews.com/world/asia/photo-essay-southeast-asia-overfishing-crisis-effort-uncover-roots-rcna263138",
-    "titleNorm": "photo essay southeast asias overfishing crisis and the",
-    "type": "card",
-    "timestamp": 1777812247022
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-us-air-hints-whats-coming-new-batch-132611368",
     "titleNorm": "trump keeps us up in the air with",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1777851271782
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1777859476535
   }
 ]
