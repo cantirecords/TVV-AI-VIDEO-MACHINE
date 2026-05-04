@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/massive-fire-destroys-university-south-florida-laboratory-building-total-loss",
-    "titleNorm": "massive fire destroys university of south florida laboratory",
-    "type": "card",
-    "timestamp": 1777882562435
-  },
-  {
     "url": "https://www.foxnews.com/us/man-accused-biting-infant-during-erratic-dash-through-businesses-before-restaurant-arrest",
     "titleNorm": "man accused of biting infant during erratic dash",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1777924948105
+  },
+  {
+    "url": "https://www.foxnews.com/us/palisades-fire-suspect-allegedly-fixated-luigi-mangione-held-resentment-rich-court-docs",
+    "titleNorm": "palisades fire suspect was allegedly fixated on luigi",
+    "type": "card",
+    "timestamp": 1777928287195
   }
 ]
