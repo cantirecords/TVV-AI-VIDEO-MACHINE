@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-accused-biting-infant-during-erratic-dash-through-businesses-before-restaurant-arrest",
-    "titleNorm": "man accused of biting infant during erratic dash",
-    "type": "reel",
-    "timestamp": 1777890838224
-  },
-  {
     "url": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
     "titleNorm": "antiice demonstrators detained after protesting arrest of illegal",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "trump advisers fear gop midterm losses as gas",
     "type": "card",
     "timestamp": 1777931787755
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1777934964306
   }
 ]
