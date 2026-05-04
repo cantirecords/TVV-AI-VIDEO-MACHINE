@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/beloved-crossing-guard-killed-alleged-drunk-driver-helping-kids-cross-street-louisiana",
-    "titleNorm": "beloved crossing guard killed by alleged drunk driver",
-    "type": "card",
-    "timestamp": 1777840364211
-  },
-  {
-    "url": "https://www.cbsnews.com/news/wildfire-nebraska-ranch-anonymous-donors-hay-bales/",
-    "titleNorm": "after a fire torched their nebraska ranch anonymous",
-    "type": "reel",
-    "timestamp": 1777842758417
-  },
-  {
-    "url": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "new cctv footage appears to shows when shots",
-    "type": "card",
-    "timestamp": 1777844050514
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-begin-escorting-ships-strait-hormuz-rcna343364",
-    "titleNorm": "trump says us will begin escorting ships through",
-    "type": "card",
-    "timestamp": 1777847415743
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/california-woman-charged-manslaughter-death-man-killed-son-132591090",
     "titleNorm": "california woman charged with manslaughter in death of",
     "type": "reel",
@@ -64,5 +40,11 @@
     "titleNorm": "massive fire destroys university of south florida laboratory",
     "type": "card",
     "timestamp": 1777882562435
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-biting-infant-during-erratic-dash-through-businesses-before-restaurant-arrest",
+    "titleNorm": "man accused of biting infant during erratic dash",
+    "type": "reel",
+    "timestamp": 1777890838224
   }
 ]
