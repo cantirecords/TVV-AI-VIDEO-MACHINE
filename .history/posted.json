@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
-    "titleNorm": "iran issues threat after trump announces strait of",
-    "type": "reel",
-    "timestamp": 1777896849169
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/shooting-lake-oklahoma-city-sends-12-people-hospitals-132626751",
-    "titleNorm": "shooting at a lakeside party near oklahoma city",
-    "type": "card",
-    "timestamp": 1777897071921
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-announces-project-start-monday-aimed-helping-stranded-132620964",
     "titleNorm": "trump announces a project will start on monday",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "missile alert sounded in united arab emirates for",
     "type": "card",
     "timestamp": 1777938183742
+  },
+  {
+    "url": "https://www.cbsnews.com/news/cole-allen-white-house-correspondents-dinner-shooting-suicide-watch/",
+    "titleNorm": "press gala shooting suspect moved off suicide watch",
+    "type": "card",
+    "timestamp": 1777945828060
   }
 ]
