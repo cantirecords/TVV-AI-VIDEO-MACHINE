@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/cruise-ship-hit-with-rare-hantavirus-outbreak-leaving-3-dead-262639685716",
-    "titleNorm": "suspected hantavirus outbreak on cruise ship leaves 3",
-    "type": "reel",
-    "timestamp": 1777953398198
-  },
-  {
     "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
     "titleNorm": "cole allens crosscountry train musings show scattered mindset",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1777994973302
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/officials-tennessee-continue-search-craig-berry-veteran-accused-shooti-rcna343609",
+    "titleNorm": "officials in tennessee continue search for veteran accused",
+    "type": "reel",
+    "timestamp": 1777998755948
   }
 ]
