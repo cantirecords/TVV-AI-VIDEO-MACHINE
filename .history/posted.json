@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cole-allen-cross-country-train-musings-show-scattered-mindset-accused-would-trump-killer-expert",
-    "titleNorm": "cole allens crosscountry train musings show scattered mindset",
-    "type": "card",
-    "timestamp": 1777956824719
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/indigenous-people-honor-raise-awareness-relatives-missing-killed-132660722",
     "titleNorm": "indigenous people honor and raise awareness for relatives",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "officials in tennessee continue search for veteran accused",
     "type": "reel",
     "timestamp": 1777998755948
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ships-uae-attacked/",
+    "titleNorm": "usiran ceasefire tested as us guides ships through",
+    "type": "card",
+    "timestamp": 1778001222210
   }
 ]
