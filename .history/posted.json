@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
-    "titleNorm": "iran issues threat after trump announces strait of",
-    "type": "card",
-    "timestamp": 1777965137167
-  },
-  {
     "url": "https://www.foxnews.com/us/military-trained-fugitive-accused-shooting-wife-eludes-manhunt-rural-woodlands",
     "titleNorm": "militarytrained fugitive accused of shooting wife eludes manhunt",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "2 dead 3 injured in shooting at korean",
     "type": "card",
     "timestamp": 1778007834537
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-investigates-trump-administrations-deal-end-offshore-wind-132657571",
+    "titleNorm": "california investigates trump administrations deal to end an",
+    "type": "reel",
+    "timestamp": 1778011168143
   }
 ]
