@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/cole-allen-white-house-correspondents-dinner-shooting-suicide-watch/",
-    "titleNorm": "press gala shooting suspect moved off suicide watch",
-    "type": "card",
-    "timestamp": 1777945828060
-  },
-  {
     "url": "https://www.today.com/video/cruise-ship-hit-with-rare-hantavirus-outbreak-leaving-3-dead-262639685716",
     "titleNorm": "suspected hantavirus outbreak on cruise ship leaves 3",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "oklahoma park shooting that injured nearly two dozen",
     "type": "card",
     "timestamp": 1777986543196
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "two killed and many injured after car driven",
+    "type": "reel",
+    "timestamp": 1777991650917
   }
 ]
