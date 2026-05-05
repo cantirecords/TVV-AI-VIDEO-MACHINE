@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/foreign-workers-mideast-risk-iran-war-collides-economic-132625881",
-    "titleNorm": "for foreign workers in the mideast risk from",
-    "type": "card",
-    "timestamp": 1777921988527
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1777924948105
-  },
-  {
-    "url": "https://www.foxnews.com/us/palisades-fire-suspect-allegedly-fixated-luigi-mangione-held-resentment-rich-court-docs",
-    "titleNorm": "palisades fire suspect was allegedly fixated on luigi",
-    "type": "card",
-    "timestamp": 1777928287195
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-vows-to-require-voter-id-in-midterms-whether-approved-by-congress-or-not/",
-    "titleNorm": "trump vows to require voter id in midterms",
-    "type": "reel",
-    "timestamp": 1777930681459
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-advisers-fear-gop-midterm-losses-as-gas-prices-spike/",
     "titleNorm": "trump advisers fear gop midterm losses as gas",
     "type": "card",
@@ -76,5 +52,11 @@
     "titleNorm": "iran issues threat after trump announces strait of",
     "type": "card",
     "timestamp": 1777965137167
+  },
+  {
+    "url": "https://www.foxnews.com/us/military-trained-fugitive-accused-shooting-wife-eludes-manhunt-rural-woodlands",
+    "titleNorm": "militarytrained fugitive accused of shooting wife eludes manhunt",
+    "type": "card",
+    "timestamp": 1777974742538
   }
 ]
