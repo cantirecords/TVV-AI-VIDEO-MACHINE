@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
-    "titleNorm": "antiice demonstrators detained after protesting arrest of illegal",
-    "type": "reel",
-    "timestamp": 1777976378180
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-opens-strait-hormuz-project-freedom-more-top-headlines",
     "titleNorm": "trump opens strait of hormuz with project freedom",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "indigenous people honor and raise awareness for relatives",
     "type": "card",
     "timestamp": 1778017964926
+  },
+  {
+    "url": "https://www.foxnews.com/us/cole-allen-indicted-grand-jury-four-charges-related-alleged-trump-assassination-attempt-sources",
+    "titleNorm": "cole allen indicted by grand jury on four",
+    "type": "card",
+    "timestamp": 1778021119880
   }
 ]
