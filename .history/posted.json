@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-hiker-dies-falling-30-feet-popular-trail-ravine",
-    "titleNorm": "california hiker dies after falling 30 feet from",
-    "type": "reel",
-    "timestamp": 1778040810044
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1778044802240
-  },
-  {
     "url": "https://www.foxnews.com/us/tyler-robinson-prosecutors-dna-problem-pile-evidence-push-charlie-kirk-case-toward-justice",
     "titleNorm": "tyler robinson prosecutors no dna no problem pile",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "idaho murders evidence leak triggers criminal investigation for",
     "type": "card",
     "timestamp": 1778081061894
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-announces-temporary-pause-project-freedom-progress-iran-more-top-headlines",
+    "titleNorm": "trump announces temporary pause of project freedom amid",
+    "type": "card",
+    "timestamp": 1778088160039
   }
 ]
