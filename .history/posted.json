@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tyler-robinson-prosecutors-dna-problem-pile-evidence-push-charlie-kirk-case-toward-justice",
-    "titleNorm": "tyler robinson prosecutors no dna no problem pile",
-    "type": "reel",
-    "timestamp": 1778051851919
-  },
-  {
     "url": "https://www.cbsnews.com/news/tennessee-manhunt-craig-berry/",
     "titleNorm": "manhunt on for retired special forces soldier accused",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1778090382912
+  },
+  {
+    "url": "https://www.nbcnews.com/world/united-kingdom/hard-right-trump-ally-seeks-liftoff-forgotten-britain-rcna342450",
+    "titleNorm": "a hardright trump ally seeks liftoff in forgotten",
+    "type": "card",
+    "timestamp": 1778095207385
   }
 ]
