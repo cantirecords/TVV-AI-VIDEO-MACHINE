@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/republicans-propose-1-billion-taxpayer-dollars-secure-trump-ballroom-rcna343637",
-    "titleNorm": "republicans propose 1 billion in taxpayer dollars to",
-    "type": "reel",
-    "timestamp": 1778004241280
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/2-dead-3-injured-shooting-korean-supermarket-dallas-rcna343725",
-    "titleNorm": "2 dead 3 injured in shooting at korean",
-    "type": "card",
-    "timestamp": 1778007834537
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/california-investigates-trump-administrations-deal-end-offshore-wind-132657571",
     "titleNorm": "california investigates trump administrations deal to end an",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1778044802240
+  },
+  {
+    "url": "https://www.foxnews.com/us/tyler-robinson-prosecutors-dna-problem-pile-evidence-push-charlie-kirk-case-toward-justice",
+    "titleNorm": "tyler robinson prosecutors no dna no problem pile",
+    "type": "reel",
+    "timestamp": 1778051851919
   }
 ]
