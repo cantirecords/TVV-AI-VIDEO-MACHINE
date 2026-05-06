@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/faa-employee-charged-allegedly-threatening-kill-president-trump-email-white-house",
-    "titleNorm": "faa employee charged with allegedly threatening to kill",
-    "type": "card",
-    "timestamp": 1778032169289
-  },
-  {
     "url": "https://www.foxnews.com/us/california-hiker-dies-falling-30-feet-popular-trail-ravine",
     "titleNorm": "california hiker dies after falling 30 feet from",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trumpbacked candidates win big in midwest primaries",
     "type": "card",
     "timestamp": 1778070206859
+  },
+  {
+    "url": "https://www.nbcnews.com/news/obituaries/ted-turner-cnn-founder-dies-87-rcna4931",
+    "titleNorm": "ted turner billionaire media mogul and cnn founder",
+    "type": "reel",
+    "timestamp": 1778080245931
   }
 ]
