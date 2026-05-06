@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1778063627269
-  },
-  {
     "url": "https://www.foxnews.com/us/youths-accused-breaking-nyc-church-scientology-building-latest-viral-speedrunning-trend",
     "titleNorm": "youths accused of breaking into nyc church of",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "jury deliberations begin in murder retrial of former",
     "type": "reel",
     "timestamp": 1778103577080
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1778107168456
   }
 ]
