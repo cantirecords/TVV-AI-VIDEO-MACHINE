@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/youths-accused-breaking-nyc-church-scientology-building-latest-viral-speedrunning-trend",
-    "titleNorm": "youths accused of breaking into nyc church of",
-    "type": "card",
-    "timestamp": 1778064962452
-  },
-  {
     "url": "https://www.today.com/video/trump-backed-candidates-win-big-in-midwest-primaries-262830149639",
     "titleNorm": "trumpbacked candidates win big in midwest primaries",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1778107168456
+  },
+  {
+    "url": "https://www.foxnews.com/us/family-identifies-18-year-old-killed-oklahoma-arcadia-lake-mass-shooting-loving-caring-person",
+    "titleNorm": "family identifies 18yearold killed in oklahoma arcadia lake",
+    "type": "reel",
+    "timestamp": 1778109253152
   }
 ]
