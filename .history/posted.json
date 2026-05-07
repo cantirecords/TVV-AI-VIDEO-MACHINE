@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/trump-backed-candidates-win-big-in-midwest-primaries-262830149639",
-    "titleNorm": "trumpbacked candidates win big in midwest primaries",
-    "type": "card",
-    "timestamp": 1778070206859
-  },
-  {
     "url": "https://www.nbcnews.com/news/obituaries/ted-turner-cnn-founder-dies-87-rcna4931",
     "titleNorm": "ted turner billionaire media mogul and cnn founder",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "bakery truck driver struck by united jet thought",
     "type": "card",
     "timestamp": 1778110826982
+  },
+  {
+    "url": "https://www.foxnews.com/us/anti-war-protester-hauled-168-foot-dc-bridge-6-day-stunt-police-file-multiple-charges",
+    "titleNorm": "antiwar protester hauled down from 168foot dc bridge",
+    "type": "card",
+    "timestamp": 1778118795112
   }
 ]
