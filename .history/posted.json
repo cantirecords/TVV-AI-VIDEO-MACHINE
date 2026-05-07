@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/anti-war-protester-hauled-168-foot-dc-bridge-6-day-stunt-police-file-multiple-charges",
-    "titleNorm": "antiwar protester hauled down from 168foot dc bridge",
-    "type": "card",
-    "timestamp": 1778118795112
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/teen-boy-woman-shot-killed-michigan-after-dispute-132720746",
     "titleNorm": "teen boy woman shot and killed in michigan",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "oregon burglary suspect nabbed after crashing suv during",
     "type": "card",
     "timestamp": 1778158676022
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/justice-department-targets-slow-immigration-judges-trump-pushes-132730620",
+    "titleNorm": "doj targets slow immigration judges as trump pushes",
+    "type": "reel",
+    "timestamp": 1778166812513
   }
 ]
