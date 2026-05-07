@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/teen-boy-woman-shot-killed-michigan-after-dispute-132720746",
-    "titleNorm": "teen boy woman shot and killed in michigan",
-    "type": "reel",
-    "timestamp": 1778127197644
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/california-governor-candidates-clash-taxes-trump-healthcare-lively-132720560",
-    "titleNorm": "california governor candidates clash on taxes trump and",
-    "type": "card",
-    "timestamp": 1778131395813
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/runner-competing-250-mile-arizona-ultramarathon-dies-after-132730370",
     "titleNorm": "runner competing in 250mile ultramarathon dies after having",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "man accused in dallasarea shootings that killed 2",
     "type": "card",
     "timestamp": 1778167611485
+  },
+  {
+    "url": "https://www.foxnews.com/us/rabid-beaver-attacks-boy-fishing-new-jersey-lake-prompting-health-officials-warn-residents",
+    "titleNorm": "rabid beaver attacks boy fishing at new jersey",
+    "type": "card",
+    "timestamp": 1778175644701
   }
 ]
