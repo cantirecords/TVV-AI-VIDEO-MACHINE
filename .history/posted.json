@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/cnn-founder-ted-turner-brash-outspoken-television-pioneer-132715216",
-    "titleNorm": "cnn founder ted turner a brash and outspoken",
-    "type": "card",
-    "timestamp": 1778101352308
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/jury-deliberations-begin-murder-retrial-former-ohio-deputy-132720927",
-    "titleNorm": "jury deliberations begin in murder retrial of former",
-    "type": "reel",
-    "timestamp": 1778103577080
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1778107168456
-  },
-  {
     "url": "https://www.foxnews.com/us/family-identifies-18-year-old-killed-oklahoma-arcadia-lake-mass-shooting-loving-caring-person",
     "titleNorm": "family identifies 18yearold killed in oklahoma arcadia lake",
     "type": "reel",
@@ -58,5 +40,11 @@
     "titleNorm": "trump administration sows confusion as it tries to",
     "type": "card",
     "timestamp": 1778141588671
+  },
+  {
+    "url": "https://www.foxnews.com/us/american-cruise-ship-passenger-dies-during-stop-island-vacation-hot-spot",
+    "titleNorm": "american cruise ship passenger dies during stop at",
+    "type": "reel",
+    "timestamp": 1778150502222
   }
 ]
