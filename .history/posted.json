@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/family-identifies-18-year-old-killed-oklahoma-arcadia-lake-mass-shooting-loving-caring-person",
-    "titleNorm": "family identifies 18yearold killed in oklahoma arcadia lake",
-    "type": "reel",
-    "timestamp": 1778109253152
-  },
-  {
-    "url": "https://www.foxnews.com/us/bakery-truck-driver-struck-united-jet-thought-would-killed-father-says",
-    "titleNorm": "bakery truck driver struck by united jet thought",
-    "type": "card",
-    "timestamp": 1778110826982
-  },
-  {
     "url": "https://www.foxnews.com/us/anti-war-protester-hauled-168-foot-dc-bridge-6-day-stunt-police-file-multiple-charges",
     "titleNorm": "antiwar protester hauled down from 168foot dc bridge",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1778151624830
+  },
+  {
+    "url": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video",
+    "titleNorm": "oregon burglary suspect nabbed after crashing suv during",
+    "type": "card",
+    "timestamp": 1778158676022
   }
 ]
