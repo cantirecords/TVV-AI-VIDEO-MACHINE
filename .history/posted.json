@@ -70,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1778196556927
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-announce-arrest-oklahoma-party-shooting-left-1-132723642",
+    "titleNorm": "police announce arrest in oklahoma party shooting that",
+    "type": "card",
+    "timestamp": 1778197393101
   }
 ]
