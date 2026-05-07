@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/protester-atop-washington-bridge-ending-5-day-stand-132712849",
-    "titleNorm": "protester comes down from atop washington bridge ending",
-    "type": "reel",
-    "timestamp": 1778098245840
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/cnn-founder-ted-turner-brash-outspoken-television-pioneer-132715216",
     "titleNorm": "cnn founder ted turner a brash and outspoken",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "runner competing in 250mile ultramarathon dies after having",
     "type": "reel",
     "timestamp": 1778139130644
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-sows-confusion-reopen-strait-hormuz-132722397",
+    "titleNorm": "trump administration sows confusion as it tries to",
+    "type": "card",
+    "timestamp": 1778141588671
   }
 ]
