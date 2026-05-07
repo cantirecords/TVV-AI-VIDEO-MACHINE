@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/obituaries/ted-turner-cnn-founder-dies-87-rcna4931",
-    "titleNorm": "ted turner billionaire media mogul and cnn founder",
-    "type": "reel",
-    "timestamp": 1778080245931
-  },
-  {
-    "url": "https://www.foxnews.com/us/idaho-murders-evidence-leak-triggers-criminal-investigation-insider-spilled-secrets-report",
-    "titleNorm": "idaho murders evidence leak triggers criminal investigation for",
-    "type": "card",
-    "timestamp": 1778081061894
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-announces-temporary-pause-project-freedom-progress-iran-more-top-headlines",
     "titleNorm": "trump announces temporary pause of project freedom amid",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "antiwar protester hauled down from 168foot dc bridge",
     "type": "card",
     "timestamp": 1778118795112
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/teen-boy-woman-shot-killed-michigan-after-dispute-132720746",
+    "titleNorm": "teen boy woman shot and killed in michigan",
+    "type": "reel",
+    "timestamp": 1778127197644
   }
 ]
