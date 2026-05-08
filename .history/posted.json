@@ -64,5 +64,11 @@
     "titleNorm": "rabid beaver attacks boy fishing at new jersey",
     "type": "reel",
     "timestamp": 1778250269601
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
+    "titleNorm": "iran says us crossed the point of no",
+    "type": "card",
+    "timestamp": 1778250682914
   }
 ]
