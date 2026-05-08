@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/justice-department-targets-slow-immigration-judges-trump-pushes-132730620",
-    "titleNorm": "doj targets slow immigration judges as trump pushes",
-    "type": "reel",
-    "timestamp": 1778166812513
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/man-accused-dallas-area-shootings-killed-2-injured-132723826",
-    "titleNorm": "man accused in dallasarea shootings that killed 2",
-    "type": "card",
-    "timestamp": 1778167611485
-  },
-  {
     "url": "https://www.foxnews.com/us/rabid-beaver-attacks-boy-fishing-new-jersey-lake-prompting-health-officials-warn-residents",
     "titleNorm": "rabid beaver attacks boy fishing at new jersey",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trumps iran crackdown faces its biggest test as",
     "type": "card",
     "timestamp": 1778205516739
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-framed-satanic-murder-freed-22-years-wins-24m-real-killer-still-unknown",
+    "titleNorm": "man framed in satanic murder freed after 22",
+    "type": "reel",
+    "timestamp": 1778212831410
   }
 ]
