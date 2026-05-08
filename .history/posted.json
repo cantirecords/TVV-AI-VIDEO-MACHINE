@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines",
-    "titleNorm": "trumps iran crackdown faces its biggest test as",
-    "type": "card",
-    "timestamp": 1778205516739
-  },
-  {
     "url": "https://www.foxnews.com/us/man-framed-satanic-murder-freed-22-years-wins-24m-real-killer-still-unknown",
     "titleNorm": "man framed in satanic murder freed after 22",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "april jobs report expected to show gains despite",
     "type": "card",
     "timestamp": 1778241915496
+  },
+  {
+    "url": "https://www.foxnews.com/us/rabid-beaver-attacks-boy-fishing-new-jersey-lake-prompting-health-officials-warn-residents",
+    "titleNorm": "rabid beaver attacks boy fishing at new jersey",
+    "type": "reel",
+    "timestamp": 1778250269601
   }
 ]
