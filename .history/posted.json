@@ -76,5 +76,11 @@
     "titleNorm": "man charged in colorado firebomb attack on demonstrators",
     "type": "reel",
     "timestamp": 1778270010989
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/cyberattack-hits-canvas-system-thousands-schools-finals-loom-132766856",
+    "titleNorm": "cyberattack hits canvas system used by thousands of",
+    "type": "card",
+    "timestamp": 1778270629735
   }
 ]
