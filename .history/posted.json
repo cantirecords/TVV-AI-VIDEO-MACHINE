@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video",
-    "titleNorm": "oregon burglary suspect nabbed after crashing suv during",
-    "type": "card",
-    "timestamp": 1778158676022
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/justice-department-targets-slow-immigration-judges-trump-pushes-132730620",
     "titleNorm": "doj targets slow immigration judges as trump pushes",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "police announce arrest in oklahoma party shooting that",
     "type": "card",
     "timestamp": 1778197393101
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-iran-crackdown-faces-its-biggest-test-us-rival-dares-washington-more-top-headlines",
+    "titleNorm": "trumps iran crackdown faces its biggest test as",
+    "type": "card",
+    "timestamp": 1778205516739
   }
 ]
