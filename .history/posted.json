@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/looksmaxxing-influencer-clavicular-charged-allegedly-shooting-dead-alligator-livestream",
-    "titleNorm": "looksmaxxing influencer clavicular charged after allegedly shooting dead",
-    "type": "reel",
-    "timestamp": 1778283023144
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "georgia town reinstates police force days after mayor",
     "type": "reel",
     "timestamp": 1778326059736
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-dismisses-former-trump-supporters-defamation-lawsuit-132798205",
+    "titleNorm": "federal judge dismisses former trump supporters defamation lawsuit",
+    "type": "card",
+    "timestamp": 1778326859701
   }
 ]
