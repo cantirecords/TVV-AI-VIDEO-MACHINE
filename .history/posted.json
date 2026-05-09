@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/body-missing-hiker-discovered-trail-investigators-probe-rare-deadly-bear-encounter",
-    "titleNorm": "body of missing hiker discovered off trail as",
-    "type": "card",
-    "timestamp": 1778291551866
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/alabama-republicans-set-new-us-house-primaries-courts-132770209",
     "titleNorm": "alabama republicans look to set new us house",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "man charged in crash that killed mother and",
     "type": "card",
     "timestamp": 1778331175937
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/virginia-supreme-court-strikes-democrats-redrawn-us-house-132781907",
+    "titleNorm": "virginia supreme court strikes down democrats redrawn us",
+    "type": "reel",
+    "timestamp": 1778335212670
   }
 ]
