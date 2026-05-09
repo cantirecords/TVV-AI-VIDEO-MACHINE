@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/georgia-town-reinstates-police-force-days-mayor-fired-entire-department",
-    "titleNorm": "georgia town reinstates police force days after mayor",
-    "type": "reel",
-    "timestamp": 1778326059736
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-judge-dismisses-former-trump-supporters-defamation-lawsuit-132798205",
     "titleNorm": "federal judge dismisses former trump supporters defamation lawsuit",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "virginia mother charged with murder after allegedly drowning",
     "type": "reel",
     "timestamp": 1778368410779
+  },
+  {
+    "url": "https://www.foxnews.com/us/shocking-video-shows-giant-black-plume-smoke-rising-tennessee-plastic-recycling-facility-fire",
+    "titleNorm": "shocking video shows giant black plume of smoke",
+    "type": "card",
+    "timestamp": 1778369810831
   }
 ]
