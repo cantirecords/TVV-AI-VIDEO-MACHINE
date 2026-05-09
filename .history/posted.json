@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
-    "titleNorm": "us fires on 2 more tankers as washington",
-    "type": "card",
-    "timestamp": 1778302857726
-  },
-  {
     "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "thousands of north koreans fought for russia a",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "immigration enforcement guidance for warrantless arrests falls short",
     "type": "card",
     "timestamp": 1778344818045
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/united-arab-emirates-air-defenses-intercepting-drone-missile-132769828",
+    "titleNorm": "united arab emirates says its air defenses are",
+    "type": "reel",
+    "timestamp": 1778347759941
   }
 ]
