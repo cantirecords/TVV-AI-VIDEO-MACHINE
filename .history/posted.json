@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fbi-probe-finds-austin-bar-shooter-lone-actor-132755193",
-    "titleNorm": "suspect in deadly austin bar shooting was lone",
-    "type": "card",
-    "timestamp": 1778280272077
-  },
-  {
     "url": "https://www.foxnews.com/us/looksmaxxing-influencer-clavicular-charged-allegedly-shooting-dead-alligator-livestream",
     "titleNorm": "looksmaxxing influencer clavicular charged after allegedly shooting dead",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1778320411824
+  },
+  {
+    "url": "https://www.foxnews.com/us/georgia-mayor-fires-entire-police-department-officers-complain-wife-dispute",
+    "titleNorm": "georgia mayor fires entire police department after officers",
+    "type": "card",
+    "timestamp": 1778323577208
   }
 ]
