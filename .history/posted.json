@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/georgia-mayor-fires-entire-police-department-officers-complain-wife-dispute",
-    "titleNorm": "georgia mayor fires entire police department after officers",
-    "type": "card",
-    "timestamp": 1778323577208
-  },
-  {
     "url": "https://www.foxnews.com/us/georgia-town-reinstates-police-force-days-mayor-fired-entire-department",
     "titleNorm": "georgia town reinstates police force days after mayor",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "bobby cox longtime braves manager dies at 84",
     "type": "card",
     "timestamp": 1778365977270
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-mother-charged-murder-allegedly-drowning-17-month-old-twin-boys-bathtub-report",
+    "titleNorm": "virginia mother charged with murder after allegedly drowning",
+    "type": "reel",
+    "timestamp": 1778368410779
   }
 ]
