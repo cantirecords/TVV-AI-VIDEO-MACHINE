@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1778310552219
-  },
-  {
     "url": "https://www.foxnews.com/us/video-shows-ice-officers-arrest-alleged-ms-13-gang-member-described-known-suspected-terrorist-florida",
     "titleNorm": "video shows ice officers arrest alleged ms13 gang",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "16yearold nc girl charged in triple murder of",
     "type": "card",
     "timestamp": 1778352194042
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/betty-broderick-convicted-murdering-ex-husband-new-wife-dies-78-rcna344338",
+    "titleNorm": "betty broderick convicted of murdering her exhusband and",
+    "type": "reel",
+    "timestamp": 1778355644900
   }
 ]
