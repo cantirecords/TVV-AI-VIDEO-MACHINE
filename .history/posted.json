@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1778358905858
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "uk warship hms dragon heads to middle east",
-    "type": "reel",
-    "timestamp": 1778361006835
-  },
-  {
     "url": "https://www.foxnews.com/us/video-shows-ice-officers-arrest-alleged-ms-13-gang-member-described-known-suspected-terrorist-florida",
     "titleNorm": "video shows ice officers arrest alleged ms13 gang",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "betty broderick convicted of murdering her exhusband and",
     "type": "card",
     "timestamp": 1778399702262
+  },
+  {
+    "url": "https://www.foxnews.com/us/georgia-mayor-fires-entire-police-department-officers-complain-wife-dispute",
+    "titleNorm": "georgia mayor fires entire police department after officers",
+    "type": "card",
+    "timestamp": 1778404901817
   }
 ]
