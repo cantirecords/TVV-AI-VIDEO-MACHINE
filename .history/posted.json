@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-mother-charged-murder-allegedly-drowning-17-month-old-twin-boys-bathtub-report",
-    "titleNorm": "virginia mother charged with murder after allegedly drowning",
-    "type": "reel",
-    "timestamp": 1778368410779
-  },
-  {
     "url": "https://www.foxnews.com/us/shocking-video-shows-giant-black-plume-smoke-rising-tennessee-plastic-recycling-facility-fire",
     "titleNorm": "shocking video shows giant black plume of smoke",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "killer who dodged sentencing in professor killing makes",
     "type": "card",
     "timestamp": 1778410449793
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/runner-competing-250-mile-arizona-ultramarathon-dies-after-132730370",
+    "titleNorm": "runner competing in 250mile ultramarathon dies after having",
+    "type": "reel",
+    "timestamp": 1778412548016
   }
 ]
