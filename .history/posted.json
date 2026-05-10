@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/killer-who-dodged-sentencing-professor-killing-makes-eerie-courtroom-remark",
-    "titleNorm": "killer who dodged sentencing in professor killing makes",
-    "type": "card",
-    "timestamp": 1778410449793
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/runner-competing-250-mile-arizona-ultramarathon-dies-after-132730370",
     "titleNorm": "runner competing in 250mile ultramarathon dies after having",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "video shows ice officers arresting alleged ms13 gang",
     "type": "card",
     "timestamp": 1778452559452
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-russia-ukraine-agreed-request-3-day-ceasefire-132792000",
+    "titleNorm": "trump says russia and ukraine have agreed to",
+    "type": "reel",
+    "timestamp": 1778454971764
   }
 ]
