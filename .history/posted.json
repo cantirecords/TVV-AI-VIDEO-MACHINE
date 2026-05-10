@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/georgia-mayor-fires-entire-police-department-officers-complain-wife-dispute",
-    "titleNorm": "georgia mayor fires entire police department after officers",
-    "type": "card",
-    "timestamp": 1778404901817
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/person-dies-after-hit-frontier-airlines-plane-taking-132807139",
     "titleNorm": "person dies after being hit by frontier airlines",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "virginia mother charged with murder after allegedly drowning",
     "type": "reel",
     "timestamp": 1778447572528
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1778449094252
   }
 ]
