@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/federal-judge-dismisses-former-trump-supporters-defamation-lawsuit-132798205",
-    "titleNorm": "federal judge dismisses former trump supporters defamation lawsuit",
-    "type": "card",
-    "timestamp": 1778326859701
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-charged-crash-killed-mother-two-young-sons-has-ice-detainer-prior-dwi-convictions",
-    "titleNorm": "man charged in crash that killed mother and",
-    "type": "card",
-    "timestamp": 1778331175937
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/virginia-supreme-court-strikes-democrats-redrawn-us-house-132781907",
     "titleNorm": "virginia supreme court strikes down democrats redrawn us",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "shocking video shows giant black plume of smoke",
     "type": "card",
     "timestamp": 1778369810831
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/alabama-republicans-set-new-us-house-primaries-courts-132770209",
+    "titleNorm": "alabama lawmakers pass plan for new us house",
+    "type": "card",
+    "timestamp": 1778378036207
   }
 ]
