@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/person-dies-after-hit-frontier-airlines-plane-taking-132807139",
-    "titleNorm": "person dies after being hit by frontier airlines",
-    "type": "reel",
-    "timestamp": 1778406819506
-  },
-  {
     "url": "https://www.foxnews.com/us/killer-who-dodged-sentencing-professor-killing-makes-eerie-courtroom-remark",
     "titleNorm": "killer who dodged sentencing in professor killing makes",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1778449094252
+  },
+  {
+    "url": "https://www.foxnews.com/us/video-shows-ice-officers-arrest-alleged-ms-13-gang-member-described-known-suspected-terrorist-florida",
+    "titleNorm": "video shows ice officers arresting alleged ms13 gang",
+    "type": "card",
+    "timestamp": 1778452559452
   }
 ]
