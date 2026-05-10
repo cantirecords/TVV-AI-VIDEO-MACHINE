@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/united-arab-emirates-air-defenses-intercepting-drone-missile-132769828",
-    "titleNorm": "united arab emirates says its air defenses are",
-    "type": "reel",
-    "timestamp": 1778347759941
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/national-security/saudis-feared-trumps-project-freedom-spur-iran-attack-officials-say-rcna344124",
-    "titleNorm": "saudis feared trumps project freedom would spur iran",
-    "type": "card",
-    "timestamp": 1778348465764
-  },
-  {
-    "url": "https://www.foxnews.com/us/16-year-old-nc-girl-charged-triple-murder-family-members-arrested-tennessee-28-year-old-man",
-    "titleNorm": "16yearold nc girl charged in triple murder of",
-    "type": "card",
-    "timestamp": 1778352194042
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/betty-broderick-convicted-murdering-ex-husband-new-wife-dies-78-rcna344338",
     "titleNorm": "betty broderick convicted of murdering her exhusband and",
     "type": "reel",
@@ -82,5 +64,11 @@
     "titleNorm": "driver rescinds guilty plea in wrongway crash into",
     "type": "card",
     "timestamp": 1778390940566
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1778397338284
   }
 ]
