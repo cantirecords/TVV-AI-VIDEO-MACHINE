@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/alabama-republicans-set-new-us-house-primaries-courts-132770209",
-    "titleNorm": "alabama lawmakers pass plan for new us house",
-    "type": "card",
-    "timestamp": 1778378036207
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/after-los-angeles-wildfires-clergy-crossed-denominational-lines-132737935",
     "titleNorm": "after the los angeles wildfires clergy crossed denominational",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "no injuries reported after explosion and fire at",
     "type": "card",
     "timestamp": 1778417601954
+  },
+  {
+    "url": "https://www.foxnews.com/us/16-year-old-nc-girl-charged-triple-murder-family-members-arrested-tennessee-28-year-old-man",
+    "titleNorm": "16yearold nc girl charged in triple murder of",
+    "type": "reel",
+    "timestamp": 1778421660807
   }
 ]
