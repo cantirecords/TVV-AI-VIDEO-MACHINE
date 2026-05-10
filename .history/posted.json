@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/video-shows-ice-officers-arrest-alleged-ms-13-gang-member-described-known-suspected-terrorist-florida",
-    "titleNorm": "video shows ice officers arrest alleged ms13 gang",
-    "type": "card",
-    "timestamp": 1778362447297
-  },
-  {
     "url": "https://www.cbsnews.com/news/bobby-cox-braves-manager-world-series-winner-dies/",
     "titleNorm": "bobby cox longtime braves manager dies at 84",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "georgia mayor fires entire police department after officers",
     "type": "card",
     "timestamp": 1778404901817
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/person-dies-after-hit-frontier-airlines-plane-taking-132807139",
+    "titleNorm": "person dies after being hit by frontier airlines",
+    "type": "reel",
+    "timestamp": 1778406819506
   }
 ]
