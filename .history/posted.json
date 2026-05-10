@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/bobby-cox-braves-manager-world-series-winner-dies/",
-    "titleNorm": "bobby cox longtime braves manager dies at 84",
-    "type": "card",
-    "timestamp": 1778365977270
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-mother-charged-murder-allegedly-drowning-17-month-old-twin-boys-bathtub-report",
     "titleNorm": "virginia mother charged with murder after allegedly drowning",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "person dies after being hit by frontier airlines",
     "type": "reel",
     "timestamp": 1778406819506
+  },
+  {
+    "url": "https://www.foxnews.com/us/killer-who-dodged-sentencing-professor-killing-makes-eerie-courtroom-remark",
+    "titleNorm": "killer who dodged sentencing in professor killing makes",
+    "type": "card",
+    "timestamp": 1778410449793
   }
 ]
