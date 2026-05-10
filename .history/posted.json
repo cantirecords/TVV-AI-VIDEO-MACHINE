@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shocking-video-shows-giant-black-plume-smoke-rising-tennessee-plastic-recycling-facility-fire",
-    "titleNorm": "shocking video shows giant black plume of smoke",
-    "type": "card",
-    "timestamp": 1778369810831
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/alabama-republicans-set-new-us-house-primaries-courts-132770209",
     "titleNorm": "alabama lawmakers pass plan for new us house",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "runner competing in 250mile ultramarathon dies after having",
     "type": "reel",
     "timestamp": 1778412548016
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1778413302018
   }
 ]
