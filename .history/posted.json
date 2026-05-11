@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1778413302018
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/injuries-reported-after-explosion-fire-new-orleans-area-132798481",
-    "titleNorm": "no injuries reported after explosion and fire at",
-    "type": "card",
-    "timestamp": 1778417601954
-  },
-  {
-    "url": "https://www.foxnews.com/us/16-year-old-nc-girl-charged-triple-murder-family-members-arrested-tennessee-28-year-old-man",
-    "titleNorm": "16yearold nc girl charged in triple murder of",
-    "type": "reel",
-    "timestamp": 1778421660807
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/children-killed-louisiana-mass-shooting-remembered-funeral-132816670",
     "titleNorm": "8 children killed in louisiana mass shooting remembered",
     "type": "card",
@@ -106,5 +88,11 @@
     "titleNorm": "georgia mayor fires entire police department after officers",
     "type": "card",
     "timestamp": 1778456467393
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "dress made from 500 loaves stuns african film",
+    "type": "card",
+    "timestamp": 1778464879841
   }
 ]
