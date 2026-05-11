@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/abe-foxman-advocate-american-jews-longtime-head-anti-132831222",
-    "titleNorm": "abe foxman advocate for american jews as longtime",
-    "type": "card",
-    "timestamp": 1778479269267
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "rejecting church and state separation is on the",
     "type": "reel",
     "timestamp": 1778519422925
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1778524269761
   }
 ]
