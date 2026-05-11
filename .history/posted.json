@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1778494056958
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1778495262428
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "trump says ceasefire with iran is on massive",
     "type": "card",
     "timestamp": 1778536899185
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/children-killed-louisiana-mass-shooting-remembered-funeral-132816670",
+    "titleNorm": "8 children killed in louisiana mass shooting remembered",
+    "type": "card",
+    "timestamp": 1778540160957
   }
 ]
