@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "dress made from 500 loaves stuns african film",
-    "type": "card",
-    "timestamp": 1778464879841
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/council-meeting-called-small-georgia-town-mayor-fired-132787715",
     "titleNorm": "small georgia town reinstates police officers and department",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "georgia town reinstates police force days after mayor",
     "type": "card",
     "timestamp": 1778506576083
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-rejects-iran-proposal-totally-unacceptable-more-top-headlines",
+    "titleNorm": "trump rejects iran proposal as totally unacceptable and",
+    "type": "card",
+    "timestamp": 1778516669772
   }
 ]
