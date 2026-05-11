@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/council-meeting-called-small-georgia-town-mayor-fired-132787715",
-    "titleNorm": "small georgia town reinstates police officers and department",
-    "type": "reel",
-    "timestamp": 1778474651027
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/abe-foxman-advocate-american-jews-longtime-head-anti-132831222",
     "titleNorm": "abe foxman advocate for american jews as longtime",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "trump rejects iran proposal as totally unacceptable and",
     "type": "card",
     "timestamp": 1778516669772
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/rejecting-church-state-separation-list-trumps-religious-liberty-132808624",
+    "titleNorm": "rejecting church and state separation is on the",
+    "type": "reel",
+    "timestamp": 1778519422925
   }
 ]
