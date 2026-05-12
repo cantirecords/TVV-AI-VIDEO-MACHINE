@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/hantavirus-cases-deadly-cruise-ship-outbreak/",
-    "titleNorm": "what we know about hantavirus cases tied to",
-    "type": "reel",
-    "timestamp": 1778530546382
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-drives-lincoln-memorial-reflecting-pool-inspect-new-132765639",
     "titleNorm": "trump drives across lincoln memorial reflecting pool to",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "mayor of southern california city to plead guilty",
     "type": "reel",
     "timestamp": 1778570663117
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1778574236446
   }
 ]
