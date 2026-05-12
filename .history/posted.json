@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shocking-video-shows-giant-black-plume-smoke-rising-tennessee-plastic-recycling-facility-fire",
-    "titleNorm": "shocking video shows giant black plume of smoke",
-    "type": "reel",
-    "timestamp": 1778559369596
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1778564146574
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mayor-southern-california-city-plead-guilty-acting-agent-china-feds-sa-rcna344647",
     "titleNorm": "mayor of southern california city to plead guilty",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "crews battle south florida wildfires that have burned",
     "type": "card",
     "timestamp": 1778602378231
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-xi-summit-high-stakes-taiwan-island-democracy-132839391",
+    "titleNorm": "trumpxi summit comes with high stakes for taiwan",
+    "type": "reel",
+    "timestamp": 1778610151917
   }
 ]
