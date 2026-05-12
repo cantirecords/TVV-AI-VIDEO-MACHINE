@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1778582914481
-  },
-  {
-    "url": "https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586",
-    "titleNorm": "inflation expected to jump to a 3year high",
-    "type": "card",
-    "timestamp": 1778584276579
-  },
-  {
     "url": "https://www.today.com/video/trump-suggests-he-ll-lean-on-china-to-force-iran-to-reopen-strait-263152197537",
     "titleNorm": "trump set to meet with chinas xi jinping",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1778623391493
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-teen-takeover-mob-rams-police-cruiser-backward-swarms-car-onlookers-cheer-video",
+    "titleNorm": "chicago teen takeover mob rams police cruiser backward",
+    "type": "reel",
+    "timestamp": 1778629076802
   }
 ]
