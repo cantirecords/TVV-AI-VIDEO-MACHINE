@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-hell-move-suspend-federal-gasoline-tax-132853656",
-    "titleNorm": "trump says hell move to suspend federal gasoline",
-    "type": "reel",
-    "timestamp": 1778616938334
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/asian-shares-trade-mixed-after-wall-street-rally-132869906",
-    "titleNorm": "global shares mostly drop amid iran war worries",
-    "type": "card",
-    "timestamp": 1778617515953
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-alien-monster-charged-raping-dead-girlfriends-daughter-dhs-blames-biden-era-policies",
     "titleNorm": "illegal alien monster charged with raping dead girlfriends",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "trump administration to name david venturella as interim",
     "type": "reel",
     "timestamp": 1778657983865
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/hegseth-facing-new-round-questioning-congress-iran-war-132871995",
+    "titleNorm": "hegseth is facing a new round of questioning",
+    "type": "card",
+    "timestamp": 1778664901122
   }
 ]
