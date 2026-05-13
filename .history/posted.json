@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-nabs-criminal-illegal-alien-who-attempted-murder-cop-escaped-deportation-years",
-    "titleNorm": "ice nabs criminal illegal alien who attempted to",
-    "type": "reel",
-    "timestamp": 1778670358852
-  },
-  {
     "url": "https://www.foxnews.com/us/mural-honoring-murdered-ukrainian-refugee-iryna-zarutska-taken-providence-local-outrage",
     "titleNorm": "mural honoring murdered ukrainian refugee iryna zarutska taken",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "alex murdaughs double murder conviction unanimously overturned by",
     "type": "card",
     "timestamp": 1778713007889
+  },
+  {
+    "url": "https://www.cbsnews.com/news/florida-plane-crash-rescue-bahamas-military-vero-beach/",
+    "titleNorm": "survivors of plane crash off florida coast were",
+    "type": "reel",
+    "timestamp": 1778715460408
   }
 ]
