@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-xi-summit-high-stakes-taiwan-island-democracy-132839391",
-    "titleNorm": "trumpxi summit comes with high stakes for taiwan",
-    "type": "reel",
-    "timestamp": 1778610151917
-  },
-  {
-    "url": "https://www.cbsnews.com/news/hantavirus-cases-deadly-cruise-ship-outbreak/",
-    "titleNorm": "what we know about hantavirus cases tied to",
-    "type": "card",
-    "timestamp": 1778610638377
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-hell-move-suspend-federal-gasoline-tax-132853656",
     "titleNorm": "trump says hell move to suspend federal gasoline",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "trump expected to name ice veteran with private",
     "type": "card",
     "timestamp": 1778653033654
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-administration-plans-to-name-david-venturella-as-interim-ice-chief-after-lyons-departure/",
+    "titleNorm": "trump administration to name david venturella as interim",
+    "type": "reel",
+    "timestamp": 1778657983865
   }
 ]
