@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/chicago-teen-takeover-mob-rams-police-cruiser-backward-swarms-car-onlookers-cheer-video",
-    "titleNorm": "chicago teen takeover mob rams police cruiser backward",
-    "type": "reel",
-    "timestamp": 1778629076802
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/men-wrongly-accused-grisly-yogurt-shop-murders-texas-132900972",
-    "titleNorm": "men wrongly accused of yogurt shop murders reach",
-    "type": "card",
-    "timestamp": 1778629877467
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-reportedly-eyes-renewed-military-action-iran-negotiations-break-down-more-top-headlines",
     "titleNorm": "trump reportedly eyes renewed military action as iran",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "ice nabs criminal illegal alien who attempted to",
     "type": "reel",
     "timestamp": 1778670358852
+  },
+  {
+    "url": "https://www.foxnews.com/us/mural-honoring-murdered-ukrainian-refugee-iryna-zarutska-taken-providence-local-outrage",
+    "titleNorm": "mural honoring murdered ukrainian refugee iryna zarutska taken",
+    "type": "card",
+    "timestamp": 1778673269592
   }
 ]
