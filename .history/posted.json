@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-administration-plans-to-name-david-venturella-as-interim-ice-chief-after-lyons-departure/",
-    "titleNorm": "trump administration to name david venturella as interim",
-    "type": "reel",
-    "timestamp": 1778657983865
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/hegseth-facing-new-round-questioning-congress-iran-war-132871995",
     "titleNorm": "hegseth is facing a new round of questioning",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "senate confirms kevin warsh as fed chair as",
     "type": "card",
     "timestamp": 1778700619023
+  },
+  {
+    "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
+    "titleNorm": "senate defeats 7th attempt to limit trump on",
+    "type": "reel",
+    "timestamp": 1778704080245
   }
 ]
