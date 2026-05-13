@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-expected-name-ice-veteran-private-detention-ties-agencys-acting-director",
-    "titleNorm": "trump expected to name ice veteran with private",
-    "type": "card",
-    "timestamp": 1778653033654
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-administration-plans-to-name-david-venturella-as-interim-ice-chief-after-lyons-departure/",
     "titleNorm": "trump administration to name david venturella as interim",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1778692061154
+  },
+  {
+    "url": "https://www.foxnews.com/us/worlds-two-largest-powers-prepare-negotiate-trump-heads-beijing-more-top-headlines",
+    "titleNorm": "worlds two largest powers prepare to negotiate as",
+    "type": "reel",
+    "timestamp": 1778696729517
   }
 ]
