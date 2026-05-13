@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/hegseth-facing-new-round-questioning-congress-iran-war-132871995",
-    "titleNorm": "hegseth is facing a new round of questioning",
-    "type": "card",
-    "timestamp": 1778664901122
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-nabs-criminal-illegal-alien-who-attempted-murder-cop-escaped-deportation-years",
     "titleNorm": "ice nabs criminal illegal alien who attempted to",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "sons of utah woman convicted of murder worry",
     "type": "card",
     "timestamp": 1778707099981
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-aliens-accused-dallas-killing-teen-mothers-unborn-baby-charged-capital-murder",
+    "titleNorm": "illegal aliens accused in dallas killing of teen",
+    "type": "reel",
+    "timestamp": 1778709196017
   }
 ]
