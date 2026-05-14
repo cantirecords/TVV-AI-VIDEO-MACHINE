@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-deportations-el-salvador-double-bukele-aligns-trump-132933620",
-    "titleNorm": "us deportations to el salvador double as bukele",
-    "type": "card",
-    "timestamp": 1778758989792
-  },
-  {
     "url": "https://www.foxnews.com/us/iranian-sleeper-cells-pose-world-cup-threat-former-fbi-agent-warns-urges-trump-send-stark-warning",
     "titleNorm": "iranian sleeper cells pose world cup threat former",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "fbi offers 200k reward for former air force",
     "type": "reel",
     "timestamp": 1778801470606
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supporters-bill-aid-ukraine-sanction-russia-hit-number-132938832",
+    "titleNorm": "supporters of bill to aid ukraine and sanction",
+    "type": "card",
+    "timestamp": 1778802912293
   }
 ]
