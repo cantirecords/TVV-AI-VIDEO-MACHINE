@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1778750792362
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "trumps talk of 51st us state met with",
     "type": "card",
     "timestamp": 1778790256106
+  },
+  {
+    "url": "https://www.foxnews.com/us/white-house-signals-trump-xi-align-key-points-conflict-iran-more-top-headlines",
+    "titleNorm": "white house signals trump xi align on key",
+    "type": "reel",
+    "timestamp": 1778795040816
   }
 ]
