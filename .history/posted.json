@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/men-wrongly-accused-grisly-yogurt-shop-murders-texas-132900972",
-    "titleNorm": "men wrongly accused of yogurt shop murders reach",
-    "type": "reel",
-    "timestamp": 1778685841514
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "china039s most critical issue is taiwan also central",
     "type": "card",
     "timestamp": 1778724349770
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/largest-modern-us-infrastructure-projects-burrow-new-york-132932399",
+    "titleNorm": "one of the largest modern us infrastructure projects",
+    "type": "reel",
+    "timestamp": 1778733251008
   }
 ]
