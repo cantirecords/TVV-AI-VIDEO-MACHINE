@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1778692061154
-  },
-  {
     "url": "https://www.foxnews.com/us/worlds-two-largest-powers-prepare-negotiate-trump-heads-beijing-more-top-headlines",
     "titleNorm": "worlds two largest powers prepare to negotiate as",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "one of the largest modern us infrastructure projects",
     "type": "reel",
     "timestamp": 1778733251008
+  },
+  {
+    "url": "https://www.foxnews.com/us/dhs-says-two-women-killed-six-years-apart-texas-still-alive-illegal-immigrants-arrest",
+    "titleNorm": "dhs says two women killed six years apart",
+    "type": "card",
+    "timestamp": 1778739301760
   }
 ]
