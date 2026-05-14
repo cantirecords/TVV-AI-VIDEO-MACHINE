@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alex-murdaughs-double-murder-conviction-unanimously-overturned-south-carolina-supreme-court",
-    "titleNorm": "alex murdaughs double murder conviction unanimously overturned by",
-    "type": "card",
-    "timestamp": 1778713007889
-  },
-  {
-    "url": "https://www.cbsnews.com/news/florida-plane-crash-rescue-bahamas-military-vero-beach/",
-    "titleNorm": "survivors of plane crash off florida coast were",
-    "type": "reel",
-    "timestamp": 1778715460408
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1778755373308
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-deportations-el-salvador-double-bukele-aligns-trump-132933620",
+    "titleNorm": "us deportations to el salvador double as bukele",
+    "type": "card",
+    "timestamp": 1778758989792
   }
 ]
