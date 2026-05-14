@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1778755373308
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-deportations-el-salvador-double-bukele-aligns-trump-132933620",
     "titleNorm": "us deportations to el salvador double as bukele",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "11 people survive plane crash off florida coast",
     "type": "card",
     "timestamp": 1778796041020
+  },
+  {
+    "url": "https://www.foxnews.com/us/ag-aims-retry-alex-murdaugh-quickly-sides-enter-courtroom-chess-match-others-gameplans",
+    "titleNorm": "ag aims to retry alex murdaugh quickly both",
+    "type": "card",
+    "timestamp": 1778799507181
   }
 ]
