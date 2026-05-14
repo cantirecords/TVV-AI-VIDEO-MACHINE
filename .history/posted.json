@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/largest-modern-us-infrastructure-projects-burrow-new-york-132932399",
-    "titleNorm": "one of the largest modern us infrastructure projects",
-    "type": "reel",
-    "timestamp": 1778733251008
-  },
-  {
-    "url": "https://www.foxnews.com/us/dhs-says-two-women-killed-six-years-apart-texas-still-alive-illegal-immigrants-arrest",
-    "titleNorm": "dhs says two women killed six years apart",
-    "type": "card",
-    "timestamp": 1778739301760
-  },
-  {
     "url": "https://www.cbsnews.com/news/lawmakers-china-owned-us-farmland/",
     "titleNorm": "lawmakers seek crackdown on chinaowned us farmland",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "tourist arrested after video shows rock hurling at",
     "type": "card",
     "timestamp": 1778774852504
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1778782635310
   }
 ]
