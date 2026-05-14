@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/kevin-warsh-senate-confirmation-fed-chair/",
-    "titleNorm": "senate confirms kevin warsh as fed chair as",
-    "type": "card",
-    "timestamp": 1778700619023
-  },
-  {
-    "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
-    "titleNorm": "senate defeats 7th attempt to limit trump on",
-    "type": "reel",
-    "timestamp": 1778704080245
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/sons-utah-woman-convicted-murder-worry-hurt-freed-132901233",
-    "titleNorm": "sons of utah woman convicted of murder worry",
-    "type": "card",
-    "timestamp": 1778707099981
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-aliens-accused-dallas-killing-teen-mothers-unborn-baby-charged-capital-murder",
     "titleNorm": "illegal aliens accused in dallas killing of teen",
     "type": "reel",
@@ -64,5 +46,11 @@
     "titleNorm": "lawmakers seek crackdown on chinaowned us farmland",
     "type": "reel",
     "timestamp": 1778743818241
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1778750792362
   }
 ]
