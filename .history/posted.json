@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iranian-sleeper-cells-pose-world-cup-threat-former-fbi-agent-warns-urges-trump-send-stark-warning",
-    "titleNorm": "iranian sleeper cells pose world cup threat former",
-    "type": "card",
-    "timestamp": 1778765294087
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-freezes-new-medicare-enrollments-hospice-home-132922053",
     "titleNorm": "trump administration freezes new medicare enrollments for hospice",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "supporters of bill to aid ukraine and sanction",
     "type": "card",
     "timestamp": 1778802912293
+  },
+  {
+    "url": "https://www.foxnews.com/us/illegal-immigrant-who-killed-american-woman-outside-her-home-walks-free-decades-later-then-into-ice-custody",
+    "titleNorm": "illegal immigrant who killed american woman outside her",
+    "type": "card",
+    "timestamp": 1778810596607
   }
 ]
