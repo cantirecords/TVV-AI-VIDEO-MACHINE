@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supporters-bill-aid-ukraine-sanction-russia-hit-number-132938832",
-    "titleNorm": "supporters of bill to aid ukraine and sanction",
-    "type": "card",
-    "timestamp": 1778802912293
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-who-killed-american-woman-outside-her-home-walks-free-decades-later-then-into-ice-custody",
     "titleNorm": "illegal immigrant who killed american woman outside her",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "fbi reports largest drop in violent crime and",
     "type": "card",
     "timestamp": 1778845612982
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-agents-arrest-tourist-after-video-shows-rock-132947294",
+    "titleNorm": "tourist arrested after video shows rock hurling at",
+    "type": "reel",
+    "timestamp": 1778847502143
   }
 ]
