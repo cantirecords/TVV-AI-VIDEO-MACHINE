@@ -82,5 +82,11 @@
     "titleNorm": "ied near alabama reservoir detonated after officials warn",
     "type": "reel",
     "timestamp": 1778887757325
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-people-found-dead-inside-plane-crashed-ohio-132980071",
+    "titleNorm": "2 people found dead inside a plane that",
+    "type": "card",
+    "timestamp": 1778888659269
   }
 ]
