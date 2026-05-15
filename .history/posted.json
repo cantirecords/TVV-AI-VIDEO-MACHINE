@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-mobile-t1-phone-shipping-preorder-terms/",
-    "titleNorm": "trump mobile says its t1 mobile phone to",
-    "type": "card",
-    "timestamp": 1778826261931
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-talk-51st-us-state-met-silence-venezuela-132950949",
     "titleNorm": "trumps talk of 51st us state met with",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "inside chinas race to dominate humanoid robotics industry",
     "type": "reel",
     "timestamp": 1778868090993
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1778872548798
   }
 ]
