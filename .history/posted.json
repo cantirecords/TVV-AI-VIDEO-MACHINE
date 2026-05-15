@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-who-killed-american-woman-outside-her-home-walks-free-decades-later-then-into-ice-custody",
-    "titleNorm": "illegal immigrant who killed american woman outside her",
-    "type": "card",
-    "timestamp": 1778810596607
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-accused-wounding-drivers-cambridge-shooting-spree-pleads-132972563",
     "titleNorm": "man accused of wounding two drivers in cambridge",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "court to consider whether new house map violates",
     "type": "card",
     "timestamp": 1778851639084
+  },
+  {
+    "url": "https://www.foxnews.com/us/dhs-rails-illegal-aliens-hit-capital-murder-charges-allegedly-killing-unborn-baby-monsters",
+    "titleNorm": "dhs rails against illegal aliens hit with capital",
+    "type": "reel",
+    "timestamp": 1778856474764
   }
 ]
