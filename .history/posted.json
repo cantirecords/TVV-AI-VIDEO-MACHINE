@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1778837886488
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-reports-largest-drop-violent-crime-murder-since-1937-homicides-fall-18",
     "titleNorm": "fbi reports largest drop in violent crime and",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "death row inmate who ate 3 last meals",
     "type": "reel",
     "timestamp": 1778880905219
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-town-offer-preview-trump-plan-force-noncitizens-132990511",
+    "titleNorm": "a texas town may offer a preview of",
+    "type": "card",
+    "timestamp": 1778881705547
   }
 ]
