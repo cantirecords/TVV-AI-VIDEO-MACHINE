@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1778782635310
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "man accused of wounding two drivers in cambridge",
     "type": "reel",
     "timestamp": 1778819786531
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-mobile-t1-phone-shipping-preorder-terms/",
+    "titleNorm": "trump mobile says its t1 mobile phone to",
+    "type": "card",
+    "timestamp": 1778826261931
   }
 ]
