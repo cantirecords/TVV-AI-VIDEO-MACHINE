@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-accused-wounding-drivers-cambridge-shooting-spree-pleads-132972563",
-    "titleNorm": "man accused of wounding two drivers in cambridge",
-    "type": "reel",
-    "timestamp": 1778819786531
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-mobile-t1-phone-shipping-preorder-terms/",
     "titleNorm": "trump mobile says its t1 mobile phone to",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "auburn grad who just landed dream job allegedly",
     "type": "card",
     "timestamp": 1778860550060
+  },
+  {
+    "url": "https://www.nbcnews.com/business/markets/bonds-oil-prices-stocks-trump-china-trip-rcna345290",
+    "titleNorm": "few deals from trumps trip and no progress",
+    "type": "card",
+    "timestamp": 1778865669594
   }
 ]
