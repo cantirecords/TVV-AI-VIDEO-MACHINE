@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1778872548798
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/justice-alito-pushes-back-calls-recuse-major-supreme-court-climate-cas-rcna345305",
     "titleNorm": "justice alito pushes back on calls to sit",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "trump leaves china with no agreement on thorny",
     "type": "reel",
     "timestamp": 1778913679344
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/supreme-court/justices-reject-virginia-democrats-attempt-revive-congressional-map-rcna344799",
+    "titleNorm": "supreme court rejects virginia democrats attempt to revive",
+    "type": "card",
+    "timestamp": 1778917743794
   }
 ]
