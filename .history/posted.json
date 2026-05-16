@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ied-near-alabama-reservoir-detonated-officials-warn-unprecedented-critical-infrastructure-threat",
-    "titleNorm": "ied near alabama reservoir detonated after officials warn",
-    "type": "reel",
-    "timestamp": 1778887757325
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-people-found-dead-inside-plane-crashed-ohio-132980071",
     "titleNorm": "2 people found dead inside a plane that",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1778928852888
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/florida-court-new-us-house-map-violates-state-132990568",
+    "titleNorm": "court to consider whether new house map violates",
+    "type": "reel",
+    "timestamp": 1778931141789
   }
 ]
