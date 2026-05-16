@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dhs-rails-illegal-aliens-hit-capital-murder-charges-allegedly-killing-unborn-baby-monsters",
-    "titleNorm": "dhs rails against illegal aliens hit with capital",
-    "type": "reel",
-    "timestamp": 1778856474764
-  },
-  {
-    "url": "https://www.foxnews.com/us/auburn-grad-landed-dream-job-allegedly-shot-killed-boyfriends-father-alabama",
-    "titleNorm": "auburn grad who just landed dream job allegedly",
-    "type": "card",
-    "timestamp": 1778860550060
-  },
-  {
     "url": "https://www.nbcnews.com/business/markets/bonds-oil-prices-stocks-trump-china-trip-rcna345290",
     "titleNorm": "few deals from trumps trip and no progress",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "court fight over ron desantis new congressional map",
     "type": "card",
     "timestamp": 1778896602875
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-says-us-kills-islamic-state-leader-in-nigeria/",
+    "titleNorm": "trump says us kills islamic state leader in",
+    "type": "reel",
+    "timestamp": 1778904634975
   }
 ]
