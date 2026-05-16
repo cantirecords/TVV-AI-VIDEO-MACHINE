@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/justice-alito-pushes-back-calls-recuse-major-supreme-court-climate-cas-rcna345305",
-    "titleNorm": "justice alito pushes back on calls to sit",
-    "type": "reel",
-    "timestamp": 1778875338948
-  },
-  {
-    "url": "https://www.foxnews.com/us/highest-ranking-tren-de-aragua-member-ever-extradited-us-set-appear-houston-courtroom-doj",
-    "titleNorm": "highestranking tren de aragua member ever extradited to",
-    "type": "card",
-    "timestamp": 1778878260648
-  },
-  {
     "url": "https://www.foxnews.com/us/death-row-inmate-ate-3-last-meals-granted-bond-supreme-court-overturned-conviction",
     "titleNorm": "death row inmate who ate 3 last meals",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "supreme court rejects virginia democrats attempt to revive",
     "type": "card",
     "timestamp": 1778917743794
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/elon-musk/elon-musk-openai-trial-court-ai-rcna345038",
+    "titleNorm": "six tech billionaires walked into a federal courthouse",
+    "type": "card",
+    "timestamp": 1778923241034
   }
 ]
