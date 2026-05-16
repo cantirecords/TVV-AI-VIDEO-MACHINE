@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-says-us-kills-islamic-state-leader-in-nigeria/",
-    "titleNorm": "trump says us kills islamic state leader in",
-    "type": "reel",
-    "timestamp": 1778904634975
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "oklahoma woman discovers husband was a canadian man",
     "type": "card",
     "timestamp": 1778946458102
+  },
+  {
+    "url": "https://www.foxnews.com/us/auburn-grad-landed-dream-job-allegedly-shot-killed-boyfriends-father-alabama",
+    "titleNorm": "auburn grad who just landed dream job allegedly",
+    "type": "card",
+    "timestamp": 1778949921262
   }
 ]
