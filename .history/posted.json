@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/court-fight-ron-desantis-new-congressional-map-kicks-florida-rcna345123",
-    "titleNorm": "court fight over ron desantis new congressional map",
-    "type": "card",
-    "timestamp": 1778896602875
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-says-us-kills-islamic-state-leader-in-nigeria/",
     "titleNorm": "trump says us kills islamic state leader in",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "perfect statement trump defends his dismissal of americans",
     "type": "card",
     "timestamp": 1778936213283
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-town-offer-preview-trump-plan-force-noncitizens-132990511",
+    "titleNorm": "a texas town may offer a preview of",
+    "type": "reel",
+    "timestamp": 1778940407236
   }
 ]
