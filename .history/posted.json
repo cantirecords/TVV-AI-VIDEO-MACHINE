@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/tech/elon-musk/elon-musk-openai-trial-court-ai-rcna345038",
-    "titleNorm": "six tech billionaires walked into a federal courthouse",
-    "type": "card",
-    "timestamp": 1778923241034
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/sen-bill-cassidy-faces-louisiana-republican-primary-first-time-trump-i-rcna344476",
     "titleNorm": "sen bill cassidy faces a primary for the",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "ied near alabama reservoir detonated after officials warn",
     "type": "reel",
     "timestamp": 1778965879925
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1778967534197
   }
 ]
