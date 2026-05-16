@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-people-found-dead-inside-plane-crashed-ohio-132980071",
-    "titleNorm": "2 people found dead inside a plane that",
-    "type": "card",
-    "timestamp": 1778888659269
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/court-fight-ron-desantis-new-congressional-map-kicks-florida-rcna345123",
     "titleNorm": "court fight over ron desantis new congressional map",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "trumps flavored vape push sparks backlash from maha",
     "type": "card",
     "timestamp": 1778931751133
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/president-defends-remarks-americans-finances-iran-war-perfect-statemen-rcna345418",
+    "titleNorm": "perfect statement trump defends his dismissal of americans",
+    "type": "card",
+    "timestamp": 1778936213283
   }
 ]
