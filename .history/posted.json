@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-leaves-china-no-agreement-thorny-issues-cites-good-talks-xi-rcna344054",
-    "titleNorm": "trump leaves china with no agreement on thorny",
-    "type": "reel",
-    "timestamp": 1778913679344
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/justices-reject-virginia-democrats-attempt-revive-congressional-map-rcna344799",
     "titleNorm": "supreme court rejects virginia democrats attempt to revive",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "fbi offers 200000 reward to catch exair force",
     "type": "card",
     "timestamp": 1778953626039
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/new-hawaii-law-targets-corporate-influence-politics-after-132987916",
+    "titleNorm": "new hawaii law targets corporate influence in politics",
+    "type": "card",
+    "timestamp": 1778957301913
   }
 ]
