@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/auburn-grad-landed-dream-job-allegedly-shot-killed-boyfriends-father-alabama",
-    "titleNorm": "auburn grad who just landed dream job allegedly",
-    "type": "card",
-    "timestamp": 1778949921262
-  },
-  {
-    "url": "https://www.foxnews.com/us/fbi-brings-iraqi-man-accused-coordinating-nearly-20-terror-attacks-europe-face-trial-new-york",
-    "titleNorm": "fbi brings iraqi man accused of coordinating nearly",
-    "type": "reel",
-    "timestamp": 1778952725239
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/fbi-offers-200000-reward-catch-air-force-specialist-132999112",
-    "titleNorm": "fbi offers 200000 reward to catch exair force",
-    "type": "card",
-    "timestamp": 1778953626039
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/new-hawaii-law-targets-corporate-influence-politics-after-132987916",
     "titleNorm": "new hawaii law targets corporate influence in politics",
     "type": "card",
@@ -82,5 +64,11 @@
     "titleNorm": "at least 80 dead in congo039s ebola outbreak",
     "type": "reel",
     "timestamp": 1778992788073
+  },
+  {
+    "url": "https://www.foxnews.com/us/largest-childrens-hospital-us-open-detransition-clinic-10m-settlement-trump-doj-state",
+    "titleNorm": "largest childrens hospital in us to open detransition",
+    "type": "card",
+    "timestamp": 1778996838582
   }
 ]
