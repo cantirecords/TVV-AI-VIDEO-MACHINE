@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/texas-town-offer-preview-trump-plan-force-noncitizens-132990511",
-    "titleNorm": "a texas town may offer a preview of",
-    "type": "reel",
-    "timestamp": 1778940407236
-  },
-  {
-    "url": "https://www.foxnews.com/us/highest-ranking-tren-de-aragua-member-ever-extradited-us-set-appear-houston-courtroom-doj",
-    "titleNorm": "highestranking tren de aragua member ever extradited to",
-    "type": "card",
-    "timestamp": 1778941155476
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-xi-jinping-china-trade-deals-boeing/",
-    "titleNorm": "trump talks up trade deals with china but",
-    "type": "reel",
-    "timestamp": 1778945722354
-  },
-  {
-    "url": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire",
-    "titleNorm": "oklahoma woman discovers husband was a canadian man",
-    "type": "card",
-    "timestamp": 1778946458102
-  },
-  {
     "url": "https://www.foxnews.com/us/auburn-grad-landed-dream-job-allegedly-shot-killed-boyfriends-father-alabama",
     "titleNorm": "auburn grad who just landed dream job allegedly",
     "type": "card",
@@ -100,5 +76,11 @@
     "titleNorm": "trump says islamic state group leader was killed",
     "type": "card",
     "timestamp": 1778983129528
+  },
+  {
+    "url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
+    "titleNorm": "at least 80 dead in congo039s ebola outbreak",
+    "type": "reel",
+    "timestamp": 1778992788073
   }
 ]
