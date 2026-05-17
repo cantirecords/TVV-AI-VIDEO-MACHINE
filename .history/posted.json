@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/asia/hormuz-crisis-rattles-world-eyes-are-another-key-waterway-rcna341374",
-    "titleNorm": "as hormuz crisis rattles the world eyes are",
-    "type": "card",
-    "timestamp": 1778970961328
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/2-people-found-dead-inside-plane-crashed-ohio-132980071",
-    "titleNorm": "2 people found dead inside a plane that",
-    "type": "reel",
-    "timestamp": 1778973369143
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/texas-mom-charged-capital-murder-kids-burnt-car-rcna345453",
     "titleNorm": "texas mom charged with capital murder after kids",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "court to consider whether new house map violates",
     "type": "card",
     "timestamp": 1779013045171
+  },
+  {
+    "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
+    "titleNorm": "firefighter killed in massive lumber mill explosion in",
+    "type": "reel",
+    "timestamp": 1779018074704
   }
 ]
