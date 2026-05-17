@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
-    "titleNorm": "at least 80 dead in congo039s ebola outbreak",
-    "type": "reel",
-    "timestamp": 1778992788073
-  },
-  {
     "url": "https://www.foxnews.com/us/largest-childrens-hospital-us-open-detransition-clinic-10m-settlement-trump-doj-state",
     "titleNorm": "largest childrens hospital in us to open detransition",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "spurned spouses cash in as north carolinas homewrecker",
     "type": "card",
     "timestamp": 1779032991177
+  },
+  {
+    "url": "https://www.nbcnews.com/world/asia/train-driver-charged-crash-bangkok-thailand-rcna345539",
+    "titleNorm": "train driver charged after crash in bangkok thailand",
+    "type": "card",
+    "timestamp": 1779036298226
   }
 ]
