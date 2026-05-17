@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/largest-childrens-hospital-us-open-detransition-clinic-10m-settlement-trump-doj-state",
-    "titleNorm": "largest childrens hospital in us to open detransition",
-    "type": "card",
-    "timestamp": 1778996838582
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-man-lost-leg-sue-major-logistics-132964383",
     "titleNorm": "supreme court says man who lost leg can",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "ukraine drones kill four in russia moscow faces",
     "type": "reel",
     "timestamp": 1779039204199
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/sen-cassidy-battles-trump-backed-challenger-louisiana-republican-133025226",
+    "titleNorm": "sen cassidy battles trumpbacked challenger in louisiana republican",
+    "type": "card",
+    "timestamp": 1779040154656
   }
 ]
