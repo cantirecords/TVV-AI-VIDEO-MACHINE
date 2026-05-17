@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
-    "titleNorm": "firefighter killed in massive lumber mill explosion in",
-    "type": "reel",
-    "timestamp": 1779018074704
-  },
-  {
     "url": "https://www.foxnews.com/us/former-college-soccer-player-killed-boat-crash-group-allegedly-took-vessel-without-authorization",
     "titleNorm": "former college soccer player killed in boat crash",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "two navy jets crash midair as crew successfully",
     "type": "reel",
     "timestamp": 1779060599643
+  },
+  {
+    "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
+    "titleNorm": "firefighter killed in massive lumber mill explosion in",
+    "type": "card",
+    "timestamp": 1779061661817
   }
 ]
