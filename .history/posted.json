@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/florida-court-new-us-house-map-violates-state-132990568",
-    "titleNorm": "court to consider whether new house map violates",
-    "type": "card",
-    "timestamp": 1779013045171
-  },
-  {
     "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
     "titleNorm": "firefighter killed in massive lumber mill explosion in",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "uss ford returns home after 11month deployment supporting",
     "type": "card",
     "timestamp": 1779054329442
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1779057759857
   }
 ]
