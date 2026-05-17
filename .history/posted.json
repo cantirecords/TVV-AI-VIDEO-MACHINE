@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
-    "titleNorm": "trump says islamic state group leader was killed",
-    "type": "card",
-    "timestamp": 1778983129528
-  },
-  {
     "url": "https://www.cbsnews.com/news/congo-ebola-outbreak-dead-usaid-response/",
     "titleNorm": "at least 80 dead in congo039s ebola outbreak",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "massachusetts governor asks us navy to help retrieve",
     "type": "card",
     "timestamp": 1779022459959
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
+    "titleNorm": "trump says islamic state group leader was killed",
+    "type": "reel",
+    "timestamp": 1779026678351
   }
 ]
