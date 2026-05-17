@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/vaping/trump-flavored-vapes-fda-authorization-backlash-maha-health-officials-rcna345192",
-    "titleNorm": "trumps flavored vape push sparks backlash from maha",
-    "type": "card",
-    "timestamp": 1778931751133
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/president-defends-remarks-americans-finances-iran-war-perfect-statemen-rcna345418",
-    "titleNorm": "perfect statement trump defends his dismissal of americans",
-    "type": "card",
-    "timestamp": 1778936213283
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/texas-town-offer-preview-trump-plan-force-noncitizens-132990511",
     "titleNorm": "a texas town may offer a preview of",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "texas mom charged with capital murder after kids",
     "type": "card",
     "timestamp": 1778974877482
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
+    "titleNorm": "trump says islamic state group leader was killed",
+    "type": "card",
+    "timestamp": 1778983129528
   }
 ]
