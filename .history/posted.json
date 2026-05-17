@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/new-hawaii-law-targets-corporate-influence-politics-after-132987916",
-    "titleNorm": "new hawaii law targets corporate influence in politics",
-    "type": "card",
-    "timestamp": 1778957301913
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/new-virginia-law-banning-assault-firearms-prompts-quick-133009237",
-    "titleNorm": "new virginia law banning assault firearms prompts quick",
-    "type": "reel",
-    "timestamp": 1778960385530
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1778961418829
-  },
-  {
     "url": "https://www.foxnews.com/us/spurned-spouses-cash-north-carolina-homewrecker-law-turns-cheating-courtroom-jackpot",
     "titleNorm": "spurned spouses cash in as north carolinas homewrecker",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "largest childrens hospital in us to open detransition",
     "type": "card",
     "timestamp": 1778996838582
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-man-lost-leg-sue-major-logistics-132964383",
+    "titleNorm": "supreme court says man who lost leg can",
+    "type": "card",
+    "timestamp": 1779005354186
   }
 ]
