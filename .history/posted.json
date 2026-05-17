@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/texas-mom-charged-capital-murder-kids-burnt-car-rcna345453",
-    "titleNorm": "texas mom charged with capital murder after kids",
-    "type": "card",
-    "timestamp": 1778974877482
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
     "titleNorm": "trump says islamic state group leader was killed",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "firefighter killed in massive lumber mill explosion in",
     "type": "reel",
     "timestamp": 1779018074704
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-college-soccer-player-killed-boat-crash-group-allegedly-took-vessel-without-authorization",
+    "titleNorm": "former college soccer player killed in boat crash",
+    "type": "card",
+    "timestamp": 1779018865078
   }
 ]
