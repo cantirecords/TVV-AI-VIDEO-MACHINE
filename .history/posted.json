@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/becky-hill-disgraceful-comments-book-ambitions-unraveled-alex-murdaugh-murder-conviction-docs",
-    "titleNorm": "becky hills disgraceful comments and book ambitions unraveled",
-    "type": "card",
-    "timestamp": 1779027712995
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/sen-bill-cassidy-faces-louisiana-republican-primary-first-time-trump-i-rcna344476",
-    "titleNorm": "sen bill cassidy faces a primary for the",
-    "type": "reel",
-    "timestamp": 1779032238876
-  },
-  {
-    "url": "https://www.foxnews.com/us/spurned-spouses-cash-north-carolina-homewrecker-law-turns-cheating-courtroom-jackpot",
-    "titleNorm": "spurned spouses cash in as north carolinas homewrecker",
-    "type": "card",
-    "timestamp": 1779032991177
-  },
-  {
-    "url": "https://www.nbcnews.com/world/asia/train-driver-charged-crash-bangkok-thailand-rcna345539",
-    "titleNorm": "train driver charged after crash in bangkok thailand",
-    "type": "card",
-    "timestamp": 1779036298226
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
     "titleNorm": "ukraine drones kill four in russia moscow faces",
     "type": "reel",
@@ -94,5 +70,11 @@
     "titleNorm": "oklahoma woman discovers husband was a canadian man",
     "type": "card",
     "timestamp": 1779070225673
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/white-house-prayer-250-birthday-rcna345326",
+    "titleNorm": "trump allies and christian leaders kick off americas",
+    "type": "reel",
+    "timestamp": 1779079887827
   }
 ]
