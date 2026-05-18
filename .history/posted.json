@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
-    "titleNorm": "ukraine drones kill four in russia moscow faces",
-    "type": "reel",
-    "timestamp": 1779039204199
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/sen-cassidy-battles-trump-backed-challenger-louisiana-republican-133025226",
-    "titleNorm": "sen cassidy battles trumpbacked challenger in louisiana republican",
-    "type": "card",
-    "timestamp": 1779040154656
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-promote-program-check-voter-eligibility-critics-133046351",
     "titleNorm": "trump administration promotes program to check voter eligibility",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trump allies and christian leaders kick off americas",
     "type": "reel",
     "timestamp": 1779079887827
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1779086630905
   }
 ]
