@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/3-killed-oakland-crash-rcna345568",
-    "titleNorm": "3 people killed several others injured after driver",
-    "type": "card",
-    "timestamp": 1779101800862
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "bodies of missing italian divers found in maldives",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "primary elections to test trump039s grip on gop",
     "type": "card",
     "timestamp": 1779144505965
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/uss-ford-returns-home-after-11-month-deployment-133033044",
+    "titleNorm": "uss ford returns home after 11month deployment supporting",
+    "type": "reel",
+    "timestamp": 1779147435258
   }
 ]
