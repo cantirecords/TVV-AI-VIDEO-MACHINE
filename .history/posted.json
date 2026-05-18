@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-college-soccer-player-killed-boat-crash-group-allegedly-took-vessel-without-authorization",
-    "titleNorm": "former college soccer player killed in boat crash",
-    "type": "card",
-    "timestamp": 1779018865078
-  },
-  {
-    "url": "https://www.foxnews.com/us/massachusetts-governor-asks-us-navy-help-retrieve-bodies-evidence-sunken-fishing-vessel",
-    "titleNorm": "massachusetts governor asks us navy to help retrieve",
-    "type": "card",
-    "timestamp": 1779022459959
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
-    "titleNorm": "trump says islamic state group leader was killed",
-    "type": "reel",
-    "timestamp": 1779026678351
-  },
-  {
     "url": "https://www.foxnews.com/us/becky-hill-disgraceful-comments-book-ambitions-unraveled-alex-murdaugh-murder-conviction-docs",
     "titleNorm": "becky hills disgraceful comments and book ambitions unraveled",
     "type": "card",
@@ -106,5 +88,11 @@
     "titleNorm": "firefighter killed in massive lumber mill explosion in",
     "type": "card",
     "timestamp": 1779061661817
+  },
+  {
+    "url": "https://www.foxnews.com/us/oklahoma-woman-discovers-husband-canadian-man-faked-death-37-years-earlier-barn-fire",
+    "titleNorm": "oklahoma woman discovers husband was a canadian man",
+    "type": "card",
+    "timestamp": 1779070225673
   }
 ]
