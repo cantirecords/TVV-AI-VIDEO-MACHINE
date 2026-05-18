@@ -34,5 +34,11 @@
     "titleNorm": "trump administration promotes program to check voter eligibility",
     "type": "reel",
     "timestamp": 1779101237851
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/3-killed-oakland-crash-rcna345568",
+    "titleNorm": "3 people killed several others injured after driver",
+    "type": "card",
+    "timestamp": 1779101800862
   }
 ]
