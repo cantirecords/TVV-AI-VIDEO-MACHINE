@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-promote-program-check-voter-eligibility-critics-133046351",
-    "titleNorm": "trump administration promotes program to check voter eligibility",
-    "type": "reel",
-    "timestamp": 1779101237851
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/3-killed-oakland-crash-rcna345568",
     "titleNorm": "3 people killed several others injured after driver",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court sends native american voting rights decision",
     "type": "reel",
     "timestamp": 1779140787378
+  },
+  {
+    "url": "https://www.cbsnews.com/video/primary-elections-test-trump-grip-gop/",
+    "titleNorm": "primary elections to test trump039s grip on gop",
+    "type": "card",
+    "timestamp": 1779144505965
   }
 ]
