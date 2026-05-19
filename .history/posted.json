@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/primary-elections-test-trump-grip-gop/",
-    "titleNorm": "primary elections to test trump039s grip on gop",
-    "type": "card",
-    "timestamp": 1779144505965
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/uss-ford-returns-home-after-11-month-deployment-133033044",
-    "titleNorm": "uss ford returns home after 11month deployment supporting",
-    "type": "reel",
-    "timestamp": 1779147435258
-  },
-  {
-    "url": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
-    "titleNorm": "arkansas man allegedly threatened walmart mass shooting over",
-    "type": "card",
-    "timestamp": 1779148586042
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/san-diego-mosque-shooting-victims-islam-center-suspects-what-know-rcna345805",
     "titleNorm": "what we know about the san diego shooting",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "two navy jets crash midair as crew successfully",
     "type": "card",
     "timestamp": 1779186752302
+  },
+  {
+    "url": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
+    "titleNorm": "arkansas man allegedly threatened walmart mass shooting over",
+    "type": "reel",
+    "timestamp": 1779198222432
   }
 ]
