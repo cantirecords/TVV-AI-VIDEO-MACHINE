@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1779132181337
-  },
-  {
-    "url": "https://www.foxnews.com/us/tyler-robinson-asks-secret-hearings-losing-fight-cameras-court",
-    "titleNorm": "tyler robinson asks for more secret hearings after",
-    "type": "reel",
-    "timestamp": 1779135124438
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "rescue diver dies during search for bodies of",
-    "type": "card",
-    "timestamp": 1779138146756
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-sends-closely-watched-native-american-voting-133069867",
-    "titleNorm": "supreme court sends native american voting rights decision",
-    "type": "reel",
-    "timestamp": 1779140787378
-  },
-  {
     "url": "https://www.cbsnews.com/video/primary-elections-test-trump-grip-gop/",
     "titleNorm": "primary elections to test trump039s grip on gop",
     "type": "card",
@@ -58,5 +34,11 @@
     "titleNorm": "trumps toughtalk foreign policy is hitting a wall",
     "type": "card",
     "timestamp": 1779172778540
+  },
+  {
+    "url": "https://www.foxnews.com/us/austin-police-arrest-2-juveniles-allegedly-linked-12-random-shootings-injuring-4-people",
+    "titleNorm": "austin police arrest 3 juveniles allegedly linked to",
+    "type": "reel",
+    "timestamp": 1779185712553
   }
 ]
