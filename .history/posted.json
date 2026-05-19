@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "bodies of missing italian divers found in maldives",
-    "type": "card",
-    "timestamp": 1779114345920
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/teenagers-arrested-random-shootings-austin-left-4-injured-133056303",
-    "titleNorm": "teenagers arrested in random shootings across austin that",
-    "type": "reel",
-    "timestamp": 1779120211404
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "escaped tiger shot by german police after attacking",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "what we know about the san diego shooting",
     "type": "card",
     "timestamp": 1779156596734
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/mark-fuhrman-oj-simpson-detective-rcna345787",
+    "titleNorm": "mark fuhrman former lapd detective who investigated oj",
+    "type": "reel",
+    "timestamp": 1779165698008
   }
 ]
