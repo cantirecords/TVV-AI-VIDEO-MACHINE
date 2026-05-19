@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/austin-police-arrest-2-juveniles-allegedly-linked-12-random-shootings-injuring-4-people",
-    "titleNorm": "austin police arrest 3 juveniles allegedly linked to",
-    "type": "reel",
-    "timestamp": 1779185712553
-  },
-  {
-    "url": "https://www.foxnews.com/us/two-jets-crash-during-idaho-air-show-emergency-crews-rush-scene",
-    "titleNorm": "two navy jets crash midair as crew successfully",
-    "type": "card",
-    "timestamp": 1779186752302
-  },
-  {
     "url": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
     "titleNorm": "arkansas man allegedly threatened walmart mass shooting over",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "woman dies after falling into an uncovered maintenance",
     "type": "card",
     "timestamp": 1779228345483
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1779234022533
   }
 ]
