@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/san-diego-mosque-shooting-victims-islam-center-suspects-what-know-rcna345805",
-    "titleNorm": "what we know about the san diego shooting",
-    "type": "card",
-    "timestamp": 1779156596734
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/mark-fuhrman-oj-simpson-detective-rcna345787",
-    "titleNorm": "mark fuhrman former lapd detective who investigated oj",
-    "type": "reel",
-    "timestamp": 1779165698008
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-tough-talk-foreign-policy-hitting-wall-iran-133096058",
     "titleNorm": "trumps toughtalk foreign policy is hitting a wall",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "star wars and powerpuff girls voice actor tom",
     "type": "card",
     "timestamp": 1779198554198
+  },
+  {
+    "url": "https://www.foxnews.com/us/alleged-shooters-islamic-center-san-diego-attack-identified-cain-clark-caleb-velasquez-report",
+    "titleNorm": "alleged shooters in islamic center of san diego",
+    "type": "card",
+    "timestamp": 1779209133232
   }
 ]
