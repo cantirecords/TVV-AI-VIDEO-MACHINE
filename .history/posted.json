@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-tough-talk-foreign-policy-hitting-wall-iran-133096058",
-    "titleNorm": "trumps toughtalk foreign policy is hitting a wall",
-    "type": "card",
-    "timestamp": 1779172778540
-  },
-  {
     "url": "https://www.foxnews.com/us/austin-police-arrest-2-juveniles-allegedly-linked-12-random-shootings-injuring-4-people",
     "titleNorm": "austin police arrest 3 juveniles allegedly linked to",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "luigi mangione update suspected murder weapon admissible at",
     "type": "reel",
     "timestamp": 1779211596839
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/heroic-security-guard-killed-protecting-children-staff-san-diego-mosqu-rcna345831",
+    "titleNorm": "heroic security guard killed protecting children and staff",
+    "type": "card",
+    "timestamp": 1779216772722
   }
 ]
