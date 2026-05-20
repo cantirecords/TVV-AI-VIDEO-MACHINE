@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeals-drug-manufacturers-medicare-price-133069195",
-    "titleNorm": "supreme court rejects appeals from drugmakers over medicare",
-    "type": "card",
-    "timestamp": 1779242925564
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/arizona-set-execute-prisoner-killing-man-set-fire-133138154",
-    "titleNorm": "arizona set to execute a prisoner for the",
-    "type": "reel",
-    "timestamp": 1779252321253
-  },
-  {
     "url": "https://www.nbcnews.com/video/gallrein-praises-trump-in-kentucky-primary-victory-speech-263616581767",
     "titleNorm": "gallrein praises courageous trump in kentucky primary victory",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "trumps toughtalk foreign policy is hitting a wall",
     "type": "card",
     "timestamp": 1779283791116
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/kentucky-house-district-4-winners-primary-election-gallrein-massie-rcna345010",
+    "titleNorm": "trumpendorsed ed gallrein unseats rep thomas massie in",
+    "type": "card",
+    "timestamp": 1779295702685
   }
 ]
