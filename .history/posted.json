@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/woman-dies-after-falling-uncovered-maintenance-hole-new-133109660",
-    "titleNorm": "woman dies after falling into an uncovered maintenance",
-    "type": "card",
-    "timestamp": 1779228345483
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "louisiana sen bill cassidy has no regrets over",
     "type": "reel",
     "timestamp": 1779271255199
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-teacher-shot-6-year-old-says-boy-showed-violent-warning-signs-assistant-principal-trial",
+    "titleNorm": "virginia teacher shot by 6yearold says boy showed",
+    "type": "card",
+    "timestamp": 1779272317781
   }
 ]
