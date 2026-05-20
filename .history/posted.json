@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/louisiana-sen-bill-cassidy-regrets-trump-impeachment-vote-133092431",
-    "titleNorm": "louisiana sen bill cassidy has no regrets over",
-    "type": "reel",
-    "timestamp": 1779271255199
-  },
-  {
-    "url": "https://www.foxnews.com/us/virginia-teacher-shot-6-year-old-says-boy-showed-violent-warning-signs-assistant-principal-trial",
-    "titleNorm": "virginia teacher shot by 6yearold says boy showed",
-    "type": "card",
-    "timestamp": 1779272317781
-  },
-  {
     "url": "https://www.foxnews.com/us/pentagon-cuts-brigade-combat-teams-europe-trump-pressures-nato-spending",
     "titleNorm": "pentagon cuts brigade combat teams in europe as",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1779312660031
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-plans-admit-white-south-africans-refugees-133094821",
+    "titleNorm": "trump administration plans to admit more white south",
+    "type": "card",
+    "timestamp": 1779318236998
   }
 ]
