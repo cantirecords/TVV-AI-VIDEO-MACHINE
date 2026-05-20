@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alleged-shooters-islamic-center-san-diego-attack-identified-cain-clark-caleb-velasquez-report",
-    "titleNorm": "alleged shooters in islamic center of san diego",
-    "type": "card",
-    "timestamp": 1779209133232
-  },
-  {
-    "url": "https://www.foxnews.com/us/luigi-mangione-evidence-ruling-could-determine-jurors-see-september-murder-trial",
-    "titleNorm": "luigi mangione update suspected murder weapon admissible at",
-    "type": "reel",
-    "timestamp": 1779211596839
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/heroic-security-guard-killed-protecting-children-staff-san-diego-mosqu-rcna345831",
     "titleNorm": "heroic security guard killed protecting children and staff",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "arizona set to execute a prisoner for the",
     "type": "reel",
     "timestamp": 1779252321253
+  },
+  {
+    "url": "https://www.nbcnews.com/video/gallrein-praises-trump-in-kentucky-primary-victory-speech-263616581767",
+    "titleNorm": "gallrein praises courageous trump in kentucky primary victory",
+    "type": "card",
+    "timestamp": 1779259161316
   }
 ]
