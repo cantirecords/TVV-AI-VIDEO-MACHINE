@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
-    "titleNorm": "arkansas man allegedly threatened walmart mass shooting over",
-    "type": "reel",
-    "timestamp": 1779198222432
-  },
-  {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/star-wars-powerpuff-girls-voice-actor-tom-kane-dies-64-rcna345853",
-    "titleNorm": "star wars and powerpuff girls voice actor tom",
-    "type": "card",
-    "timestamp": 1779198554198
-  },
-  {
     "url": "https://www.foxnews.com/us/alleged-shooters-islamic-center-san-diego-attack-identified-cain-clark-caleb-velasquez-report",
     "titleNorm": "alleged shooters in islamic center of san diego",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "retired austin cop tears into leftist city council",
     "type": "card",
     "timestamp": 1779234902695
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeals-drug-manufacturers-medicare-price-133069195",
+    "titleNorm": "supreme court rejects appeals from drugmakers over medicare",
+    "type": "card",
+    "timestamp": 1779242925564
   }
 ]
