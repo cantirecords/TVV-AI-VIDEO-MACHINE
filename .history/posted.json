@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1779234022533
-  },
-  {
-    "url": "https://www.foxnews.com/us/retired-austin-cop-tears-leftist-city-council-stripping-police-key-tools-shooting-rampage",
-    "titleNorm": "retired austin cop tears into leftist city council",
-    "type": "card",
-    "timestamp": 1779234902695
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-appeals-drug-manufacturers-medicare-price-133069195",
     "titleNorm": "supreme court rejects appeals from drugmakers over medicare",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "virginia teacher shot by 6yearold says boy showed",
     "type": "card",
     "timestamp": 1779272317781
+  },
+  {
+    "url": "https://www.foxnews.com/us/pentagon-cuts-brigade-combat-teams-europe-trump-pressures-nato-spending",
+    "titleNorm": "pentagon cuts brigade combat teams in europe as",
+    "type": "reel",
+    "timestamp": 1779281162277
   }
 ]
