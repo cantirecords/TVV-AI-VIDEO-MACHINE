@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/gallrein-praises-trump-in-kentucky-primary-victory-speech-263616581767",
-    "titleNorm": "gallrein praises courageous trump in kentucky primary victory",
-    "type": "card",
-    "timestamp": 1779259161316
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/louisiana-sen-bill-cassidy-regrets-trump-impeachment-vote-133092431",
     "titleNorm": "louisiana sen bill cassidy has no regrets over",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "woman dies after plunging into uncovered manhole outside",
     "type": "reel",
     "timestamp": 1779298741505
+  },
+  {
+    "url": "https://www.foxnews.com/us/kentucky-voters-deliver-verdict-thomas-massie-more-top-headlines",
+    "titleNorm": "kentucky voters deliver verdict on thomas massie and",
+    "type": "card",
+    "timestamp": 1779304423079
   }
 ]
