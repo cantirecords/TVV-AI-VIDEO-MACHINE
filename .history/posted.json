@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-plans-admit-white-south-africans-refugees-133094821",
-    "titleNorm": "trump administration plans to admit more white south",
-    "type": "card",
-    "timestamp": 1779318236998
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/dick-durbin-warns-doj-jan-6-rioters-new-trump-fund-rcna346211",
-    "titleNorm": "sen dick durbin warns doj against doling out",
-    "type": "reel",
-    "timestamp": 1779320911987
-  },
-  {
     "url": "https://www.foxnews.com/us/georgetown-cupcake-keg-tosser-suspected-second-brazen-m-street-attack-caught-video",
     "titleNorm": "georgetown cupcake keg tosser suspected in second brazen",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "rowdy teen takeover hits popular beach hot spot",
     "type": "card",
     "timestamp": 1779359423846
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/democratic-group-launches-ice-attack-rep-angie-craig-minnesota-senate-rcna345888",
+    "titleNorm": "democratic group launches ice attack against rep angie",
+    "type": "reel",
+    "timestamp": 1779371085094
   }
 ]
