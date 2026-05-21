@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/kentucky-house-district-4-winners-primary-election-gallrein-massie-rcna345010",
-    "titleNorm": "trumpendorsed ed gallrein unseats rep thomas massie in",
-    "type": "card",
-    "timestamp": 1779295702685
-  },
-  {
     "url": "https://www.foxnews.com/us/woman-dies-after-plunging-uncovered-manhole-outside-luxury-stores",
     "titleNorm": "woman dies after plunging into uncovered manhole outside",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "georgetown cupcake keg tosser suspected in second brazen",
     "type": "card",
     "timestamp": 1779329254049
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1779339220098
   }
 ]
