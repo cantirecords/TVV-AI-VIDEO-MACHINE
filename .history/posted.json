@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1779381258697
-  },
-  {
     "url": "https://www.foxnews.com/us/murdaugh-egg-juror-fights-crack-open-jury-tampering-investigation-records-court-clerk-scandal",
     "titleNorm": "murdaugh egg juror fights to crack open jury",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "nancy guthrie case points to criminal underworld wrench",
     "type": "card",
     "timestamp": 1779415825680
+  },
+  {
+    "url": "https://www.foxnews.com/us/rowdy-teen-takeover-hits-popular-beach-hot-spot-wave-arrests-assaults-emergency-curfew-video",
+    "titleNorm": "rowdy teen takeover hits popular beach hot spot",
+    "type": "reel",
+    "timestamp": 1779425233504
   }
 ]
