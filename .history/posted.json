@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-arrested-suspected-human-remains-found-buried-property-father-lived",
-    "titleNorm": "florida man arrested after suspected human remains found",
-    "type": "card",
-    "timestamp": 1779389558259
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-ease-refrigerant-rule-effort-address-surging-grocery-133186633",
-    "titleNorm": "trump will ease refrigerant rule in effort to",
-    "type": "reel",
-    "timestamp": 1779394800589
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/man-arrested-40-year-old-rape-murder-case-forensic-genealogy-investiga-rcna346283",
-    "titleNorm": "man arrested in 40yearold rape and murder case",
-    "type": "card",
-    "timestamp": 1779395450724
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-dismisses-alabamas-bid-execute-inmate-borderline-133187856",
     "titleNorm": "supreme court dismisses bid to execute inmate with",
     "type": "reel",
@@ -58,5 +40,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "card",
     "timestamp": 1779432024252
+  },
+  {
+    "url": "https://www.foxnews.com/us/slayings-rock-quiet-town-alleged-tom-selleck-catfish-targeted-woman-couple-found-dead-friend",
+    "titleNorm": "slayings rock quiet town after alleged tom selleck",
+    "type": "reel",
+    "timestamp": 1779443794698
   }
 ]
