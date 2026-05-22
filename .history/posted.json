@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murdaugh-egg-juror-fights-crack-open-jury-tampering-investigation-records-court-clerk-scandal",
-    "titleNorm": "murdaugh egg juror fights to crack open jury",
-    "type": "reel",
-    "timestamp": 1779383532988
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-arrested-suspected-human-remains-found-buried-property-father-lived",
     "titleNorm": "florida man arrested after suspected human remains found",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "rowdy teen takeover hits popular beach hot spot",
     "type": "reel",
     "timestamp": 1779425233504
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1779432024252
   }
 ]
