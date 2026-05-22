@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-dismisses-alabamas-bid-execute-inmate-borderline-133187856",
-    "titleNorm": "supreme court dismisses bid to execute inmate with",
-    "type": "reel",
-    "timestamp": 1779400661452
-  },
-  {
-    "url": "https://www.foxnews.com/us/woman-arrested-after-allegedly-beheading-jesus-statue-outside-catholic-church",
-    "titleNorm": "woman arrested after allegedly beheading jesus statue outside",
-    "type": "card",
-    "timestamp": 1779401445192
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -46,5 +34,11 @@
     "titleNorm": "slayings rock quiet town after alleged tom selleck",
     "type": "reel",
     "timestamp": 1779443794698
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-postponing-signing-executive-order-ai-concern-hurt-133192293",
+    "titleNorm": "trump says hes postponing signing an executive order",
+    "type": "card",
+    "timestamp": 1779444901256
   }
 ]
