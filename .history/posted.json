@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nancy-guthrie-case-points-criminal-underworld-wrench-attack-theory-retired-detective-says",
-    "titleNorm": "nancy guthrie case points to criminal underworld wrench",
-    "type": "card",
-    "timestamp": 1779415825680
-  },
-  {
     "url": "https://www.foxnews.com/us/rowdy-teen-takeover-hits-popular-beach-hot-spot-wave-arrests-assaults-emergency-curfew-video",
     "titleNorm": "rowdy teen takeover hits popular beach hot spot",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump says he might skip donald jrs wedding",
     "type": "card",
     "timestamp": 1779456188323
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-suspect-tied-12-attacks-chaotic-austin-shooting-spree-identified-illegal-alien",
+    "titleNorm": "teen suspect tied to 12 attacks in chaotic",
+    "type": "card",
+    "timestamp": 1779466487668
   }
 ]
