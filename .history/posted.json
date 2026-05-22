@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "card",
-    "timestamp": 1779432024252
-  },
-  {
     "url": "https://www.foxnews.com/us/slayings-rock-quiet-town-alleged-tom-selleck-catfish-targeted-woman-couple-found-dead-friend",
     "titleNorm": "slayings rock quiet town after alleged tom selleck",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "man arrested for allegedly hurling beer keg through",
     "type": "card",
     "timestamp": 1779474520075
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258",
+    "titleNorm": "iranus diplomacy intensifies as trump seeks right answers",
+    "type": "reel",
+    "timestamp": 1779481161741
   }
 ]
