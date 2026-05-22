@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/slayings-rock-quiet-town-alleged-tom-selleck-catfish-targeted-woman-couple-found-dead-friend",
-    "titleNorm": "slayings rock quiet town after alleged tom selleck",
-    "type": "reel",
-    "timestamp": 1779443794698
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-postponing-signing-executive-order-ai-concern-hurt-133192293",
     "titleNorm": "trump says hes postponing signing an executive order",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "first responders exposed to fentanyl in deadly new",
     "type": "reel",
     "timestamp": 1779486148816
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republicans-expected-abandon-1b-security-proposal-white-house-133174961",
+    "titleNorm": "republicans expected to abandon 1b security proposal for",
+    "type": "card",
+    "timestamp": 1779487039472
   }
 ]
