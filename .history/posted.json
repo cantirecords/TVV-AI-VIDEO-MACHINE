@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-postponing-signing-executive-order-ai-concern-hurt-133192293",
-    "titleNorm": "trump says hes postponing signing an executive order",
-    "type": "card",
-    "timestamp": 1779444901256
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "republicans expected to abandon 1b security proposal for",
     "type": "card",
     "timestamp": 1779487039472
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-throws-author-michael-wolffs-lawsuit-melania-trump-133238037",
+    "titleNorm": "judge throws out author michael wolffs lawsuit against",
+    "type": "card",
+    "timestamp": 1779490323540
   }
 ]
