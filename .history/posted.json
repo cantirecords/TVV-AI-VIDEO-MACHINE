@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/judge-throws-author-michael-wolffs-lawsuit-melania-trump-133238037",
-    "titleNorm": "judge throws out author michael wolffs lawsuit against",
-    "type": "card",
-    "timestamp": 1779490323540
-  },
-  {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/-takes-two-rapper-rob-base-dies-59-rcna346583",
-    "titleNorm": "it takes two rapper rob base dies at",
-    "type": "reel",
-    "timestamp": 1779493201681
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-postponing-signing-executive-order-ai-concern-hurt-133192293",
     "titleNorm": "trump says hes postponing signing an executive order",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "trending senior assassin game draws stark warnings from",
     "type": "card",
     "timestamp": 1779531695711
+  },
+  {
+    "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
+    "titleNorm": "at least 1 killed 34 firefighters and ems",
+    "type": "reel",
+    "timestamp": 1779536633897
   }
 ]
