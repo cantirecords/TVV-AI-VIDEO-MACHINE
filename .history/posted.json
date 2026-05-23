@@ -82,5 +82,11 @@
     "titleNorm": "1 dead and dozens injured after blast at",
     "type": "reel",
     "timestamp": 1779557699368
+  },
+  {
+    "url": "https://www.foxnews.com/us/bakery-owner-found-dead-near-lake-shoreline-police-launch-homicide-investigation-officials",
+    "titleNorm": "bakery owner found dead near lake shoreline as",
+    "type": "card",
+    "timestamp": 1779558828333
   }
 ]
