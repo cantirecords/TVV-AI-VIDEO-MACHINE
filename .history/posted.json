@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/killer-who-compared-stabbing-his-aunt-carving-play-doh-gets-lengthy-sentence-after-courtroom-outburst",
-    "titleNorm": "killer who compared stabbing his aunt to carving",
-    "type": "reel",
-    "timestamp": 1779520506157
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "minnesota fraud suspect who jumped from building is",
     "type": "card",
     "timestamp": 1779562466252
+  },
+  {
+    "url": "https://www.foxnews.com/us/rhode-island-teen-already-bail-weapons-charge-arrested-crowded-beach-stabbing",
+    "titleNorm": "rhode island teen already out on bail for",
+    "type": "reel",
+    "timestamp": 1779565553069
   }
 ]
