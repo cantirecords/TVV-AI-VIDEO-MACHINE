@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ohioans-helping-search-undocumented-revolutionary-war-soldiers-part-america-250-celebration",
-    "titleNorm": "ohioans helping search for undocumented revolutionary war soldiers",
-    "type": "reel",
-    "timestamp": 1779531258503
-  },
-  {
-    "url": "https://www.foxnews.com/us/trending-senior-assassin-game-draws-stark-warnings-police-nationwide-dangerous-misunderstandings-",
-    "titleNorm": "trending senior assassin game draws stark warnings from",
-    "type": "card",
-    "timestamp": 1779531695711
-  },
-  {
     "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
     "titleNorm": "at least 1 killed 34 firefighters and ems",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "california officials warn massive chemical tank will likely",
     "type": "card",
     "timestamp": 1779572794797
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-board-faults-camp-mystic-leader-inaction-deadly-133203256",
+    "titleNorm": "texas board faults camp mystic leader for inaction",
+    "type": "card",
+    "timestamp": 1779576140157
   }
 ]
