@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/flammable-epoxy-leak-in-orange-county-prompts-hazmat-response/",
-    "titleNorm": "40000 evacuated in california chemical leak as officials",
-    "type": "reel",
-    "timestamp": 1779509773129
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
     "titleNorm": "minnesota fraud suspect who jumped from building is",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "airline miles may not go as far as",
     "type": "card",
     "timestamp": 1779551680393
+  },
+  {
+    "url": "https://www.foxnews.com/us/feds-seize-64-million-worth-cocaine-aboard-oil-tanker-port-los-angeles-arrest-suspected-cartel-smuggler",
+    "titleNorm": "feds seize 64m worth of cocaine aboard oil",
+    "type": "card",
+    "timestamp": 1779554949916
   }
 ]
