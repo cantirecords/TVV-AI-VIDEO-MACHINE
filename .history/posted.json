@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1779524044518
-  },
-  {
     "url": "https://www.foxnews.com/us/ohioans-helping-search-undocumented-revolutionary-war-soldiers-part-america-250-celebration",
     "titleNorm": "ohioans helping search for undocumented revolutionary war soldiers",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "the deepest fears of san diegos religious communities",
     "type": "card",
     "timestamp": 1779566471434
+  },
+  {
+    "url": "https://www.foxnews.com/us/key-names-know-murdaugh-double-murder-case-gets-stunning-reset",
+    "titleNorm": "key names to know as murdaugh doublemurder case",
+    "type": "reel",
+    "timestamp": 1779570883208
   }
 ]
