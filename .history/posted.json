@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
-    "titleNorm": "minnesota fraud suspect who jumped from building is",
-    "type": "card",
-    "timestamp": 1779515906664
-  },
-  {
     "url": "https://www.foxnews.com/us/killer-who-compared-stabbing-his-aunt-carving-play-doh-gets-lengthy-sentence-after-courtroom-outburst",
     "titleNorm": "killer who compared stabbing his aunt to carving",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "bakery owner found dead near lake shoreline as",
     "type": "card",
     "timestamp": 1779558828333
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
+    "titleNorm": "minnesota fraud suspect who jumped from building is",
+    "type": "card",
+    "timestamp": 1779562466252
   }
 ]
