@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-postponing-signing-executive-order-ai-concern-hurt-133192293",
-    "titleNorm": "trump says hes postponing signing an executive order",
-    "type": "card",
-    "timestamp": 1779494231507
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1779537245990
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/california-woman-dead-murder-suicide-may-thousands-scammer-claiming-to-rcna346560",
+    "titleNorm": "woman dead in murdersuicide may have been victim",
+    "type": "card",
+    "timestamp": 1779541078826
   }
 ]
