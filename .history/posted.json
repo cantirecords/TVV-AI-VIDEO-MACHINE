@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-arrested-allegedly-hurling-beer-keg-window-famous-georgetown-cupcake-bakery",
-    "titleNorm": "man arrested for allegedly hurling beer keg through",
-    "type": "card",
-    "timestamp": 1779474520075
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/iran-us-talks-trump-tehran-gaps-nuclear-deal-pakistan-war-rcna346258",
     "titleNorm": "iranus diplomacy intensifies as trump seeks right answers",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "minnesota fraud suspect who jumped from building is",
     "type": "card",
     "timestamp": 1779515906664
+  },
+  {
+    "url": "https://www.foxnews.com/us/killer-who-compared-stabbing-his-aunt-carving-play-doh-gets-lengthy-sentence-after-courtroom-outburst",
+    "titleNorm": "killer who compared stabbing his aunt to carving",
+    "type": "reel",
+    "timestamp": 1779520506157
   }
 ]
