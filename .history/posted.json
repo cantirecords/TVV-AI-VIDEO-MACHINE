@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-expands-ai-hunt-healthcare-fraud-133198614",
-    "titleNorm": "the trump administration expands its use of ai",
-    "type": "reel",
-    "timestamp": 1779468189910
-  },
-  {
     "url": "https://www.foxnews.com/us/man-arrested-allegedly-hurling-beer-keg-window-famous-georgetown-cupcake-bakery",
     "titleNorm": "man arrested for allegedly hurling beer keg through",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "40000 evacuated in california chemical leak as officials",
     "type": "reel",
     "timestamp": 1779509773129
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
+    "titleNorm": "minnesota fraud suspect who jumped from building is",
+    "type": "card",
+    "timestamp": 1779515906664
   }
 ]
