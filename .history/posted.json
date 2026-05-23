@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/teen-suspect-tied-12-attacks-chaotic-austin-shooting-spree-identified-illegal-alien",
-    "titleNorm": "teen suspect tied to 12 attacks in chaotic",
-    "type": "card",
-    "timestamp": 1779466487668
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-expands-ai-hunt-healthcare-fraud-133198614",
     "titleNorm": "the trump administration expands its use of ai",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1779503145527
+  },
+  {
+    "url": "https://www.cbsnews.com/news/flammable-epoxy-leak-in-orange-county-prompts-hazmat-response/",
+    "titleNorm": "40000 evacuated in california chemical leak as officials",
+    "type": "reel",
+    "timestamp": 1779509773129
   }
 ]
