@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/key-names-know-murdaugh-double-murder-case-gets-stunning-reset",
-    "titleNorm": "key names to know as murdaugh doublemurder case",
-    "type": "reel",
-    "timestamp": 1779570883208
-  },
-  {
-    "url": "https://www.foxnews.com/us/california-officials-warn-massive-chemical-tank-likely-spill-thousands-gallons-blow",
-    "titleNorm": "california officials warn massive chemical tank will likely",
-    "type": "card",
-    "timestamp": 1779572794797
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/texas-board-faults-camp-mystic-leader-inaction-deadly-133203256",
-    "titleNorm": "texas board faults camp mystic leader for inaction",
-    "type": "card",
-    "timestamp": 1779576140157
-  },
-  {
     "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
     "titleNorm": "magnitude 60 earthquake rocks hawaiis big island kilauea",
     "type": "reel",
@@ -58,5 +40,11 @@
     "titleNorm": "estranged husband convicted of murderforhire in killing of",
     "type": "card",
     "timestamp": 1779614005198
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/deepest-fears-san-diegos-religious-communities-realized-islamic-center-rcna345993",
+    "titleNorm": "the deepest fears of san diegos religious communities",
+    "type": "card",
+    "timestamp": 1779620808041
   }
 ]
