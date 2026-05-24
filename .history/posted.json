@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/illinois-school-shooting-plot-foiled-relative-rcna346656",
-    "titleNorm": "illinois school shooting plot foiled by relative who",
-    "type": "card",
-    "timestamp": 1779588380889
-  },
-  {
     "url": "https://www.nbcnews.com/world/europe/trumps-envoy-greenland-make-friends-rcna346488",
     "titleNorm": "trumps envoy went to greenland to make friends",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "at least 1 killed 34 firefighters and ems",
     "type": "card",
     "timestamp": 1779627500874
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1779631751122
   }
 ]
