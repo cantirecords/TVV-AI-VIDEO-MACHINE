@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
-    "titleNorm": "minnesota fraud suspect who jumped from building is",
-    "type": "card",
-    "timestamp": 1779562466252
-  },
-  {
-    "url": "https://www.foxnews.com/us/rhode-island-teen-already-bail-weapons-charge-arrested-crowded-beach-stabbing",
-    "titleNorm": "rhode island teen already out on bail for",
-    "type": "reel",
-    "timestamp": 1779565553069
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/deepest-fears-san-diegos-religious-communities-realized-islamic-center-rcna345993",
-    "titleNorm": "the deepest fears of san diegos religious communities",
-    "type": "card",
-    "timestamp": 1779566471434
-  },
-  {
     "url": "https://www.foxnews.com/us/key-names-know-murdaugh-double-murder-case-gets-stunning-reset",
     "titleNorm": "key names to know as murdaugh doublemurder case",
     "type": "reel",
@@ -64,5 +46,11 @@
     "titleNorm": "over 40000 evacuated in california chemical leak as",
     "type": "card",
     "timestamp": 1779604031611
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspect-trump-house-owner-attack-mentally-ill-navy-vet-victims-wife-says-wont-survive-reports",
+    "titleNorm": "suspect in trump house owner attack is mentally",
+    "type": "reel",
+    "timestamp": 1779613636278
   }
 ]
