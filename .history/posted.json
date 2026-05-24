@@ -70,5 +70,11 @@
     "titleNorm": "magnitude 60 earthquake rocks hawaiis big island kilauea",
     "type": "reel",
     "timestamp": 1779643983061
+  },
+  {
+    "url": "https://www.foxnews.com/us/white-house-lockdown-after-shots-fired-reported-near-executive-mansion",
+    "titleNorm": "gunman dead after opening fire near white house",
+    "type": "card",
+    "timestamp": 1779645143150
   }
 ]
