@@ -40,5 +40,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1779623360943
+  },
+  {
+    "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
+    "titleNorm": "at least 1 killed 34 firefighters and ems",
+    "type": "card",
+    "timestamp": 1779627500874
   }
 ]
