@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1779623360943
-  },
-  {
     "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
     "titleNorm": "at least 1 killed 34 firefighters and ems",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "rep thomas massie warns gop will be very",
     "type": "reel",
     "timestamp": 1779665676253
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/details-potential-us-iran-deal-begin-emerge-after-133264607",
+    "titleNorm": "trump says not to rush as details emerge",
+    "type": "card",
+    "timestamp": 1779666681522
   }
 ]
