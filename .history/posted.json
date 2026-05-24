@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-seize-64-million-worth-cocaine-aboard-oil-tanker-port-los-angeles-arrest-suspected-cartel-smuggler",
-    "titleNorm": "feds seize 64m worth of cocaine aboard oil",
-    "type": "card",
-    "timestamp": 1779554949916
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/fire-shipyard-explosion-staten-island-injures-16-including-133237438",
-    "titleNorm": "1 dead and dozens injured after blast at",
-    "type": "reel",
-    "timestamp": 1779557699368
-  },
-  {
-    "url": "https://www.foxnews.com/us/bakery-owner-found-dead-near-lake-shoreline-police-launch-homicide-investigation-officials",
-    "titleNorm": "bakery owner found dead near lake shoreline as",
-    "type": "card",
-    "timestamp": 1779558828333
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-fraud-suspect-jumped-building-arrested-fbi-says",
     "titleNorm": "minnesota fraud suspect who jumped from building is",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "trumps envoy went to greenland to make friends",
     "type": "reel",
     "timestamp": 1779598120661
+  },
+  {
+    "url": "https://www.cbsnews.com/news/flammable-epoxy-leak-in-orange-county-prompts-hazmat-response/",
+    "titleNorm": "over 40000 evacuated in california chemical leak as",
+    "type": "card",
+    "timestamp": 1779604031611
   }
 ]
