@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illicit-version-fentanyl-linked-deadly-new-mexico-incident-sickened-first-responders",
-    "titleNorm": "illicit version of fentanyl linked to deadly new",
-    "type": "reel",
-    "timestamp": 1779685327456
-  },
-  {
     "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
     "titleNorm": "at least 1 killed 34 firefighters and ems",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "newsom declares state of emergency in orange county",
     "type": "card",
     "timestamp": 1779728312126
+  },
+  {
+    "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
+    "titleNorm": "magnitude 60 earthquake rocks hawaiis big island kilauea",
+    "type": "reel",
+    "timestamp": 1779732528532
   }
 ]
