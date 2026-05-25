@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1779706581422
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
     "titleNorm": "could anything but profit steer ai the openai",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "marine veteran and boston firefighter dies after rescue",
     "type": "card",
     "timestamp": 1779746479055
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-visit-walter-reed-third-checkup-second-term-rcna346805",
+    "titleNorm": "trump to visit walter reed for the third",
+    "type": "reel",
+    "timestamp": 1779752347707
   }
 ]
