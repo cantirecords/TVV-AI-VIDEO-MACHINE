@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/thomas-massie-warns-republicans-vulnerable-midterm-elections-trump-rcna346692",
-    "titleNorm": "rep thomas massie warns gop will be very",
-    "type": "reel",
-    "timestamp": 1779665676253
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/details-potential-us-iran-deal-begin-emerge-after-133264607",
     "titleNorm": "trump says not to rush as details emerge",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1779706581422
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
+    "titleNorm": "could anything but profit steer ai the openai",
+    "type": "card",
+    "timestamp": 1779709335295
   }
 ]
