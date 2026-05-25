@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
-    "titleNorm": "could anything but profit steer ai the openai",
-    "type": "card",
-    "timestamp": 1779709335295
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-arch-d-c-vietnam-vets-lawsuit/",
     "titleNorm": "vietnam vets say opposing trump039s arch is about",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "trump to visit walter reed for the third",
     "type": "reel",
     "timestamp": 1779752347707
+  },
+  {
+    "url": "https://www.cbsnews.com/video/shooting-near-white-house-raises-security-concerns-ahead-of-americas-250th-birthday-celebrations/",
+    "titleNorm": "shooting near white house raises security concerns ahead",
+    "type": "card",
+    "timestamp": 1779753351363
   }
 ]
