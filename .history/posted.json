@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
-    "titleNorm": "at least 1 killed 34 firefighters and ems",
-    "type": "card",
-    "timestamp": 1779692506632
-  },
-  {
     "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trump says not to rush as details emerge",
     "type": "card",
     "timestamp": 1779733438782
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/bystander-condition-after-fatal-shooting-white-house-checkpoint-133272798",
+    "titleNorm": "bystander in serious condition after fatal shooting near",
+    "type": "reel",
+    "timestamp": 1779739769433
   }
 ]
