@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion",
-    "titleNorm": "newsom declares state of emergency in orange county",
-    "type": "reel",
-    "timestamp": 1779652117182
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/profit-steer-ai-openai-trial-offered-clues-verdict-133262961",
-    "titleNorm": "could anything but profit steer ai the openai",
-    "type": "card",
-    "timestamp": 1779653199567
-  },
-  {
-    "url": "https://www.foxnews.com/us/rhode-island-teen-already-bail-weapons-charge-arrested-crowded-beach-stabbing",
-    "titleNorm": "rhode island teen already out on bail for",
-    "type": "reel",
-    "timestamp": 1779658241132
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trumps-justice-department-scrubs-website-news-releases-jan-133248135",
-    "titleNorm": "trumps justice department scrubs its website of news",
-    "type": "card",
-    "timestamp": 1779659138224
-  },
-  {
-    "url": "https://www.foxnews.com/us/marine-veteran-boston-firefighter-dies-after-rescue-efforts-massive-house-blaze",
-    "titleNorm": "marine veteran and boston firefighter dies after rescue",
-    "type": "card",
-    "timestamp": 1779662761852
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/thomas-massie-warns-republicans-vulnerable-midterm-elections-trump-rcna346692",
     "titleNorm": "rep thomas massie warns gop will be very",
     "type": "reel",
@@ -58,5 +28,11 @@
     "titleNorm": "at least 1 killed 34 firefighters and ems",
     "type": "card",
     "timestamp": 1779692506632
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1779706581422
   }
 ]
