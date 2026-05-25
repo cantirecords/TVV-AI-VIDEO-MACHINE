@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
-    "titleNorm": "magnitude 60 earthquake rocks hawaiis big island kilauea",
-    "type": "reel",
-    "timestamp": 1779643983061
-  },
-  {
-    "url": "https://www.foxnews.com/us/white-house-lockdown-after-shots-fired-reported-near-executive-mansion",
-    "titleNorm": "gunman dead after opening fire near white house",
-    "type": "card",
-    "timestamp": 1779645143150
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1779649188687
-  },
-  {
     "url": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion",
     "titleNorm": "newsom declares state of emergency in orange county",
     "type": "reel",
@@ -70,5 +52,11 @@
     "titleNorm": "illicit version of fentanyl linked to deadly new",
     "type": "reel",
     "timestamp": 1779685327456
+  },
+  {
+    "url": "https://www.foxnews.com/us/least-16-injured-including-13-firefighters-staten-island-shipyard-explosion-fdny",
+    "titleNorm": "at least 1 killed 34 firefighters and ems",
+    "type": "card",
+    "timestamp": 1779692506632
   }
 ]
