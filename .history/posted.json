@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/estranged-husband-convicted-murder-hire-killing-new-york-133235709",
-    "titleNorm": "estranged husband convicted of murderforhire in killing of",
-    "type": "card",
-    "timestamp": 1779761109683
-  },
-  {
     "url": "https://www.nbcnews.com/world/africa/ebola-patients-flee-attacks-congo-health-facilities-rcna346814",
     "titleNorm": "ebola patients flee in attacks on dr congo",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "trumps nobond policy for immigrants in custody played",
     "type": "card",
     "timestamp": 1779803153181
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-michigan-cops-bid-toss-excessive-force-claim-geo-rcna264493",
+    "titleNorm": "supreme court rejects cops bid to toss excessive",
+    "type": "reel",
+    "timestamp": 1779812241739
   }
 ]
