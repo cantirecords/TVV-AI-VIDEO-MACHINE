@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/newsom-declares-state-emergency-orange-county-failing-chemical-tank-nears-catastrophic-explosion",
-    "titleNorm": "newsom declares state of emergency in orange county",
-    "type": "card",
-    "timestamp": 1779728312126
-  },
-  {
-    "url": "https://www.foxnews.com/us/magnitude-60-earthquake-rocks-hawaiis-big-island-kilauea-volcano-expected-erupt-days",
-    "titleNorm": "magnitude 60 earthquake rocks hawaiis big island kilauea",
-    "type": "reel",
-    "timestamp": 1779732528532
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/details-potential-us-iran-deal-begin-emerge-after-133264607",
-    "titleNorm": "trump says not to rush as details emerge",
-    "type": "card",
-    "timestamp": 1779733438782
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/bystander-condition-after-fatal-shooting-white-house-checkpoint-133272798",
     "titleNorm": "bystander in serious condition after fatal shooting near",
     "type": "reel",
@@ -64,5 +46,11 @@
     "titleNorm": "ebola patients flee in attacks on dr congo",
     "type": "reel",
     "timestamp": 1779770609608
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-justice-department-scrubs-website-news-releases-jan-133248135",
+    "titleNorm": "trumps justice department scrubs its website of news",
+    "type": "card",
+    "timestamp": 1779777448618
   }
 ]
