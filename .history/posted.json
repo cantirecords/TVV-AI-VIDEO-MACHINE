@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/africa/ebola-patients-flee-attacks-congo-health-facilities-rcna346814",
-    "titleNorm": "ebola patients flee in attacks on dr congo",
-    "type": "reel",
-    "timestamp": 1779770609608
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-justice-department-scrubs-website-news-releases-jan-133248135",
     "titleNorm": "trumps justice department scrubs its website of news",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "supreme court rejects cops bid to toss excessive",
     "type": "reel",
     "timestamp": 1779812241739
+  },
+  {
+    "url": "https://www.foxnews.com/us/skydiver-dies-midair-collision-another-jumper-group-jump-washington-state",
+    "titleNorm": "skydiver dies after midair collision with another jumper",
+    "type": "card",
+    "timestamp": 1779815981576
   }
 ]
