@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-justice-department-scrubs-website-news-releases-jan-133248135",
-    "titleNorm": "trumps justice department scrubs its website of news",
-    "type": "card",
-    "timestamp": 1779777448618
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "skydiver dies after midair collision with another jumper",
     "type": "card",
     "timestamp": 1779815981576
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/federal-court-blocks-alabama-using-gop-drawn-congressional-map-rcna346917",
+    "titleNorm": "federal court blocks alabama from using gopdrawn congressional",
+    "type": "reel",
+    "timestamp": 1779820954452
   }
 ]
