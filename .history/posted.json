@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tesla-road-rage-driver-sentenced-seven-years-prison-attacking-mother-daughter-hawaii",
-    "titleNorm": "tesla road rage driver sentenced to seven years",
-    "type": "reel",
-    "timestamp": 1779878227575
-  },
-  {
     "url": "https://www.foxnews.com/us/dna-breakthrough-leads-arrest-grisly-33-year-old-cold-case-investigators-never-gave",
     "titleNorm": "dna breakthrough leads to arrest in grisly 33yearold",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "gunmaker lawsuit after auburn grads death faces major",
     "type": "reel",
     "timestamp": 1779920257065
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1779923347743
   }
 ]
