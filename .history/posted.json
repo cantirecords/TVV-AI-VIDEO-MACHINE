@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1779872375171
-  },
-  {
     "url": "https://www.foxnews.com/us/tesla-road-rage-driver-sentenced-seven-years-prison-attacking-mother-daughter-hawaii",
     "titleNorm": "tesla road rage driver sentenced to seven years",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "48 hours probes murder of aspen legend nancy",
     "type": "card",
     "timestamp": 1779909213849
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "card",
+    "timestamp": 1779918306603
   }
 ]
