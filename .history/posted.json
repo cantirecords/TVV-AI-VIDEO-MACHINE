@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/skydiver-dies-midair-collision-another-jumper-group-jump-washington-state",
-    "titleNorm": "skydiver dies after midair collision with another jumper",
-    "type": "card",
-    "timestamp": 1779815981576
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/federal-court-blocks-alabama-using-gop-drawn-congressional-map-rcna346917",
-    "titleNorm": "federal court blocks alabama from using gopdrawn congressional",
-    "type": "reel",
-    "timestamp": 1779820954452
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/memorial-day-evolved-civil-war-origins-133279533",
-    "titleNorm": "what is memorial day and how has it",
-    "type": "card",
-    "timestamp": 1779825286787
-  },
-  {
     "url": "https://www.foxnews.com/us/shark-attack-turns-holiday-boating-trip-bloody-fight-teens-survival",
     "titleNorm": "shark attack turns holiday boating trip into bloody",
     "type": "card",
@@ -58,5 +40,11 @@
     "titleNorm": "south carolina senate rejects trump039s call to redraw",
     "type": "card",
     "timestamp": 1779858530704
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1779872375171
   }
 ]
