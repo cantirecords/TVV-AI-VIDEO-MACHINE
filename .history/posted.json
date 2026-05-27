@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shark-attack-turns-holiday-boating-trip-bloody-fight-teens-survival",
-    "titleNorm": "shark attack turns holiday boating trip into bloody",
-    "type": "card",
-    "timestamp": 1779830851243
-  },
-  {
-    "url": "https://www.nbcnews.com/world/ukraine/russia-pressures-us-ukraines-allies-flee-kyiv-threatening-systematic-s-rcna346861",
-    "titleNorm": "russia pressures us ukraines allies to flee kyiv",
-    "type": "reel",
-    "timestamp": 1779832985790
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1779872375171
+  },
+  {
+    "url": "https://www.foxnews.com/us/tesla-road-rage-driver-sentenced-seven-years-prison-attacking-mother-daughter-hawaii",
+    "titleNorm": "tesla road rage driver sentenced to seven years",
+    "type": "reel",
+    "timestamp": 1779878227575
   }
 ]
