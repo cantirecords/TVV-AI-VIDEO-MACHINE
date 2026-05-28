@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-plays-mayor-cabinet-meeting-showcasing-dc-renovations-133361232",
-    "titleNorm": "trump plays mayor at cabinet meeting showcasing his",
-    "type": "reel",
-    "timestamp": 1779943902504
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/us-military-carries-limited-attacks-southern-iran-us-official-says-rcna347254",
     "titleNorm": "iran claims attack on american air base after",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "us dismisses claim its diplomats have fled kyiv",
     "type": "reel",
     "timestamp": 1779986361896
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-cabinet-meeting-camp-david-iran/",
+    "titleNorm": "trump holds cabinet meeting as negotiations continue to",
+    "type": "card",
+    "timestamp": 1779990973339
   }
 ]
