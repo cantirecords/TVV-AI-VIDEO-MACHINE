@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1779964721716
-  },
-  {
-    "url": "https://www.foxnews.com/us/california-teacher-samantha-watson-arrested-alleged-sexual-conduct-student-charter-school",
-    "titleNorm": "california teacher samantha watson arrested for alleged sexual",
-    "type": "card",
-    "timestamp": 1779965064903
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mercedes-vega-dancer-robbing-murder-rcna346426",
     "titleNorm": "man charged in murder of dancer is found",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "explosion rocks dallas apartment building as massive fire",
     "type": "card",
     "timestamp": 1780007150184
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-rules-black-death-row-inmate-mississippi-133385685",
+    "titleNorm": "supreme court rules for black death row inmate",
+    "type": "reel",
+    "timestamp": 1780012212449
   }
 ]
