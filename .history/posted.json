@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/iran/us-military-carries-limited-attacks-southern-iran-us-official-says-rcna347254",
-    "titleNorm": "iran claims attack on american air base after",
-    "type": "card",
-    "timestamp": 1779948232912
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "trump holds cabinet meeting as negotiations continue to",
     "type": "card",
     "timestamp": 1779990973339
+  },
+  {
+    "url": "https://www.foxnews.com/us/pregnant-woman-driving-home-prenatal-visit-shot-alleged-road-rage-attack-police",
+    "titleNorm": "pregnant woman driving home from prenatal visit shot",
+    "type": "card",
+    "timestamp": 1779998686183
   }
 ]
