@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-prepares-proposed-250-bill-presidents-face-rcna347414",
-    "titleNorm": "trump administration prepares for proposed 250 bill with",
-    "type": "reel",
-    "timestamp": 1780050641687
-  },
-  {
     "url": "https://www.foxnews.com/us/hawaii-police-arrest-armed-extremely-dangerous-man-suspected-three-killings-big-island",
     "titleNorm": "hawaii police arrest armed and extremely dangerous man",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "carney calls for new partnership with us as",
     "type": "card",
     "timestamp": 1780091024698
+  },
+  {
+    "url": "https://www.foxnews.com/us/amtrak-fire-near-penn-station-triggers-major-nyc-commuter-disruptions-nj-transit-lirr-cancellations",
+    "titleNorm": "amtrak fire near penn station triggers major nyc",
+    "type": "card",
+    "timestamp": 1780095787373
   }
 ]
