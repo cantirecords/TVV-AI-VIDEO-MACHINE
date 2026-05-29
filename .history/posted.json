@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/israeli-russian-forces-added-blacklist-sexual-violence-conflict-133403525",
-    "titleNorm": "israeli and russian forces added to un blacklist",
-    "type": "card",
-    "timestamp": 1780047206594
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-prepares-proposed-250-bill-presidents-face-rcna347414",
     "titleNorm": "trump administration prepares for proposed 250 bill with",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "manhunt targets armed and dangerous murder suspect now",
     "type": "reel",
     "timestamp": 1780087400634
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/carney-calls-new-partnership-us-trump-mulls-renew-133391839",
+    "titleNorm": "carney calls for new partnership with us as",
+    "type": "card",
+    "timestamp": 1780091024698
   }
 ]
