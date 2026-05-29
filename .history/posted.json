@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/explosion-rocks-dallas-apartment-building-massive-fire-sends-black-smoke-sky-least-4-injured",
-    "titleNorm": "explosion rocks dallas apartment building as massive fire",
-    "type": "card",
-    "timestamp": 1780007150184
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-rules-black-death-row-inmate-mississippi-133385685",
     "titleNorm": "supreme court rules for black death row inmate",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "israeli and russian forces added to un blacklist",
     "type": "card",
     "timestamp": 1780047206594
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-prepares-proposed-250-bill-presidents-face-rcna347414",
+    "titleNorm": "trump administration prepares for proposed 250 bill with",
+    "type": "reel",
+    "timestamp": 1780050641687
   }
 ]
