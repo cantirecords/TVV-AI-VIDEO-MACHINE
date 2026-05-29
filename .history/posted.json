@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-rules-black-death-row-inmate-mississippi-133385685",
-    "titleNorm": "supreme court rules for black death row inmate",
-    "type": "reel",
-    "timestamp": 1780012212449
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/carney-calls-new-partnership-us-trump-mulls-renew-133391839",
-    "titleNorm": "carney calls for new partnership with us as",
-    "type": "card",
-    "timestamp": 1780012908974
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-jobless-claims-rise-215000-layoffs-remain-low-133380904",
     "titleNorm": "us jobless claims rise to 215000 but layoffs",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "trump administration prepares for proposed 250 bill with",
     "type": "reel",
     "timestamp": 1780050641687
+  },
+  {
+    "url": "https://www.foxnews.com/us/hawaii-police-arrest-armed-extremely-dangerous-man-suspected-three-killings-big-island",
+    "titleNorm": "hawaii police arrest armed and extremely dangerous man",
+    "type": "card",
+    "timestamp": 1780058424530
   }
 ]
