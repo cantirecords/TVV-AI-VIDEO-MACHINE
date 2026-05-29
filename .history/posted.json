@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-jobless-claims-rise-215000-layoffs-remain-low-133380904",
-    "titleNorm": "us jobless claims rise to 215000 but layoffs",
-    "type": "reel",
-    "timestamp": 1780030375384
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1780031085367
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/israeli-russian-forces-added-blacklist-sexual-violence-conflict-133403525",
     "titleNorm": "israeli and russian forces added to un blacklist",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "12yearold boy dies after raft capsizes during school",
     "type": "card",
     "timestamp": 1780072475657
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1780077055280
   }
 ]
