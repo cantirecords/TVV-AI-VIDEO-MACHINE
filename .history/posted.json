@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/immigration/ice-eyes-selling-mega-warehouses-purchased-mass-detention-rcna347592",
-    "titleNorm": "ice eyes selling megawarehouses purchased for mass detention",
-    "type": "card",
-    "timestamp": 1780120061392
-  },
-  {
     "url": "https://www.foxnews.com/us/families-confront-california-party-mom-court-calling-monster-groomed-children",
     "titleNorm": "families confront california party mom in court calling",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trumps physician says the president is in excellent",
     "type": "reel",
     "timestamp": 1780162651642
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-tells-agencies-align-study-calling-narrower-childhood-133438678",
+    "titleNorm": "trump tells agencies to align with study calling",
+    "type": "card",
+    "timestamp": 1780164177463
   }
 ]
