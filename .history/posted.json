@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/carney-calls-new-partnership-us-trump-mulls-renew-133391839",
-    "titleNorm": "carney calls for new partnership with us as",
-    "type": "card",
-    "timestamp": 1780091024698
-  },
-  {
     "url": "https://www.foxnews.com/us/amtrak-fire-near-penn-station-triggers-major-nyc-commuter-disruptions-nj-transit-lirr-cancellations",
     "titleNorm": "amtrak fire near penn station triggers major nyc",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1780130700450
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "card",
+    "timestamp": 1780137830421
   }
 ]
