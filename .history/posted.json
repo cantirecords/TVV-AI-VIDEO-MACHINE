@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/rail-car-fire-new-yorks-penn-station-injures-133415223",
-    "titleNorm": "rail car fire near new yorks penn station",
-    "type": "reel",
-    "timestamp": 1780141929157
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "learning from ukraine war hezbollah is now using",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "families confront california party mom in court calling",
     "type": "reel",
     "timestamp": 1780184124761
+  },
+  {
+    "url": "https://www.nbcnews.com/world/pakistan/truck-carrying-returning-refugees-crashes-eastern-afghanistan-killing-rcna347665",
+    "titleNorm": "truck carrying returning refugees crashes in eastern afghanistan",
+    "type": "card",
+    "timestamp": 1780185130277
   }
 ]
