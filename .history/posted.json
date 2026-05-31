@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1780226767101
-  },
-  {
     "url": "https://www.foxnews.com/us/hawaii-police-arrest-armed-extremely-dangerous-man-suspected-three-killings-big-island",
     "titleNorm": "hawaii police arrest armed and extremely dangerous man",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "rail car fire near new yorks penn station",
     "type": "card",
     "timestamp": 1780267684935
+  },
+  {
+    "url": "https://www.cbsnews.com/news/breaking-down-the-high-costs-of-egg-freezing-60-minutes/",
+    "titleNorm": "breaking down the high costs of egg freezing",
+    "type": "reel",
+    "timestamp": 1780270739880
   }
 ]
