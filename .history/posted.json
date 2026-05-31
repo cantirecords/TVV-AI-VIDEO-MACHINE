@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/three-major-candidates-governor-are-talking-biden-administration-exper-rcna346892",
-    "titleNorm": "how three governor candidates highlight white house experience",
-    "type": "reel",
-    "timestamp": 1780170581188
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/4-5-victims-virginia-bus-crash-traveling-family-133454177",
-    "titleNorm": "4 of 5 victims of virginia bus crash",
-    "type": "card",
-    "timestamp": 1780171350323
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "ukraine using ai drones to strike vital convoys",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "ghosts on florida highways roadside sting snares 249",
     "type": "card",
     "timestamp": 1780210047513
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
+    "titleNorm": "iran official says trump is stalling talks with",
+    "type": "reel",
+    "timestamp": 1780219867395
   }
 ]
