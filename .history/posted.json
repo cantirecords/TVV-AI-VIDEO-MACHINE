@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-california-mayor-admits-secretly-working-china-spreading-beijing-propaganda-us",
-    "titleNorm": "former california mayor admits to secretly working for",
-    "type": "card",
-    "timestamp": 1780193748007
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mount-mckinley-climbers-dead-rcna347675",
     "titleNorm": "3 climbers who fell near treacherous pass on",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trump tells agencies to align with study calling",
     "type": "card",
     "timestamp": 1780233122738
+  },
+  {
+    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
+    "titleNorm": "fire crews respond to fire at boarded up",
+    "type": "reel",
+    "timestamp": 1780237128998
   }
 ]
