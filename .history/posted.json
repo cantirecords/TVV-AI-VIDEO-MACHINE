@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "learning from ukraine war hezbollah is now using",
-    "type": "card",
-    "timestamp": 1780142472812
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/",
-    "titleNorm": "trump decision on iran deal yet to come",
-    "type": "reel",
-    "timestamp": 1780150487873
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "truck carrying returning refugees crashes in eastern afghanistan",
     "type": "card",
     "timestamp": 1780185130277
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-california-mayor-admits-secretly-working-china-spreading-beijing-propaganda-us",
+    "titleNorm": "former california mayor admits to secretly working for",
+    "type": "card",
+    "timestamp": 1780193748007
   }
 ]
