@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ghosts-florida-highways-roadside-stings-snare-249-illegal-immigrants-officers-warn-many-hiding",
-    "titleNorm": "ghosts on florida highways roadside sting snares 249",
-    "type": "card",
-    "timestamp": 1780210047513
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
     "titleNorm": "iran official says trump is stalling talks with",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "manhunt targets armed and dangerous murder suspect now",
     "type": "card",
     "timestamp": 1780250105659
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/mike-pence-trump-departed-conservative-principles-anti-weaponization-rcna347743",
+    "titleNorm": "mike pence says the trump administration has departed",
+    "type": "card",
+    "timestamp": 1780254167074
   }
 ]
