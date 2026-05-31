@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/mount-mckinley-climbers-dead-rcna347675",
-    "titleNorm": "3 climbers who fell near treacherous pass on",
-    "type": "reel",
-    "timestamp": 1780203652501
-  },
-  {
     "url": "https://www.foxnews.com/us/ghosts-florida-highways-roadside-stings-snare-249-illegal-immigrants-officers-warn-many-hiding",
     "titleNorm": "ghosts on florida highways roadside sting snares 249",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "trump suggests canceling performances at great american state",
     "type": "card",
     "timestamp": 1780246527818
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-physician-president-excellent-health-fully-fit-serve-133440811",
+    "titleNorm": "trumps physician says the president is in excellent",
+    "type": "reel",
+    "timestamp": 1780249083451
   }
 ]
