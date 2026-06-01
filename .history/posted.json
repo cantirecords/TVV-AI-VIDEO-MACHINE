@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-tells-agencies-align-study-calling-narrower-childhood-133438678",
-    "titleNorm": "trump tells agencies to align with study calling",
-    "type": "card",
-    "timestamp": 1780302293933
-  },
-  {
     "url": "https://www.foxnews.com/us/mackenzie-shirilla-texts-surface-hell-wheels-drivers-appeal-collides-netflix-crash",
     "titleNorm": "mackenzie shirillas texts surface as hell on wheels",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "karmelo anthonys selfdefense claim could define murder trial",
     "type": "card",
     "timestamp": 1780343498492
+  },
+  {
+    "url": "https://www.foxnews.com/us/taxpayer-funded-meth-mansion-fire-crime-concerns-mount-around-homeless-campus",
+    "titleNorm": "taxpayerfunded meth mansion under fire as crime concerns",
+    "type": "reel",
+    "timestamp": 1780350563405
   }
 ]
