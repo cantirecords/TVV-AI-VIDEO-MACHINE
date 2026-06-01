@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-texas-authorities-arrest-276-suspected-child-predators-rescue-89-children-sweeping-operation",
-    "titleNorm": "fbi and texas authorities arrest 276 suspected child",
-    "type": "card",
-    "timestamp": 1780260472016
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1780263200891
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/southern-california-chinese-enclave-mayors-arrest-stokes-fears-133441800",
-    "titleNorm": "in southern california chinese enclave a mayors arrest",
-    "type": "card",
-    "timestamp": 1780264098848
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/rail-car-fire-new-yorks-penn-station-injures-133415223",
-    "titleNorm": "rail car fire near new yorks penn station",
-    "type": "card",
-    "timestamp": 1780267684935
-  },
-  {
-    "url": "https://www.cbsnews.com/news/breaking-down-the-high-costs-of-egg-freezing-60-minutes/",
-    "titleNorm": "breaking down the high costs of egg freezing",
-    "type": "reel",
-    "timestamp": 1780270739880
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1780271784672
-  },
-  {
     "url": "https://www.foxnews.com/us/agitators-outside-delaney-hall-set-organized-logistics-operation-newark-protests-began",
     "titleNorm": "agitators outside delaney hall set up organized logistics",
     "type": "card",
@@ -52,5 +16,11 @@
     "titleNorm": "trump tells agencies to align with study calling",
     "type": "card",
     "timestamp": 1780302293933
+  },
+  {
+    "url": "https://www.foxnews.com/us/mackenzie-shirilla-texts-surface-hell-wheels-drivers-appeal-collides-netflix-crash",
+    "titleNorm": "mackenzie shirillas texts surface as hell on wheels",
+    "type": "reel",
+    "timestamp": 1780316238240
   }
 ]
