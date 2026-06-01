@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-physician-president-excellent-health-fully-fit-serve-133440811",
-    "titleNorm": "trumps physician says the president is in excellent",
-    "type": "reel",
-    "timestamp": 1780249083451
-  },
-  {
-    "url": "https://www.foxnews.com/us/manhunt-targets-armed-dangerous-murder-suspect-states-wanted-list",
-    "titleNorm": "manhunt targets armed and dangerous murder suspect now",
-    "type": "card",
-    "timestamp": 1780250105659
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/mike-pence-trump-departed-conservative-principles-anti-weaponization-rcna347743",
-    "titleNorm": "mike pence says the trump administration has departed",
-    "type": "card",
-    "timestamp": 1780254167074
-  },
-  {
-    "url": "https://www.foxnews.com/us/ghosts-florida-highways-roadside-stings-snare-249-illegal-immigrants-officers-warn-many-hiding",
-    "titleNorm": "ghosts on florida highways roadside sting snares 249",
-    "type": "reel",
-    "timestamp": 1780256992819
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-texas-authorities-arrest-276-suspected-child-predators-rescue-89-children-sweeping-operation",
     "titleNorm": "fbi and texas authorities arrest 276 suspected child",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1780291513630
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-tells-agencies-align-study-calling-narrower-childhood-133438678",
+    "titleNorm": "trump tells agencies to align with study calling",
+    "type": "card",
+    "timestamp": 1780302293933
   }
 ]
