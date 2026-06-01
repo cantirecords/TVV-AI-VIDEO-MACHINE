@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1780291513630
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-tells-agencies-align-study-calling-narrower-childhood-133438678",
     "titleNorm": "trump tells agencies to align with study calling",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "a year of grief after air india crash",
     "type": "card",
     "timestamp": 1780325351885
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1780338256486
   }
 ]
