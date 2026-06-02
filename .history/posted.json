@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/bus-driver-virginia-crash-involuntary-manslaughter-5-deaths/",
-    "titleNorm": "bus driver in virginia crash that killed 5",
-    "type": "card",
-    "timestamp": 1780353005165
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ice-officer-wanted-shooting-man-minneapolis-crackdown-arrested-133425823",
     "titleNorm": "ice officer wanted for shooting a man during",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "republican senators want more answers on 18 billion",
     "type": "card",
     "timestamp": 1780394476859
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/bus-driver-fatal-virginia-crash-previous-speeding-charges-133496946",
+    "titleNorm": "bus driver in fatal virginia crash had previous",
+    "type": "reel",
+    "timestamp": 1780398224564
   }
 ]
