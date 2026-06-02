@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1780338256486
-  },
-  {
-    "url": "https://www.foxnews.com/us/karmelo-anthony-self-defense-claim-could-define-murder-trial-high-school-track-meet-stabbing-analyst",
-    "titleNorm": "karmelo anthonys selfdefense claim could define murder trial",
-    "type": "card",
-    "timestamp": 1780343498492
-  },
-  {
-    "url": "https://www.foxnews.com/us/taxpayer-funded-meth-mansion-fire-crime-concerns-mount-around-homeless-campus",
-    "titleNorm": "taxpayerfunded meth mansion under fire as crime concerns",
-    "type": "reel",
-    "timestamp": 1780350563405
-  },
-  {
     "url": "https://www.cbsnews.com/news/bus-driver-virginia-crash-involuntary-manslaughter-5-deaths/",
     "titleNorm": "bus driver in virginia crash that killed 5",
     "type": "card",
@@ -40,5 +22,11 @@
     "titleNorm": "teenage girl arrested after competition horses were stabbed",
     "type": "reel",
     "timestamp": 1780377003424
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republican-senators-answers-18-billion-settlement-fund-trump-133505015",
+    "titleNorm": "republican senators want more answers on 18 billion",
+    "type": "card",
+    "timestamp": 1780394476859
   }
 ]
