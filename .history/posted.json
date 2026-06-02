@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/teenage-girl-arrested-after-competition-horses-stabbed-las-133498537",
-    "titleNorm": "teenage girl arrested after competition horses were stabbed",
-    "type": "reel",
-    "timestamp": 1780377003424
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/republican-senators-answers-18-billion-settlement-fund-trump-133505015",
     "titleNorm": "republican senators want more answers on 18 billion",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "trump signs ai executive order to give government",
     "type": "reel",
     "timestamp": 1780419705237
+  },
+  {
+    "url": "https://www.nbcnews.com/world/ukraine/ukraines-kyiv-heavy-russian-attack-apartment-building-fire-mayor-says-rcna347992",
+    "titleNorm": "major russian attack kills at least 22 and",
+    "type": "card",
+    "timestamp": 1780425042180
   }
 ]
