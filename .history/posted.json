@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-ai-executive-order/",
-    "titleNorm": "trump signs ai executive order to give government",
-    "type": "reel",
-    "timestamp": 1780419705237
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/ukraines-kyiv-heavy-russian-attack-apartment-building-fire-mayor-says-rcna347992",
     "titleNorm": "major russian attack kills at least 22 and",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "fox news true crime newsletter american womans bahamas",
     "type": "card",
     "timestamp": 1780454515210
+  },
+  {
+    "url": "https://www.foxnews.com/us/store-owner-held-without-bond-3-years-acquitted-murder-teens-shooting-death",
+    "titleNorm": "store owner held without bond for 3 years",
+    "type": "reel",
+    "timestamp": 1780464429508
   }
 ]
