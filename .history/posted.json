@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-american-womans-bahamas-disappearance-treated-murder-investigation",
-    "titleNorm": "fox news true crime newsletter american womans bahamas",
-    "type": "card",
-    "timestamp": 1780454515210
-  },
-  {
     "url": "https://www.foxnews.com/us/store-owner-held-without-bond-3-years-acquitted-murder-teens-shooting-death",
     "titleNorm": "store owner held without bond for 3 years",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1780489762649
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/blanche-set-return-capitol-hill-trump-reconsiders-plans-133509501",
+    "titleNorm": "trump administration is scrapping 18b fund meant to",
+    "type": "reel",
+    "timestamp": 1780507603078
   }
 ]
