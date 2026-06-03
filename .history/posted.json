@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/tech/tech-news/trump-ai-executive-order-rcna348072",
-    "titleNorm": "trump signs order seeking early access to powerful",
-    "type": "reel",
-    "timestamp": 1780445478979
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-american-womans-bahamas-disappearance-treated-murder-investigation",
     "titleNorm": "fox news true crime newsletter american womans bahamas",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "illegal immigrant flashes courtroom grin after allegedly killing",
     "type": "reel",
     "timestamp": 1780486120207
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1780489762649
   }
 ]
