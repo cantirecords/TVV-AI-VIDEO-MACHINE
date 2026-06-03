@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/ukraine/ukraines-kyiv-heavy-russian-attack-apartment-building-fire-mayor-says-rcna347992",
-    "titleNorm": "major russian attack kills at least 22 and",
-    "type": "card",
-    "timestamp": 1780425042180
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "store owner held without bond for 3 years",
     "type": "reel",
     "timestamp": 1780464429508
+  },
+  {
+    "url": "https://www.foxnews.com/us/oregon-cop-shot-several-dead-gunman-barricades-himself-home-unimaginable-loss-lives",
+    "titleNorm": "oregon cop shot several dead as gunman barricades",
+    "type": "card",
+    "timestamp": 1780471879479
   }
 ]
