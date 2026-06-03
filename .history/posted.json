@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/oregon-cop-shot-several-dead-gunman-barricades-himself-home-unimaginable-loss-lives",
-    "titleNorm": "oregon cop shot several dead as gunman barricades",
-    "type": "card",
-    "timestamp": 1780471879479
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-flashes-courtroom-grin-allegedly-killing-baby-mother-grandmother",
     "titleNorm": "illegal immigrant flashes courtroom grin after allegedly killing",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1780509386374
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1780519660796
   }
 ]
