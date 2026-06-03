@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/store-owner-held-without-bond-3-years-acquitted-murder-teens-shooting-death",
-    "titleNorm": "store owner held without bond for 3 years",
-    "type": "reel",
-    "timestamp": 1780464429508
-  },
-  {
     "url": "https://www.foxnews.com/us/oregon-cop-shot-several-dead-gunman-barricades-himself-home-unimaginable-loss-lives",
     "titleNorm": "oregon cop shot several dead as gunman barricades",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "trump administration is scrapping 18b fund meant to",
     "type": "reel",
     "timestamp": 1780507603078
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1780509386374
   }
 ]
