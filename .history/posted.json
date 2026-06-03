@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/lebanon/israel-hezbollah-attacks-lebanon-trump-iran-war-peace-talks-rcna348010",
-    "titleNorm": "israel and hezbollah trade new attacks despite trump",
-    "type": "card",
-    "timestamp": 1780411259125
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-ai-executive-order/",
     "titleNorm": "trump signs ai executive order to give government",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump signs order seeking early access to powerful",
     "type": "reel",
     "timestamp": 1780445478979
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-american-womans-bahamas-disappearance-treated-murder-investigation",
+    "titleNorm": "fox news true crime newsletter american womans bahamas",
+    "type": "card",
+    "timestamp": 1780454515210
   }
 ]
