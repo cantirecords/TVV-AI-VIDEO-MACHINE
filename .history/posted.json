@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/graduation-shooting-fairfield-high-campus/",
-    "titleNorm": "1 dead 3 hurt in high school graduation",
-    "type": "reel",
-    "timestamp": 1780550457990
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/prewritetrump-nominate-todd-blanche-permanent-attorney-general-rcna348385",
     "titleNorm": "trump to nominate todd blanche to be attorney",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "dhs confirms dui charge against nonenglishspeaking driver in",
     "type": "card",
     "timestamp": 1780589821568
+  },
+  {
+    "url": "https://www.foxnews.com/us/courtney-clenney-defense-inspects-knives-center-onlyfans-models-murder-case-ahead-trial-report",
+    "titleNorm": "courtney clenneys defense inspects knives at center of",
+    "type": "reel",
+    "timestamp": 1780594242945
   }
 ]
