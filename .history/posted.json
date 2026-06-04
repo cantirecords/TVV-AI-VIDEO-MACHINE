@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/prewritetrump-nominate-todd-blanche-permanent-attorney-general-rcna348385",
-    "titleNorm": "trump to nominate todd blanche to be attorney",
-    "type": "card",
-    "timestamp": 1780552209207
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "courtney clenneys defense inspects knives at center of",
     "type": "reel",
     "timestamp": 1780594242945
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1780600372280
   }
 ]
