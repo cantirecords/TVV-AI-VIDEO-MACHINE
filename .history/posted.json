@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1780566129612
-  },
-  {
     "url": "https://www.cbsnews.com/news/house-iran-war-powers-4th-vote-trump/",
     "titleNorm": "house votes to rein in trump on iran",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "senate begins voting on republican bill to fund",
     "type": "card",
     "timestamp": 1780608173490
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/former-trump-adviser-john-bolton-plead-guilty-retaining-national-secur-rcna348479",
+    "titleNorm": "former trump adviser john bolton to plead guilty",
+    "type": "reel",
+    "timestamp": 1780610900022
   }
 ]
