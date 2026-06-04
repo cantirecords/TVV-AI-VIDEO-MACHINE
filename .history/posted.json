@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/house-iran-war-powers-4th-vote-trump/",
-    "titleNorm": "house votes to rein in trump on iran",
-    "type": "reel",
-    "timestamp": 1780568216624
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-flashes-courtroom-grin-allegedly-killing-baby-mother-grandmother",
     "titleNorm": "illegal immigrant flashes courtroom grin after allegedly killing",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "former trump adviser john bolton to plead guilty",
     "type": "reel",
     "timestamp": 1780610900022
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-high-school-graduation-shooting-kills-teen-injures-child",
+    "titleNorm": "california high school graduation shooting kills teen injures",
+    "type": "card",
+    "timestamp": 1780614042429
   }
 ]
