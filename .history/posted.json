@@ -40,5 +40,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1780532039814
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fatal-virginia-bus-crash-raises-concerns-long-list-133564592",
+    "titleNorm": "fatal virginia bus crash raises concerns about the",
+    "type": "card",
+    "timestamp": 1780532895134
   }
 ]
