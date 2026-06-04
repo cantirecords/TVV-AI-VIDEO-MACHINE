@@ -34,5 +34,11 @@
     "titleNorm": "fbi charges 35 in west virginia drug and",
     "type": "reel",
     "timestamp": 1780580456103
+  },
+  {
+    "url": "https://www.foxnews.com/us/dhs-confirms-dui-charge-against-non-english-speaking-driver-virginia-crash-killed-5",
+    "titleNorm": "dhs confirms dui charge against nonenglishspeaking driver in",
+    "type": "card",
+    "timestamp": 1780589821568
   }
 ]
