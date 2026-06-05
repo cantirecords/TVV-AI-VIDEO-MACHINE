@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/russia/putin-speech-st-petersburg-forum-ukraine-drones-economy-russia-davos-rcna348452",
-    "titleNorm": "putin faces ukrainian drone threat and stagnating economy",
-    "type": "reel",
-    "timestamp": 1780655509383
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "minnesotans whose loved ones were killed by police",
     "type": "reel",
     "timestamp": 1780696626079
+  },
+  {
+    "url": "https://www.foxnews.com/us/karen-read-says-gets-free-meals-discounts-everywhere-guilty-verdict",
+    "titleNorm": "karen read says she gets free meals and",
+    "type": "card",
+    "timestamp": 1780700300069
   }
 ]
