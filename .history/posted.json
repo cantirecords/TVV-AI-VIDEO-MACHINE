@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/courtney-clenney-defense-inspects-knives-center-onlyfans-models-murder-case-ahead-trial-report",
-    "titleNorm": "courtney clenneys defense inspects knives at center of",
-    "type": "reel",
-    "timestamp": 1780594242945
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1780600372280
-  },
-  {
-    "url": "https://www.foxnews.com/us/karmelo-anthony-trial-begins-no-black-jurors-racially-charged-case-over-track-meet-stabbing",
-    "titleNorm": "karmelo anthony trial ignites dueling crowds turning courthouse",
-    "type": "reel",
-    "timestamp": 1780605208538
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/senate-begins-voting-republican-bill-fund-ice-border-patrol-gop-split-rcna348284",
-    "titleNorm": "senate begins voting on republican bill to fund",
-    "type": "card",
-    "timestamp": 1780608173490
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/former-trump-adviser-john-bolton-plead-guilty-retaining-national-secur-rcna348479",
     "titleNorm": "former trump adviser john bolton to plead guilty",
     "type": "reel",
@@ -58,5 +34,11 @@
     "titleNorm": "trump says bill pulte will serve only in",
     "type": "card",
     "timestamp": 1780636167203
+  },
+  {
+    "url": "https://www.foxnews.com/us/karen-read-unleashes-explosive-lawsuit-state-police-canton-police-court-docs",
+    "titleNorm": "karen read unleashes explosive lawsuit against state police",
+    "type": "card",
+    "timestamp": 1780651733729
   }
 ]
