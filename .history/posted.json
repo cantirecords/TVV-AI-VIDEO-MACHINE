@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/u-s-sanctions-cuban-president-miguel-diaz-canel/",
-    "titleNorm": "us sanctions cuban president as trump administration puts",
-    "type": "reel",
-    "timestamp": 1780635373597
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-bill-pulte-will-only-serve-acting-capacity-dni-rcna348560",
-    "titleNorm": "trump says bill pulte will serve only in",
-    "type": "card",
-    "timestamp": 1780636167203
-  },
-  {
     "url": "https://www.foxnews.com/us/karen-read-unleashes-explosive-lawsuit-state-police-canton-police-court-docs",
     "titleNorm": "karen read unleashes explosive lawsuit against state police",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "fire crews respond to fire at boarded up",
     "type": "reel",
     "timestamp": 1780678084481
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-nominating-todd-blanche-serve-attorney-general-133574600",
+    "titleNorm": "trump says hes nominating todd blanche to serve",
+    "type": "card",
+    "timestamp": 1780681619180
   }
 ]
