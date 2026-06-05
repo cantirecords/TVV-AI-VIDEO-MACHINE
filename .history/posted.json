@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-high-school-graduation-shooting-kills-teen-injures-child",
-    "titleNorm": "california high school graduation shooting kills teen injures",
-    "type": "card",
-    "timestamp": 1780614042429
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/kennedy-center-lawyers-tell-staff-remove-references-trump-signage-rcna348512",
-    "titleNorm": "kennedy center lawyers tell staff to remove references",
-    "type": "reel",
-    "timestamp": 1780616750662
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-administration-launches-federal-investigation-atlantas-marta-system-fatal-train-stabbing",
-    "titleNorm": "trump administration launches federal investigation into atlantas marta",
-    "type": "card",
-    "timestamp": 1780618239022
-  },
-  {
     "url": "https://www.cbsnews.com/news/u-s-sanctions-cuban-president-miguel-diaz-canel/",
     "titleNorm": "us sanctions cuban president as trump administration puts",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "putin faces ukrainian drone threat and stagnating economy",
     "type": "reel",
     "timestamp": 1780655509383
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1780662662450
   }
 ]
