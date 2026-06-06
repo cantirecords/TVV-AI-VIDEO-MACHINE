@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-arrests-3-men-allegedly-pledged-allegiance-isis-funded-drone-attacks-targeting-us-troops-overseas",
-    "titleNorm": "fbi arrests 3 men who allegedly pledged allegiance",
-    "type": "card",
-    "timestamp": 1780739562342
-  },
-  {
     "url": "https://www.cbsnews.com/video/los-angeles-police-chase-ends-fatal-shooting-suspect-405-freeway/",
     "titleNorm": "los angeles police chase ends in fatal shooting",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1780781831649
+  },
+  {
+    "url": "https://www.nbcnews.com/tech/internet/candace-owens-tate-brothers-visit-russia-kremlin-touts-thaw-rcna348311",
+    "titleNorm": "candace owens and the tate brothers turned up",
+    "type": "card",
+    "timestamp": 1780786463426
   }
 ]
