@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.kare11.com/article/news/local/mfd-crews-respond-to-fire-at-boarded-up-apartment-building/89-6b440525-7462-4b35-86be-6715c5007f8d",
-    "titleNorm": "fire crews respond to fire at boarded up",
-    "type": "reel",
-    "timestamp": 1780678084481
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-nominating-todd-blanche-serve-attorney-general-133574600",
-    "titleNorm": "trump says hes nominating todd blanche to serve",
-    "type": "card",
-    "timestamp": 1780681619180
-  },
-  {
-    "url": "https://www.foxnews.com/us/prominent-realtor-ex-husband-daughters-ages-11-8-found-dead-affluent-miami-suburb",
-    "titleNorm": "prominent realtor exhusband and their daughters ages 11",
-    "type": "card",
-    "timestamp": 1780687825479
-  },
-  {
     "url": "https://www.today.com/video/trump-plans-promenade-in-dc-senate-passes-bill-to-fund-ice-264586309597",
     "titleNorm": "senate passes bill to fund ice for remainder",
     "type": "reel",
@@ -64,5 +46,11 @@
     "titleNorm": "us journalist pleads guilty to acting as an",
     "type": "card",
     "timestamp": 1780721144446
+  },
+  {
+    "url": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror",
+    "titleNorm": "murdaugh murder retrial could crack open sealed court",
+    "type": "card",
+    "timestamp": 1780731615199
   }
 ]
