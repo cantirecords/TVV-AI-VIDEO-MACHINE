@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-arrests-3-men-allegedly-pledged-allegiance-isis-funded-drone-attacks-targeting-us-troops-overseas",
-    "titleNorm": "fbi arrests 3 men who allegedly pledged allegiance",
-    "type": "card",
-    "timestamp": 1780694215143
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/minnesotans-loved-killed-police-condemn-state-gop-praying-133601332",
     "titleNorm": "minnesotans whose loved ones were killed by police",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "us warns europe to step up ebola screening",
     "type": "reel",
     "timestamp": 1780736910034
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-arrests-3-men-allegedly-pledged-allegiance-isis-funded-drone-attacks-targeting-us-troops-overseas",
+    "titleNorm": "fbi arrests 3 men who allegedly pledged allegiance",
+    "type": "card",
+    "timestamp": 1780739562342
   }
 ]
