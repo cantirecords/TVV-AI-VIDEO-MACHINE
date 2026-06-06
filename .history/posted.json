@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/los-angeles-police-chase-ends-fatal-shooting-suspect-405-freeway/",
-    "titleNorm": "los angeles police chase ends in fatal shooting",
-    "type": "card",
-    "timestamp": 1780744548027
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/son-james-handys-girlfriend-charged-murder-actors-stabbing-death-rcna348740",
     "titleNorm": "son of james handys girlfriend is charged with",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "candace owens and the tate brothers turned up",
     "type": "card",
     "timestamp": 1780786463426
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/connecticut-police-officer-hugs-supporters-appears-court-fatal-133622706",
+    "titleNorm": "connecticut police officer hugs supporters appears in court",
+    "type": "reel",
+    "timestamp": 1780788987297
   }
 ]
