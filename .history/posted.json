@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/trump-plans-promenade-in-dc-senate-passes-bill-to-fund-ice-264586309597",
-    "titleNorm": "senate passes bill to fund ice for remainder",
-    "type": "reel",
-    "timestamp": 1780691086059
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-arrests-3-men-allegedly-pledged-allegiance-isis-funded-drone-attacks-targeting-us-troops-overseas",
     "titleNorm": "fbi arrests 3 men who allegedly pledged allegiance",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "murdaugh murder retrial could crack open sealed court",
     "type": "card",
     "timestamp": 1780731615199
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/national-security/us-warns-europe-step-ebola-screening-ahead-world-cup-rcna348713",
+    "titleNorm": "us warns europe to step up ebola screening",
+    "type": "reel",
+    "timestamp": 1780736910034
   }
 ]
