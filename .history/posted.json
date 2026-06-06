@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/national-security/us-warns-europe-step-ebola-screening-ahead-world-cup-rcna348713",
-    "titleNorm": "us warns europe to step up ebola screening",
-    "type": "reel",
-    "timestamp": 1780736910034
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-arrests-3-men-allegedly-pledged-allegiance-isis-funded-drone-attacks-targeting-us-troops-overseas",
     "titleNorm": "fbi arrests 3 men who allegedly pledged allegiance",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1780776210465
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1780781831649
   }
 ]
