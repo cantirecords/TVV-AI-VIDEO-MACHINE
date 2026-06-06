@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1780720567519
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-journalist-pleads-guilty-acting-illegal-agent-china-133602430",
-    "titleNorm": "us journalist pleads guilty to acting as an",
-    "type": "card",
-    "timestamp": 1780721144446
-  },
-  {
     "url": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror",
     "titleNorm": "murdaugh murder retrial could crack open sealed court",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "a new exchange of fire with iran in",
     "type": "reel",
     "timestamp": 1780761030519
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/candidates-governor-worked-joe-biden-talk-133640889",
+    "titleNorm": "these candidates for governor worked for joe biden",
+    "type": "card",
+    "timestamp": 1780765093807
   }
 ]
