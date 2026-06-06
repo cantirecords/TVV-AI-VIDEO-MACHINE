@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror",
-    "titleNorm": "murdaugh murder retrial could crack open sealed court",
-    "type": "card",
-    "timestamp": 1780731615199
-  },
-  {
     "url": "https://www.nbcnews.com/politics/national-security/us-warns-europe-step-ebola-screening-ahead-world-cup-rcna348713",
     "titleNorm": "us warns europe to step up ebola screening",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "washington father arrested after allegedly killing 4yearold son",
     "type": "card",
     "timestamp": 1780768986873
+  },
+  {
+    "url": "https://www.foxnews.com/us/murdaugh-murder-retrial-could-crack-open-sealed-court-records-tied-infamous-egg-juror",
+    "titleNorm": "murdaugh murder retrial could crack open sealed court",
+    "type": "reel",
+    "timestamp": 1780775654628
   }
 ]
