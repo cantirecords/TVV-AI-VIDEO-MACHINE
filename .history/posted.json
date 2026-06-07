@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/son-james-handys-girlfriend-charged-murder-actors-stabbing-death-rcna348740",
-    "titleNorm": "son of james handys girlfriend is charged with",
-    "type": "card",
-    "timestamp": 1780751143796
-  },
-  {
-    "url": "https://www.cbsnews.com/news/security-trump-madison-square-garden-nba-finals-knicks-spurs/",
-    "titleNorm": "no bags no watch parties what to expect",
-    "type": "reel",
-    "timestamp": 1780755473698
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/national-park-mountain-guide-dies-fall-mount-mckinley-rcna348749",
     "titleNorm": "national park mountain guide dies in fall on",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "united airlines jet flew too low and too",
     "type": "card",
     "timestamp": 1780790183570
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ned-jarrett-dies-age-93-nascar-hall-of-fame/",
+    "titleNorm": "ned jarrett nascar hall of famer and cbs",
+    "type": "card",
+    "timestamp": 1780799722341
   }
 ]
