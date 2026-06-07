@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/protests-albania-over-trump-family-luxury-resort-project/",
-    "titleNorm": "protests in albania over a trump family luxury",
-    "type": "card",
-    "timestamp": 1780815499321
-  },
-  {
     "url": "https://www.foxnews.com/us/mastermind-nanny-love-triangle-murders-defiantly-rips-sentencing-judge-condemns-evil-plot",
     "titleNorm": "mastermind of nanny love triangle murders defiantly rips",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "fox news campus radicals newsletter pride flags removed",
     "type": "reel",
     "timestamp": 1780854473826
+  },
+  {
+    "url": "https://www.foxnews.com/us/sex-offender-busted-roblox-mid-call-child-louisiana-declares-war-online-predators-targeting-kids",
+    "titleNorm": "sex offender busted on roblox midcall with child",
+    "type": "card",
+    "timestamp": 1780859107356
   }
 ]
