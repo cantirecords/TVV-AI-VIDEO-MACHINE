@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/karmelo-anthony-trial-continues-weekend-rcna348782",
-    "titleNorm": "teen witnesses describe scene at track meet in",
-    "type": "reel",
-    "timestamp": 1780808745048
-  },
-  {
     "url": "https://www.cbsnews.com/video/protests-albania-over-trump-family-luxury-resort-project/",
     "titleNorm": "protests in albania over a trump family luxury",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "united airlines jet flew too low and too",
     "type": "card",
     "timestamp": 1780851873792
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-pride-flags-removed-dei-back-under-fire-tv-hosts-cali-criticism",
+    "titleNorm": "fox news campus radicals newsletter pride flags removed",
+    "type": "reel",
+    "timestamp": 1780854473826
   }
 ]
