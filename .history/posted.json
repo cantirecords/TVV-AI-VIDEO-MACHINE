@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1780832718467
-  },
-  {
     "url": "https://www.foxnews.com/us/cops-halt-planned-teen-takeover-officials-brace-summer-surge-chaos-arrests-police-chief",
     "titleNorm": "cops halt planned teen takeover as officials brace",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1780875407672
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-men-shot-trumps-butler-rally-sue-federal-government-secret-service-preventable-failures",
+    "titleNorm": "two men shot at trumps butler rally sue",
+    "type": "card",
+    "timestamp": 1780876681501
   }
 ]
