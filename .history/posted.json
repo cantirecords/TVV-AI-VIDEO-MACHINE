@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/united-airlines-jet-flew-low-slow-striking-light-pole-truck-near-newark-airport-ntsb",
-    "titleNorm": "united airlines jet flew too low and too",
-    "type": "card",
-    "timestamp": 1780790183570
-  },
-  {
     "url": "https://www.cbsnews.com/news/ned-jarrett-dies-age-93-nascar-hall-of-fame/",
     "titleNorm": "ned jarrett nascar hall of famer and cbs",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1780832718467
+  },
+  {
+    "url": "https://www.foxnews.com/us/cops-halt-planned-teen-takeover-officials-brace-summer-surge-chaos-arrests-police-chief",
+    "titleNorm": "cops halt planned teen takeover as officials brace",
+    "type": "reel",
+    "timestamp": 1780834343098
   }
 ]
