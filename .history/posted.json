@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1780908259082
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "armenias prowest government wins election despite russian pressure",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "president trump demands iran and israel stop firing",
     "type": "reel",
     "timestamp": 1780951138649
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/los-angeles-trial-begin-man-accused-sparking-deadly-133673870",
+    "titleNorm": "los angeles trial to begin for man accused",
+    "type": "card",
+    "timestamp": 1780954970900
   }
 ]
