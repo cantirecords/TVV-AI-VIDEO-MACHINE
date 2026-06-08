@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cops-halt-planned-teen-takeover-officials-brace-summer-surge-chaos-arrests-police-chief",
-    "titleNorm": "cops halt planned teen takeover as officials brace",
-    "type": "reel",
-    "timestamp": 1780834343098
-  },
-  {
-    "url": "https://www.foxnews.com/us/driver-accused-killing-82-year-old-head-crash-claims-dog-seized-steering-wheel-beforehand",
-    "titleNorm": "driver accused of killing 82yearold in headon crash",
-    "type": "card",
-    "timestamp": 1780838333790
-  },
-  {
-    "url": "https://www.foxnews.com/us/washington-father-arrested-allegedly-killing-4-year-old-son-burying-body-house-reports",
-    "titleNorm": "washington father arrested after allegedly killing 4yearold son",
-    "type": "reel",
-    "timestamp": 1780842514801
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
-    "titleNorm": "donald trump bernie sanders and sam altman are",
-    "type": "card",
-    "timestamp": 1780845503934
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -82,5 +58,11 @@
     "titleNorm": "two men shot at trumps butler rally sue",
     "type": "card",
     "timestamp": 1780876681501
+  },
+  {
+    "url": "https://www.nbcnews.com/news/obituaries/stacey-king-3-time-nba-champion-chicago-bulls-dies-59-rcna348869",
+    "titleNorm": "stacey king a 3time nba champion with the",
+    "type": "card",
+    "timestamp": 1780889398649
   }
 ]
