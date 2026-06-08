@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/daycare-operator-arrested-3-year-old-left-unconscious-pool-20-minutes-died",
-    "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
-    "type": "card",
-    "timestamp": 1780865984640
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-interview-meet-press-june-2026-rcna348518",
-    "titleNorm": "factchecking trumps interview with nbc news meet the",
-    "type": "reel",
-    "timestamp": 1780868700960
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-nominating-todd-blanche-serve-attorney-general-133574600",
-    "titleNorm": "trump says hes nominating todd blanche to serve",
-    "type": "card",
-    "timestamp": 1780869853706
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -46,5 +28,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1780908259082
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "armenias prowest government wins election despite russian pressure",
+    "type": "reel",
+    "timestamp": 1780917960680
   }
 ]
