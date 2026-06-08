@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/obituaries/stacey-king-3-time-nba-champion-chicago-bulls-dies-59-rcna348869",
-    "titleNorm": "stacey king a 3time nba champion with the",
-    "type": "card",
-    "timestamp": 1780889398649
-  },
-  {
     "url": "https://www.foxnews.com/us/12-victims-stable-shooting-near-festival-toledo-police-pursue-multiple-leads-",
     "titleNorm": "all 12 victims stable after shooting near festival",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "national park service ranger dies after falling into",
     "type": "card",
     "timestamp": 1780923399175
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/jury-awards-176m-wrongful-deaths-young-brothers-struck-133622904",
+    "titleNorm": "jury awards 176m for wrongful deaths of young",
+    "type": "reel",
+    "timestamp": 1780936528475
   }
 ]
