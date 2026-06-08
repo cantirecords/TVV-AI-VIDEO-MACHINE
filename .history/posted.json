@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1780875407672
-  },
-  {
-    "url": "https://www.foxnews.com/us/two-men-shot-trumps-butler-rally-sue-federal-government-secret-service-preventable-failures",
-    "titleNorm": "two men shot at trumps butler rally sue",
-    "type": "card",
-    "timestamp": 1780876681501
-  },
-  {
     "url": "https://www.nbcnews.com/news/obituaries/stacey-king-3-time-nba-champion-chicago-bulls-dies-59-rcna348869",
     "titleNorm": "stacey king a 3time nba champion with the",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "armenias prowest government wins election despite russian pressure",
     "type": "reel",
     "timestamp": 1780917960680
+  },
+  {
+    "url": "https://www.foxnews.com/us/national-park-service-ranger-dies-falling-crevasse-mount-mckinley-climbing-patrol",
+    "titleNorm": "national park service ranger dies after falling into",
+    "type": "card",
+    "timestamp": 1780923399175
   }
 ]
