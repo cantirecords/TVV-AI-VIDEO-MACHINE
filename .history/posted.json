@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1780847527637
-  },
-  {
-    "url": "https://www.foxnews.com/us/united-airlines-jet-flew-low-slow-striking-light-pole-truck-near-newark-airport-ntsb",
-    "titleNorm": "united airlines jet flew too low and too",
-    "type": "card",
-    "timestamp": 1780851873792
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-pride-flags-removed-dei-back-under-fire-tv-hosts-cali-criticism",
     "titleNorm": "fox news campus radicals newsletter pride flags removed",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "stacey king a 3time nba champion with the",
     "type": "card",
     "timestamp": 1780889398649
+  },
+  {
+    "url": "https://www.foxnews.com/us/12-victims-stable-shooting-near-festival-toledo-police-pursue-multiple-leads-",
+    "titleNorm": "all 12 victims stable after shooting near festival",
+    "type": "reel",
+    "timestamp": 1780895532105
   }
 ]
