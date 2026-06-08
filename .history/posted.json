@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-pride-flags-removed-dei-back-under-fire-tv-hosts-cali-criticism",
-    "titleNorm": "fox news campus radicals newsletter pride flags removed",
-    "type": "reel",
-    "timestamp": 1780854473826
-  },
-  {
-    "url": "https://www.foxnews.com/us/sex-offender-busted-roblox-mid-call-child-louisiana-declares-war-online-predators-targeting-kids",
-    "titleNorm": "sex offender busted on roblox midcall with child",
-    "type": "card",
-    "timestamp": 1780859107356
-  },
-  {
-    "url": "https://www.nbcnews.com/sports/hockey/golden-knights-beat-hurricanes-5-4-2ot-game-rcna348862",
-    "titleNorm": "golden knights blow 4goal lead but beat hurricanes",
-    "type": "reel",
-    "timestamp": 1780862100909
-  },
-  {
     "url": "https://www.foxnews.com/us/daycare-operator-arrested-3-year-old-left-unconscious-pool-20-minutes-died",
     "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
     "type": "card",
@@ -58,5 +40,11 @@
     "titleNorm": "all 12 victims stable after shooting near festival",
     "type": "reel",
     "timestamp": 1780895532105
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1780908259082
   }
 ]
