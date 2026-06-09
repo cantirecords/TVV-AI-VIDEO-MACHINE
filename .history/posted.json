@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/jury-awards-176m-wrongful-deaths-young-brothers-struck-133622904",
-    "titleNorm": "jury awards 176m for wrongful deaths of young",
-    "type": "reel",
-    "timestamp": 1780936528475
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1780937051411
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "we dont look at the sky any more",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
     "type": "card",
     "timestamp": 1780970415754
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
+    "titleNorm": "donald trump bernie sanders and sam altman are",
+    "type": "reel",
+    "timestamp": 1780980318640
   }
 ]
