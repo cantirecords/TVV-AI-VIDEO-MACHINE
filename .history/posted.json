@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
-    "titleNorm": "donald trump bernie sanders and sam altman are",
-    "type": "reel",
-    "timestamp": 1780980318640
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "mass shooting at ohio festival that wounded 12",
     "type": "card",
     "timestamp": 1781022306715
+  },
+  {
+    "url": "https://www.nbcnews.com/business/media/paramount-accuses-netflix-scorched-earth-campaign-warner-bros-deal-rcna349201",
+    "titleNorm": "paramount accuses netflix of scorchedearth campaign against warner",
+    "type": "reel",
+    "timestamp": 1781024978887
   }
 ]
