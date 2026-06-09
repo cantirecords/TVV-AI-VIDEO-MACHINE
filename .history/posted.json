@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-declines-warren-senate-testify-ai-hearing-rcna349034",
-    "titleNorm": "nvidia ceo jensen huang declines warrens request to",
-    "type": "card",
-    "timestamp": 1780960083027
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/trump-super-pac-maga-host-fundraiser-white-house-ufc-fight-rcna349030",
-    "titleNorm": "trumpbacked super pac to host a 1mperperson fundraiser",
-    "type": "reel",
-    "timestamp": 1780962339196
-  },
-  {
     "url": "https://www.foxnews.com/us/daycare-operator-arrested-3-year-old-left-unconscious-pool-20-minutes-died",
     "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "alex murdaugh murder case gets new judge as",
     "type": "card",
     "timestamp": 1781000881820
+  },
+  {
+    "url": "https://www.cbsnews.com/news/nba-finals-new-york-knicks-san-antonio-spurs-president-trump/",
+    "titleNorm": "president trump booed by msg crowd prior to",
+    "type": "reel",
+    "timestamp": 1781011493969
   }
 ]
