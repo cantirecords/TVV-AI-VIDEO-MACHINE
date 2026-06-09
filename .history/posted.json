@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/daycare-operator-arrested-3-year-old-left-unconscious-pool-20-minutes-died",
-    "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
-    "type": "card",
-    "timestamp": 1780970415754
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
     "titleNorm": "donald trump bernie sanders and sam altman are",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "navy sailor admits killing fellow service member as",
     "type": "card",
     "timestamp": 1781012219076
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/mass-shooting-ohio-festival-wounded-12-stemmed-dispute-rival-groups-po-rcna349196",
+    "titleNorm": "mass shooting at ohio festival that wounded 12",
+    "type": "card",
+    "timestamp": 1781022306715
   }
 ]
