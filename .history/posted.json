@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/national-park-service-ranger-dies-falling-crevasse-mount-mckinley-climbing-patrol",
-    "titleNorm": "national park service ranger dies after falling into",
-    "type": "card",
-    "timestamp": 1780923399175
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/jury-awards-176m-wrongful-deaths-young-brothers-struck-133622904",
     "titleNorm": "jury awards 176m for wrongful deaths of young",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trumpbacked super pac to host a 1mperperson fundraiser",
     "type": "reel",
     "timestamp": 1780962339196
+  },
+  {
+    "url": "https://www.foxnews.com/us/daycare-operator-arrested-3-year-old-left-unconscious-pool-20-minutes-died",
+    "titleNorm": "daycare operator arrested after 3yearold was left unconscious",
+    "type": "card",
+    "timestamp": 1780970415754
   }
 ]
