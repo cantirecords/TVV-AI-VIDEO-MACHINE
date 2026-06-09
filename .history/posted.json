@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "we dont look at the sky any more",
-    "type": "card",
-    "timestamp": 1780946100813
-  },
-  {
-    "url": "https://www.foxnews.com/us/president-trump-demands-iran-israel-stop-firing-each-other-more-top-headlines",
-    "titleNorm": "president trump demands iran and israel stop firing",
-    "type": "reel",
-    "timestamp": 1780951138649
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/los-angeles-trial-begin-man-accused-sparking-deadly-133673870",
-    "titleNorm": "los angeles trial to begin for man accused",
-    "type": "card",
-    "timestamp": 1780954970900
-  },
-  {
     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-declines-warren-senate-testify-ai-hearing-rcna349034",
     "titleNorm": "nvidia ceo jensen huang declines warrens request to",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1780985424167
+  },
+  {
+    "url": "https://www.foxnews.com/us/karmelo-anthony-trial-consumed-race-self-defense-hidden-hurdle-could-key-expert",
+    "titleNorm": "karmelo anthony defense rests attorneys prep for closing",
+    "type": "reel",
+    "timestamp": 1780999776237
   }
 ]
