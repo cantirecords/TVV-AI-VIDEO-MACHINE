@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/media/paramount-accuses-netflix-scorched-earth-campaign-warner-bros-deal-rcna349201",
-    "titleNorm": "paramount accuses netflix of scorchedearth campaign against warner",
-    "type": "reel",
-    "timestamp": 1781024978887
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/air-raid-sirens-bahrain-iranian-missiles-drones-head-133642934",
     "titleNorm": "a new exchange of fire with iran in",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "what will fema 20 look like less aid",
     "type": "reel",
     "timestamp": 1781067485969
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republican-senators-warn-surveillance-program-lapse-after-trump-133688159",
+    "titleNorm": "republican senators warn surveillance program may lapse after",
+    "type": "card",
+    "timestamp": 1781074668561
   }
 ]
