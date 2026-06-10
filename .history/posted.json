@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/air-raid-sirens-bahrain-iranian-missiles-drones-head-133642934",
-    "titleNorm": "a new exchange of fire with iran in",
-    "type": "card",
-    "timestamp": 1781032214532
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1781036824421
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
-    "titleNorm": "donald trump bernie sanders and sam altman are",
-    "type": "card",
-    "timestamp": 1781040629370
-  },
-  {
-    "url": "https://www.foxnews.com/us/four-dead-29-shot-chicago-weekend-violence-leaders-tout-crime-progress",
-    "titleNorm": "four dead and 29 shot in chicago weekend",
-    "type": "reel",
-    "timestamp": 1781042761565
-  },
-  {
     "url": "https://www.nbcnews.com/world/europe/anti-immigrant-protests-belfast-knife-attack-northern-ireland-rcna349329",
     "titleNorm": "violent antiimmigrant protests flare up across belfast after",
     "type": "card",
@@ -52,5 +28,11 @@
     "titleNorm": "republican senators warn surveillance program may lapse after",
     "type": "card",
     "timestamp": 1781074668561
+  },
+  {
+    "url": "https://www.foxnews.com/us/dhs-approves-plan-verify-voter-citizenship-monitor-mail-ballots-trump-push-intensifies",
+    "titleNorm": "dhs approves plan to verify voter citizenship monitor",
+    "type": "reel",
+    "timestamp": 1781088060759
   }
 ]
