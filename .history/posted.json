@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1781088740984
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/gordon-wood-influential-scholar-american-revolution-dies-92-133687814",
     "titleNorm": "gordon s wood influential scholar of the american",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "trump downplays inflation concerns as rate hits highest",
     "type": "card",
     "timestamp": 1781131622405
+  },
+  {
+    "url": "https://www.foxnews.com/us/listen-dispatch-audio-captures-frantic-hunt-suspect-penn-state-seniors-fatal-shooting",
+    "titleNorm": "listen dispatch audio captures frantic hunt for suspect",
+    "type": "reel",
+    "timestamp": 1781135798790
   }
 ]
