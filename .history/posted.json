@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/new-analysis-fema-overhaul-trump-disaster-aid/",
-    "titleNorm": "what will fema 20 look like less aid",
-    "type": "reel",
-    "timestamp": 1781067485969
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/republican-senators-warn-surveillance-program-lapse-after-trump-133688159",
     "titleNorm": "republican senators warn surveillance program may lapse after",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "rogue swimmer arrested after diving into 11acre central",
     "type": "reel",
     "timestamp": 1781108141248
+  },
+  {
+    "url": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs",
+    "titleNorm": "navy sailor admits killing fellow service member as",
+    "type": "card",
+    "timestamp": 1781113860438
   }
 ]
