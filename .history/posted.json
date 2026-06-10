@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/nba-finals-new-york-knicks-san-antonio-spurs-president-trump/",
-    "titleNorm": "president trump booed by msg crowd prior to",
-    "type": "reel",
-    "timestamp": 1781011493969
-  },
-  {
-    "url": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs",
-    "titleNorm": "navy sailor admits killing fellow service member as",
-    "type": "card",
-    "timestamp": 1781012219076
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mass-shooting-ohio-festival-wounded-12-stemmed-dispute-rival-groups-po-rcna349196",
     "titleNorm": "mass shooting at ohio festival that wounded 12",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "why graham platners margin matters in the maine",
     "type": "reel",
     "timestamp": 1781049098620
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaugh-murder-case-gets-new-judge-retrial-looms-following-supreme-court-reversal",
+    "titleNorm": "alex murdaugh murder case gets new judge as",
+    "type": "card",
+    "timestamp": 1781057531878
   }
 ]
