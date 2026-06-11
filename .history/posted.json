@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs",
-    "titleNorm": "navy sailor admits killing fellow service member as",
-    "type": "card",
-    "timestamp": 1781113860438
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1781118677634
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/national-security/defense-industry-leaders-preparing-meet-trump-worries-grow-missile-sup-rcna349289",
-    "titleNorm": "defense industry leaders preparing to meet with trump",
-    "type": "card",
-    "timestamp": 1781122203455
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-sticks-pulte-intel-job-risk-grows-lapse-133760484",
     "titleNorm": "trump sticks with pulte for intel job as",
     "type": "reel",
@@ -52,5 +34,11 @@
     "titleNorm": "minnesota man marks fbis first arrest from dojs",
     "type": "card",
     "timestamp": 1781155295892
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/supreme-court-justice-brett-kavanaugh-maine-senate-race-susan-collins-rcna349070",
+    "titleNorm": "supreme court justice brett kavanaugh takes on a",
+    "type": "card",
+    "timestamp": 1781172224589
   }
 ]
