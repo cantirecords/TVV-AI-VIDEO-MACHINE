@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/listen-dispatch-audio-captures-frantic-hunt-suspect-penn-state-seniors-fatal-shooting",
-    "titleNorm": "listen dispatch audio captures frantic hunt for suspect",
-    "type": "reel",
-    "timestamp": 1781135798790
-  },
-  {
-    "url": "https://www.foxnews.com/us/pregnant-mother-found-murdered-mexico-frantic-search-missing-children-ends-surprise-discovery",
-    "titleNorm": "pregnant mother found murdered in mexico as frantic",
-    "type": "card",
-    "timestamp": 1781136491950
-  },
-  {
     "url": "https://www.foxnews.com/us/cardi-b-reaction-karmelo-anthony-verdict-draws-millions-views-fierce-criticism",
     "titleNorm": "cardi bs reaction to karmelo anthony verdict draws",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "judge warns doj not to play possum with",
     "type": "reel",
     "timestamp": 1781176110095
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/jd-vance/vance-chief-staff-jacob-reses-leave-trump-administration-rcna349586",
+    "titleNorm": "vances chief of staff to leave trump administration",
+    "type": "card",
+    "timestamp": 1781188159830
   }
 ]
