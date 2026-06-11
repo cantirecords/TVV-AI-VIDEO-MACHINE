@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cardi-b-reaction-karmelo-anthony-verdict-draws-millions-views-fierce-criticism",
-    "titleNorm": "cardi bs reaction to karmelo anthony verdict draws",
-    "type": "reel",
-    "timestamp": 1781154593282
-  },
-  {
-    "url": "https://www.foxnews.com/us/minnesota-man-marks-fbis-first-arrest-from-dojs-most-wanted-fraudsters-list",
-    "titleNorm": "minnesota man marks fbis first arrest from dojs",
-    "type": "card",
-    "timestamp": 1781155295892
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/supreme-court-justice-brett-kavanaugh-maine-senate-race-susan-collins-rcna349070",
     "titleNorm": "supreme court justice brett kavanaugh takes on a",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "we dont look at the sky any more",
     "type": "reel",
     "timestamp": 1781195859949
+  },
+  {
+    "url": "https://www.cbsnews.com/news/kharg-island-iran-war-what-to-know/",
+    "titleNorm": "what to know about iran039s kharg island as",
+    "type": "card",
+    "timestamp": 1781200915566
   }
 ]
