@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/gordon-wood-influential-scholar-american-revolution-dies-92-133687814",
-    "titleNorm": "gordon s wood influential scholar of the american",
-    "type": "card",
-    "timestamp": 1781101035104
-  },
-  {
-    "url": "https://www.foxnews.com/us/rogue-swimmer-arrested-after-diving-11-acre-central-park-lake-failed-attempt-escape-nypd",
-    "titleNorm": "rogue swimmer arrested after diving into 11acre central",
-    "type": "reel",
-    "timestamp": 1781108141248
-  },
-  {
     "url": "https://www.foxnews.com/us/navy-sailor-admits-killing-fellow-service-member-mother-questions-missed-warning-signs",
     "titleNorm": "navy sailor admits killing fellow service member as",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "pregnant mother found murdered in mexico as frantic",
     "type": "card",
     "timestamp": 1781136491950
+  },
+  {
+    "url": "https://www.foxnews.com/us/cardi-b-reaction-karmelo-anthony-verdict-draws-millions-views-fierce-criticism",
+    "titleNorm": "cardi bs reaction to karmelo anthony verdict draws",
+    "type": "reel",
+    "timestamp": 1781154593282
   }
 ]
