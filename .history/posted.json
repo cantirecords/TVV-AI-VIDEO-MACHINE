@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "we dont look at the sky any more",
-    "type": "reel",
-    "timestamp": 1781195859949
-  },
-  {
     "url": "https://www.cbsnews.com/news/kharg-island-iran-war-what-to-know/",
     "titleNorm": "what to know about iran039s kharg island as",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "mississippi teen allegedly killed elderly couple in their",
     "type": "card",
     "timestamp": 1781231409316
+  },
+  {
+    "url": "https://www.cbsnews.com/news/vance-boelter-change-of-plea-lawmaker-shootings/",
+    "titleNorm": "vance boelter changes federal plea to guilty in",
+    "type": "reel",
+    "timestamp": 1781241272159
   }
 ]
