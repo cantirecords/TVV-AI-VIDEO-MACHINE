@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/china-arrest-us-researcher-espionage-spying-national-security-myanmar/",
-    "titleNorm": "china arrests us researcher on suspicion of spying",
-    "type": "reel",
-    "timestamp": 1781261344873
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/lights-camera-cage-match-white-house-lawns-octagon-133788578",
     "titleNorm": "the white house lawns octagon is ready for",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "opening of canadaus bridge in detroit that trump",
     "type": "card",
     "timestamp": 1781299428911
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1781305700090
   }
 ]
