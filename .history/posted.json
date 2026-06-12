@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/opening-canada-us-bridge-detroit-trump-threatened-block-133780989",
-    "titleNorm": "opening of canadaus bridge in detroit that trump",
-    "type": "card",
-    "timestamp": 1781248295426
-  },
-  {
     "url": "https://www.cbsnews.com/news/china-arrest-us-researcher-espionage-spying-national-security-myanmar/",
     "titleNorm": "china arrests us researcher on suspicion of spying",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1781288673524
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/white-knuckles-open-barbs-trump-macron-bring-rocky-133807120",
+    "titleNorm": "from white knuckles to open barbs trump and",
+    "type": "card",
+    "timestamp": 1781293884001
   }
 ]
