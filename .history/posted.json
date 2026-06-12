@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/jd-vance/vance-chief-staff-jacob-reses-leave-trump-administration-rcna349586",
-    "titleNorm": "vances chief of staff to leave trump administration",
-    "type": "card",
-    "timestamp": 1781188159830
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "we dont look at the sky any more",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "cardi bs reaction to karmelo anthony verdict draws",
     "type": "reel",
     "timestamp": 1781222480400
+  },
+  {
+    "url": "https://www.foxnews.com/us/mississippi-teen-allegedly-killed-elderly-couple-home-firing-deputies-standoff-sheriff",
+    "titleNorm": "mississippi teen allegedly killed elderly couple in their",
+    "type": "card",
+    "timestamp": 1781231409316
   }
 ]
