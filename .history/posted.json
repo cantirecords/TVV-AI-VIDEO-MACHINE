@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/kharg-island-iran-war-what-to-know/",
-    "titleNorm": "what to know about iran039s kharg island as",
-    "type": "card",
-    "timestamp": 1781200915566
-  },
-  {
     "url": "https://www.foxnews.com/us/vance-boelter-changes-plea-guilty-minn-lawmaker-shootings-killed-rep-melissa-hortman-husband",
     "titleNorm": "vance boelter changes plea to guilty in minn",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "vance boelter changes federal plea to guilty in",
     "type": "reel",
     "timestamp": 1781241272159
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/opening-canada-us-bridge-detroit-trump-threatened-block-133780989",
+    "titleNorm": "opening of canadaus bridge in detroit that trump",
+    "type": "card",
+    "timestamp": 1781248295426
   }
 ]
