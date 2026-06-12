@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/vance-boelter-change-of-plea-lawmaker-shootings/",
-    "titleNorm": "vance boelter changes federal plea to guilty in",
-    "type": "reel",
-    "timestamp": 1781241272159
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/opening-canada-us-bridge-detroit-trump-threatened-block-133780989",
     "titleNorm": "opening of canadaus bridge in detroit that trump",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "vance boelter changes plea to guilty in minn",
     "type": "reel",
     "timestamp": 1781279253429
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1781285440061
   }
 ]
