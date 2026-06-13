@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/active-shooting-incident-midland-texas-dead-injured",
-    "titleNorm": "deceased gunman identified after shooting in midland texas",
-    "type": "card",
-    "timestamp": 1781333199581
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/americans-celebrated-bicentennial-fireworks-freedom-train-farrah-133839023",
     "titleNorm": "how americans celebrated the bicentennial fireworks a freedom",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1781373224695
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-macron-meet-dinner-versailles-palace-after-g7-133847223",
+    "titleNorm": "trump and macron will meet over dinner at",
+    "type": "card",
+    "timestamp": 1781377598858
   }
 ]
