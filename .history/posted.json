@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/white-knuckles-open-barbs-trump-macron-bring-rocky-133807120",
-    "titleNorm": "from white knuckles to open barbs trump and",
-    "type": "card",
-    "timestamp": 1781293884001
-  },
-  {
-    "url": "https://www.foxnews.com/us/minnesota-man-marks-fbis-first-arrest-from-dojs-most-wanted-fraudsters-list",
-    "titleNorm": "minnesota man marks fbis first arrest from dojs",
-    "type": "reel",
-    "timestamp": 1781296529146
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/opening-canada-us-bridge-detroit-trump-threatened-block-133780989",
-    "titleNorm": "opening of canadaus bridge in detroit that trump",
-    "type": "card",
-    "timestamp": 1781299428911
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "deceased gunman identified after shooting in midland texas",
     "type": "card",
     "timestamp": 1781333199581
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/americans-celebrated-bicentennial-fireworks-freedom-train-farrah-133839023",
+    "titleNorm": "how americans celebrated the bicentennial fireworks a freedom",
+    "type": "reel",
+    "timestamp": 1781343915035
   }
 ]
