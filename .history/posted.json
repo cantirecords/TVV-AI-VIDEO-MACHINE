@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1781305700090
-  },
-  {
     "url": "https://www.foxnews.com/us/toledo-police-name-suspect-ka-nye-taylor-festival-shooting-injured-12-hunt-second-gunman",
     "titleNorm": "toledo police name suspect ka nye taylor in",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "doj paves way for paramount skydance to buy",
     "type": "card",
     "timestamp": 1781344220210
+  },
+  {
+    "url": "https://www.cbsnews.com/news/kennedy-center-trump-name-judge/",
+    "titleNorm": "workers begin removing trump039s name from kennedy center",
+    "type": "card",
+    "timestamp": 1781351206994
   }
 ]
