@@ -46,5 +46,11 @@
     "titleNorm": "new hampshire supreme court overturns adam montgomerys murder",
     "type": "reel",
     "timestamp": 1781361437058
+  },
+  {
+    "url": "https://www.cbsnews.com/news/1-killed-22-injured-in-virginia-church-tent-collapse/",
+    "titleNorm": "1 killed 22 injured in virginia church tent",
+    "type": "card",
+    "timestamp": 1781364345950
   }
 ]
