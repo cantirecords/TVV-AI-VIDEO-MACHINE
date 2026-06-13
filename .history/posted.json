@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/paramount-skydance-warner-bros-discovery-antitrust-justice-department/",
-    "titleNorm": "doj paves way for paramount skydance to buy",
-    "type": "card",
-    "timestamp": 1781344220210
-  },
-  {
     "url": "https://www.cbsnews.com/news/kennedy-center-trump-name-judge/",
     "titleNorm": "workers begin removing trump039s name from kennedy center",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trump is raising expectations that this time he",
     "type": "reel",
     "timestamp": 1781387144266
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-orders-trump-administration-restore-national-park-sites-133843373",
+    "titleNorm": "judge orders trump administration to restore national park",
+    "type": "card",
+    "timestamp": 1781391224321
   }
 ]
