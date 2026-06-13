@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-alleged-leader-tren-de-aragua-gang-killed-us-strike-rcna349903",
-    "titleNorm": "trump says alleged leader of tren de aragua",
-    "type": "reel",
-    "timestamp": 1781326886187
-  },
-  {
     "url": "https://www.foxnews.com/us/active-shooting-incident-midland-texas-dead-injured",
     "titleNorm": "deceased gunman identified after shooting in midland texas",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "1 killed 22 injured in virginia church tent",
     "type": "card",
     "timestamp": 1781364345950
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/treasury-expands-bank-data-sharing-rules-tied-trump-133830223",
+    "titleNorm": "treasury expands bank datasharing rules tied to trump",
+    "type": "card",
+    "timestamp": 1781370609012
   }
 ]
