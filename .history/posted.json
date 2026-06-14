@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1781373224695
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-macron-meet-dinner-versailles-palace-after-g7-133847223",
-    "titleNorm": "trump and macron will meet over dinner at",
-    "type": "card",
-    "timestamp": 1781377598858
-  },
-  {
     "url": "https://www.foxnews.com/us/menendez-brothers-eyed-20m-insurance-payout-parents-murders-joses-ex-business-partner-claims",
     "titleNorm": "menendez brothers eyed 20m insurance payout after parents",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "gilgo beach killer writes to other jailed murderer",
     "type": "reel",
     "timestamp": 1781414249959
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/vanessa-trump-breast-cancer-update-rcna349948",
+    "titleNorm": "vanessa trump says she is beginning second stage",
+    "type": "card",
+    "timestamp": 1781421359661
   }
 ]
