@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/military-fighter-jet-crashes-mountain-washington-state-rcna349970",
-    "titleNorm": "pilot safely ejects before fighter jet crashes into",
-    "type": "card",
-    "timestamp": 1781405773313
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/gilgo-beach-killer-writes-jailed-murderer-reads-crime-133838824",
     "titleNorm": "gilgo beach killer writes to other jailed murderer",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1781447985674
+  },
+  {
+    "url": "https://www.foxnews.com/us/ohio-police-chief-arrested-florida-grand-jury-hands-70-count-child-sex-indictment",
+    "titleNorm": "ohio police chief arrested in florida after grand",
+    "type": "card",
+    "timestamp": 1781449572754
   }
 ]
