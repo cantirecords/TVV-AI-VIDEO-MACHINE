@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/1-killed-22-injured-in-virginia-church-tent-collapse/",
-    "titleNorm": "1 killed 22 injured in virginia church tent",
-    "type": "card",
-    "timestamp": 1781364345950
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/treasury-expands-bank-data-sharing-rules-tied-trump-133830223",
-    "titleNorm": "treasury expands bank datasharing rules tied to trump",
-    "type": "card",
-    "timestamp": 1781370609012
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "pilot safely ejects before fighter jet crashes into",
     "type": "card",
     "timestamp": 1781405773313
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/gilgo-beach-killer-writes-jailed-murderer-reads-crime-133838824",
+    "titleNorm": "gilgo beach killer writes to other jailed murderer",
+    "type": "reel",
+    "timestamp": 1781414249959
   }
 ]
