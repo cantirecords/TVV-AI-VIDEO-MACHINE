@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-judge-rules-lacks-authority-reinstate-fired-yosemite-ranger-flew-trans-pride-flag",
-    "titleNorm": "federal judge rules she lacks authority to reinstate",
-    "type": "reel",
-    "timestamp": 1781352603453
-  },
-  {
-    "url": "https://www.cbsnews.com/video/details-spacex-debut-doj-approving-paramount-merger-warner/",
-    "titleNorm": "details on spacex debut and doj approving paramount",
-    "type": "card",
-    "timestamp": 1781357003528
-  },
-  {
-    "url": "https://www.foxnews.com/us/new-hampshire-supreme-court-overturns-adam-montgomery-murder-conviction-daughter-harmonys-death",
-    "titleNorm": "new hampshire supreme court overturns adam montgomerys murder",
-    "type": "reel",
-    "timestamp": 1781361437058
-  },
-  {
     "url": "https://www.cbsnews.com/news/1-killed-22-injured-in-virginia-church-tent-collapse/",
     "titleNorm": "1 killed 22 injured in virginia church tent",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "mississippi teen allegedly killed elderly couple in their",
     "type": "card",
     "timestamp": 1781395070461
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/military-fighter-jet-crashes-mountain-washington-state-rcna349970",
+    "titleNorm": "pilot safely ejects before fighter jet crashes into",
+    "type": "card",
+    "timestamp": 1781405773313
   }
 ]
