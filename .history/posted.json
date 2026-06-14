@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1781431405901
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-attacks/",
     "titleNorm": "trump says settlement reached on iran signing could",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "two suspects arrested after crashing through camp pendleton",
     "type": "reel",
     "timestamp": 1781473932067
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-arrested-dui-troopers-allegedly-find-34-open-alcohol-containers-vehicle",
+    "titleNorm": "florida man arrested for dui after troopers allegedly",
+    "type": "card",
+    "timestamp": 1781474866795
   }
 ]
