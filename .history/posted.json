@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/kansas-city-plane-crash-skydivers-pilot-killed/",
-    "titleNorm": "11 skydivers and pilot killed in plane crash",
-    "type": "reel",
-    "timestamp": 1781480711562
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039",
-    "titleNorm": "ceasefire deal reached between the united states and",
-    "type": "card",
-    "timestamp": 1781481646485
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-turns-80-showstopping-spectacle-cage-fights-white-133857790",
     "titleNorm": "trump turns 80 with a showstopping spectacle of",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "trump tried to block state ai regulations but",
     "type": "card",
     "timestamp": 1781520634566
+  },
+  {
+    "url": "https://www.foxnews.com/us/missouri-skydiving-plane-crash-killed-12-aboard-devastating-loss-company-says",
+    "titleNorm": "missouri skydiving plane crash that killed all 12",
+    "type": "reel",
+    "timestamp": 1781527813647
   }
 ]
