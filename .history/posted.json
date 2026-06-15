@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-block-state-ai-regulations-states-forging-ahead-133859386",
-    "titleNorm": "trump tried to block state ai regulations but",
-    "type": "card",
-    "timestamp": 1781520634566
-  },
-  {
     "url": "https://www.foxnews.com/us/missouri-skydiving-plane-crash-killed-12-aboard-devastating-loss-company-says",
     "titleNorm": "missouri skydiving plane crash that killed all 12",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "partner of woman killed by dogs recently saved",
     "type": "reel",
     "timestamp": 1781562940819
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/immigration-agent-hit-vehicle-nj-fires-gun-fleeing-133896017",
+    "titleNorm": "immigration agent hit by vehicle in nj fires",
+    "type": "card",
+    "timestamp": 1781564093256
   }
 ]
