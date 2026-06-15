@@ -70,5 +70,11 @@
     "titleNorm": "11 skydivers and pilot killed in plane crash",
     "type": "reel",
     "timestamp": 1781480711562
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039",
+    "titleNorm": "ceasefire deal reached between the united states and",
+    "type": "card",
+    "timestamp": 1781481646485
   }
 ]
