@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-turns-80-showstopping-spectacle-cage-fights-white-133857790",
-    "titleNorm": "trump turns 80 with a showstopping spectacle of",
-    "type": "card",
-    "timestamp": 1781498553660
-  },
-  {
-    "url": "https://www.foxnews.com/us/judge-defends-barring-cameras-karmelo-anthony-murder-trial-says-easy-decision",
-    "titleNorm": "judge defends barring cameras from karmelo anthony murder",
-    "type": "reel",
-    "timestamp": 1781501812183
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-block-state-ai-regulations-states-forging-ahead-133859386",
     "titleNorm": "trump tried to block state ai regulations but",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "secret evidence filed in anna kepner carnival cruise",
     "type": "card",
     "timestamp": 1781540030467
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-turns-80-showstopping-spectacle-cage-fights-white-133857790",
+    "titleNorm": "trump celebrates 80th birthday with an iran deal",
+    "type": "reel",
+    "timestamp": 1781549509117
   }
 ]
