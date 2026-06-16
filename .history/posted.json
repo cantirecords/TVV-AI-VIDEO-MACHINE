@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "russian strikes kill 11 and set historic cathedral",
-    "type": "card",
-    "timestamp": 1781591037215
-  },
-  {
     "url": "https://www.foxnews.com/us/president-trump-announces-iran-peace-agreement-more-top-headlines",
     "titleNorm": "president trump announces iran peace agreement and more",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "dead or stranded commercial sailors suffer in the",
     "type": "card",
     "timestamp": 1781632462101
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/washington-dc-voters-cast-ballots-crucial-primaries-trump-133911165",
+    "titleNorm": "washington dc voters cast ballots in crucial primaries",
+    "type": "card",
+    "timestamp": 1781642240391
   }
 ]
