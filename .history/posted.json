@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-reveals-alleged-plot-attack-white-house-ufc-event-more-top-headlines",
-    "titleNorm": "fbi reveals alleged plot to attack white house",
-    "type": "reel",
-    "timestamp": 1781631041109
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iran-war-us-strait-of-hormuz-mariners-trapped/",
-    "titleNorm": "dead or stranded commercial sailors suffer in the",
-    "type": "card",
-    "timestamp": 1781632462101
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/washington-dc-voters-cast-ballots-crucial-primaries-trump-133911165",
     "titleNorm": "washington dc voters cast ballots in crucial primaries",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "stephen a smith says karmelo anthony murdered austin",
     "type": "reel",
     "timestamp": 1781673869200
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-accused-killing-stepsister-carnival-cruise-ship-ordered-detained-murder-trial",
+    "titleNorm": "teen accused of killing stepsister on carnival cruise",
+    "type": "card",
+    "timestamp": 1781675966249
   }
 ]
