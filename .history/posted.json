@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fbi-reveals-alleged-plot-attack-white-house-ufc-event-more-top-headlines",
-    "titleNorm": "fbi reveals alleged plot to attack white house",
-    "type": "reel",
-    "timestamp": 1781695373323
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-deal-end-war-us-requires-israel-withdraw-133912739",
     "titleNorm": "iran says the deal to end the war",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1781738201645
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1781740632857
   }
 ]
