@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1781611343587
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-reveals-alleged-plot-attack-white-house-ufc-event-more-top-headlines",
     "titleNorm": "fbi reveals alleged plot to attack white house",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "fleeing suspect in new jersey strikes ice agent",
     "type": "reel",
     "timestamp": 1781654162044
+  },
+  {
+    "url": "https://www.foxnews.com/us/national-guardsman-pleads-guilty-fatal-shooting-soldier-he-found-bed-his-ex-girlfriend",
+    "titleNorm": "national guardsman pleads guilty to fatal shooting of",
+    "type": "card",
+    "timestamp": 1781654932244
   }
 ]
