@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/washington-dc-voters-cast-ballots-crucial-primaries-trump-133911165",
-    "titleNorm": "washington dc voters cast ballots in crucial primaries",
-    "type": "card",
-    "timestamp": 1781642240391
-  },
-  {
-    "url": "https://www.foxnews.com/us/boston-police-arrest-14-year-old-after-masked-suspects-allegedly-rob-siblings-lemonade-stand",
-    "titleNorm": "boston police arrest 14yearold after masked suspects allegedly",
-    "type": "reel",
-    "timestamp": 1781645154180
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "a year on six questions still haunt the",
-    "type": "card",
-    "timestamp": 1781650081081
-  },
-  {
     "url": "https://www.foxnews.com/us/fleeing-suspect-new-jersey-strikes-ice-agent-opens-fire",
     "titleNorm": "fleeing suspect in new jersey strikes ice agent",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "teen accused of killing stepsister on carnival cruise",
     "type": "card",
     "timestamp": 1781675966249
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-louisville-police-officer-charged-manslaughter-fatal-shooting-133904795",
+    "titleNorm": "excop charged with manslaughter in fatal shooting of",
+    "type": "card",
+    "timestamp": 1781693573996
   }
 ]
