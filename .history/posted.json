@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/stephen-smith-says-karmelo-anthony-murdered-austin-metcalf",
-    "titleNorm": "stephen a smith says karmelo anthony murdered austin",
-    "type": "reel",
-    "timestamp": 1781673869200
-  },
-  {
     "url": "https://www.foxnews.com/us/teen-accused-killing-stepsister-carnival-cruise-ship-ordered-detained-murder-trial",
     "titleNorm": "teen accused of killing stepsister on carnival cruise",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "iran says the deal to end the war",
     "type": "reel",
     "timestamp": 1781712722585
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1781718281972
   }
 ]
