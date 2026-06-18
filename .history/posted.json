@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-killed-horse-drawn-carriage-bolts-flips-near-popular-new-york-city-tourist-destination",
-    "titleNorm": "man killed after horsedrawn carriage bolts and flips",
-    "type": "reel",
-    "timestamp": 1781759764447
-  },
-  {
     "url": "https://www.foxnews.com/us/air-force-identifies-8-crew-members-killed-b-52-stratofortress-crash-edwards-air-force-base",
     "titleNorm": "air force identifies 8 crew members killed in",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "happy face killer warns fellow serial killer rex",
     "type": "card",
     "timestamp": 1781793877241
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "british man dies in paragliding accident in spain",
+    "type": "card",
+    "timestamp": 1781805310160
   }
 ]
