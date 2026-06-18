@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/air-force-identifies-8-crew-members-killed-b-52-stratofortress-crash-edwards-air-force-base",
-    "titleNorm": "air force identifies 8 crew members killed in",
-    "type": "card",
-    "timestamp": 1781767573940
-  },
-  {
     "url": "https://www.nbcnews.com/world/china/china-world-cup-fans-referee-ma-ning-messi-rcna350471",
     "titleNorm": "china isnt at the world cup so soccerloving",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "brazils lula warns trump not to meddle in",
     "type": "reel",
     "timestamp": 1781810354151
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/world-shares-mixed-signing-us-iran-deal-ending-133987977",
+    "titleNorm": "world shares are mixed following signing of usiran",
+    "type": "reel",
+    "timestamp": 1781822001364
   }
 ]
