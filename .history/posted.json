@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1781740632857
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "they came with machetes deadline looms for migrants",
-    "type": "card",
-    "timestamp": 1781750175128
-  },
-  {
     "url": "https://www.foxnews.com/us/man-killed-horse-drawn-carriage-bolts-flips-near-popular-new-york-city-tourist-destination",
     "titleNorm": "man killed after horsedrawn carriage bolts and flips",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "breaking down the powers of a grand jury",
     "type": "card",
     "timestamp": 1781783069872
+  },
+  {
+    "url": "https://www.foxnews.com/us/happy-face-killer-warns-fellow-serial-killer-rex-heuermann-could-tossed-wolves-prison",
+    "titleNorm": "happy face killer warns fellow serial killer rex",
+    "type": "card",
+    "timestamp": 1781793877241
   }
 ]
