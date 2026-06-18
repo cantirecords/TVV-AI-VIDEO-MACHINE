@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/delaware-hospital-shooting-suspect-identified-faces-multiple-charges-including-first-degree-murder",
-    "titleNorm": "delaware hospital shooting suspect identified faces multiple charges",
-    "type": "card",
-    "timestamp": 1781726335741
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/democratic-socialists-are-rise-trump-era-mayoral-races-rcna350312",
-    "titleNorm": "democratic socialists are on the rise in trumpera",
-    "type": "card",
-    "timestamp": 1781733345501
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-jamie-mcdonald-sullivan-and-cromwell-sdny/",
-    "titleNorm": "this law firm has deep ties to trump",
-    "type": "reel",
-    "timestamp": 1781734893687
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "air force identifies 8 crew members killed in",
     "type": "card",
     "timestamp": 1781767573940
+  },
+  {
+    "url": "https://www.nbcnews.com/world/china/china-world-cup-fans-referee-ma-ning-messi-rcna350471",
+    "titleNorm": "china isnt at the world cup so soccerloving",
+    "type": "reel",
+    "timestamp": 1781780051544
   }
 ]
