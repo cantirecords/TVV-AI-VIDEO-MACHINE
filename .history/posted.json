@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1781738201645
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "china isnt at the world cup so soccerloving",
     "type": "reel",
     "timestamp": 1781780051544
+  },
+  {
+    "url": "https://www.cbsnews.com/video/breaking-down-powers-grand-jury-doj-allegedly-investigates-gavin-newsom/",
+    "titleNorm": "breaking down the powers of a grand jury",
+    "type": "card",
+    "timestamp": 1781783069872
   }
 ]
