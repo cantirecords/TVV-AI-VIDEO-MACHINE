@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/china/china-world-cup-fans-referee-ma-ning-messi-rcna350471",
-    "titleNorm": "china isnt at the world cup so soccerloving",
-    "type": "reel",
-    "timestamp": 1781780051544
-  },
-  {
-    "url": "https://www.cbsnews.com/video/breaking-down-powers-grand-jury-doj-allegedly-investigates-gavin-newsom/",
-    "titleNorm": "breaking down the powers of a grand jury",
-    "type": "card",
-    "timestamp": 1781783069872
-  },
-  {
     "url": "https://www.foxnews.com/us/happy-face-killer-warns-fellow-serial-killer-rex-heuermann-could-tossed-wolves-prison",
     "titleNorm": "happy face killer warns fellow serial killer rex",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "luigi mangione withdraws plans to use psychiatric defense",
     "type": "card",
     "timestamp": 1781823169600
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1781827899079
   }
 ]
