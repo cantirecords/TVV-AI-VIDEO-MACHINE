@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/happy-face-killer-warns-fellow-serial-killer-rex-heuermann-could-tossed-wolves-prison",
-    "titleNorm": "happy face killer warns fellow serial killer rex",
-    "type": "card",
-    "timestamp": 1781793877241
-  },
-  {
     "url": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "british man dies in paragliding accident in spain",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1781828420498
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/sledgehammer-shovel-volunteers-raced-save-passengers-texas-plane-133989635",
+    "titleNorm": "with a sledgehammer and a shovel volunteers raced",
+    "type": "reel",
+    "timestamp": 1781847333399
   }
 ]
