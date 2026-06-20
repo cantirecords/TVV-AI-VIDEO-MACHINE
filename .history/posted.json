@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1781926389136
-  },
-  {
     "url": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf",
     "titleNorm": "karmelo anthony runs away after murdering austin metcalf",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "fbi captures 12b medicare fraud fugitive in philippines",
     "type": "card",
     "timestamp": 1781967602017
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
+    "titleNorm": "how the iran war united and then divided",
+    "type": "card",
+    "timestamp": 1781972294006
   }
 ]
