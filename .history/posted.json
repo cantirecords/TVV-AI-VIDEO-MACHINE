@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-orders-ohio-restrictions-kids-social-media-restored-134015609",
-    "titleNorm": "court orders ohio restrictions on kids use of",
-    "type": "reel",
-    "timestamp": 1781884103233
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/democratic-socialists-surge-mayoral-races-country-anti-trump-134022429",
     "titleNorm": "democratic socialists surge in mayoral races across the",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1781926389136
+  },
+  {
+    "url": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf",
+    "titleNorm": "karmelo anthony runs away after murdering austin metcalf",
+    "type": "reel",
+    "timestamp": 1781931075242
   }
 ]
