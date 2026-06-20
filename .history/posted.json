@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/london-england-train-crash-east-midlands-railway/",
-    "titleNorm": "1 killed dozens injured after trains collide in",
-    "type": "reel",
-    "timestamp": 1781949015895
-  },
-  {
     "url": "https://www.foxnews.com/us/man-fired-firm-viral-video-shows-scolding-dad-taking-young-daughters-womens-restroom",
     "titleNorm": "man fired by firm after viral video shows",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "florida man indicted for allegedly plotting mass shooting",
     "type": "reel",
     "timestamp": 1781992063755
+  },
+  {
+    "url": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit",
+    "titleNorm": "disgraced murdaugh trial clerk who helped blow up",
+    "type": "card",
+    "timestamp": 1781992767083
   }
 ]
