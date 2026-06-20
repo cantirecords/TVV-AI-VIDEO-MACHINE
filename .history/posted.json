@@ -52,5 +52,11 @@
     "titleNorm": "at least 12 shot after suv pulls up",
     "type": "reel",
     "timestamp": 1781978133342
+  },
+  {
+    "url": "https://www.foxnews.com/us/nypd-officer-shot-gunman-killed-after-armed-barricaded-standoff-brooklyn-police",
+    "titleNorm": "nypd officer shot gunman killed after armed barricaded",
+    "type": "card",
+    "timestamp": 1781978690215
   }
 ]
