@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf",
-    "titleNorm": "karmelo anthony runs away after murdering austin metcalf",
-    "type": "reel",
-    "timestamp": 1781931075242
-  },
-  {
     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/james-burrows-co-creator-cheers-director-will-grace-dies-85-rcna350914",
     "titleNorm": "james burrows cocreator of cheers and director of",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "how the iran war united and then divided",
     "type": "card",
     "timestamp": 1781972294006
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/12-shot-after-suv-pulls-opens-fire-crowd-134057468",
+    "titleNorm": "at least 12 shot after suv pulls up",
+    "type": "reel",
+    "timestamp": 1781978133342
   }
 ]
