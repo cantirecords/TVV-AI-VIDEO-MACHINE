@@ -46,5 +46,11 @@
     "titleNorm": "fox news true crime newsletter gilgo sentencing a",
     "type": "reel",
     "timestamp": 1781966501175
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-captures-12b-medicare-fraud-fugitive-philippines-second-arrest-wanted-fraudsters-list",
+    "titleNorm": "fbi captures 12b medicare fraud fugitive in philippines",
+    "type": "card",
+    "timestamp": 1781967602017
   }
 ]
