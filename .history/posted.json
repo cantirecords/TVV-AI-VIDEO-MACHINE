@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1781996837603
-  },
-  {
-    "url": "https://www.cbsnews.com/news/claude-guillemot-dies-age-69-ubisoft-assassins-creed/",
-    "titleNorm": "claude guillemot cofounder of ubisoft dies in plane",
-    "type": "reel",
-    "timestamp": 1781999083419
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/democratic-socialists-surge-mayoral-races-country-anti-trump-134022429",
     "titleNorm": "democratic socialists surge in mayoral races across the",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "trump says several people arrested for alleged vandalism",
     "type": "card",
     "timestamp": 1782039545719
+  },
+  {
+    "url": "https://www.cbsnews.com/news/company-trump-donor-cafaro-reflecting-pool-no-bid-contract/",
+    "titleNorm": "company owned by trump donor won 17 million",
+    "type": "reel",
+    "timestamp": 1782044796370
   }
 ]
