@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1781985875420
-  },
-  {
-    "url": "https://www.foxnews.com/us/new-images-show-murder-weapon-fatal-injury-texas-high-school-track-meet-stabbing-austin-metcalf",
-    "titleNorm": "karmelo anthony runs away after murdering austin metcalf",
-    "type": "card",
-    "timestamp": 1781986235630
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-man-indicted-allegedly-plotting-mass-shooting-targeting-jewish-employees-advocacy-organization",
-    "titleNorm": "florida man indicted for allegedly plotting mass shooting",
-    "type": "reel",
-    "timestamp": 1781992063755
-  },
-  {
-    "url": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit",
-    "titleNorm": "disgraced murdaugh trial clerk who helped blow up",
-    "type": "card",
-    "timestamp": 1781992767083
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -52,5 +28,11 @@
     "titleNorm": "children among 6 wounded in maryland mass shooting",
     "type": "card",
     "timestamp": 1782026664111
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/la-mayor-bass-declares-emergency-secure-resources-fight-134066584",
+    "titleNorm": "la mayor bass declares emergency to secure resources",
+    "type": "reel",
+    "timestamp": 1782036663629
   }
 ]
