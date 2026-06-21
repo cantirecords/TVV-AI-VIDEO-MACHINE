@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/democratic-socialists-surge-mayoral-races-country-anti-trump-134022429",
-    "titleNorm": "democratic socialists surge in mayoral races across the",
-    "type": "card",
-    "timestamp": 1782009450458
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/court-orders-ohio-restrictions-kids-social-media-restored-134015609",
     "titleNorm": "court orders ohio restrictions on kids use of",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "military jamming disrupted a medical planes gps system",
     "type": "card",
     "timestamp": 1782047051935
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-blame-reflecting-pool-woes-vandalism-offering-substantiation-134061863",
+    "titleNorm": "trump tries to blame reflecting pool woes on",
+    "type": "reel",
+    "timestamp": 1782052901703
   }
 ]
