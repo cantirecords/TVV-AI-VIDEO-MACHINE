@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-gilgo-sentencing-warning-from-happy-face-mangione-psychs-himself-out",
-    "titleNorm": "fox news true crime newsletter gilgo sentencing a",
-    "type": "reel",
-    "timestamp": 1781966501175
-  },
-  {
-    "url": "https://www.foxnews.com/us/fbi-captures-12b-medicare-fraud-fugitive-philippines-second-arrest-wanted-fraudsters-list",
-    "titleNorm": "fbi captures 12b medicare fraud fugitive in philippines",
-    "type": "card",
-    "timestamp": 1781967602017
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
-    "titleNorm": "how the iran war united and then divided",
-    "type": "card",
-    "timestamp": 1781972294006
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/12-shot-after-suv-pulls-opens-fire-crowd-134057468",
     "titleNorm": "at least 12 shot after suv pulls up",
     "type": "reel",
@@ -70,5 +52,11 @@
     "titleNorm": "democratic socialists surge in mayoral races across the",
     "type": "card",
     "timestamp": 1782009450458
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/court-orders-ohio-restrictions-kids-social-media-restored-134015609",
+    "titleNorm": "court orders ohio restrictions on kids use of",
+    "type": "reel",
+    "timestamp": 1782019579851
   }
 ]
