@@ -52,5 +52,11 @@
     "titleNorm": "fox news true crime newsletter gilgo sentencing a",
     "type": "reel",
     "timestamp": 1782065083487
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1782069194031
   }
 ]
