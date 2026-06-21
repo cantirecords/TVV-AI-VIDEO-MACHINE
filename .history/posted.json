@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/la-mayor-bass-declares-emergency-secure-resources-fight-134066584",
-    "titleNorm": "la mayor bass declares emergency to secure resources",
-    "type": "reel",
-    "timestamp": 1782036663629
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-reflecting-pool-vandalism-arrest-washington-dc/",
-    "titleNorm": "trump says several people arrested for alleged vandalism",
-    "type": "card",
-    "timestamp": 1782039545719
-  },
-  {
     "url": "https://www.cbsnews.com/news/company-trump-donor-cafaro-reflecting-pool-no-bid-contract/",
     "titleNorm": "company owned by trump donor won 17 million",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "indian cricketer 15 hits recordbreaking 50 in just",
     "type": "reel",
     "timestamp": 1782078729299
+  },
+  {
+    "url": "https://www.foxnews.com/us/nypd-officer-shot-gunman-killed-after-armed-barricaded-standoff-brooklyn-police",
+    "titleNorm": "nypd officer shot gunman killed after armed barricaded",
+    "type": "card",
+    "timestamp": 1782082772544
   }
 ]
