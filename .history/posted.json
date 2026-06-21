@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1781957763819
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/sledgehammer-shovel-volunteers-raced-save-passengers-texas-plane-133989635",
-    "titleNorm": "with a sledgehammer and a shovel volunteers raced",
-    "type": "card",
-    "timestamp": 1781958205265
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-gilgo-sentencing-warning-from-happy-face-mangione-psychs-himself-out",
     "titleNorm": "fox news true crime newsletter gilgo sentencing a",
     "type": "reel",
@@ -76,5 +64,11 @@
     "titleNorm": "claude guillemot cofounder of ubisoft dies in plane",
     "type": "reel",
     "timestamp": 1781999083419
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/democratic-socialists-surge-mayoral-races-country-anti-trump-134022429",
+    "titleNorm": "democratic socialists surge in mayoral races across the",
+    "type": "card",
+    "timestamp": 1782009450458
   }
 ]
