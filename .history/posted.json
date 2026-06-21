@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/court-orders-ohio-restrictions-kids-social-media-restored-134015609",
-    "titleNorm": "court orders ohio restrictions on kids use of",
-    "type": "reel",
-    "timestamp": 1782019579851
-  },
-  {
     "url": "https://www.foxnews.com/us/children-among-6-wounded-maryland-mass-shooting-detectives-work-determine-occurred",
     "titleNorm": "children among 6 wounded in maryland mass shooting",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1782062265238
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-gilgo-sentencing-warning-from-happy-face-mangione-psychs-himself-out",
+    "titleNorm": "fox news true crime newsletter gilgo sentencing a",
+    "type": "reel",
+    "timestamp": 1782065083487
   }
 ]
