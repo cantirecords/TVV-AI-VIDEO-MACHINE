@@ -34,5 +34,11 @@
     "titleNorm": "company owned by trump donor won 17 million",
     "type": "reel",
     "timestamp": 1782044796370
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/military-jamming-disrupted-medical-planes-gps-system-crashed-134008225",
+    "titleNorm": "military jamming disrupted a medical planes gps system",
+    "type": "card",
+    "timestamp": 1782047051935
   }
 ]
