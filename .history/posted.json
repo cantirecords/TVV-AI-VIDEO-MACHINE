@@ -28,5 +28,11 @@
     "titleNorm": "multiple hikers dead amid scorching grand canyon temperatures",
     "type": "reel",
     "timestamp": 1782148684688
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/1-person-killed-tesla-autopilot-crashes-texas-home-rcna350982",
+    "titleNorm": "1 person killed after tesla on autopilot crashes",
+    "type": "card",
+    "timestamp": 1782149099847
   }
 ]
