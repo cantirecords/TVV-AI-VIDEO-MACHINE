@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-gilgo-sentencing-warning-from-happy-face-mangione-psychs-himself-out",
-    "titleNorm": "fox news true crime newsletter gilgo sentencing a",
-    "type": "reel",
-    "timestamp": 1782065083487
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1782106912786
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "currency crash and visa crackdowns force indian students",
+    "type": "card",
+    "timestamp": 1782109215460
   }
 ]
