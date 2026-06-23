@@ -40,5 +40,11 @@
     "titleNorm": "coast guard helicopter crashes on a training mission",
     "type": "reel",
     "timestamp": 1782234106436
+  },
+  {
+    "url": "https://www.foxnews.com/us/coast-guard-helicopter-crash-alaska",
+    "titleNorm": "coast guard helicopter crashes during alaska training mission",
+    "type": "card",
+    "timestamp": 1782241396693
   }
 ]
