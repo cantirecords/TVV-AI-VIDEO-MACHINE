@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-hikers-dead-amid-scorching-grand-canyon-temperatures",
-    "titleNorm": "multiple hikers dead amid scorching grand canyon temperatures",
-    "type": "reel",
-    "timestamp": 1782148684688
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/1-person-killed-tesla-autopilot-crashes-texas-home-rcna350982",
-    "titleNorm": "1 person killed after tesla on autopilot crashes",
-    "type": "card",
-    "timestamp": 1782149099847
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/heat-wind-drought-conditions-spark-wildfires-us-west-134079111",
     "titleNorm": "heat wind and drought conditions spark wildfires in",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "three dead in philippines high school shooting over",
     "type": "reel",
     "timestamp": 1782189626629
+  },
+  {
+    "url": "https://www.cbsnews.com/news/arc-de-trump-preliminary-design-approval-arts-commission/",
+    "titleNorm": "arc de trump receives preliminary design approval from",
+    "type": "card",
+    "timestamp": 1782200352347
   }
 ]
