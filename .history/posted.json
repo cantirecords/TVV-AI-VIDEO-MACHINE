@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/arc-de-trump-preliminary-design-approval-arts-commission/",
-    "titleNorm": "arc de trump receives preliminary design approval from",
-    "type": "card",
-    "timestamp": 1782200352347
-  },
-  {
     "url": "https://www.cbsnews.com/news/company-trump-donor-cafaro-reflecting-pool-no-bid-contract/",
     "titleNorm": "company owned by trump donor won 17 million",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "coast guard helicopter crashes during alaska training mission",
     "type": "card",
     "timestamp": 1782241396693
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1782246757756
   }
 ]
