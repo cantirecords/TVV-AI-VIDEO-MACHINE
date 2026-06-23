@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/company-trump-donor-cafaro-reflecting-pool-no-bid-contract/",
-    "titleNorm": "company owned by trump donor won 17 million",
-    "type": "reel",
-    "timestamp": 1782209439711
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/firefighters-deliver-conflicting-testimony-fireworks-palisades-fire-arson-134117930",
-    "titleNorm": "firefighters deliver conflicting testimony over fireworks in palisades",
-    "type": "card",
-    "timestamp": 1782212007551
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
     "titleNorm": "florida man allegedly recorded girls in church bathroom",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "supreme court reinstates murder conviction in case of",
     "type": "reel",
     "timestamp": 1782252026683
+  },
+  {
+    "url": "https://www.cbsnews.com/news/bees-escape-truck-hives-crashes-texas/",
+    "titleNorm": "millions of bees escape after truck crashes in",
+    "type": "card",
+    "timestamp": 1782255578267
   }
 ]
