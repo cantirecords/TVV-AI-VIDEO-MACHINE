@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/7-killed-dozens-injured-series-weekend-shootings-chicago-134078588",
-    "titleNorm": "7 killed and dozens injured following series of",
-    "type": "card",
-    "timestamp": 1782168082721
-  },
-  {
     "url": "https://www.foxnews.com/us/responders-put-explosive-blaze-fireworks-stand-oklahoma",
     "titleNorm": "responders put out explosive blaze at fireworks stand",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "company owned by trump donor won 17 million",
     "type": "reel",
     "timestamp": 1782209439711
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/firefighters-deliver-conflicting-testimony-fireworks-palisades-fire-arson-134117930",
+    "titleNorm": "firefighters deliver conflicting testimony over fireworks in palisades",
+    "type": "card",
+    "timestamp": 1782212007551
   }
 ]
