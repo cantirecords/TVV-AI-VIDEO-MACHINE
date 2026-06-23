@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "three dead in philippines high school shooting over",
-    "type": "reel",
-    "timestamp": 1782189626629
-  },
-  {
     "url": "https://www.cbsnews.com/news/arc-de-trump-preliminary-design-approval-arts-commission/",
     "titleNorm": "arc de trump receives preliminary design approval from",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "prominent businessman learns fate in boat crash case",
     "type": "card",
     "timestamp": 1782231621141
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/coast-guard-helicopter-crashes-training-mission-alaska-crew-134111477",
+    "titleNorm": "coast guard helicopter crashes on a training mission",
+    "type": "reel",
+    "timestamp": 1782234106436
   }
 ]
