@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/responders-put-explosive-blaze-fireworks-stand-oklahoma",
-    "titleNorm": "responders put out explosive blaze at fireworks stand",
-    "type": "reel",
-    "timestamp": 1782172318077
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "former olympian denies vandalising washington reflecting pool after",
-    "type": "card",
-    "timestamp": 1782172779715
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/china-hits-back-us-sanctions-tech-giants-restricting-134085740",
     "titleNorm": "china hits back at us sanctions on tech",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "firefighters deliver conflicting testimony over fireworks in palisades",
     "type": "card",
     "timestamp": 1782212007551
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
+    "titleNorm": "florida man allegedly recorded girls in church bathroom",
+    "type": "reel",
+    "timestamp": 1782220972479
   }
 ]
