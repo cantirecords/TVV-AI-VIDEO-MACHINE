@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/coast-guard-helicopter-crashes-training-mission-alaska-crew-134111477",
-    "titleNorm": "coast guard helicopter crashes on a training mission",
-    "type": "reel",
-    "timestamp": 1782234106436
-  },
-  {
     "url": "https://www.foxnews.com/us/coast-guard-helicopter-crash-alaska",
     "titleNorm": "coast guard helicopter crashes during alaska training mission",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1782276435920
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pentagon-seeks-80-billion-congress-iran-war-134116895",
+    "titleNorm": "pentagon seeks 80 billion from congress for iran",
+    "type": "card",
+    "timestamp": 1782282944545
   }
 ]
