@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1782276435920
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/pentagon-seeks-80-billion-congress-iran-war-134116895",
     "titleNorm": "pentagon seeks 80 billion from congress for iran",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "suspected california library gunman influenced by columbine shooting",
     "type": "reel",
     "timestamp": 1782319196019
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-linked-firm-pardon-lobbying/",
+    "titleNorm": "trumplinked firm is lobbying for pardons and its",
+    "type": "card",
+    "timestamp": 1782325646379
   }
 ]
