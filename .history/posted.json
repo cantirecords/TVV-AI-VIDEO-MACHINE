@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/senate-house-pass-iran-war-powers-resolution-trump/",
-    "titleNorm": "senate adopts housepassed iran resolution in symbolic rebuke",
-    "type": "reel",
-    "timestamp": 1782295197487
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-colorado-analyst-pleads-guilty-dna-testing-scandal-134149953",
     "titleNorm": "former colorado analyst pleads guilty in dna testing",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "trump hopes nancy guthrie is found for family",
     "type": "reel",
     "timestamp": 1782338118984
+  },
+  {
+    "url": "https://www.foxnews.com/us/minor-crash-stolen-buffalo-wild-wings-food-lead-deputies-alleged-murder-plot-teens-parents",
+    "titleNorm": "minor crash stolen buffalo wild wings food lead",
+    "type": "card",
+    "timestamp": 1782338800155
   }
 ]
