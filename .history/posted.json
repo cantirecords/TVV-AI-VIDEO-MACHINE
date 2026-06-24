@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/pentagon-seeks-80-billion-congress-iran-war-134116895",
-    "titleNorm": "pentagon seeks 80 billion from congress for iran",
-    "type": "card",
-    "timestamp": 1782282944545
-  },
-  {
     "url": "https://www.cbsnews.com/news/senate-house-pass-iran-war-powers-resolution-trump/",
     "titleNorm": "senate adopts housepassed iran resolution in symbolic rebuke",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trumplinked firm is lobbying for pardons and its",
     "type": "card",
     "timestamp": 1782325646379
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pentagon-seeks-80-billion-congress-iran-war-134116895",
+    "titleNorm": "pentagon seeks 80 billion from congress for iran",
+    "type": "reel",
+    "timestamp": 1782332286535
   }
 ]
