@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/coast-guard-helicopter-crash-alaska",
-    "titleNorm": "coast guard helicopter crashes during alaska training mission",
-    "type": "card",
-    "timestamp": 1782241396693
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1782246757756
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1782249787229
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-reinstates-murder-conviction-case-etan-patz-134096430",
     "titleNorm": "supreme court reinstates murder conviction in case of",
     "type": "reel",
@@ -58,5 +40,11 @@
     "titleNorm": "pentagon seeks 80 billion from congress for iran",
     "type": "card",
     "timestamp": 1782282944545
+  },
+  {
+    "url": "https://www.cbsnews.com/news/senate-house-pass-iran-war-powers-resolution-trump/",
+    "titleNorm": "senate adopts housepassed iran resolution in symbolic rebuke",
+    "type": "reel",
+    "timestamp": 1782295197487
   }
 ]
