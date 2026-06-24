@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
-    "titleNorm": "florida man allegedly recorded girls in church bathroom",
-    "type": "reel",
-    "timestamp": 1782220972479
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1782221732030
-  },
-  {
     "url": "https://www.foxnews.com/us/prominent-businessman-learns-fate-boat-crash-case-killed-teen-maimed-another",
     "titleNorm": "prominent businessman learns fate in boat crash case",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "california intends to sue trump administration over deal",
     "type": "card",
     "timestamp": 1782258867106
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/shooting-northern-california-library-kills-2-suspect-custody-134121444",
+    "titleNorm": "a shooter kills 2 at a northern california",
+    "type": "card",
+    "timestamp": 1782266944968
   }
 ]
