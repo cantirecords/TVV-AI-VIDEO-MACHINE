@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-colorado-analyst-pleads-guilty-dna-testing-scandal-134149953",
-    "titleNorm": "former colorado analyst pleads guilty in dna testing",
-    "type": "card",
-    "timestamp": 1782296003000
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-oklahoma-death-row-inmate-back-court-case-134122016",
     "titleNorm": "former oklahoma death row inmate back in court",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "minor crash stolen buffalo wild wings food lead",
     "type": "card",
     "timestamp": 1782338800155
+  },
+  {
+    "url": "https://www.nbcnews.com/weather/wildfires/fire-risk-weather-forecast-west-lightning-wind-rcna351242",
+    "titleNorm": "dangerous fire weather to hit the west with",
+    "type": "reel",
+    "timestamp": 1782344536062
   }
 ]
