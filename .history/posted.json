@@ -58,5 +58,11 @@
     "titleNorm": "dangerous fire weather to hit the west with",
     "type": "reel",
     "timestamp": 1782344536062
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-bars-trump-implementing-proof-citizenship-requirement-134172644",
+    "titleNorm": "federal judge bars trump from implementing proof of",
+    "type": "card",
+    "timestamp": 1782345477185
   }
 ]
