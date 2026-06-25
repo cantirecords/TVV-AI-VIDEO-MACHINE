@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/body-believed-kansas-city-highway-shooting-suspect-found-burned-homes-basement-family-police",
-    "titleNorm": "body believed to be kansas city highway shooting",
-    "type": "reel",
-    "timestamp": 1782362579914
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-entered-us-visa-visit-disney-world-arrested-overstaying-decade-sex-crime",
-    "titleNorm": "illegal immigrant who entered us on visa to",
-    "type": "card",
-    "timestamp": 1782369615407
-  },
-  {
     "url": "https://www.foxnews.com/us/barry-morphew-used-fake-name-lived-with-woman-until-arrest-wifes-murder-case-exposed-him-police",
     "titleNorm": "barry morphew used fake name lived with woman",
     "type": "reel",
@@ -46,5 +34,11 @@
     "titleNorm": "trump is frustrated gasoline prices dont mirror oils",
     "type": "reel",
     "timestamp": 1782405699584
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-refuses-sign-bipartisan-housing-bill-law-homebuyers-134184622",
+    "titleNorm": "trump refuses to sign bipartisan housing bill into",
+    "type": "card",
+    "timestamp": 1782414077083
   }
 ]
