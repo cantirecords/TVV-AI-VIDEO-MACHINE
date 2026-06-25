@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/firefighters-wear-n95-respirators-policy-change-rcna351438",
-    "titleNorm": "federal firefighters will be encouraged to wear n95",
-    "type": "card",
-    "timestamp": 1782317261941
-  },
-  {
-    "url": "https://www.foxnews.com/us/suspected-california-library-gunman-influenced-columbine-shooting-wore-matching-shirt-officials-say",
-    "titleNorm": "suspected california library gunman influenced by columbine shooting",
-    "type": "reel",
-    "timestamp": 1782319196019
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-linked-firm-pardon-lobbying/",
     "titleNorm": "trumplinked firm is lobbying for pardons and its",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "trump is frustrated gasoline prices dont mirror oils",
     "type": "card",
     "timestamp": 1782355502881
+  },
+  {
+    "url": "https://www.foxnews.com/us/body-believed-kansas-city-highway-shooting-suspect-found-burned-homes-basement-family-police",
+    "titleNorm": "body believed to be kansas city highway shooting",
+    "type": "reel",
+    "timestamp": 1782362579914
   }
 ]
