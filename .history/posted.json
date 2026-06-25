@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/weather/wildfires/fire-risk-weather-forecast-west-lightning-wind-rcna351242",
-    "titleNorm": "dangerous fire weather to hit the west with",
-    "type": "reel",
-    "timestamp": 1782344536062
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/federal-judge-bars-trump-implementing-proof-citizenship-requirement-134172644",
-    "titleNorm": "federal judge bars trump from implementing proof of",
-    "type": "card",
-    "timestamp": 1782345477185
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-frustrated-gasoline-prices-mirror-oils-decline-experts-134183811",
     "titleNorm": "trump is frustrated gasoline prices dont mirror oils",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "judge bars immigration arrests at us courthouses in",
     "type": "card",
     "timestamp": 1782382270386
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/michigan-senate-candidate-accuses-trump-keeping-canada-us-134161775",
+    "titleNorm": "michigan senate candidate accuses trump of keeping canadaus",
+    "type": "reel",
+    "timestamp": 1782391180435
   }
 ]
