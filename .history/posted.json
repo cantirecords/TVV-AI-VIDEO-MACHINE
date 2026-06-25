@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-frustrated-gasoline-prices-mirror-oils-decline-experts-134183811",
-    "titleNorm": "trump is frustrated gasoline prices dont mirror oils",
-    "type": "card",
-    "timestamp": 1782355502881
-  },
-  {
     "url": "https://www.foxnews.com/us/body-believed-kansas-city-highway-shooting-suspect-found-burned-homes-basement-family-police",
     "titleNorm": "body believed to be kansas city highway shooting",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trumps showdown with republican sen cassidy inside the",
     "type": "card",
     "timestamp": 1782393006805
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/trump-meet-speaker-mike-johnson-discuss-gridlock-key-housing-election-rcna351750",
+    "titleNorm": "trump to meet with speaker mike johnson to",
+    "type": "card",
+    "timestamp": 1782404112116
   }
 ]
