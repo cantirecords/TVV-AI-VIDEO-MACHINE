@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/barry-morphew-used-fake-name-lived-with-woman-until-arrest-wifes-murder-case-exposed-him-police",
-    "titleNorm": "barry morphew used fake name lived with woman",
-    "type": "reel",
-    "timestamp": 1782381148654
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/judge-bars-immigration-arrests-us-courthouses-setback-trump-134155294",
-    "titleNorm": "judge bars immigration arrests at us courthouses in",
-    "type": "card",
-    "timestamp": 1782382270386
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/michigan-senate-candidate-accuses-trump-keeping-canada-us-134161775",
     "titleNorm": "michigan senate candidate accuses trump of keeping canadaus",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1782421170588
+  },
+  {
+    "url": "https://www.cbsnews.com/news/palisades-fire-jonathan-rinderknecht-trial-verdict/",
+    "titleNorm": "jury reaches verdict in trial of palisades fire",
+    "type": "card",
+    "timestamp": 1782426069449
   }
 ]
