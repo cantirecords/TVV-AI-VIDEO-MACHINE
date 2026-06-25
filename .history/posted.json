@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-hopes-nancy-guthrie-found-family-gone-hell-ransom-notes-pleas-help",
-    "titleNorm": "trump hopes nancy guthrie is found for family",
-    "type": "reel",
-    "timestamp": 1782338118984
-  },
-  {
-    "url": "https://www.foxnews.com/us/minor-crash-stolen-buffalo-wild-wings-food-lead-deputies-alleged-murder-plot-teens-parents",
-    "titleNorm": "minor crash stolen buffalo wild wings food lead",
-    "type": "card",
-    "timestamp": 1782338800155
-  },
-  {
     "url": "https://www.nbcnews.com/weather/wildfires/fire-risk-weather-forecast-west-lightning-wind-rcna351242",
     "titleNorm": "dangerous fire weather to hit the west with",
     "type": "reel",
@@ -46,5 +34,11 @@
     "titleNorm": "barry morphew used fake name lived with woman",
     "type": "reel",
     "timestamp": 1782381148654
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-bars-immigration-arrests-us-courthouses-setback-trump-134155294",
+    "titleNorm": "judge bars immigration arrests at us courthouses in",
+    "type": "card",
+    "timestamp": 1782382270386
   }
 ]
