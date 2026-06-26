@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/michigan-senate-candidate-accuses-trump-keeping-canada-us-134161775",
-    "titleNorm": "michigan senate candidate accuses trump of keeping canadaus",
-    "type": "reel",
-    "timestamp": 1782391180435
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trumps-showdown-republican-sen-cassidy-inside-blow-capitol-134185691",
-    "titleNorm": "trumps showdown with republican sen cassidy inside the",
-    "type": "card",
-    "timestamp": 1782393006805
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/congress/trump-meet-speaker-mike-johnson-discuss-gridlock-key-housing-election-rcna351750",
-    "titleNorm": "trump to meet with speaker mike johnson to",
-    "type": "card",
-    "timestamp": 1782404112116
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-frustrated-gasoline-prices-mirror-oils-decline-experts-134183811",
-    "titleNorm": "trump is frustrated gasoline prices dont mirror oils",
-    "type": "reel",
-    "timestamp": 1782405699584
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-refuses-sign-bipartisan-housing-bill-law-homebuyers-134184622",
     "titleNorm": "trump refuses to sign bipartisan housing bill into",
     "type": "card",
@@ -58,5 +34,11 @@
     "titleNorm": "senate republicans flip on iran war powers vote",
     "type": "card",
     "timestamp": 1782432287474
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-executes-74-year-old-wifes-murder-becoming-oldest-inmate-put-death-states-modern-history",
+    "titleNorm": "florida executes 74yearold for wifes murder becoming oldest",
+    "type": "reel",
+    "timestamp": 1782449446159
   }
 ]
