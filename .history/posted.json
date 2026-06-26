@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/12-year-old-boy-rushed-hospital-shark-attacks-bahamas-police-say",
-    "titleNorm": "12yearold boy rushed to hospital after shark attacks",
-    "type": "reel",
-    "timestamp": 1782431529007
-  },
-  {
-    "url": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines",
-    "titleNorm": "senate republicans flip on iran war powers vote",
-    "type": "card",
-    "timestamp": 1782432287474
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-executes-74-year-old-wifes-murder-becoming-oldest-inmate-put-death-states-modern-history",
     "titleNorm": "florida executes 74yearold for wifes murder becoming oldest",
     "type": "reel",
@@ -40,5 +28,11 @@
     "titleNorm": "records reveal the massive arsenal ohio man allegedly",
     "type": "card",
     "timestamp": 1782473942599
+  },
+  {
+    "url": "https://www.foxnews.com/us/body-believed-kansas-city-highway-shooting-suspect-found-burned-homes-basement-family-police",
+    "titleNorm": "body believed to be kansas city highway shooting",
+    "type": "reel",
+    "timestamp": 1782477146438
   }
 ]
