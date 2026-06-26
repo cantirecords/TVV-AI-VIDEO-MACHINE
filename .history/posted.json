@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/palisades-fire-jonathan-rinderknecht-trial-verdict/",
-    "titleNorm": "jury reaches verdict in trial of palisades fire",
-    "type": "card",
-    "timestamp": 1782426069449
-  },
-  {
     "url": "https://www.foxnews.com/us/12-year-old-boy-rushed-hospital-shark-attacks-bahamas-police-say",
     "titleNorm": "12yearold boy rushed to hospital after shark attacks",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1782467978539
+  },
+  {
+    "url": "https://www.foxnews.com/us/records-reveal-massive-arsenal-ohio-man-allegedly-built-attack-white-house-ufc-event",
+    "titleNorm": "records reveal the massive arsenal ohio man allegedly",
+    "type": "card",
+    "timestamp": 1782473942599
   }
 ]
