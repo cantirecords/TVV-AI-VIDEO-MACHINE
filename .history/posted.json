@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/records-reveal-massive-arsenal-ohio-man-allegedly-built-attack-white-house-ufc-event",
-    "titleNorm": "records reveal the massive arsenal ohio man allegedly",
-    "type": "card",
-    "timestamp": 1782473942599
-  },
-  {
     "url": "https://www.foxnews.com/us/body-believed-kansas-city-highway-shooting-suspect-found-burned-homes-basement-family-police",
     "titleNorm": "body believed to be kansas city highway shooting",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "former florida special education teacher arrested for alleged",
     "type": "card",
     "timestamp": 1782511322567
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "key figure in south africa police corruption scandal",
+    "type": "reel",
+    "timestamp": 1782517453056
   }
 ]
