@@ -64,5 +64,11 @@
     "titleNorm": "earthquakes hit latin america and george washington goes",
     "type": "reel",
     "timestamp": 1782581882787
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "venezuela earthquakes kill 920 people as international rescue",
+    "type": "card",
+    "timestamp": 1782582894216
   }
 ]
