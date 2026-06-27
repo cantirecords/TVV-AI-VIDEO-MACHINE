@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/senate-republicans-flip-iran-war-powers-vote-after-fiery-meeting-trump-more-top-headlines",
-    "titleNorm": "senate republicans flip on iran war powers vote",
-    "type": "reel",
-    "timestamp": 1782486839938
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/man-set-virginia-city-council-member-fire-gets-134219574",
-    "titleNorm": "the man who set a virginia city council",
-    "type": "card",
-    "timestamp": 1782490797364
-  },
-  {
     "url": "https://www.cbsnews.com/news/venezuela-earthquakes-la-guaira-death-toll-race-to-find-missing-survivors/",
     "titleNorm": "race to find survivors as venezuela039s earthquake death",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1782525947879
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "europes deadly heatwave breaks german record and halts",
+    "type": "reel",
+    "timestamp": 1782534843926
   }
 ]
