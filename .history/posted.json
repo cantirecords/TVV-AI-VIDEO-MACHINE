@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/us-strikes-iran-drone-attack-cargo-ship-challenge-ceasefire-trump/",
-    "titleNorm": "us strikes targets in iran after drone attack",
-    "type": "reel",
-    "timestamp": 1782510509162
-  },
-  {
-    "url": "https://www.foxnews.com/us/former-florida-special-education-teacher-arrested-alleged-sexual-relationship-teen-boy-police",
-    "titleNorm": "former florida special education teacher arrested for alleged",
-    "type": "card",
-    "timestamp": 1782511322567
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "key figure in south africa police corruption scandal",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "christmas market attacker jailed for life for murdering",
     "type": "card",
     "timestamp": 1782552151072
+  },
+  {
+    "url": "https://www.foxnews.com/us/hundreds-pounds-fireworks-explode-destroying-homes-injuring-firefighters",
+    "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
+    "type": "card",
+    "timestamp": 1782559186476
   }
 ]
