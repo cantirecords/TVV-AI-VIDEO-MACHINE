@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "europes deadly heatwave breaks german record and halts",
-    "type": "reel",
-    "timestamp": 1782534843926
-  },
-  {
     "url": "https://www.foxnews.com/us/exclusive-dhs-asks-florida-release-illegal-immigrant-accused-drugging-raping-woman-clubbing",
     "titleNorm": "exclusive dhs asks florida not to release illegal",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "a historical feud threatens a key wartime alliance",
     "type": "reel",
     "timestamp": 1782575384672
+  },
+  {
+    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
+    "titleNorm": "youtubers online friend recalls graphic video threatening her",
+    "type": "card",
+    "timestamp": 1782579386163
   }
 ]
