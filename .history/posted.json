@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1782525947879
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "europes deadly heatwave breaks german record and halts",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "four charged in alleged billion dollar healthcare fraud",
     "type": "card",
     "timestamp": 1782565620245
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1782569656250
   }
 ]
