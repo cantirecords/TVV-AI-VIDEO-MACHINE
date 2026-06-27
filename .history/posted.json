@@ -76,5 +76,11 @@
     "titleNorm": "venezuela death toll rises as search for earthquake",
     "type": "reel",
     "timestamp": 1782590040700
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-team-fires-back-plea-deal-report-calls-leaks-threat-fair-trial",
+    "titleNorm": "luigi mangiones team fires back at plea deal",
+    "type": "card",
+    "timestamp": 1782593377188
   }
 ]
