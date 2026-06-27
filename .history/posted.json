@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hundreds-pounds-fireworks-explode-destroying-homes-injuring-firefighters",
-    "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
-    "type": "card",
-    "timestamp": 1782559186476
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1782600853603
+  },
+  {
+    "url": "https://www.foxnews.com/us/jury-deadlocks-federal-trial-man-accused-starting-deadly-palisades-fire-los-angeles",
+    "titleNorm": "jury deadlocks in federal trial of man accused",
+    "type": "reel",
+    "timestamp": 1782603368477
   }
 ]
