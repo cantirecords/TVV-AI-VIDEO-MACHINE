@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "key figure in south africa police corruption scandal",
-    "type": "reel",
-    "timestamp": 1782517453056
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/civil-rights-moon-landings-war-wins-americans-see-countrys-greatest-ac-rcna351598",
-    "titleNorm": "civil rights moon landings and war wins what",
-    "type": "card",
-    "timestamp": 1782518030788
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
     "type": "card",
     "timestamp": 1782559186476
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1782561241218
   }
 ]
