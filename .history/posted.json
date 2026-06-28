@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/colorado-mom-allegedly-bought-alcohol-daily-16-year-old-daughter-found-dead-173-empty-bottles",
-    "titleNorm": "colorado mom allegedly bought alcohol daily for 16yearold",
-    "type": "card",
-    "timestamp": 1782572875384
-  },
-  {
-    "url": "https://www.nbcnews.com/world/ukraine/historical-feud-threatens-key-wartime-alliance-ukraine-rcna351736",
-    "titleNorm": "a historical feud threatens a key wartime alliance",
-    "type": "reel",
-    "timestamp": 1782575384672
-  },
-  {
-    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
-    "titleNorm": "youtubers online friend recalls graphic video threatening her",
-    "type": "card",
-    "timestamp": 1782579386163
-  },
-  {
     "url": "https://www.nbcnews.com/news/news-quiz/earthquake-george-washington-news-quiz-rcna351791",
     "titleNorm": "earthquakes hit latin america and george washington goes",
     "type": "reel",
@@ -82,5 +64,11 @@
     "titleNorm": "newborn baby rescued from venezuela earthquake rubble",
     "type": "card",
     "timestamp": 1782613650131
+  },
+  {
+    "url": "https://www.foxnews.com/us/hundreds-pounds-fireworks-explode-destroying-homes-injuring-firefighters",
+    "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
+    "type": "reel",
+    "timestamp": 1782622864497
   }
 ]
