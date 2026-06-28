@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-lance-schroyer-ice-director-nomination/",
-    "titleNorm": "trump nominates former oklahoma trooper lance schroyer to",
-    "type": "card",
-    "timestamp": 1782604433916
-  },
-  {
     "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "newborn baby rescued from venezuela earthquake rubble",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "palisades fire deadlock fuels fear that ideology is",
     "type": "card",
     "timestamp": 1782646839608
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-take-schools-court-drag-queen-school-board-member-arrested",
+    "titleNorm": "fox news campus radicals newsletter parents take schools",
+    "type": "reel",
+    "timestamp": 1782648222547
   }
 ]
