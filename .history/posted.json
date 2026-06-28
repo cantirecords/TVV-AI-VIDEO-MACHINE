@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hundreds-pounds-fireworks-explode-destroying-homes-injuring-firefighters",
-    "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
-    "type": "reel",
-    "timestamp": 1782622864497
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dry-windy-conditions-fuel-explosive-wildfire-growth-western-134284558",
     "titleNorm": "dry windy conditions fuel explosive wildfire growth across",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "trump threatens 100 tax on european imports",
     "type": "card",
     "timestamp": 1782665849913
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-set-virginia-council-member-fire-alleged-affair-40-year-sentence",
+    "titleNorm": "man who set virginia council member on fire",
+    "type": "reel",
+    "timestamp": 1782668677115
   }
 ]
