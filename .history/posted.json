@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1782639728242
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/fear-grips-haitian-communities-after-supreme-court-ruling-134252486",
-    "titleNorm": "fear grips haitian communities after supreme court ruling",
-    "type": "card",
-    "timestamp": 1782640339638
-  },
-  {
     "url": "https://www.foxnews.com/us/palisades-fire-deadlock-fuels-fear-ideology-creeping-jury-box-mangione-could-next",
     "titleNorm": "palisades fire deadlock fuels fear that ideology is",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1782682654634
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-backed-letlow-faces-fleming-louisiana-gop-senate-134265989",
+    "titleNorm": "trumpbacked letlow faces fleming in louisiana gop senate",
+    "type": "card",
+    "timestamp": 1782683595789
   }
 ]
