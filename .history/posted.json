@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "newborn baby rescued from venezuela earthquake rubble",
-    "type": "card",
-    "timestamp": 1782613650131
-  },
-  {
     "url": "https://www.foxnews.com/us/hundreds-pounds-fireworks-explode-destroying-homes-injuring-firefighters",
     "titleNorm": "hundreds of pounds of fireworks explode destroying homes",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "trumpbacked rep julia letlow wins louisiana senate primary",
     "type": "reel",
     "timestamp": 1782656581591
+  },
+  {
+    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
+    "titleNorm": "youtubers online friend recalls graphic video threatening her",
+    "type": "card",
+    "timestamp": 1782659459334
   }
 ]
