@@ -40,5 +40,11 @@
     "titleNorm": "fox news campus radicals newsletter parents take schools",
     "type": "reel",
     "timestamp": 1782648222547
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-dead-another-critical-double-stabbing-brooklyn-park-police-detain-person-interest-nypd",
+    "titleNorm": "man dead another critical after double stabbing at",
+    "type": "card",
+    "timestamp": 1782652462638
   }
 ]
