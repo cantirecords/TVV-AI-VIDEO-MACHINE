@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-backed-letlow-faces-fleming-louisiana-gop-senate-134265989",
-    "titleNorm": "trumpbacked letlow faces fleming in louisiana gop senate",
-    "type": "card",
-    "timestamp": 1782597192936
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1782600853603
-  },
-  {
-    "url": "https://www.foxnews.com/us/jury-deadlocks-federal-trial-man-accused-starting-deadly-palisades-fire-los-angeles",
-    "titleNorm": "jury deadlocks in federal trial of man accused",
-    "type": "reel",
-    "timestamp": 1782603368477
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-lance-schroyer-ice-director-nomination/",
     "titleNorm": "trump nominates former oklahoma trooper lance schroyer to",
     "type": "card",
@@ -52,5 +34,11 @@
     "titleNorm": "fear grips haitian communities after supreme court ruling",
     "type": "card",
     "timestamp": 1782640339638
+  },
+  {
+    "url": "https://www.foxnews.com/us/palisades-fire-deadlock-fuels-fear-ideology-creeping-jury-box-mangione-could-next",
+    "titleNorm": "palisades fire deadlock fuels fear that ideology is",
+    "type": "card",
+    "timestamp": 1782646839608
   }
 ]
