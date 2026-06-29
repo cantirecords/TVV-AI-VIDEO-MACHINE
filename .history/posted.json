@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dangerous-weather-hampers-firefighters-leads-fireworks-bans-western-134266231",
-    "titleNorm": "dangerous weather hampers firefighters and leads to fireworks",
-    "type": "card",
-    "timestamp": 1782722964105
-  },
-  {
     "url": "https://www.cbsnews.com/news/chris-coons-delaware-car-crash/",
     "titleNorm": "delaware sen chris coons injured in sussex county",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "supreme court wont revive alan dershowitzs 300 million",
     "type": "card",
     "timestamp": 1782766071123
+  },
+  {
+    "url": "https://www.cbsnews.com/news/venezuela-earthquakes-survivors-global-rescue-efforts/",
+    "titleNorm": "rescue teams continue to find survivors of venezuela",
+    "type": "reel",
+    "timestamp": 1782769952690
   }
 ]
