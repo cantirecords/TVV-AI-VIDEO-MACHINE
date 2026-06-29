@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-take-schools-court-drag-queen-school-board-member-arrested",
-    "titleNorm": "fox news campus radicals newsletter parents take schools",
-    "type": "reel",
-    "timestamp": 1782648222547
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-dead-another-critical-double-stabbing-brooklyn-park-police-detain-person-interest-nypd",
-    "titleNorm": "man dead another critical after double stabbing at",
-    "type": "card",
-    "timestamp": 1782652462638
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-julia-letlow-wins-louisiana-senate-primary-runoff-rcna351624",
-    "titleNorm": "trumpbacked rep julia letlow wins louisiana senate primary",
-    "type": "reel",
-    "timestamp": 1782656581591
-  },
-  {
-    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
-    "titleNorm": "youtubers online friend recalls graphic video threatening her",
-    "type": "card",
-    "timestamp": 1782659459334
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-threatens-100-tax-european-imports-countries-impose-134249597",
     "titleNorm": "trump threatens 100 tax on european imports",
     "type": "card",
@@ -88,5 +64,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1782691195734
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
+    "titleNorm": "horrific at least 117 dead dogs found at",
+    "type": "card",
+    "timestamp": 1782705363797
   }
 ]
