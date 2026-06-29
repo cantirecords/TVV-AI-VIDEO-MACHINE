@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/chris-coons-delaware-car-crash/",
-    "titleNorm": "delaware sen chris coons injured in sussex county",
-    "type": "reel",
-    "timestamp": 1782732694117
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "trump threatens 100 tax on european imports",
     "type": "card",
     "timestamp": 1782770639953
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-bloodshed-leaves-3-dead-15-shot-days-after-mayor-johnson-launches-new-gun-violence-office",
+    "titleNorm": "chicago bloodshed leaves 3 dead 15 shot days",
+    "type": "reel",
+    "timestamp": 1782776131190
   }
 ]
