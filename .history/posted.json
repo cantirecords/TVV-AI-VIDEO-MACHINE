@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-set-virginia-council-member-fire-alleged-affair-40-year-sentence",
-    "titleNorm": "man who set virginia council member on fire",
-    "type": "reel",
-    "timestamp": 1782668677115
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/khadijah-farrakhan-lady-nation-islam-wife-famous-pastor-134291431",
-    "titleNorm": "khadijah farrakhan first lady of nation of islam",
-    "type": "card",
-    "timestamp": 1782669643194
-  },
-  {
-    "url": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case",
-    "titleNorm": "mackenzie shirillas appeal rejected by court after the",
-    "type": "card",
-    "timestamp": 1782674624455
-  },
-  {
-    "url": "https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126",
-    "titleNorm": "trumps big beautiful bill is bringing a big",
-    "type": "reel",
-    "timestamp": 1782676426952
-  },
-  {
     "url": "https://www.foxnews.com/us/gun-wielding-couple-viral-blm-standoff-got-firepower-voice-back-legal-saga",
     "titleNorm": "gunwielding couple in viral blm standoff got firepower",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "youtubers online friend recalls graphic video threatening her",
     "type": "reel",
     "timestamp": 1782709875818
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/dangerous-weather-hampers-firefighters-leads-fireworks-bans-western-134266231",
+    "titleNorm": "dangerous weather hampers firefighters and leads to fireworks",
+    "type": "card",
+    "timestamp": 1782722964105
   }
 ]
