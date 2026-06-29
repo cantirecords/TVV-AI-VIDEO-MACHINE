@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-threatens-100-tax-european-imports-countries-impose-134249597",
-    "titleNorm": "trump threatens 100 tax on european imports",
-    "type": "card",
-    "timestamp": 1782665849913
-  },
-  {
     "url": "https://www.foxnews.com/us/man-set-virginia-council-member-fire-alleged-affair-40-year-sentence",
     "titleNorm": "man who set virginia council member on fire",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "horrific at least 117 dead dogs found at",
     "type": "card",
     "timestamp": 1782705363797
+  },
+  {
+    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
+    "titleNorm": "youtubers online friend recalls graphic video threatening her",
+    "type": "reel",
+    "timestamp": 1782709875818
   }
 ]
