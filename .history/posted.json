@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "newborn baby rescued from venezuela earthquake rubble",
-    "type": "reel",
-    "timestamp": 1782689922115
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1782691195734
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
     "titleNorm": "horrific at least 117 dead dogs found at",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "delaware sen chris coons injured in sussex county",
     "type": "reel",
     "timestamp": 1782732694117
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1782737802753
   }
 ]
