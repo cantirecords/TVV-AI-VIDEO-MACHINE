@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/gun-wielding-couple-viral-blm-standoff-got-firepower-voice-back-legal-saga",
-    "titleNorm": "gunwielding couple in viral blm standoff got firepower",
-    "type": "card",
-    "timestamp": 1782679887403
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1782682654634
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-backed-letlow-faces-fleming-louisiana-gop-senate-134265989",
-    "titleNorm": "trumpbacked letlow faces fleming in louisiana gop senate",
-    "type": "card",
-    "timestamp": 1782683595789
-  },
-  {
-    "url": "https://www.cbsnews.com/news/pakistan-29-militants-killed-afghan-border/",
-    "titleNorm": "pakistan says its security forces killed 29 militants",
-    "type": "card",
-    "timestamp": 1782687225748
-  },
-  {
     "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "newborn baby rescued from venezuela earthquake rubble",
     "type": "reel",
@@ -52,5 +28,11 @@
     "titleNorm": "dangerous weather hampers firefighters and leads to fireworks",
     "type": "card",
     "timestamp": 1782722964105
+  },
+  {
+    "url": "https://www.cbsnews.com/news/chris-coons-delaware-car-crash/",
+    "titleNorm": "delaware sen chris coons injured in sussex county",
+    "type": "reel",
+    "timestamp": 1782732694117
   }
 ]
