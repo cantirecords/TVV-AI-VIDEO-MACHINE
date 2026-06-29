@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
-    "titleNorm": "youtubers online friend recalls graphic video threatening her",
-    "type": "reel",
-    "timestamp": 1782709875818
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dangerous-weather-hampers-firefighters-leads-fireworks-bans-western-134266231",
     "titleNorm": "dangerous weather hampers firefighters and leads to fireworks",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "supreme court rejects trumps push to overturn 5",
     "type": "card",
     "timestamp": 1782750870210
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-dead-another-critical-double-stabbing-brooklyn-park-police-detain-person-interest-nypd",
+    "titleNorm": "man dead another critical after double stabbing at",
+    "type": "reel",
+    "timestamp": 1782757847786
   }
 ]
