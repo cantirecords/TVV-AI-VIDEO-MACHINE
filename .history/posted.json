@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
-    "titleNorm": "horrific at least 117 dead dogs found at",
-    "type": "card",
-    "timestamp": 1782705363797
-  },
-  {
     "url": "https://www.foxnews.com/us/youtubers-online-friend-recalls-graphic-video-threatening-supermarket-shooting",
     "titleNorm": "youtubers online friend recalls graphic video threatening her",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1782737802753
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/khadijah-farrakhan-lady-nation-islam-wife-famous-pastor-134291431",
+    "titleNorm": "khadijah farrakhan first lady of nation of islam",
+    "type": "reel",
+    "timestamp": 1782750297843
   }
 ]
