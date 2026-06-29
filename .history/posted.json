@@ -40,5 +40,11 @@
     "titleNorm": "3 firefighters killed in colorado as wildfires stoked",
     "type": "card",
     "timestamp": 1782759503800
+  },
+  {
+    "url": "https://www.cbsnews.com/news/supreme-court-mail-ballots-mississippi-law-watson-v-rnc/",
+    "titleNorm": "supreme court says states can count mail ballots",
+    "type": "reel",
+    "timestamp": 1782764779812
   }
 ]
