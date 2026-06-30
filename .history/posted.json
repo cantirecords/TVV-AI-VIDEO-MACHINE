@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1782737802753
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/khadijah-farrakhan-lady-nation-islam-wife-famous-pastor-134291431",
     "titleNorm": "khadijah farrakhan first lady of nation of islam",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "supreme court rules trump cannot fire fed member",
     "type": "card",
     "timestamp": 1782777180860
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-nominates-keith-sonderling-as-labor-secretary/",
+    "titleNorm": "trump nominates keith sonderling as labor secretary",
+    "type": "card",
+    "timestamp": 1782785476190
   }
 ]
