@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case",
-    "titleNorm": "mackenzie shirillas appeal rejected by court after the",
-    "type": "card",
-    "timestamp": 1782801937931
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
     "titleNorm": "horrific at least 117 dead dogs found at",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "chicago bloodshed leaves 3 dead 15 shot days",
     "type": "card",
     "timestamp": 1782844146811
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-renovation-plans-golf-washington-hosting-major-tournament-134294140",
+    "titleNorm": "trump says his renovation plans for a golf",
+    "type": "reel",
+    "timestamp": 1782851358741
   }
 ]
