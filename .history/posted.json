@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-take-schools-court-drag-queen-school-board-member-arrested",
-    "titleNorm": "fox news campus radicals newsletter parents take schools",
-    "type": "reel",
-    "timestamp": 1782794603789
-  },
-  {
     "url": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case",
     "titleNorm": "mackenzie shirillas appeal rejected by court after the",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "supreme court set to close term with landmark",
     "type": "card",
     "timestamp": 1782836196945
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-arrests-15-illegal-immigrants-convictions-including-homicide-rape-child-sex-crimes-weekend",
+    "titleNorm": "ice arrests 15 illegal immigrants with convictions including",
+    "type": "reel",
+    "timestamp": 1782843639276
   }
 ]
