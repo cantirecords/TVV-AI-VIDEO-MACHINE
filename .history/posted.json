@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-dead-another-critical-double-stabbing-brooklyn-park-police-detain-person-interest-nypd",
-    "titleNorm": "man dead another critical after double stabbing at",
-    "type": "reel",
-    "timestamp": 1782757847786
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dry-windy-conditions-fuel-explosive-wildfire-growth-western-134284558",
     "titleNorm": "3 firefighters killed in colorado as wildfires stoked",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "fox news campus radicals newsletter parents take schools",
     "type": "reel",
     "timestamp": 1782794603789
+  },
+  {
+    "url": "https://www.foxnews.com/us/mackenzie-shirilla-appeal-rejected-court-crash-revives-hell-wheels-case",
+    "titleNorm": "mackenzie shirillas appeal rejected by court after the",
+    "type": "card",
+    "timestamp": 1782801937931
   }
 ]
