@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dry-windy-conditions-fuel-explosive-wildfire-growth-western-134284558",
-    "titleNorm": "3 firefighters killed in colorado as wildfires stoked",
-    "type": "card",
-    "timestamp": 1782759503800
-  },
-  {
-    "url": "https://www.cbsnews.com/news/supreme-court-mail-ballots-mississippi-law-watson-v-rnc/",
-    "titleNorm": "supreme court says states can count mail ballots",
-    "type": "reel",
-    "timestamp": 1782764779812
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-revive-alan-dershowitzs-300-million-suit-134309720",
-    "titleNorm": "supreme court wont revive alan dershowitzs 300 million",
-    "type": "card",
-    "timestamp": 1782766071123
-  },
-  {
-    "url": "https://www.cbsnews.com/news/venezuela-earthquakes-survivors-global-rescue-efforts/",
-    "titleNorm": "rescue teams continue to find survivors of venezuela",
-    "type": "reel",
-    "timestamp": 1782769952690
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-threatens-100-tax-european-imports-countries-impose-134249597",
-    "titleNorm": "trump threatens 100 tax on european imports",
-    "type": "card",
-    "timestamp": 1782770639953
-  },
-  {
     "url": "https://www.foxnews.com/us/chicago-bloodshed-leaves-3-dead-15-shot-days-after-mayor-johnson-launches-new-gun-violence-office",
     "titleNorm": "chicago bloodshed leaves 3 dead 15 shot days",
     "type": "reel",
@@ -58,5 +28,11 @@
     "titleNorm": "mackenzie shirillas appeal rejected by court after the",
     "type": "card",
     "timestamp": 1782801937931
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
+    "titleNorm": "horrific at least 117 dead dogs found at",
+    "type": "reel",
+    "timestamp": 1782814103394
   }
 ]
