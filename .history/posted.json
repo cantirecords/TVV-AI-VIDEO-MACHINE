@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/117-dead-dogs-found-horrific-scene-california-kill-134290427",
-    "titleNorm": "horrific at least 117 dead dogs found at",
-    "type": "reel",
-    "timestamp": 1782814103394
-  },
-  {
     "url": "https://www.nbcnews.com/world/gaza/shooting-gaza-un-report-israel-targeting-children-rcna351890",
     "titleNorm": "3yearold shot dead in gaza as un report",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "jury finds alleged ms13 members guilty of murder",
     "type": "reel",
     "timestamp": 1782856535854
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/half-states-sue-trump-administration-strict-interpretation-medicaid-134321241",
+    "titleNorm": "democrats in half of states sue trump administration",
+    "type": "card",
+    "timestamp": 1782857305522
   }
 ]
