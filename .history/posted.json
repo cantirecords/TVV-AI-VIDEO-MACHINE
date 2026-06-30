@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/gaza/shooting-gaza-un-report-israel-targeting-children-rcna351890",
-    "titleNorm": "3yearold shot dead in gaza as un report",
-    "type": "card",
-    "timestamp": 1782815077290
-  },
-  {
     "url": "https://www.cbsnews.com/news/democrats-congressional-districts-colorado-supreme-court/",
     "titleNorm": "colorado supreme court rejects efforts to put redistricting",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "democrats in half of states sue trump administration",
     "type": "card",
     "timestamp": 1782857305522
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/book-tupac-shakur-murder-suspect-wrote-clear-trial-134355275",
+    "titleNorm": "book that tupac shakur murder suspect wrote is",
+    "type": "reel",
+    "timestamp": 1782863134278
   }
 ]
