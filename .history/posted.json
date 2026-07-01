@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/democrats-congressional-districts-colorado-supreme-court/",
-    "titleNorm": "colorado supreme court rejects efforts to put redistricting",
-    "type": "reel",
-    "timestamp": 1782822687991
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/dry-windy-conditions-fuel-explosive-wildfire-growth-western-134284558",
-    "titleNorm": "3 firefighters killed in colorado as wildfires stoked",
-    "type": "card",
-    "timestamp": 1782824601540
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1782863860160
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/arkansas-move-forward-ban-snap-candy-soda-despite-134325470",
+    "titleNorm": "arkansas to ban using snap for candy soda",
+    "type": "card",
+    "timestamp": 1782874223911
   }
 ]
