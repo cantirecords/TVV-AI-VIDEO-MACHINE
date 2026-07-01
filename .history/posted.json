@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
-    "titleNorm": "supreme court set to close term with landmark",
-    "type": "reel",
-    "timestamp": 1782882178883
-  },
-  {
     "url": "https://www.foxnews.com/us/117-dead-dogs-found-animal-rescue-many-gunshot-wounds-investigators-probe-answers",
     "titleNorm": "117 dead dogs found at animal rescue many",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1782924322856
+  },
+  {
+    "url": "https://www.foxnews.com/us/smarter-systems-safer-missions-ai-autonomy-warfighter",
+    "titleNorm": "smarter systems safer missions ai autonomy and the",
+    "type": "card",
+    "timestamp": 1782925540459
   }
 ]
