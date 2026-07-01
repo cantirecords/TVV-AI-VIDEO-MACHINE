@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/arkansas-move-forward-ban-snap-candy-soda-despite-134325470",
-    "titleNorm": "arkansas to ban using snap for candy soda",
-    "type": "card",
-    "timestamp": 1782874223911
-  },
-  {
     "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
     "titleNorm": "supreme court set to close term with landmark",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "alaska supreme court says a man with the",
     "type": "card",
     "timestamp": 1782914756903
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1782924322856
   }
 ]
