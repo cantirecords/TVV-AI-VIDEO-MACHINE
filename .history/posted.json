@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1782832373589
-  },
-  {
-    "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
-    "titleNorm": "supreme court set to close term with landmark",
-    "type": "card",
-    "timestamp": 1782836196945
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-arrests-15-illegal-immigrants-convictions-including-homicide-rape-child-sex-crimes-weekend",
     "titleNorm": "ice arrests 15 illegal immigrants with convictions including",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "arkansas to ban using snap for candy soda",
     "type": "card",
     "timestamp": 1782874223911
+  },
+  {
+    "url": "https://www.foxnews.com/us/supreme-court-close-term-birthright-citizenship-ruling-more-top-headlines",
+    "titleNorm": "supreme court set to close term with landmark",
+    "type": "reel",
+    "timestamp": 1782882178883
   }
 ]
