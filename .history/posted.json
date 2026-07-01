@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-renovation-plans-golf-washington-hosting-major-tournament-134294140",
-    "titleNorm": "trump says his renovation plans for a golf",
-    "type": "reel",
-    "timestamp": 1782851358741
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/alex-murdaughs-true-crime-saga-continues-heads-court-134299773",
-    "titleNorm": "alex murdaughs true crime saga returns as the",
-    "type": "card",
-    "timestamp": 1782852640054
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/jury-finds-alleged-ms-13-members-guilty-murder-134327466",
-    "titleNorm": "jury finds alleged ms13 members guilty of murder",
-    "type": "reel",
-    "timestamp": 1782856535854
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/half-states-sue-trump-administration-strict-interpretation-medicaid-134321241",
-    "titleNorm": "democrats in half of states sue trump administration",
-    "type": "card",
-    "timestamp": 1782857305522
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/book-tupac-shakur-murder-suspect-wrote-clear-trial-134355275",
     "titleNorm": "book that tupac shakur murder suspect wrote is",
     "type": "reel",
@@ -52,5 +28,11 @@
     "titleNorm": "117 dead dogs found at animal rescue many",
     "type": "card",
     "timestamp": 1782889433885
+  },
+  {
+    "url": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs",
+    "titleNorm": "feds dismantle alleged gun trafficking ring that funneled",
+    "type": "reel",
+    "timestamp": 1782901799128
   }
 ]
