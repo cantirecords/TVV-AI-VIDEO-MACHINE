@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/117-dead-dogs-found-animal-rescue-many-gunshot-wounds-investigators-probe-answers",
-    "titleNorm": "117 dead dogs found at animal rescue many",
-    "type": "card",
-    "timestamp": 1782889433885
-  },
-  {
     "url": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs",
     "titleNorm": "feds dismantle alleged gun trafficking ring that funneled",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "smarter systems safer missions ai autonomy and the",
     "type": "card",
     "timestamp": 1782925540459
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "controversial bishops ordained as pope warns of schism",
+    "type": "card",
+    "timestamp": 1782934133749
   }
 ]
