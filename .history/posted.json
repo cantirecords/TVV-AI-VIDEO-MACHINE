@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-arrests-15-illegal-immigrants-convictions-including-homicide-rape-child-sex-crimes-weekend",
-    "titleNorm": "ice arrests 15 illegal immigrants with convictions including",
-    "type": "reel",
-    "timestamp": 1782843639276
-  },
-  {
-    "url": "https://www.foxnews.com/us/chicago-bloodshed-leaves-3-dead-15-shot-days-after-mayor-johnson-launches-new-gun-violence-office",
-    "titleNorm": "chicago bloodshed leaves 3 dead 15 shot days",
-    "type": "card",
-    "timestamp": 1782844146811
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-renovation-plans-golf-washington-hosting-major-tournament-134294140",
     "titleNorm": "trump says his renovation plans for a golf",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "supreme court set to close term with landmark",
     "type": "reel",
     "timestamp": 1782882178883
+  },
+  {
+    "url": "https://www.foxnews.com/us/117-dead-dogs-found-animal-rescue-many-gunshot-wounds-investigators-probe-answers",
+    "titleNorm": "117 dead dogs found at animal rescue many",
+    "type": "card",
+    "timestamp": 1782889433885
   }
 ]
