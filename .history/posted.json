@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-dismantle-alleged-gun-trafficking-ring-funneled-dozens-firearms-georgia-chicago-gangs",
-    "titleNorm": "feds dismantle alleged gun trafficking ring that funneled",
-    "type": "reel",
-    "timestamp": 1782901799128
-  },
-  {
     "url": "https://www.foxnews.com/us/usps-worker-arrested-after-alleged-mass-shooting-threat-against-texas-pride-event-fbi-says",
     "titleNorm": "usps worker arrested after alleged mass shooting threat",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "book that tupac shakur murder suspect wrote is",
     "type": "reel",
     "timestamp": 1782943158361
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-says-11-migrants-indicted-multi-state-sex-trafficking-drug-firearms-case",
+    "titleNorm": "doj says 11 migrants indicted in multistate sex",
+    "type": "card",
+    "timestamp": 1782946891422
   }
 ]
