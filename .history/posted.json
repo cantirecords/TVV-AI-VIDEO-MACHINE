@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1782924322856
-  },
-  {
-    "url": "https://www.foxnews.com/us/smarter-systems-safer-missions-ai-autonomy-warfighter",
-    "titleNorm": "smarter systems safer missions ai autonomy and the",
-    "type": "card",
-    "timestamp": 1782925540459
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "controversial bishops ordained as pope warns of schism",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "three lessons from this years primaries from the",
     "type": "reel",
     "timestamp": 1782967217130
+  },
+  {
+    "url": "https://www.cbsnews.com/news/about-2000-u-s-troops-supporting-relief-efforts-after-venezuela-earthquakes/",
+    "titleNorm": "about 2000 us troops supporting relief efforts after",
+    "type": "card",
+    "timestamp": 1782973790904
   }
 ]
