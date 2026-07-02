@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/three-lessons-years-primaries-politics-desk-rcna352623",
-    "titleNorm": "three lessons from this years primaries from the",
-    "type": "reel",
-    "timestamp": 1782967217130
-  },
-  {
     "url": "https://www.cbsnews.com/news/about-2000-u-s-troops-supporting-relief-efforts-after-venezuela-earthquakes/",
     "titleNorm": "about 2000 us troops supporting relief efforts after",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "retrofitted qatari jet takes flight as air force",
     "type": "card",
     "timestamp": 1783004697479
+  },
+  {
+    "url": "https://www.foxnews.com/us/dna-soda-bottle-links-massachusetts-woman-1985-murder-baby-boy-doe",
+    "titleNorm": "dna from soda bottle allegedly links massachusetts woman",
+    "type": "card",
+    "timestamp": 1783013145760
   }
 ]
