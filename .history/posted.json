@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/about-2000-u-s-troops-supporting-relief-efforts-after-venezuela-earthquakes/",
-    "titleNorm": "about 2000 us troops supporting relief efforts after",
-    "type": "card",
-    "timestamp": 1782973790904
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/fireworks-risk-wildfires-july-4th-134381422",
     "titleNorm": "what to know about fireworks and the risk",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "new jersey psychotherapist mom killed inside home as",
     "type": "reel",
     "timestamp": 1783015945626
+  },
+  {
+    "url": "https://www.foxnews.com/us/marshals-nab-teen-wanted-murder-penn-state-student-1700-miles-crime-scene",
+    "titleNorm": "marshals nab teen wanted for murder of penn",
+    "type": "card",
+    "timestamp": 1783019289985
   }
 ]
