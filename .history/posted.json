@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "controversial bishops ordained as pope warns of schism",
-    "type": "card",
-    "timestamp": 1782934133749
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "fire kills five at antwerp apartment block",
-    "type": "reel",
-    "timestamp": 1782937437463
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/jefferson-era-lincoln-trump-contradictions-endure-134331790",
-    "titleNorm": "a jefferson for every era from lincoln to",
-    "type": "card",
-    "timestamp": 1782940588103
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/book-tupac-shakur-murder-suspect-wrote-clear-trial-134355275",
     "titleNorm": "book that tupac shakur murder suspect wrote is",
     "type": "reel",
@@ -52,5 +34,11 @@
     "titleNorm": "about 2000 us troops supporting relief efforts after",
     "type": "card",
     "timestamp": 1782973790904
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fireworks-risk-wildfires-july-4th-134381422",
+    "titleNorm": "what to know about fireworks and the risk",
+    "type": "reel",
+    "timestamp": 1782985461319
   }
 ]
