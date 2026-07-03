@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1783043510552
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "trump kicks off fourth of july weekend with",
     "type": "card",
     "timestamp": 1783086024220
+  },
+  {
+    "url": "https://www.foxnews.com/us/cities-brace-holiday-weekend-teen-takeovers-putting-bystanders-deadly-risk-former-prosecutor-warns",
+    "titleNorm": "cities brace for holiday weekend teen takeovers putting",
+    "type": "reel",
+    "timestamp": 1783089680115
   }
 ]
