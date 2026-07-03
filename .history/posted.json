@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-sues-california-virginia-new-gun-laws-134389170",
-    "titleNorm": "trump administration sues california virginia over new gun",
-    "type": "reel",
-    "timestamp": 1783035366453
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "fitness influencer pleads guilty in violent gym attack",
     "type": "card",
     "timestamp": 1783077952042
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-kicks-off-fourth-july-weekend-symbolic-salute-americas-legacy-more-top-headlines",
+    "titleNorm": "trump kicks off fourth of july weekend with",
+    "type": "card",
+    "timestamp": 1783086024220
   }
 ]
