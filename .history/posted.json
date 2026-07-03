@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1783076969945
-  },
-  {
-    "url": "https://www.foxnews.com/us/fitness-influencer-pleads-guilty-violent-gym-attack-after-beating-man-weightlifting-belt",
-    "titleNorm": "fitness influencer pleads guilty in violent gym attack",
-    "type": "card",
-    "timestamp": 1783077952042
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-kicks-off-fourth-july-weekend-symbolic-salute-americas-legacy-more-top-headlines",
     "titleNorm": "trump kicks off fourth of july weekend with",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "preliminary report didnt flag an engine failure before",
     "type": "card",
     "timestamp": 1783119280901
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1783121725109
   }
 ]
