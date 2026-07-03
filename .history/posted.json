@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/puyallup-tribe-nations-canada-hope-world-cup-partnerships-134418124",
-    "titleNorm": "puyallup tribe and first nations in canada hope",
-    "type": "reel",
-    "timestamp": 1783022510933
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/shark-attack-alabama-teen-inspires-start-national-alert-134403128",
     "titleNorm": "shark attack on alabama teen inspires the start",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "aspen acres fire continues to burn out of",
     "type": "reel",
     "timestamp": 1783064860739
+  },
+  {
+    "url": "https://www.foxnews.com/us/marshals-nab-teen-wanted-murder-penn-state-student-1700-miles-crime-scene",
+    "titleNorm": "marshals nab teen wanted for murder of penn",
+    "type": "card",
+    "timestamp": 1783068416708
   }
 ]
