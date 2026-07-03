@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/aspen-acres-fire-colorado-evacuation/",
-    "titleNorm": "aspen acres fire continues to burn out of",
-    "type": "reel",
-    "timestamp": 1783064860739
-  },
-  {
     "url": "https://www.foxnews.com/us/marshals-nab-teen-wanted-murder-penn-state-student-1700-miles-crime-scene",
     "titleNorm": "marshals nab teen wanted for murder of penn",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "remains of wwii pilot killed during spy mission",
     "type": "card",
     "timestamp": 1783105276426
+  },
+  {
+    "url": "https://www.nbcnews.com/weather/heat/heat-wave-july-4-celebrations-rcna352896",
+    "titleNorm": "recordbreaking heat disrupts americas 250th birthday celebrations and",
+    "type": "reel",
+    "timestamp": 1783108709523
   }
 ]
