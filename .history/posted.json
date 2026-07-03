@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/young-psychotherapist-mom-butchered-inside-home-cops-scramble-find-killer",
-    "titleNorm": "new jersey psychotherapist mom killed inside home as",
-    "type": "reel",
-    "timestamp": 1783015945626
-  },
-  {
-    "url": "https://www.foxnews.com/us/marshals-nab-teen-wanted-murder-penn-state-student-1700-miles-crime-scene",
-    "titleNorm": "marshals nab teen wanted for murder of penn",
-    "type": "card",
-    "timestamp": 1783019289985
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/puyallup-tribe-nations-canada-hope-world-cup-partnerships-134418124",
     "titleNorm": "puyallup tribe and first nations in canada hope",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1783057389356
+  },
+  {
+    "url": "https://www.cbsnews.com/news/aspen-acres-fire-colorado-evacuation/",
+    "titleNorm": "aspen acres fire continues to burn out of",
+    "type": "reel",
+    "timestamp": 1783064860739
   }
 ]
