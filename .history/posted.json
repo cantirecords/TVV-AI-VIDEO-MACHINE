@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fire-rips-ohio-motel-killing-3-trapped-room-134385699",
-    "titleNorm": "fire rips through ohio motel killing 3 who",
-    "type": "reel",
-    "timestamp": 1783003149231
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/retrofitted-qatari-jet-takes-flight-air-force-trumps-134374062",
-    "titleNorm": "retrofitted qatari jet takes flight as air force",
-    "type": "card",
-    "timestamp": 1783004697479
-  },
-  {
     "url": "https://www.foxnews.com/us/dna-soda-bottle-links-massachusetts-woman-1985-murder-baby-boy-doe",
     "titleNorm": "dna from soda bottle allegedly links massachusetts woman",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1783043510552
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1783052777447
   }
 ]
