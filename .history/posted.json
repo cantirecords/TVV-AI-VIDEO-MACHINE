@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/louisianas-top-court-halts-criminal-case-state-attorney-134444557",
-    "titleNorm": "louisianas top court halts the criminal case against",
-    "type": "card",
-    "timestamp": 1783123021325
-  },
-  {
     "url": "https://www.cbsnews.com/news/belgian-diamond-group-gifts-trump-ring/",
     "titleNorm": "trump gifted lavish ring from belgian diamond group",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1783166121531
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-announces-305-arrests-24-missing-children-recovered-chicago-operation-new-dawn",
+    "titleNorm": "fbi announces 305 arrests 24 missing children recovered",
+    "type": "card",
+    "timestamp": 1783166516876
   }
 ]
