@@ -82,5 +82,11 @@
     "titleNorm": "swimmer bitten on the foot at new york",
     "type": "reel",
     "timestamp": 1783194300223
+  },
+  {
+    "url": "https://www.foxnews.com/us/driver-charged-manslaughter-tesla-crashes-texas-home-kills-grandmother",
+    "titleNorm": "driver charged with manslaughter after tesla crashes into",
+    "type": "card",
+    "timestamp": 1783195486077
   }
 ]
