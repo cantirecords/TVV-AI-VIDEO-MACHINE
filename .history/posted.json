@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/preliminary-report-flag-engine-failure-skydiving-plane-crash-134447275",
-    "titleNorm": "preliminary report didnt flag an engine failure before",
-    "type": "card",
-    "timestamp": 1783119280901
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1783121725109
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/louisianas-top-court-halts-criminal-case-state-attorney-134444557",
     "titleNorm": "louisianas top court halts the criminal case against",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1783162139601
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1783166121531
   }
 ]
