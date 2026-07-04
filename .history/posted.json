@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/weather/heat/heat-wave-july-4-celebrations-rcna352896",
-    "titleNorm": "recordbreaking heat disrupts americas 250th birthday celebrations and",
-    "type": "reel",
-    "timestamp": 1783108709523
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/asian-stocks-decline-sell-off-chip-shares-134399630",
-    "titleNorm": "wall street rises toward the finish of its",
-    "type": "card",
-    "timestamp": 1783109668969
-  },
-  {
     "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
     "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "wildfire southwest of denver forces thousands to evacuate",
     "type": "reel",
     "timestamp": 1783149795927
+  },
+  {
+    "url": "https://www.cbsnews.com/news/fireworks-recall-july-4-winco-unity-roman-candles/",
+    "titleNorm": "more than 100000 fireworks recalled ahead of july",
+    "type": "card",
+    "timestamp": 1783153349588
   }
 ]
