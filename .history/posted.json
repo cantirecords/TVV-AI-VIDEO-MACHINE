@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/fireworks-recall-july-4-winco-unity-roman-candles/",
-    "titleNorm": "more than 100000 fireworks recalled ahead of july",
-    "type": "card",
-    "timestamp": 1783153349588
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-one-big-beautiful-bill-obbba-winners-losers-one-year-later/",
     "titleNorm": "here039s who won and lost under trump039s big",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "driver charged with manslaughter after tesla crashes into",
     "type": "card",
     "timestamp": 1783195486077
+  },
+  {
+    "url": "https://www.nbcnews.com/news/news-quiz/taylor-swift-wedding-news-quiz-rcna352656",
+    "titleNorm": "a major supreme court ruling and taylor swift",
+    "type": "reel",
+    "timestamp": 1783200444746
   }
 ]
