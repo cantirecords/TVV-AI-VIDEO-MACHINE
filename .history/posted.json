@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/driver-charged-manslaughter-tesla-crashes-texas-home-kills-grandmother",
-    "titleNorm": "driver charged with manslaughter after tesla crashes into",
-    "type": "reel",
-    "timestamp": 1783138349094
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-tibetan-flag-dies-after-setting-fire-front-134430270",
     "titleNorm": "man with a tibetan flag dies after setting",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trumps mount rushmore address features 28 minutes of",
     "type": "card",
     "timestamp": 1783180453459
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latin-mass-faithful-pope-minnesota-church-shows-schism-134434080",
+    "titleNorm": "latin mass but faithful to the pope a",
+    "type": "card",
+    "timestamp": 1783183920963
   }
 ]
