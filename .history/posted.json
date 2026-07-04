@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/belgian-diamond-group-gifts-trump-ring/",
-    "titleNorm": "trump gifted lavish ring from belgian diamond group",
-    "type": "card",
-    "timestamp": 1783130384442
-  },
-  {
     "url": "https://www.foxnews.com/us/driver-charged-manslaughter-tesla-crashes-texas-home-kills-grandmother",
     "titleNorm": "driver charged with manslaughter after tesla crashes into",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "fbi announces 305 arrests 24 missing children recovered",
     "type": "card",
     "timestamp": 1783166516876
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/louisianas-top-court-halts-criminal-case-state-attorney-134444557",
+    "titleNorm": "louisianas top court halts the criminal case against",
+    "type": "reel",
+    "timestamp": 1783174143027
   }
 ]
