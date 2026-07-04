@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1783162139601
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "florida beach lightning strike leaves 1 dead 3",
     "type": "card",
     "timestamp": 1783205183063
+  },
+  {
+    "url": "https://www.foxnews.com/us/teacher-accused-sex-students-allegedly-blackmailed-better-grades-warrants",
+    "titleNorm": "teacher accused of sex with students was allegedly",
+    "type": "reel",
+    "timestamp": 1783207914650
   }
 ]
