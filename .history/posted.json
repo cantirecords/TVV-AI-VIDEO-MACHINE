@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-kicks-off-fourth-july-weekend-symbolic-salute-americas-legacy-more-top-headlines",
-    "titleNorm": "trump kicks off fourth of july weekend with",
-    "type": "card",
-    "timestamp": 1783086024220
-  },
-  {
     "url": "https://www.foxnews.com/us/cities-brace-holiday-weekend-teen-takeovers-putting-bystanders-deadly-risk-former-prosecutor-warns",
     "titleNorm": "cities brace for holiday weekend teen takeovers putting",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "louisianas top court halts the criminal case against",
     "type": "card",
     "timestamp": 1783123021325
+  },
+  {
+    "url": "https://www.cbsnews.com/news/belgian-diamond-group-gifts-trump-ring/",
+    "titleNorm": "trump gifted lavish ring from belgian diamond group",
+    "type": "card",
+    "timestamp": 1783130384442
   }
 ]
