@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/wildfire-southwest-denver-forces-thousands-evacuate-destroys-160-134447175",
-    "titleNorm": "wildfire southwest of denver forces thousands to evacuate",
-    "type": "reel",
-    "timestamp": 1783149795927
-  },
-  {
     "url": "https://www.cbsnews.com/news/fireworks-recall-july-4-winco-unity-roman-candles/",
     "titleNorm": "more than 100000 fireworks recalled ahead of july",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
     "type": "card",
     "timestamp": 1783191320876
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/swimmer-bitten-foot-new-york-city-beach-suspected-134456138",
+    "titleNorm": "swimmer bitten on the foot at new york",
+    "type": "reel",
+    "timestamp": 1783194300223
   }
 ]
