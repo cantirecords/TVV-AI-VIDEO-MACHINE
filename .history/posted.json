@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/puyallup-tribe-nations-canada-hope-world-cup-partnerships-134418124",
-    "titleNorm": "puyallup tribe and first nations in canada hope",
-    "type": "card",
-    "timestamp": 1783098717903
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-ties-erdogan-sold-years-nato-summit-turkey-134432981",
     "titleNorm": "trumps ties to erdogan sold him on this",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "driver charged with manslaughter after tesla crashes into",
     "type": "reel",
     "timestamp": 1783138349094
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-tibetan-flag-dies-after-setting-fire-front-134430270",
+    "titleNorm": "man with a tibetan flag dies after setting",
+    "type": "card",
+    "timestamp": 1783143925443
   }
 ]
