@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
-    "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
-    "type": "card",
-    "timestamp": 1783191320876
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/swimmer-bitten-foot-new-york-city-beach-suspected-134456138",
-    "titleNorm": "swimmer bitten on the foot at new york",
-    "type": "reel",
-    "timestamp": 1783194300223
-  },
-  {
-    "url": "https://www.foxnews.com/us/driver-charged-manslaughter-tesla-crashes-texas-home-kills-grandmother",
-    "titleNorm": "driver charged with manslaughter after tesla crashes into",
-    "type": "card",
-    "timestamp": 1783195486077
-  },
-  {
     "url": "https://www.nbcnews.com/news/news-quiz/taylor-swift-wedding-news-quiz-rcna352656",
     "titleNorm": "a major supreme court ruling and taylor swift",
     "type": "reel",
@@ -64,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1783231170767
+  },
+  {
+    "url": "https://www.foxnews.com/us/cities-brace-holiday-weekend-teen-takeovers-putting-bystanders-deadly-risk-former-prosecutor-warns",
+    "titleNorm": "cities brace for holiday weekend teen takeovers putting",
+    "type": "card",
+    "timestamp": 1783241416649
   }
 ]
