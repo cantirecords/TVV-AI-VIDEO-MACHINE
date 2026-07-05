@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cities-brace-holiday-weekend-teen-takeovers-putting-bystanders-deadly-risk-former-prosecutor-warns",
-    "titleNorm": "cities brace for holiday weekend teen takeovers putting",
-    "type": "card",
-    "timestamp": 1783241416649
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/wildfire-southwest-denver-forces-thousands-evacuate-destroys-160-134447175",
-    "titleNorm": "wildfire southwest of denver forces thousands to evacuate",
-    "type": "reel",
-    "timestamp": 1783243706879
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-ties-erdogan-sold-years-nato-summit-turkey-134432981",
     "titleNorm": "erdogans warm ties with trump offer turkey an",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "female american rower completes recordbreaking solo journey",
     "type": "card",
     "timestamp": 1783282440154
+  },
+  {
+    "url": "https://www.foxnews.com/us/nyc-rent-board-dissenter-warns-mamdani-backed-freeze-could-hurt-affordable-housing-time-slow-burn",
+    "titleNorm": "nyc rent board dissenter warns mamdanibacked freeze could",
+    "type": "reel",
+    "timestamp": 1783287277521
   }
 ]
