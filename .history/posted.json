@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/news-quiz/taylor-swift-wedding-news-quiz-rcna352656",
-    "titleNorm": "a major supreme court ruling and taylor swift",
-    "type": "reel",
-    "timestamp": 1783200444746
-  },
-  {
     "url": "https://www.foxnews.com/us/3-dead-7-rescued-boating-tragedy-severe-holiday-weekend-storm-ravages-wisconsin-tourist-hotspot",
     "titleNorm": "three dead 7 rescued in boating tragedy as",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "cities brace for holiday weekend teen takeovers putting",
     "type": "card",
     "timestamp": 1783241416649
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wildfire-southwest-denver-forces-thousands-evacuate-destroys-160-134447175",
+    "titleNorm": "wildfire southwest of denver forces thousands to evacuate",
+    "type": "reel",
+    "timestamp": 1783243706879
   }
 ]
