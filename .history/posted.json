@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trumps-mount-rushmore-address-features-28-minutes-iconic-words-23-minutes-dazzling-light-fireworks",
-    "titleNorm": "trumps mount rushmore address features 28 minutes of",
-    "type": "reel",
-    "timestamp": 1783252455400
-  },
-  {
     "url": "https://www.foxnews.com/us/fitness-influencer-pleads-guilty-violent-gym-attack-after-beating-man-weightlifting-belt",
     "titleNorm": "fitness influencer pleads guilty in violent gym attack",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
     "type": "reel",
     "timestamp": 1783294525252
+  },
+  {
+    "url": "https://www.foxnews.com/us/99-year-old-wwii-veteran-awarded-purple-heart-after-waiting-more-than-80-years",
+    "titleNorm": "99yearold wwii veteran awarded purple heart after waiting",
+    "type": "card",
+    "timestamp": 1783295776262
   }
 ]
