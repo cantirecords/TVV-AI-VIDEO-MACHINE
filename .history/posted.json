@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latin-mass-faithful-pope-minnesota-church-shows-schism-134434080",
-    "titleNorm": "latin mass but faithful to the pope a",
-    "type": "card",
-    "timestamp": 1783183920963
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/mamdani-offers-contrast-trumps-vision-america-250th-anniversary-addres-rcna352868",
-    "titleNorm": "mamdani offers a contrast to trumps vision for",
-    "type": "reel",
-    "timestamp": 1783186531239
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/asian-stocks-decline-sell-off-chip-shares-134399630",
-    "titleNorm": "wall street rises toward the finish of its",
-    "type": "card",
-    "timestamp": 1783187754593
-  },
-  {
     "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
     "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "3 dead and others rescued after boat capsizes",
     "type": "reel",
     "timestamp": 1783226405269
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1783231170767
   }
 ]
