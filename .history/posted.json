@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-ties-erdogan-sold-years-nato-summit-turkey-134432981",
-    "titleNorm": "erdogans warm ties with trump offer turkey an",
-    "type": "card",
-    "timestamp": 1783249123325
-  },
-  {
     "url": "https://www.foxnews.com/us/trumps-mount-rushmore-address-features-28-minutes-iconic-words-23-minutes-dazzling-light-fireworks",
     "titleNorm": "trumps mount rushmore address features 28 minutes of",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "3 dead and others rescued after boat capsizes",
     "type": "card",
     "timestamp": 1783291907566
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
+    "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
+    "type": "reel",
+    "timestamp": 1783294525252
   }
 ]
