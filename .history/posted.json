@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-tibetan-flag-dies-after-setting-fire-front-134430270",
-    "titleNorm": "man with a tibetan flag dies after setting",
-    "type": "card",
-    "timestamp": 1783216652800
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-dead-rescued-after-boat-capsizes-wisconsin-lake-134459954",
     "titleNorm": "3 dead and others rescued after boat capsizes",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "fitness influencer pleads guilty in violent gym attack",
     "type": "card",
     "timestamp": 1783253611204
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1783260983622
   }
 ]
