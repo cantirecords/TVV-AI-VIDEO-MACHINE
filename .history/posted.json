@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/3-dead-7-rescued-boating-tragedy-severe-holiday-weekend-storm-ravages-wisconsin-tourist-hotspot",
-    "titleNorm": "three dead 7 rescued in boating tragedy as",
-    "type": "card",
-    "timestamp": 1783201631024
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/florida-beach-lightning-strike-leaves-one-dead-three-injured-rcna352962",
-    "titleNorm": "florida beach lightning strike leaves 1 dead 3",
-    "type": "card",
-    "timestamp": 1783205183063
-  },
-  {
     "url": "https://www.foxnews.com/us/teacher-accused-sex-students-allegedly-blackmailed-better-grades-warrants",
     "titleNorm": "teacher accused of sex with students was allegedly",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "wildfire southwest of denver forces thousands to evacuate",
     "type": "reel",
     "timestamp": 1783243706879
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-ties-erdogan-sold-years-nato-summit-turkey-134432981",
+    "titleNorm": "erdogans warm ties with trump offer turkey an",
+    "type": "card",
+    "timestamp": 1783249123325
   }
 ]
