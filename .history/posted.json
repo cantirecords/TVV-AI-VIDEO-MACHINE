@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-dead-rescued-after-boat-capsizes-wisconsin-lake-134459954",
-    "titleNorm": "3 dead and others rescued after boat capsizes",
-    "type": "reel",
-    "timestamp": 1783226405269
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "man with a tibetan flag dies after setting",
     "type": "card",
     "timestamp": 1783267288118
+  },
+  {
+    "url": "https://www.foxnews.com/us/brooklyn-bridge-catches-fire-amid-nyc-fireworks-display-trump-hails-dc-speech",
+    "titleNorm": "brooklyn bridge catches fire amid nyc fireworks display",
+    "type": "card",
+    "timestamp": 1783271603637
   }
 ]
