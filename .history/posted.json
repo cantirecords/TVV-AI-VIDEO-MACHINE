@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/teacher-accused-sex-students-allegedly-blackmailed-better-grades-warrants",
-    "titleNorm": "teacher accused of sex with students was allegedly",
-    "type": "reel",
-    "timestamp": 1783207914650
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-speak-mount-rushmore-one-monument-cant-remake-rcna352734",
-    "titleNorm": "trump warns of communist threat and touts americas",
-    "type": "card",
-    "timestamp": 1783209164327
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-tibetan-flag-dies-after-setting-fire-front-134430270",
     "titleNorm": "man with a tibetan flag dies after setting",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "erdogans warm ties with trump offer turkey an",
     "type": "card",
     "timestamp": 1783249123325
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-mount-rushmore-address-features-28-minutes-iconic-words-23-minutes-dazzling-light-fireworks",
+    "titleNorm": "trumps mount rushmore address features 28 minutes of",
+    "type": "reel",
+    "timestamp": 1783252455400
   }
 ]
