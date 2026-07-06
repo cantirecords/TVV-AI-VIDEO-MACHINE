@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1783321246213
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
     "titleNorm": "delta pilot reports a close encounter with a",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "brooklyn bridge catches fire amid nyc fireworks display",
     "type": "reel",
     "timestamp": 1783362395132
+  },
+  {
+    "url": "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/",
+    "titleNorm": "balogun039s red card suspension lifted after trump called",
+    "type": "card",
+    "timestamp": 1783366799810
   }
 ]
