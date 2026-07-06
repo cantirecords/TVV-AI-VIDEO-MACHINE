@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fitness-influencer-pleads-guilty-violent-gym-attack-after-beating-man-weightlifting-belt",
-    "titleNorm": "fitness influencer pleads guilty in violent gym attack",
-    "type": "card",
-    "timestamp": 1783253611204
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "99yearold wwii veteran awarded purple heart after waiting",
     "type": "card",
     "timestamp": 1783295776262
+  },
+  {
+    "url": "https://www.nbcnews.com/weather/heat/heat-wave-storms-bring-flood-wind-threats-east-coast-rcna353025",
+    "titleNorm": "25 dead in ongoing heat wave as storms",
+    "type": "card",
+    "timestamp": 1783303489658
   }
 ]
