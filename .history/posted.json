@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
-    "titleNorm": "delta pilot reports a close encounter with a",
-    "type": "reel",
-    "timestamp": 1783336350933
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/female-american-rower-completes-record-breaking-solo-journey-134481671",
-    "titleNorm": "female american rower completes recordbreaking solo journey",
-    "type": "card",
-    "timestamp": 1783337321146
-  },
-  {
     "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
     "titleNorm": "man accused of mowing down two girls in",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1783378619028
+  },
+  {
+    "url": "https://www.foxnews.com/us/nyc-health-officials-warn-central-park-visitors-legionnaires-outbreak-grows-upper-east-side",
+    "titleNorm": "nyc health officials warn central park visitors after",
+    "type": "reel",
+    "timestamp": 1783381081620
   }
 ]
