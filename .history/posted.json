@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/louisianas-top-court-halts-criminal-case-state-attorney-134444557",
-    "titleNorm": "louisianas top court halts the criminal case against",
-    "type": "reel",
-    "timestamp": 1783281069732
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/female-american-rower-completes-record-breaking-solo-journey-134481671",
-    "titleNorm": "female american rower completes recordbreaking solo journey",
-    "type": "card",
-    "timestamp": 1783282440154
-  },
-  {
-    "url": "https://www.foxnews.com/us/nyc-rent-board-dissenter-warns-mamdani-backed-freeze-could-hurt-affordable-housing-time-slow-burn",
-    "titleNorm": "nyc rent board dissenter warns mamdanibacked freeze could",
-    "type": "reel",
-    "timestamp": 1783287277521
-  },
-  {
-    "url": "https://www.nbcnews.com/sports/soccer/folarin-balogun-usmnt-soccer-fifa-world-cup-belgium-red-card-rcna353041",
-    "titleNorm": "trump called fifa before it reversed us star",
-    "type": "card",
-    "timestamp": 1783288241930
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/3-dead-rescued-after-boat-capsizes-wisconsin-lake-134459954",
-    "titleNorm": "3 dead and others rescued after boat capsizes",
-    "type": "card",
-    "timestamp": 1783291907566
-  },
-  {
     "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
     "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
     "type": "reel",
@@ -58,5 +28,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1783321246213
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
+    "titleNorm": "delta pilot reports a close encounter with a",
+    "type": "reel",
+    "timestamp": 1783336350933
   }
 ]
