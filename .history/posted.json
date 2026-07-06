@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-military-deploys-mtvrs-airlifts-aid-venezuela-following-deadly-earthquakes",
-    "titleNorm": "us military deploys mtvrs airlifts aid to venezuela",
-    "type": "reel",
-    "timestamp": 1783294525252
-  },
-  {
-    "url": "https://www.foxnews.com/us/99-year-old-wwii-veteran-awarded-purple-heart-after-waiting-more-than-80-years",
-    "titleNorm": "99yearold wwii veteran awarded purple heart after waiting",
-    "type": "card",
-    "timestamp": 1783295776262
-  },
-  {
-    "url": "https://www.nbcnews.com/weather/heat/heat-wave-storms-bring-flood-wind-threats-east-coast-rcna353025",
-    "titleNorm": "25 dead in ongoing heat wave as storms",
-    "type": "card",
-    "timestamp": 1783303489658
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/timeline-charlie-kirks-assassination-arrest-tyler-robinson-134492212",
     "titleNorm": "a timeline of charlie kirks assassination and the",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "female american rower completes recordbreaking solo journey",
     "type": "card",
     "timestamp": 1783337321146
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
+    "titleNorm": "man accused of mowing down two girls in",
+    "type": "card",
+    "timestamp": 1783349798367
   }
 ]
