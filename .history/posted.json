@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/",
-    "titleNorm": "balogun039s red card suspension lifted after trump called",
-    "type": "card",
-    "timestamp": 1783366799810
-  },
-  {
     "url": "https://www.foxnews.com/us/manson-murders-allegedly-tied-cia-mind-control-experiments-congressional-testimony",
     "titleNorm": "manson murders allegedly tied to cia mind control",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "man accused of mowing down two girls in",
     "type": "card",
     "timestamp": 1783409288348
+  },
+  {
+    "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
+    "titleNorm": "terrified passengers film waymo autonomous vehicle driving into",
+    "type": "reel",
+    "timestamp": 1783411306739
   }
 ]
