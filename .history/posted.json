@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-account-kids-child-open-july-4/",
-    "titleNorm": "you can now start contributing to a trump",
-    "type": "reel",
-    "timestamp": 1783353669734
-  },
-  {
     "url": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids",
     "titleNorm": "idaho mom who claimed vaccines killed her twin",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "delta pilot reports a close encounter with a",
     "type": "card",
     "timestamp": 1783394323101
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1783398746097
   }
 ]
