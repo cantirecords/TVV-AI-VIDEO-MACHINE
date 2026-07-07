@@ -40,5 +40,11 @@
     "titleNorm": "new york harbor whale strike sinks fire rescue",
     "type": "reel",
     "timestamp": 1783437939378
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/3-dead-rescued-after-boat-capsizes-wisconsin-lake-134459954",
+    "titleNorm": "3 dead and others rescued after boat capsizes",
+    "type": "card",
+    "timestamp": 1783441035844
   }
 ]
