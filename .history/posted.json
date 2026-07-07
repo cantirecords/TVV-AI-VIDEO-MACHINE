@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-health-officials-warn-central-park-visitors-legionnaires-outbreak-grows-upper-east-side",
-    "titleNorm": "nyc health officials warn central park visitors after",
-    "type": "reel",
-    "timestamp": 1783381081620
-  },
-  {
-    "url": "https://www.foxnews.com/us/99-year-old-wwii-veteran-awarded-purple-heart-after-waiting-more-than-80-years",
-    "titleNorm": "99yearold wwii veteran awarded purple heart after waiting",
-    "type": "card",
-    "timestamp": 1783382393601
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
     "titleNorm": "delta pilot reports a close encounter with a",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1783423461145
+  },
+  {
+    "url": "https://www.foxnews.com/us/chicago-officers-wounded-traffic-stop-shootout-holiday-weekend-leaves-3-dead-16-injured",
+    "titleNorm": "chicago officers wounded in traffic stop shootout as",
+    "type": "card",
+    "timestamp": 1783429889560
   }
 ]
