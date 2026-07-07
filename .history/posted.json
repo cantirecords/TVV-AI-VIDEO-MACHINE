@@ -52,5 +52,11 @@
     "titleNorm": "delta pilot reports a close encounter with a",
     "type": "reel",
     "timestamp": 1783466982259
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ohio-police-officer-fatally-shot-responding-911-gunshots-134513220",
+    "titleNorm": "ohio police officer fatally shot responding to 911",
+    "type": "card",
+    "timestamp": 1783467947644
   }
 ]
