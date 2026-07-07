@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1783398746097
-  },
-  {
     "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
     "titleNorm": "man accused of mowing down two girls in",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "3 dead and others rescued after boat capsizes",
     "type": "card",
     "timestamp": 1783441035844
+  },
+  {
+    "url": "https://www.foxnews.com/us/new-yorker-suing-ice-officers-went-his-home-warn-him-criticism-agency",
+    "titleNorm": "new yorker suing ice after officers went to",
+    "type": "reel",
+    "timestamp": 1783448950789
   }
 ]
