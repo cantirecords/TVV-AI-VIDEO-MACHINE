@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
-    "titleNorm": "man accused of mowing down two girls in",
-    "type": "card",
-    "timestamp": 1783409288348
-  },
-  {
-    "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
-    "titleNorm": "terrified passengers film waymo autonomous vehicle driving into",
-    "type": "reel",
-    "timestamp": 1783411306739
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
     "titleNorm": "jailers and officials at russias torture prisons in",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "a toddler was found in a pool and",
     "type": "card",
     "timestamp": 1783450493277
+  },
+  {
+    "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-video-hearing-tuesday/",
+    "titleNorm": "charlie kirk murder suspect changed clothes before shooting",
+    "type": "reel",
+    "timestamp": 1783455897130
   }
 ]
