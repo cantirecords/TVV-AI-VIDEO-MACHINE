@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids",
-    "titleNorm": "idaho mom who claimed vaccines killed her twin",
-    "type": "card",
-    "timestamp": 1783359320023
-  },
-  {
-    "url": "https://www.foxnews.com/us/brooklyn-bridge-catches-fire-amid-nyc-fireworks-display-trump-hails-dc-speech",
-    "titleNorm": "brooklyn bridge catches fire amid nyc fireworks display",
-    "type": "reel",
-    "timestamp": 1783362395132
-  },
-  {
     "url": "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/",
     "titleNorm": "balogun039s red card suspension lifted after trump called",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1783398746097
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-accused-mowing-two-girls-alleged-double-murder-exposes-twisted-reason-kept-streaming",
+    "titleNorm": "man accused of mowing down two girls in",
+    "type": "card",
+    "timestamp": 1783409288348
   }
 ]
