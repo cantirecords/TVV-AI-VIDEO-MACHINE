@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/toddler-found-pool-declared-dead-alive-parents-charged-134529869",
-    "titleNorm": "a toddler was found in a pool and",
-    "type": "card",
-    "timestamp": 1783450493277
-  },
-  {
     "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-video-hearing-tuesday/",
     "titleNorm": "charlie kirk murder suspect changed clothes before shooting",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court wont block state from enforcing age",
     "type": "reel",
     "timestamp": 1783493225342
+  },
+  {
+    "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
+    "titleNorm": "terrified passengers film waymo autonomous vehicle driving into",
+    "type": "card",
+    "timestamp": 1783495551880
   }
 ]
