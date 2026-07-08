@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1783505170937
-  },
-  {
-    "url": "https://www.foxnews.com/us/manhattan-high-rise-evacuated-officials-warn-potential-collapse",
-    "titleNorm": "manhattan highrise evacuated as officials warn of potential",
-    "type": "reel",
-    "timestamp": 1783506982131
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "why some african nations are turning down trump",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1783547901877
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-says-tentative-iran-ceasefire-over-more-top-headlines",
+    "titleNorm": "trump says tentative iran ceasefire is over and",
+    "type": "card",
+    "timestamp": 1783551704430
   }
 ]
