@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-dead-rescued-after-boat-capsizes-wisconsin-lake-134459954",
-    "titleNorm": "3 dead and others rescued after boat capsizes",
-    "type": "card",
-    "timestamp": 1783441035844
-  },
-  {
     "url": "https://www.foxnews.com/us/new-yorker-suing-ice-officers-went-his-home-warn-him-criticism-agency",
     "titleNorm": "new yorker suing ice after officers went to",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "pastor freed from prison in china weeks after",
     "type": "reel",
     "timestamp": 1783482875851
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/memorial-service-honor-firefighters-killed-colorado-utah-border-134494754",
+    "titleNorm": "3 firefighters killed in colorado remembered for their",
+    "type": "card",
+    "timestamp": 1783486729387
   }
 ]
