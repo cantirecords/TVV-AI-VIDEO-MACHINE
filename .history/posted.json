@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/chicago-officers-wounded-traffic-stop-shootout-holiday-weekend-leaves-3-dead-16-injured",
-    "titleNorm": "chicago officers wounded in traffic stop shootout as",
-    "type": "card",
-    "timestamp": 1783429889560
-  },
-  {
     "url": "https://www.foxnews.com/us/new-york-harbor-whale-strike-sinks-fire-rescue-boat-july-4-celebrations",
     "titleNorm": "new york harbor whale strike sinks fire rescue",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "ohio police officer fatally shot responding to 911",
     "type": "card",
     "timestamp": 1783467947644
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+    "titleNorm": "us launches strikes on iran after commercial ship",
+    "type": "card",
+    "timestamp": 1783474179334
   }
 ]
