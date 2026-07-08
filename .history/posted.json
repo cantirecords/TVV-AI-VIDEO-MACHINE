@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
-    "titleNorm": "delta pilot reports a close encounter with a",
-    "type": "reel",
-    "timestamp": 1783466982259
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/ohio-police-officer-fatally-shot-responding-911-gunshots-134513220",
-    "titleNorm": "ohio police officer fatally shot responding to 911",
-    "type": "card",
-    "timestamp": 1783467947644
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
     "titleNorm": "us launches strikes on iran after commercial ship",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "manhattan highrise evacuated as officials warn of potential",
     "type": "reel",
     "timestamp": 1783506982131
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "why some african nations are turning down trump",
+    "type": "card",
+    "timestamp": 1783512827216
   }
 ]
