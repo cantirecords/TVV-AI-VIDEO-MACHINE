@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
-    "titleNorm": "terrified passengers film waymo autonomous vehicle driving into",
-    "type": "card",
-    "timestamp": 1783495551880
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "us navy identifies sailor lost in arabian sea",
     "type": "card",
     "timestamp": 1783537519131
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
+    "titleNorm": "delta pilot reports a close encounter with a",
+    "type": "reel",
+    "timestamp": 1783540944046
   }
 ]
