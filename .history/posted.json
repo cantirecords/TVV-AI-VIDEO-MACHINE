@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-yorker-suing-ice-officers-went-his-home-warn-him-criticism-agency",
-    "titleNorm": "new yorker suing ice after officers went to",
-    "type": "reel",
-    "timestamp": 1783448950789
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/toddler-found-pool-declared-dead-alive-parents-charged-134529869",
     "titleNorm": "a toddler was found in a pool and",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "3 firefighters killed in colorado remembered for their",
     "type": "card",
     "timestamp": 1783486729387
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-block-texas-enforcing-law-requiring-age-134529245",
+    "titleNorm": "supreme court wont block state from enforcing age",
+    "type": "reel",
+    "timestamp": 1783493225342
   }
 ]
