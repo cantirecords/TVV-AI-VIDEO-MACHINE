@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-block-texas-enforcing-law-requiring-age-134529245",
-    "titleNorm": "supreme court wont block state from enforcing age",
-    "type": "reel",
-    "timestamp": 1783493225342
-  },
-  {
     "url": "https://www.foxnews.com/us/terrified-passengers-film-waymo-autonomous-vehicle-driving-into-live-fireworks-san-francisco",
     "titleNorm": "terrified passengers film waymo autonomous vehicle driving into",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "ohio police officer fatally shot responding to 911",
     "type": "reel",
     "timestamp": 1783533527225
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-navy-identifies-sailor-lost-arabian-sea-after-helicopters-emergency-water-landing",
+    "titleNorm": "us navy identifies sailor lost in arabian sea",
+    "type": "card",
+    "timestamp": 1783537519131
   }
 ]
