@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
-    "titleNorm": "us hits dozens of iranian targets in retaliatory",
-    "type": "reel",
-    "timestamp": 1783571397608
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224",
     "titleNorm": "new attacks raise questions about what comes next",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "kia recalling almost 463000 tellurides that may catch",
     "type": "card",
     "timestamp": 1783612323542
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1783619215593
   }
 ]
