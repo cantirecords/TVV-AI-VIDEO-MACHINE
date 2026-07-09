@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1783596663292
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-says-tentative-iran-ceasefire-over-more-top-headlines",
     "titleNorm": "trump says tentative iran ceasefire is over and",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "firm hired to check air quality after la",
     "type": "card",
     "timestamp": 1783638122903
+  },
+  {
+    "url": "https://www.foxnews.com/us/west-virginia-town-fires-entire-police-force-chief-resigns-sergeant-alleges-evidence-room-break-in",
+    "titleNorm": "west virginia town fires entire police force after",
+    "type": "reel",
+    "timestamp": 1783640756681
   }
 ]
