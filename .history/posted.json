@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "why some african nations are turning down trump",
-    "type": "card",
-    "timestamp": 1783512827216
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "in a surprise swap trump flies back from",
     "type": "reel",
     "timestamp": 1783553799915
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/tennessee-railway-conductor-fired-unacceptable-remarks-non-americans-rcna353552",
+    "titleNorm": "tennessee railway conductor fired after unacceptable remarks about",
+    "type": "card",
+    "timestamp": 1783561885942
   }
 ]
