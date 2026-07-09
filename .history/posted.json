@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ohio-police-officer-fatally-shot-responding-911-gunshots-134513220",
-    "titleNorm": "ohio police officer fatally shot responding to 911",
-    "type": "reel",
-    "timestamp": 1783533527225
-  },
-  {
-    "url": "https://www.foxnews.com/us/us-navy-identifies-sailor-lost-arabian-sea-after-helicopters-emergency-water-landing",
-    "titleNorm": "us navy identifies sailor lost in arabian sea",
-    "type": "card",
-    "timestamp": 1783537519131
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/delta-pilot-reports-close-encounter-july-fourth-firework-134502101",
     "titleNorm": "delta pilot reports a close encounter with a",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "new attacks raise questions about what comes next",
     "type": "card",
     "timestamp": 1783576500939
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-officer-shot-killed-illegal-immigrant-tried-ram-car-houston",
+    "titleNorm": "ice says officer shot and killed illegal immigrant",
+    "type": "reel",
+    "timestamp": 1783584120849
   }
 ]
