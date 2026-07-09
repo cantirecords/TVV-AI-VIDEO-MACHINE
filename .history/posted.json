@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/surprise-swap-trump-flies-back-turkey-air-force-134596869",
-    "titleNorm": "in a surprise swap trump flies back from",
-    "type": "reel",
-    "timestamp": 1783553799915
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/tennessee-railway-conductor-fired-unacceptable-remarks-non-americans-rcna353552",
-    "titleNorm": "tennessee railway conductor fired after unacceptable remarks about",
-    "type": "card",
-    "timestamp": 1783561885942
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
     "titleNorm": "us hits dozens of iranian targets in retaliatory",
     "type": "reel",
@@ -40,5 +28,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1783596663292
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-says-tentative-iran-ceasefire-over-more-top-headlines",
+    "titleNorm": "trump says tentative iran ceasefire is over and",
+    "type": "reel",
+    "timestamp": 1783611655506
   }
 ]
