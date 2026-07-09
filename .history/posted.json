@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-officer-shot-killed-illegal-immigrant-tried-ram-car-houston",
-    "titleNorm": "ice says officer shot and killed illegal immigrant",
-    "type": "reel",
-    "timestamp": 1783584120849
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/iran-deal-war-back-timeline-conflict-talks-134583039",
     "titleNorm": "is an iran deal over and war back",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "karmelo anthony blasts judge in new filing over",
     "type": "card",
     "timestamp": 1783624830902
+  },
+  {
+    "url": "https://www.cbsnews.com/news/wally-funk-grapevine-texas-aviation-space-7-9-2026/",
+    "titleNorm": "north texas aviation pioneer wally funk dies aged",
+    "type": "reel",
+    "timestamp": 1783628271830
   }
 ]
