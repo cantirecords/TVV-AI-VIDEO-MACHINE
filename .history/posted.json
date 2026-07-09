@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1783522538741
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/toddler-found-pool-declared-dead-alive-parents-charged-134529869",
-    "titleNorm": "a toddler was found in a pool and",
-    "type": "card",
-    "timestamp": 1783523337352
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over/",
     "titleNorm": "trump says iran ceasefire over going to hit",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "tennessee railway conductor fired after unacceptable remarks about",
     "type": "card",
     "timestamp": 1783561885942
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/",
+    "titleNorm": "us hits dozens of iranian targets in retaliatory",
+    "type": "reel",
+    "timestamp": 1783571397608
   }
 ]
