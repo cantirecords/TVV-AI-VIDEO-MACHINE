@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over/",
-    "titleNorm": "trump says iran ceasefire over going to hit",
-    "type": "card",
-    "timestamp": 1783531110487
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ohio-police-officer-fatally-shot-responding-911-gunshots-134513220",
     "titleNorm": "ohio police officer fatally shot responding to 911",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "us hits dozens of iranian targets in retaliatory",
     "type": "reel",
     "timestamp": 1783571397608
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224",
+    "titleNorm": "new attacks raise questions about what comes next",
+    "type": "card",
+    "timestamp": 1783576500939
   }
 ]
