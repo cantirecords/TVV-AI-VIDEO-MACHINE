@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/surprise-swap-trump-flies-back-turkey-air-force-134596869",
-    "titleNorm": "trump flies partway home from turkey in an",
-    "type": "card",
-    "timestamp": 1783673982402
-  },
-  {
     "url": "https://www.foxnews.com/us/knife-wielding-florida-man-arrested-setting-restaurant-fire-flaming-propane-tank-authorities",
     "titleNorm": "knifewielding florida man arrested after setting restaurant on",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "trump not expected to veto housing bill us",
     "type": "card",
     "timestamp": 1783714375348
+  },
+  {
+    "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
+    "titleNorm": "new 911 audio captures neighbors warning of fullout",
+    "type": "reel",
+    "timestamp": 1783719413367
   }
 ]
