@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1783648213105
-  },
-  {
     "url": "https://www.cbsnews.com/news/donald-j-trump-international-airport-new-letter-code-passenger-confusion/",
     "titleNorm": "a florida airport is now named after trump",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "what we know about the houston ice shooting",
     "type": "card",
     "timestamp": 1783684281082
+  },
+  {
+    "url": "https://www.foxnews.com/us/court-hears-alleged-confession-from-accused-charlie-kirk-assassin-texts-lover-more-top-headlines",
+    "titleNorm": "court hears alleged confession from accused charlie kirk",
+    "type": "card",
+    "timestamp": 1783691760082
   }
 ]
