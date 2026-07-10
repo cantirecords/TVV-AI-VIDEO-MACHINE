@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/knife-wielding-florida-man-arrested-setting-restaurant-fire-flaming-propane-tank-authorities",
-    "titleNorm": "knifewielding florida man arrested after setting restaurant on",
-    "type": "reel",
-    "timestamp": 1783682752400
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/replace-graham-platner-houston-ice-shooting-morning-rundown-rcna385787",
     "titleNorm": "what we know about the houston ice shooting",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "national guard shooting suspect in dire selfinflicted health",
     "type": "card",
     "timestamp": 1783723826036
+  },
+  {
+    "url": "https://www.foxnews.com/us/family-toddler-found-alive-morgue-declared-dead-plans-legal-action",
+    "titleNorm": "family of toddler found alive in morgue after",
+    "type": "reel",
+    "timestamp": 1783726168968
   }
 ]
