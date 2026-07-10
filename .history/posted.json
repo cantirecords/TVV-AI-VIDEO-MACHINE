@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/west-virginia-town-fires-entire-police-force-chief-resigns-sergeant-alleges-evidence-room-break-in",
-    "titleNorm": "west virginia town fires entire police force after",
-    "type": "reel",
-    "timestamp": 1783640756681
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "knifewielding florida man arrested after setting restaurant on",
     "type": "reel",
     "timestamp": 1783682752400
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/replace-graham-platner-houston-ice-shooting-morning-rundown-rcna385787",
+    "titleNorm": "what we know about the houston ice shooting",
+    "type": "card",
+    "timestamp": 1783684281082
   }
 ]
