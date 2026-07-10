@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/donald-j-trump-international-airport-new-letter-code-passenger-confusion/",
-    "titleNorm": "a florida airport is now named after trump",
-    "type": "reel",
-    "timestamp": 1783658031049
-  },
-  {
-    "url": "https://www.foxnews.com/us/queens-man-arrested-molotov-cocktails-alleged-arson-attacks-ozone-park-woodhaven-churches",
-    "titleNorm": "queens man arrested with molotov cocktails after alleged",
-    "type": "card",
-    "timestamp": 1783662820853
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1783700036282
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-plan-triumphal-arch-nations-capital-review-134607221",
+    "titleNorm": "trumps plan for a triumphal arch in the",
+    "type": "reel",
+    "timestamp": 1783707023260
   }
 ]
