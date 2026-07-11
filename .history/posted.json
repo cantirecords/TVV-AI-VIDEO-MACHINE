@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781",
-    "titleNorm": "trump ousts remaining members of the election assistance",
-    "type": "card",
-    "timestamp": 1783733342637
-  },
-  {
     "url": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
     "titleNorm": "nj husband begs for cpr help in 911",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "10 injured in overnight russian strikes on kyiv",
     "type": "card",
     "timestamp": 1783774380650
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-ramping-pressure-states-change-election-practices-134592431",
+    "titleNorm": "the trump administration is ramping up pressure on",
+    "type": "reel",
+    "timestamp": 1783778555183
   }
 ]
