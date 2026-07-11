@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
-    "titleNorm": "nj husband begs for cpr help in 911",
-    "type": "reel",
-    "timestamp": 1783741978698
-  },
-  {
     "url": "https://www.foxnews.com/us/prosecutors-seeking-death-penalty-deported-illegal-alien-indicted-murder-sister-in-law",
     "titleNorm": "prosecutors seeking death penalty for deported illegal alien",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "randolph mantooth who played medic in nbcs emergency",
     "type": "card",
     "timestamp": 1783784668134
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-contacted-police-1987-killing-arrested-connection-cold-case",
+    "titleNorm": "florida man who contacted police about 1987 killing",
+    "type": "card",
+    "timestamp": 1783788135862
   }
 ]
