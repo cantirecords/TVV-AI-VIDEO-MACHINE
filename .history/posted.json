@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/replace-graham-platner-houston-ice-shooting-morning-rundown-rcna385787",
-    "titleNorm": "what we know about the houston ice shooting",
-    "type": "card",
-    "timestamp": 1783684281082
-  },
-  {
     "url": "https://www.foxnews.com/us/court-hears-alleged-confession-from-accused-charlie-kirk-assassin-texts-lover-more-top-headlines",
     "titleNorm": "court hears alleged confession from accused charlie kirk",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "wally funk aviation pioneer who was the oldest",
     "type": "card",
     "timestamp": 1783727270802
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781",
+    "titleNorm": "trump ousts remaining members of the election assistance",
+    "type": "card",
+    "timestamp": 1783733342637
   }
 ]
