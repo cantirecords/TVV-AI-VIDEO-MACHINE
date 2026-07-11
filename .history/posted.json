@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tyler-robinson-hearing-top-moments-explosive-lance-twiggs-interview-played-court",
-    "titleNorm": "tyler robinson hearing top moments from explosive lance",
-    "type": "card",
-    "timestamp": 1783753528682
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/rapidly-growing-wildfire-los-angeles-county-prompts-evacuations-134668514",
     "titleNorm": "rapidly growing wildfire in los angeles county prompts",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "ice agents in fatal houston shooting were not",
     "type": "card",
     "timestamp": 1783795413459
+  },
+  {
+    "url": "https://www.foxnews.com/us/prosecutors-seeking-death-penalty-deported-illegal-alien-indicted-murder-sister-in-law",
+    "titleNorm": "prosecutors seeking death penalty for deported illegal alien",
+    "type": "reel",
+    "timestamp": 1783798910917
   }
 ]
