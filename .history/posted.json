@@ -64,5 +64,11 @@
     "titleNorm": "the trump administration is ramping up pressure on",
     "type": "reel",
     "timestamp": 1783778555183
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1783779460904
   }
 ]
