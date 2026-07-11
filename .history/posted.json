@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/democrats-mad-dash-graham-platner-critical-deadline-rcna353742",
-    "titleNorm": "democrats in mad dash to replace graham platner",
-    "type": "reel",
-    "timestamp": 1783713631487
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto/",
-    "titleNorm": "trump not expected to veto housing bill us",
-    "type": "card",
-    "timestamp": 1783714375348
-  },
-  {
     "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
     "titleNorm": "new 911 audio captures neighbors warning of fullout",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "tyler robinson hearing top moments from explosive lance",
     "type": "card",
     "timestamp": 1783753528682
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/rapidly-growing-wildfire-los-angeles-county-prompts-evacuations-134668514",
+    "titleNorm": "rapidly growing wildfire in los angeles county prompts",
+    "type": "card",
+    "timestamp": 1783761413905
   }
 ]
