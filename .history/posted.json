@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/court-hears-alleged-confession-from-accused-charlie-kirk-assassin-texts-lover-more-top-headlines",
-    "titleNorm": "court hears alleged confession from accused charlie kirk",
-    "type": "card",
-    "timestamp": 1783691760082
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/iran-deal-war-back-timeline-conflict-talks-134583039",
-    "titleNorm": "is an iran deal over and war back",
-    "type": "reel",
-    "timestamp": 1783696265536
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trump ousts remaining members of the election assistance",
     "type": "card",
     "timestamp": 1783733342637
+  },
+  {
+    "url": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
+    "titleNorm": "nj husband begs for cpr help in 911",
+    "type": "reel",
+    "timestamp": 1783741978698
   }
 ]
