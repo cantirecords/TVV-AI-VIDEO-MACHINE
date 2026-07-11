@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/wally-funk-aviation-pioneer-oldest-woman-travel-space-134632308",
-    "titleNorm": "wally funk aviation pioneer who was the oldest",
-    "type": "card",
-    "timestamp": 1783727270802
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781",
     "titleNorm": "trump ousts remaining members of the election assistance",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "8 indicted in planned sniper attack at white",
     "type": "card",
     "timestamp": 1783770222172
+  },
+  {
+    "url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/",
+    "titleNorm": "10 injured in overnight russian strikes on kyiv",
+    "type": "card",
+    "timestamp": 1783774380650
   }
 ]
