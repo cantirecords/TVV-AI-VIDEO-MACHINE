@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-plan-triumphal-arch-nations-capital-review-134607221",
-    "titleNorm": "trumps plan for a triumphal arch in the",
-    "type": "reel",
-    "timestamp": 1783769482102
-  },
-  {
     "url": "https://www.foxnews.com/us/8-indicted-planned-sniper-attack-white-house-ufc-250-event-doj-says",
     "titleNorm": "8 indicted in planned sniper attack at white",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "national guard shooting suspect in dire selfinflicted health",
     "type": "reel",
     "timestamp": 1783812320679
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/engines-flamed-small-jet-crashed-june-texas-highway-134665096",
+    "titleNorm": "both engines flamed out before small jet crashed",
+    "type": "card",
+    "timestamp": 1783813377019
   }
 ]
