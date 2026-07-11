@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/national-guard-shooting-suspect-dire-self-inflicted-health-condition-refusing-eat-filing-says",
-    "titleNorm": "national guard shooting suspect in dire selfinflicted health",
-    "type": "card",
-    "timestamp": 1783723826036
-  },
-  {
     "url": "https://www.foxnews.com/us/family-toddler-found-alive-morgue-declared-dead-plans-legal-action",
     "titleNorm": "family of toddler found alive in morgue after",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "is an iran deal over and war back",
     "type": "reel",
     "timestamp": 1783763834538
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1783767218983
   }
 ]
