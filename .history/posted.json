@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/engines-flamed-small-jet-crashed-june-texas-highway-134665096",
-    "titleNorm": "both engines flamed out before small jet crashed",
-    "type": "card",
-    "timestamp": 1783813377019
-  },
-  {
     "url": "https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/",
     "titleNorm": "bipartisan housing bill becomes law after trump refuses",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "national guard shooting suspect in dire selfinflicted health",
     "type": "reel",
     "timestamp": 1783856308124
+  },
+  {
+    "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
+    "titleNorm": "new 911 audio captures neighbors warning of fullout",
+    "type": "card",
+    "timestamp": 1783860820137
   }
 ]
