@@ -58,5 +58,11 @@
     "titleNorm": "at least 2 killed in shooting at toronto",
     "type": "reel",
     "timestamp": 1783865062810
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-agents-fatal-houston-shooting-not-wearing-body-cameras",
+    "titleNorm": "ice agents in fatal houston shooting were not",
+    "type": "card",
+    "timestamp": 1783866162636
   }
 ]
