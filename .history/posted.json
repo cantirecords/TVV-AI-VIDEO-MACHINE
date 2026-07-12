@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/prosecutors-seeking-death-penalty-deported-illegal-alien-indicted-murder-sister-in-law",
-    "titleNorm": "prosecutors seeking death penalty for deported illegal alien",
-    "type": "reel",
-    "timestamp": 1783798910917
-  },
-  {
     "url": "https://www.cbsnews.com/news/spain-deadly-wildfires-firefighters/",
     "titleNorm": "hundreds of firefighters in spain battle deadly wildfires",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trump not expected to veto housing bill us",
     "type": "reel",
     "timestamp": 1783840104062
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1783843055019
   }
 ]
