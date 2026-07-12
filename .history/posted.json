@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/",
-    "titleNorm": "bipartisan housing bill becomes law after trump refuses",
-    "type": "card",
-    "timestamp": 1783819862908
-  },
-  {
     "url": "https://www.foxnews.com/us/nicole-brown-simpson-told-former-lover-shed-rather-die-than-return-oj-simpson-before-her-murder",
     "titleNorm": "nicole brown simpson told former lover shed rather",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "new 911 audio captures neighbors warning of fullout",
     "type": "card",
     "timestamp": 1783860820137
+  },
+  {
+    "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/",
+    "titleNorm": "at least 2 killed in shooting at toronto",
+    "type": "reel",
+    "timestamp": 1783865062810
   }
 ]
