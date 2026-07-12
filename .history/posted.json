@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/national-guard-shooting-suspect-dire-self-inflicted-health-condition-refusing-eat-filing-says",
-    "titleNorm": "national guard shooting suspect in dire selfinflicted health",
-    "type": "reel",
-    "timestamp": 1783856308124
-  },
-  {
     "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
     "titleNorm": "new 911 audio captures neighbors warning of fullout",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1783898185752
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-rolls-back-key-protection-imperiled-wildlife-134667573",
+    "titleNorm": "trump administration rolls back a key protection for",
+    "type": "card",
+    "timestamp": 1783899743903
   }
 ]
