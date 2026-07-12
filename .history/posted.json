@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
-    "titleNorm": "nj husband begs for cpr help in 911",
-    "type": "card",
-    "timestamp": 1783833364416
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto/",
     "titleNorm": "trump not expected to veto housing bill us",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "wally funk aviation pioneer who was the oldest",
     "type": "card",
     "timestamp": 1783874710603
+  },
+  {
+    "url": "https://www.nbcnews.com/world/canada/toronto-festival-shooting-rcna545415",
+    "titleNorm": "2 killed 6 injured at toronto festival after",
+    "type": "reel",
+    "timestamp": 1783877609422
   }
 ]
