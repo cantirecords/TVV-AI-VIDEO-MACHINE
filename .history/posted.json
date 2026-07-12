@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-contacted-police-1987-killing-arrested-connection-cold-case",
-    "titleNorm": "florida man who contacted police about 1987 killing",
-    "type": "card",
-    "timestamp": 1783788135862
-  },
-  {
     "url": "https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719",
     "titleNorm": "belgium pokes trump at the world cup and",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "nicole brown simpson told former lover shed rather",
     "type": "reel",
     "timestamp": 1783829320929
+  },
+  {
+    "url": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
+    "titleNorm": "nj husband begs for cpr help in 911",
+    "type": "card",
+    "timestamp": 1783833364416
   }
 ]
