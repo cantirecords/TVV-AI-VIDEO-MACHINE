@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/national-guard-shooting-suspect-dire-self-inflicted-health-condition-refusing-eat-filing-says",
-    "titleNorm": "national guard shooting suspect in dire selfinflicted health",
-    "type": "reel",
-    "timestamp": 1783812320679
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/engines-flamed-small-jet-crashed-june-texas-highway-134665096",
     "titleNorm": "both engines flamed out before small jet crashed",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "martha lillard last us polio patient using iron",
     "type": "card",
     "timestamp": 1783854250463
+  },
+  {
+    "url": "https://www.foxnews.com/us/national-guard-shooting-suspect-dire-self-inflicted-health-condition-refusing-eat-filing-says",
+    "titleNorm": "national guard shooting suspect in dire selfinflicted health",
+    "type": "reel",
+    "timestamp": 1783856308124
   }
 ]
