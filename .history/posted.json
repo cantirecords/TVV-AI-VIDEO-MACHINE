@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/911-audio-captures-neighbors-warning-full-out-war-police-attacked-block-party-chaos",
-    "titleNorm": "new 911 audio captures neighbors warning of fullout",
-    "type": "card",
-    "timestamp": 1783860820137
-  },
-  {
     "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/",
     "titleNorm": "at least 2 killed in shooting at toronto",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trump administration rolls back a key protection for",
     "type": "card",
     "timestamp": 1783899743903
+  },
+  {
+    "url": "https://www.foxnews.com/us/cause-death-revealed-american-mother-murdered-ireland-report",
+    "titleNorm": "cause of death revealed for american mother murdered",
+    "type": "card",
+    "timestamp": 1783907081292
   }
 ]
