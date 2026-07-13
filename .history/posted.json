@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/wally-funk-aviation-pioneer-oldest-woman-travel-space-134632308",
-    "titleNorm": "wally funk aviation pioneer who was the oldest",
-    "type": "card",
-    "timestamp": 1783874710603
-  },
-  {
     "url": "https://www.nbcnews.com/world/canada/toronto-festival-shooting-rcna545415",
     "titleNorm": "2 killed 6 injured at toronto festival after",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "both engines flamed out before small jet crashed",
     "type": "reel",
     "timestamp": 1783915811853
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1783920290212
   }
 ]
