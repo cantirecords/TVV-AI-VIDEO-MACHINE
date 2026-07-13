@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1783942690410
-  },
-  {
     "url": "https://www.cbsnews.com/news/wildfire-fire-paris-heat-wave/",
     "titleNorm": "wildfire of exceptional scale burning near paris",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "illegal immigrant truckers accused of mowing down americans",
     "type": "reel",
     "timestamp": 1783985211492
+  },
+  {
+    "url": "https://www.foxnews.com/us/ems-dispatch-audio-captures-emergency-response-lindsey-graham-death-announcement",
+    "titleNorm": "ems dispatch audio captures emergency response before lindsey",
+    "type": "card",
+    "timestamp": 1783986146411
   }
 ]
