@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/father-son-killed-plane-crash-way-home-baseball-game",
-    "titleNorm": "father son killed in plane crash on way",
-    "type": "card",
-    "timestamp": 1783886437196
-  },
-  {
     "url": "https://www.cbsnews.com/news/changing-conditions-expanded-evacuations-ferris-fire-southwest-colorado/",
     "titleNorm": "changing conditions cause expanded evacuation orders for ferris",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "nj husband begs for cpr help in 911",
     "type": "reel",
     "timestamp": 1783928960601
+  },
+  {
+    "url": "https://www.foxnews.com/us/ems-dispatch-audio-captures-emergency-response-lindsey-graham-death-announcement",
+    "titleNorm": "ems dispatch audio captures emergency response before lindsey",
+    "type": "card",
+    "timestamp": 1783932347325
   }
 ]
