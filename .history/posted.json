@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-rolls-back-key-protection-imperiled-wildlife-134667573",
-    "titleNorm": "trump administration rolls back a key protection for",
-    "type": "card",
-    "timestamp": 1783899743903
-  },
-  {
     "url": "https://www.foxnews.com/us/cause-death-revealed-american-mother-murdered-ireland-report",
     "titleNorm": "cause of death revealed for american mother murdered",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1783942690410
+  },
+  {
+    "url": "https://www.cbsnews.com/news/wildfire-fire-paris-heat-wave/",
+    "titleNorm": "wildfire of exceptional scale burning near paris",
+    "type": "card",
+    "timestamp": 1783943438594
   }
 ]
