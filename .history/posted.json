@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cause-death-revealed-american-mother-murdered-ireland-report",
-    "titleNorm": "cause of death revealed for american mother murdered",
-    "type": "card",
-    "timestamp": 1783907081292
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/engines-flamed-small-jet-crashed-june-texas-highway-134665096",
     "titleNorm": "both engines flamed out before small jet crashed",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "wildfire of exceptional scale burning near paris",
     "type": "card",
     "timestamp": 1783943438594
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/crash-aircraft-helping-fight-colorado-wildfire-leaves-pilot-134708649",
+    "titleNorm": "crash of an aircraft helping to fight a",
+    "type": "card",
+    "timestamp": 1783951321002
   }
 ]
