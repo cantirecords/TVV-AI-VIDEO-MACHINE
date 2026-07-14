@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/deputy-us-marshal-fatally-shot-serving-arrest-warrant-louisiana",
-    "titleNorm": "deputy us marshal fatally shot while serving arrest",
-    "type": "card",
-    "timestamp": 1784012597649
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-rolls-back-key-protection-imperiled-wildlife-134667573",
     "titleNorm": "trump administration rolls back a key protection for",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "air force helicopter makes emergency landing in dc",
     "type": "card",
     "timestamp": 1784055649871
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-military-death-toll-iran-war-rises-14-134728938",
+    "titleNorm": "us military death toll in iran war rises",
+    "type": "reel",
+    "timestamp": 1784058783606
   }
 ]
