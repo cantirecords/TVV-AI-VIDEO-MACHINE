@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/lindsey-grahams-death-quickly-changes-busy-senate-politics-desk-rcna587387",
-    "titleNorm": "how lindsey grahams death quickly changes a busy",
-    "type": "reel",
-    "timestamp": 1784000742042
-  },
-  {
     "url": "https://www.foxnews.com/us/jonbenet-ramsey-mystery-reignited-lab-scandal-adds-pressure-unleash-dna-help-dad-begging",
     "titleNorm": "jonbenet ramsey mystery reignited by lab scandal that",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "florida woman charged with murder evading police after",
     "type": "card",
     "timestamp": 1784042176917
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-killed-dartmouth-professors-17-seeks-reduced-prison-134704057",
+    "titleNorm": "man who killed dartmouth professors at 17 seeks",
+    "type": "reel",
+    "timestamp": 1784044655266
   }
 ]
