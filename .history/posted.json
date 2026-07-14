@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/judge-says-trump-administration-attempted-manipulate-judicial-process-rcna587321",
-    "titleNorm": "judge says trump admin tried to manipulate the",
-    "type": "reel",
-    "timestamp": 1784010937547
-  },
-  {
     "url": "https://www.foxnews.com/us/deputy-us-marshal-fatally-shot-serving-arrest-warrant-louisiana",
     "titleNorm": "deputy us marshal fatally shot while serving arrest",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "e jean carroll collects more than 5 million",
     "type": "reel",
     "timestamp": 1784050821180
+  },
+  {
+    "url": "https://www.foxnews.com/us/air-force-helicopter-emergency-landing-dc",
+    "titleNorm": "air force helicopter makes emergency landing in dc",
+    "type": "card",
+    "timestamp": 1784055649871
   }
 ]
