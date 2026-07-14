@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-truckers-accused-mowing-down-americans-ignite-fury-loopholes-unleashing-deadly-roads",
-    "titleNorm": "illegal immigrant truckers accused of mowing down americans",
-    "type": "reel",
-    "timestamp": 1783985211492
-  },
-  {
-    "url": "https://www.foxnews.com/us/ems-dispatch-audio-captures-emergency-response-lindsey-graham-death-announcement",
-    "titleNorm": "ems dispatch audio captures emergency response before lindsey",
-    "type": "card",
-    "timestamp": 1783986146411
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
     "titleNorm": "martha lillard last us polio patient using iron",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1784027824549
+  },
+  {
+    "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/",
+    "titleNorm": "judge rebukes trump and doj over irs lawsuit",
+    "type": "reel",
+    "timestamp": 1784030072182
   }
 ]
