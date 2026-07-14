@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/wildfire-fire-paris-heat-wave/",
-    "titleNorm": "wildfire of exceptional scale burning near paris",
-    "type": "card",
-    "timestamp": 1783943438594
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/crash-aircraft-helping-fight-colorado-wildfire-leaves-pilot-134708649",
     "titleNorm": "crash of an aircraft helping to fight a",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "ems dispatch audio captures emergency response before lindsey",
     "type": "card",
     "timestamp": 1783986146411
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+    "titleNorm": "martha lillard last us polio patient using iron",
+    "type": "card",
+    "timestamp": 1783992050286
   }
 ]
