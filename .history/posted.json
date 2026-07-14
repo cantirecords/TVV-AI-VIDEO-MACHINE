@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jonbenet-ramsey-mystery-reignited-lab-scandal-adds-pressure-unleash-dna-help-dad-begging",
-    "titleNorm": "jonbenet ramsey mystery reignited by lab scandal that",
-    "type": "card",
-    "timestamp": 1784004007569
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/judge-says-trump-administration-attempted-manipulate-judicial-process-rcna587321",
     "titleNorm": "judge says trump admin tried to manipulate the",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "man who killed dartmouth professors at 17 seeks",
     "type": "reel",
     "timestamp": 1784044655266
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/minnesota-prosecutors-obtain-long-withheld-evidence-investigation-protest-134720078",
+    "titleNorm": "minnesota prosecutors obtain long withheld evidence in protest",
+    "type": "card",
+    "timestamp": 1784048517784
   }
 ]
