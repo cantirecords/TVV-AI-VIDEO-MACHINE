@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-    "titleNorm": "martha lillard last us polio patient using iron",
-    "type": "card",
-    "timestamp": 1783992050286
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/lindsey-grahams-death-quickly-changes-busy-senate-politics-desk-rcna587387",
     "titleNorm": "how lindsey grahams death quickly changes a busy",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "supreme court justices to testify before congress on",
     "type": "card",
     "timestamp": 1784034288188
+  },
+  {
+    "url": "https://www.foxnews.com/us/scammers-exploit-nancy-guthrie-case-qr-code-money-requests-pima-county-sheriff-warns",
+    "titleNorm": "scammers exploit nancy guthrie case with qr code",
+    "type": "reel",
+    "timestamp": 1784039083049
   }
 ]
