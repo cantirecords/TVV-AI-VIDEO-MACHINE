@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-hampshire-resentencing-gives-dartmouth-killer-robert-tulloch-parole-path-supreme-court-ruling",
-    "titleNorm": "new hampshire resentencing gives dartmouth killer robert tulloch",
-    "type": "card",
-    "timestamp": 1784114450848
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/ice-senate-react-latest-shootings-politics-desk-rcna587586",
     "titleNorm": "ice and the senate react to the latest",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "houston prosecutor could bring charges against ice agents",
     "type": "card",
     "timestamp": 1784155674896
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-drenched-heavy-rains-forecasters-warn-storms-bring-134768247",
+    "titleNorm": "texas drenched by heavy rains as forecasters warn",
+    "type": "reel",
+    "timestamp": 1784158150816
   }
 ]
