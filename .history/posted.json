@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-worked-shooting-family",
-    "titleNorm": "mississippi teen accused of killing elderly couple had",
-    "type": "card",
-    "timestamp": 1784078267442
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468",
     "titleNorm": "supreme court justices to testify before congress on",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "ice halts most vehicle stops after fatal texas",
     "type": "card",
     "timestamp": 1784120944381
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1784125203735
   }
 ]
