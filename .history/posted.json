@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-military-death-toll-iran-war-rises-14-134728938",
-    "titleNorm": "us military death toll in iran war rises",
-    "type": "reel",
-    "timestamp": 1784058783606
-  },
-  {
-    "url": "https://www.cbsnews.com/news/russia-sanctions-tariff-bill-lindsey-graham/",
-    "titleNorm": "bipartisan senators introduce russia sanctions and tariff bill",
-    "type": "card",
-    "timestamp": 1784060000262
-  },
-  {
-    "url": "https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537",
-    "titleNorm": "trump says he will back off plan to",
-    "type": "reel",
-    "timestamp": 1784064670825
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-fbi-wasting-time-investigating-lindsey-grahams-death-rcna587500",
-    "titleNorm": "trump says fbi is wasting their time investigating",
-    "type": "card",
-    "timestamp": 1784065534623
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "wildfires expose millions in the midwest and northeast",
     "type": "card",
     "timestamp": 1784099204380
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/3-teens-arrested-acid-attack-6-women-new-jersey-rcna587467",
+    "titleNorm": "3 teens arrested after acid attack on 6",
+    "type": "card",
+    "timestamp": 1784108953340
   }
 ]
