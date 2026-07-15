@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/supreme-court-justices-capitol-hill-first-appearance-more-top-headlines",
-    "titleNorm": "supreme court justices make rare capitol hill appearance",
-    "type": "reel",
-    "timestamp": 1784071565583
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trumps-order-shrinking-size-2-national-monuments-utah-134729918",
-    "titleNorm": "what to know about trumps order shrinking the",
-    "type": "card",
-    "timestamp": 1784072505199
-  },
-  {
     "url": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-worked-shooting-family",
     "titleNorm": "mississippi teen accused of killing elderly couple had",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "new hampshire resentencing gives dartmouth killer robert tulloch",
     "type": "card",
     "timestamp": 1784114450848
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/ice-senate-react-latest-shootings-politics-desk-rcna587586",
+    "titleNorm": "ice and the senate react to the latest",
+    "type": "reel",
+    "timestamp": 1784116670203
   }
 ]
