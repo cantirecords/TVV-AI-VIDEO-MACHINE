@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/air-force-helicopter-emergency-landing-dc",
-    "titleNorm": "air force helicopter makes emergency landing in dc",
-    "type": "card",
-    "timestamp": 1784055649871
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-military-death-toll-iran-war-rises-14-134728938",
     "titleNorm": "us military death toll in iran war rises",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "1 missing and 17 rescued after a boat",
     "type": "reel",
     "timestamp": 1784097420494
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke-134771746",
+    "titleNorm": "wildfires expose millions in the midwest and northeast",
+    "type": "card",
+    "timestamp": 1784099204380
   }
 ]
