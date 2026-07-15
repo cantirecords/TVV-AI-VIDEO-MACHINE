@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1784069136730
-  },
-  {
     "url": "https://www.foxnews.com/us/supreme-court-justices-capitol-hill-first-appearance-more-top-headlines",
     "titleNorm": "supreme court justices make rare capitol hill appearance",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "illegal immigrant sentenced after fiery california semitruck crash",
     "type": "reel",
     "timestamp": 1784110893129
+  },
+  {
+    "url": "https://www.foxnews.com/us/new-hampshire-resentencing-gives-dartmouth-killer-robert-tulloch-parole-path-supreme-court-ruling",
+    "titleNorm": "new hampshire resentencing gives dartmouth killer robert tulloch",
+    "type": "card",
+    "timestamp": 1784114450848
   }
 ]
