@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ohio-mom-arrested-16-kids-evil-living-conditions-wants-reunited-children-lawyer",
-    "titleNorm": "ohio mom arrested for having 16 kids in",
-    "type": "card",
-    "timestamp": 1784090422497
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/1-missing-17-rescued-after-boat-fire-alcatraz-134768358",
     "titleNorm": "1 missing and 17 rescued after a boat",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "us announces new strikes on iran as war",
     "type": "reel",
     "timestamp": 1784131302671
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-teens-arrested-18-year-old-found-dead-texas-lake-homicide-probe-unfolds",
+    "titleNorm": "texas teens arrested after 18yearold found dead in",
+    "type": "card",
+    "timestamp": 1784135078469
   }
 ]
