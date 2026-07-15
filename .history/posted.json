@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-killed-dartmouth-professors-17-seeks-reduced-prison-134704057",
-    "titleNorm": "man who killed dartmouth professors at 17 seeks",
-    "type": "reel",
-    "timestamp": 1784044655266
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/minnesota-prosecutors-obtain-long-withheld-evidence-investigation-protest-134720078",
     "titleNorm": "minnesota prosecutors obtain long withheld evidence in protest",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "supreme court justices to testify before congress on",
     "type": "reel",
     "timestamp": 1784087148934
+  },
+  {
+    "url": "https://www.foxnews.com/us/ohio-mom-arrested-16-kids-evil-living-conditions-wants-reunited-children-lawyer",
+    "titleNorm": "ohio mom arrested for having 16 kids in",
+    "type": "card",
+    "timestamp": 1784090422497
   }
 ]
