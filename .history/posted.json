@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/3-teens-arrested-acid-attack-6-women-new-jersey-rcna587467",
-    "titleNorm": "3 teens arrested after acid attack on 6",
-    "type": "card",
-    "timestamp": 1784108953340
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-sentenced-fiery-california-semitruck-crash-killed-3",
-    "titleNorm": "illegal immigrant sentenced after fiery california semitruck crash",
-    "type": "reel",
-    "timestamp": 1784110893129
-  },
-  {
     "url": "https://www.foxnews.com/us/new-hampshire-resentencing-gives-dartmouth-killer-robert-tulloch-parole-path-supreme-court-ruling",
     "titleNorm": "new hampshire resentencing gives dartmouth killer robert tulloch",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "warsh vows to tackle inflation in first testimony",
     "type": "card",
     "timestamp": 1784152016345
+  },
+  {
+    "url": "https://www.cbsnews.com/news/houston-prosecutor-ice-shooting-lorenzo-salgado-araujo-prepared-to-bring-charges/",
+    "titleNorm": "houston prosecutor could bring charges against ice agents",
+    "type": "card",
+    "timestamp": 1784155674896
   }
 ]
