@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468",
-    "titleNorm": "supreme court justices to testify before congress on",
-    "type": "reel",
-    "timestamp": 1784087148934
-  },
-  {
     "url": "https://www.foxnews.com/us/ohio-mom-arrested-16-kids-evil-living-conditions-wants-reunited-children-lawyer",
     "titleNorm": "ohio mom arrested for having 16 kids in",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "the wind and drift patterns tell a story",
     "type": "card",
     "timestamp": 1784128656674
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/",
+    "titleNorm": "us announces new strikes on iran as war",
+    "type": "reel",
+    "timestamp": 1784131302671
   }
 ]
