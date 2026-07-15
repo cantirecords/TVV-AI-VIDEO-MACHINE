@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/1-missing-17-rescued-after-boat-fire-alcatraz-134768358",
-    "titleNorm": "1 missing and 17 rescued after a boat",
-    "type": "reel",
-    "timestamp": 1784097420494
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke-134771746",
     "titleNorm": "wildfires expose millions in the midwest and northeast",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "five arrested after hong kong police raid independent",
     "type": "reel",
     "timestamp": 1784137628783
+  },
+  {
+    "url": "https://www.foxnews.com/us/alabama-sheriff-details-gruesome-murders-veteran-wife-inside-their-own-home",
+    "titleNorm": "alabama sheriff details gruesome murders of veteran and",
+    "type": "card",
+    "timestamp": 1784141626775
   }
 ]
