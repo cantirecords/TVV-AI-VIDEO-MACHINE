@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/",
-    "titleNorm": "judge rebukes trump and doj over irs lawsuit",
-    "type": "reel",
-    "timestamp": 1784030072182
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468",
-    "titleNorm": "supreme court justices to testify before congress on",
-    "type": "card",
-    "timestamp": 1784034288188
-  },
-  {
     "url": "https://www.foxnews.com/us/scammers-exploit-nancy-guthrie-case-qr-code-money-requests-pima-county-sheriff-warns",
     "titleNorm": "scammers exploit nancy guthrie case with qr code",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "what to know about trumps order shrinking the",
     "type": "card",
     "timestamp": 1784072505199
+  },
+  {
+    "url": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-worked-shooting-family",
+    "titleNorm": "mississippi teen accused of killing elderly couple had",
+    "type": "card",
+    "timestamp": 1784078267442
   }
 ]
