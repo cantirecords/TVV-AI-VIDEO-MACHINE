@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/scammers-exploit-nancy-guthrie-case-qr-code-money-requests-pima-county-sheriff-warns",
-    "titleNorm": "scammers exploit nancy guthrie case with qr code",
-    "type": "reel",
-    "timestamp": 1784039083049
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-woman-charged-murder-evading-police-body-found-shallow-grave-sheriff-says",
-    "titleNorm": "florida woman charged with murder evading police after",
-    "type": "card",
-    "timestamp": 1784042176917
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-killed-dartmouth-professors-17-seeks-reduced-prison-134704057",
     "titleNorm": "man who killed dartmouth professors at 17 seeks",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "mississippi teen accused of killing elderly couple had",
     "type": "card",
     "timestamp": 1784078267442
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468",
+    "titleNorm": "supreme court justices to testify before congress on",
+    "type": "reel",
+    "timestamp": 1784087148934
   }
 ]
