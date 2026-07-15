@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke-134771746",
-    "titleNorm": "wildfires expose millions in the midwest and northeast",
-    "type": "card",
-    "timestamp": 1784099204380
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/3-teens-arrested-acid-attack-6-women-new-jersey-rcna587467",
     "titleNorm": "3 teens arrested after acid attack on 6",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "alabama sheriff details gruesome murders of veteran and",
     "type": "card",
     "timestamp": 1784141626775
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635",
+    "titleNorm": "house republicans push for 95b for iran war",
+    "type": "reel",
+    "timestamp": 1784144788825
   }
 ]
