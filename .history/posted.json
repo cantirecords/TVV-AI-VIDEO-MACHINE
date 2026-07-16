@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/latest-trump-ice-continue-traffic-stops-despite-new-134777729",
-    "titleNorm": "the latest trump says ice should continue traffic",
-    "type": "card",
-    "timestamp": 1784186100178
-  },
-  {
     "url": "https://www.cbsnews.com/news/hilton-grand-vacations-employee-fired-chelsea-gray-wnba-racial-slur/",
     "titleNorm": "hilton employee who sent racial slur to wnba",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1784228076932
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1784230855155
   }
 ]
