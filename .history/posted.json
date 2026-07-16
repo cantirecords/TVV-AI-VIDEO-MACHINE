@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
-    "titleNorm": "seattle fire crews respond to 3alarm industrial district",
-    "type": "card",
-    "timestamp": 1784165259190
-  },
-  {
     "url": "https://www.foxnews.com/us/man-fleeing-ice-officers-florida-struck-killed-tractor-trailer-police-say",
     "titleNorm": "man fleeing ice officers in florida is struck",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "maps show wildfire smoke forecast air quality alerts",
     "type": "card",
     "timestamp": 1784207858132
+  },
+  {
+    "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
+    "titleNorm": "seattle fire crews respond to 3alarm industrial district",
+    "type": "reel",
+    "timestamp": 1784212401845
   }
 ]
