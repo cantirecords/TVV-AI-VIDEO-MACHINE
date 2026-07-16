@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/houston-prosecutor-ice-shooting-lorenzo-salgado-araujo-prepared-to-bring-charges/",
-    "titleNorm": "houston prosecutor could bring charges against ice agents",
-    "type": "card",
-    "timestamp": 1784155674896
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/texas-drenched-heavy-rains-forecasters-warn-storms-bring-134768247",
     "titleNorm": "texas drenched by heavy rains as forecasters warn",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "illegal immigrant sentenced after fiery california semitruck crash",
     "type": "reel",
     "timestamp": 1784197585832
+  },
+  {
+    "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
+    "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
+    "type": "card",
+    "timestamp": 1784201193472
   }
 ]
