@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1784125203735
-  },
-  {
-    "url": "https://www.foxnews.com/us/wind-drift-patterns-tell-story-cajun-navy-official-missing-mississippi-teen-found-dead",
-    "titleNorm": "the wind and drift patterns tell a story",
-    "type": "card",
-    "timestamp": 1784128656674
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/",
     "titleNorm": "us announces new strikes on iran as war",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "seattle fire crews respond to 3alarm industrial district",
     "type": "card",
     "timestamp": 1784165259190
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-fleeing-ice-officers-florida-struck-killed-tractor-trailer-police-say",
+    "titleNorm": "man fleeing ice officers in florida is struck",
+    "type": "reel",
+    "timestamp": 1784173687971
   }
 ]
