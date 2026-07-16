@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/hilton-grand-vacations-employee-fired-chelsea-gray-wnba-racial-slur/",
-    "titleNorm": "hilton employee who sent racial slur to wnba",
-    "type": "card",
-    "timestamp": 1784195756810
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrant-sentenced-fiery-california-semitruck-crash-killed-3",
-    "titleNorm": "illegal immigrant sentenced after fiery california semitruck crash",
-    "type": "reel",
-    "timestamp": 1784197585832
-  },
-  {
     "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
     "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "missouri teen girl shot and killed at home",
     "type": "card",
     "timestamp": 1784238920762
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/congress/trump-save-america-act-congress-voting-restriction-bill-what-know-rcna587813",
+    "titleNorm": "what to know about the save america act",
+    "type": "card",
+    "timestamp": 1784242103467
   }
 ]
