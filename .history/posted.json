@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-teens-arrested-18-year-old-found-dead-texas-lake-homicide-probe-unfolds",
-    "titleNorm": "texas teens arrested after 18yearold found dead in",
-    "type": "card",
-    "timestamp": 1784135078469
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "five arrested after hong kong police raid independent",
-    "type": "reel",
-    "timestamp": 1784137628783
-  },
-  {
     "url": "https://www.foxnews.com/us/alabama-sheriff-details-gruesome-murders-veteran-wife-inside-their-own-home",
     "titleNorm": "alabama sheriff details gruesome murders of veteran and",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1784177431157
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/vance-trump-administration-screwed-communications-epstein-files-134798226",
+    "titleNorm": "vance says trump administration screwed up communications around",
+    "type": "reel",
+    "timestamp": 1784184130177
   }
 ]
