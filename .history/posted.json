@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alabama-sheriff-details-gruesome-murders-veteran-wife-inside-their-own-home",
-    "titleNorm": "alabama sheriff details gruesome murders of veteran and",
-    "type": "card",
-    "timestamp": 1784141626775
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635",
     "titleNorm": "house republicans push for 95b for iran war",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "vance says trump administration screwed up communications around",
     "type": "reel",
     "timestamp": 1784184130177
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/latest-trump-ice-continue-traffic-stops-despite-new-134777729",
+    "titleNorm": "the latest trump says ice should continue traffic",
+    "type": "card",
+    "timestamp": 1784186100178
   }
 ]
