@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635",
-    "titleNorm": "house republicans push for 95b for iran war",
-    "type": "reel",
-    "timestamp": 1784144788825
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-officer-hailed-hero-saving-driver-injured-missouri-crash",
-    "titleNorm": "ice officer hailed as hero after saving driver",
-    "type": "card",
-    "timestamp": 1784145711788
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1784151015348
-  },
-  {
-    "url": "https://www.cbsnews.com/news/kevin-warsh-fed-testimony/",
-    "titleNorm": "warsh vows to tackle inflation in first testimony",
-    "type": "card",
-    "timestamp": 1784152016345
-  },
-  {
     "url": "https://www.cbsnews.com/news/houston-prosecutor-ice-shooting-lorenzo-salgado-araujo-prepared-to-bring-charges/",
     "titleNorm": "houston prosecutor could bring charges against ice agents",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "the latest trump says ice should continue traffic",
     "type": "card",
     "timestamp": 1784186100178
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hilton-grand-vacations-employee-fired-chelsea-gray-wnba-racial-slur/",
+    "titleNorm": "hilton employee who sent racial slur to wnba",
+    "type": "card",
+    "timestamp": 1784195756810
   }
 ]
