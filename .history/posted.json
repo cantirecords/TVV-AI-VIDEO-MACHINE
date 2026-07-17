@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missouri-teen-girl-shot-killed-home-3-friends-face-charges",
-    "titleNorm": "missouri teen girl shot and killed at home",
-    "type": "card",
-    "timestamp": 1784238920762
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/trump-save-america-act-congress-voting-restriction-bill-what-know-rcna587813",
     "titleNorm": "what to know about the save america act",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "woman found in shallow grave idd after 44",
     "type": "card",
     "timestamp": 1784281559354
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-immediately-fires-new-court-appointed-top-prosecutor-134804513",
+    "titleNorm": "trump immediately fires the new courtappointed top prosecutor",
+    "type": "reel",
+    "timestamp": 1784283469327
   }
 ]
