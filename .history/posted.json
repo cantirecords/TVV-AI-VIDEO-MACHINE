@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/wife-colombian-father-killed-ice-biddeford-maine-immigration-rcna587909",
-    "titleNorm": "wife of colombian father killed by ice in",
-    "type": "reel",
-    "timestamp": 1784244321055
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/3-big-senate-fundraising-takeaways-politics-desk-rcna587905",
-    "titleNorm": "3 big senate fundraising takeaways from the politics",
-    "type": "card",
-    "timestamp": 1784245732464
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/vance-trump-administration-screwed-communications-epstein-files-134798226",
     "titleNorm": "vance says trump administration screwed up communications around",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "prokremlin blogger who turned on putin is arrested",
     "type": "card",
     "timestamp": 1784286829113
+  },
+  {
+    "url": "https://www.foxnews.com/us/bodycam-shows-nantucket-official-slurring-swaying-during-dui-stop-after-crashing-into-sign-police",
+    "titleNorm": "bodycam shows nantucket official slurring swaying during dui",
+    "type": "reel",
+    "timestamp": 1784289065996
   }
 ]
