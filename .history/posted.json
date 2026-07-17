@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-officer-hailed-hero-saving-driver-injured-missouri-crash",
-    "titleNorm": "ice officer hailed as hero after saving driver",
-    "type": "reel",
-    "timestamp": 1784203230841
-  },
-  {
-    "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
-    "titleNorm": "maps show wildfire smoke forecast air quality alerts",
-    "type": "card",
-    "timestamp": 1784207858132
-  },
-  {
     "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
     "titleNorm": "seattle fire crews respond to 3alarm industrial district",
     "type": "reel",
@@ -94,5 +82,11 @@
     "titleNorm": "3 big senate fundraising takeaways from the politics",
     "type": "card",
     "timestamp": 1784245732464
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/vance-trump-administration-screwed-communications-epstein-files-134798226",
+    "titleNorm": "vance says trump administration screwed up communications around",
+    "type": "card",
+    "timestamp": 1784251898438
   }
 ]
