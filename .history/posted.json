@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
-    "titleNorm": "seattle fire crews respond to 3alarm industrial district",
-    "type": "reel",
-    "timestamp": 1784212401845
-  },
-  {
-    "url": "https://www.foxnews.com/us/three-teen-girls-arrested-new-jersey-allegedly-throwing-acid-six-women-drive-by-attack",
-    "titleNorm": "three teen girls arrested in new jersey for",
-    "type": "card",
-    "timestamp": 1784215534016
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines",
     "titleNorm": "trump teases major reveal during white house address",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "vance says trump administration screwed up communications around",
     "type": "card",
     "timestamp": 1784251898438
+  },
+  {
+    "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
+    "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
+    "type": "reel",
+    "timestamp": 1784260087385
   }
 ]
