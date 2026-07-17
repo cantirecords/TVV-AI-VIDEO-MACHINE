@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/vance-trump-administration-screwed-communications-epstein-files-134798226",
-    "titleNorm": "vance says trump administration screwed up communications around",
-    "type": "card",
-    "timestamp": 1784251898438
-  },
-  {
     "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
     "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1784293317022
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines",
+    "titleNorm": "trump teases major reveal during white house address",
+    "type": "reel",
+    "timestamp": 1784297584188
   }
 ]
