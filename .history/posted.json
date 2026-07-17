@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/woman-found-shallow-grave-idd-after-44-years-millionaire-tied-estate-murder-plot",
-    "titleNorm": "woman found in shallow grave idd after 44",
-    "type": "card",
-    "timestamp": 1784281559354
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-immediately-fires-new-court-appointed-top-prosecutor-134804513",
-    "titleNorm": "trump immediately fires the new courtappointed top prosecutor",
-    "type": "reel",
-    "timestamp": 1784283469327
-  },
-  {
     "url": "https://www.nbcnews.com/world/russia/ilya-remeslo-arrested-kremlin-crackdown-putin-critic-nadezhdin-court-rcna587962",
     "titleNorm": "prokremlin blogger who turned on putin is arrested",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "trump backs sen darline graham in primary to",
     "type": "card",
     "timestamp": 1784324518425
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "what to know about the canadian and us",
+    "type": "card",
+    "timestamp": 1784327871822
   }
 ]
