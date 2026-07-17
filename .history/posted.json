@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/trump-save-america-act-congress-voting-restriction-bill-what-know-rcna587813",
-    "titleNorm": "what to know about the save america act",
-    "type": "card",
-    "timestamp": 1784242103467
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/wife-colombian-father-killed-ice-biddeford-maine-immigration-rcna587909",
     "titleNorm": "wife of colombian father killed by ice in",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "trump immediately fires the new courtappointed top prosecutor",
     "type": "reel",
     "timestamp": 1784283469327
+  },
+  {
+    "url": "https://www.nbcnews.com/world/russia/ilya-remeslo-arrested-kremlin-crackdown-putin-critic-nadezhdin-court-rcna587962",
+    "titleNorm": "prokremlin blogger who turned on putin is arrested",
+    "type": "card",
+    "timestamp": 1784286829113
   }
 ]
