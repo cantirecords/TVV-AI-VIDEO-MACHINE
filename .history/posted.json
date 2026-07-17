@@ -70,5 +70,11 @@
     "titleNorm": "ghost gun company ordered to pay 100m in",
     "type": "reel",
     "timestamp": 1784309901586
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1784311360200
   }
 ]
