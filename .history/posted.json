@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines",
-    "titleNorm": "trump teases major reveal during white house address",
-    "type": "reel",
-    "timestamp": 1784217602771
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/trump-announces-release-us-citizen-held-iran-2024-dena-karari-rcna587764",
     "titleNorm": "american woman held in iran since 2024 released",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
     "type": "reel",
     "timestamp": 1784260087385
+  },
+  {
+    "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
+    "titleNorm": "seattle fire crews respond to 3alarm industrial district",
+    "type": "card",
+    "timestamp": 1784264057625
   }
 ]
