@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
-    "titleNorm": "seattle fire crews respond to 3alarm industrial district",
-    "type": "card",
-    "timestamp": 1784264057625
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-arrests-record-238-illegal-immigrants-one-day-south-texas-enforcement-operation",
     "titleNorm": "ice arrests record 238 illegal immigrants in one",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
     "type": "reel",
     "timestamp": 1784303740401
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/",
+    "titleNorm": "worst case scenario for shippers as us and",
+    "type": "card",
+    "timestamp": 1784307555814
   }
 ]
