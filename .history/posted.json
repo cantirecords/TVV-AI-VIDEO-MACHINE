@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
-    "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
-    "type": "reel",
-    "timestamp": 1784260087385
-  },
-  {
     "url": "https://www.foxnews.com/us/seattle-fire-crews-respond-3-alarm-industrial-district-warehouse-fire-roof-partially-collapses",
     "titleNorm": "seattle fire crews respond to 3alarm industrial district",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "drunk wrongway driver killed mass trooper after 9",
     "type": "card",
     "timestamp": 1784300701935
+  },
+  {
+    "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
+    "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
+    "type": "reel",
+    "timestamp": 1784303740401
   }
 ]
