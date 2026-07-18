@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-teases-major-reveal-during-white-house-address-more-top-headlines",
-    "titleNorm": "trump teases major reveal during white house address",
-    "type": "reel",
-    "timestamp": 1784297584188
-  },
-  {
-    "url": "https://www.foxnews.com/us/drunk-wrong-way-driver-killed-mass-trooper-after-9-drinks-bar-da-report-says",
-    "titleNorm": "drunk wrongway driver killed mass trooper after 9",
-    "type": "card",
-    "timestamp": 1784300701935
-  },
-  {
     "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
     "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "colorado ice center employee arrested after allegedly shooting",
     "type": "card",
     "timestamp": 1784337820339
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-cancels-automatic-protections-imperiled-animals-critics-warn-134864184",
+    "titleNorm": "us cancels automatic protections for imperiled animals as",
+    "type": "reel",
+    "timestamp": 1784346344775
   }
 ]
