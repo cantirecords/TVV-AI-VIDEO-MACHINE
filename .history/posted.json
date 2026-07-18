@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/iran-claims-bold-attack-us-airbase-more-top-headlines",
-    "titleNorm": "iran claims bold attack on us airbase and",
-    "type": "card",
-    "timestamp": 1784331718398
-  },
-  {
     "url": "https://www.cbsnews.com/news/employee-who-works-at-aurora-ice-processing-center-arrested-accused-of-shooting-and-injuring-colorado-protester/",
     "titleNorm": "colorado ice center employee arrested after allegedly shooting",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "maps wildfire smoke forecast for the midwest and",
     "type": "reel",
     "timestamp": 1784374214407
+  },
+  {
+    "url": "https://www.foxnews.com/us/tennessee-woman-arrested-allegedly-trying-drown-child-backyard-pool",
+    "titleNorm": "tennessee woman arrested after allegedly trying to drown",
+    "type": "card",
+    "timestamp": 1784375046639
   }
 ]
