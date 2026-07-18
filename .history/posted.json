@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-cancels-automatic-protections-imperiled-animals-critics-warn-134864184",
-    "titleNorm": "us cancels automatic protections for imperiled animals as",
-    "type": "reel",
-    "timestamp": 1784346344775
-  },
-  {
-    "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/",
-    "titleNorm": "ice officer in maine shooting has history of",
-    "type": "card",
-    "timestamp": 1784349495306
-  },
-  {
     "url": "https://www.foxnews.com/us/shooting-near-ice-detention-facility-aurora-colorado-leaves-1-injured-person-detained",
     "titleNorm": "shooting near ice detention facility in aurora colorado",
     "type": "reel",
@@ -88,5 +76,11 @@
     "titleNorm": "federal appeals court rules that new jerseys assault",
     "type": "card",
     "timestamp": 1784389448327
+  },
+  {
+    "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
+    "titleNorm": "today show security guard fired after intruder enters",
+    "type": "card",
+    "timestamp": 1784393010981
   }
 ]
