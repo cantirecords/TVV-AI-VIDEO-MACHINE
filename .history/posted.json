@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "italian officials handed jail terms for genoa bridge",
-    "type": "reel",
-    "timestamp": 1784317209074
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1784318242024
-  },
-  {
     "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
     "titleNorm": "covert dna sample from colorado mans trash revives",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trump threatens canada with higher tariffs over wildfire",
     "type": "card",
     "timestamp": 1784357569126
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/elections/homeland-security-secretary-markwayne-mullin-threatens-states-election-rcna588002",
+    "titleNorm": "dhs secretary markwayne mullin threatens states over elections",
+    "type": "reel",
+    "timestamp": 1784362749074
   }
 ]
