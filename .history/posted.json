@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/",
-    "titleNorm": "worst case scenario for shippers as us and",
-    "type": "card",
-    "timestamp": 1784307555814
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/ghost-gun-company-ordered-pay-100m-death-kentucky-134826757",
-    "titleNorm": "ghost gun company ordered to pay 100m in",
-    "type": "reel",
-    "timestamp": 1784309901586
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1784311360200
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "italian officials handed jail terms for genoa bridge",
     "type": "reel",
@@ -82,5 +64,11 @@
     "titleNorm": "ice officer in maine shooting has history of",
     "type": "card",
     "timestamp": 1784349495306
+  },
+  {
+    "url": "https://www.foxnews.com/us/shooting-near-ice-detention-facility-aurora-colorado-leaves-1-injured-person-detained",
+    "titleNorm": "shooting near ice detention facility in aurora colorado",
+    "type": "reel",
+    "timestamp": 1784356160958
   }
 ]
