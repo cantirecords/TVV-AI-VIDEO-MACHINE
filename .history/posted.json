@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
-    "titleNorm": "covert dna sample from colorado mans trash revives",
-    "type": "card",
-    "timestamp": 1784321137140
-  },
-  {
-    "url": "https://www.foxnews.com/us/alabama-mom-charged-murder-toddler-bound-left-suffocate-12-hours-cops",
-    "titleNorm": "alabama mom charged with murder after toddler bound",
-    "type": "reel",
-    "timestamp": 1784322928765
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-backs-darline-graham-nordone-primary-replace-lindsey-graham-rcna588075",
-    "titleNorm": "trump backs sen darline graham in primary to",
-    "type": "card",
-    "timestamp": 1784324518425
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "what to know about the canadian and us",
     "type": "card",
@@ -76,5 +58,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1784364125463
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122",
+    "titleNorm": "trump fumes over canadian wildfire smoke and issues",
+    "type": "reel",
+    "timestamp": 1784368518909
   }
 ]
