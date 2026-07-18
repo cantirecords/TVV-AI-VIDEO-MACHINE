@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/elections/homeland-security-secretary-markwayne-mullin-threatens-states-election-rcna588002",
-    "titleNorm": "dhs secretary markwayne mullin threatens states over elections",
-    "type": "reel",
-    "timestamp": 1784362749074
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1784364125463
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122",
     "titleNorm": "trump fumes over canadian wildfire smoke and issues",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "texas dentist accused of fatal mistakes after 4yearold",
     "type": "card",
     "timestamp": 1784404745163
+  },
+  {
+    "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+    "titleNorm": "maps show wildfire smoke forecast air quality alerts",
+    "type": "card",
+    "timestamp": 1784407379089
   }
 ]
