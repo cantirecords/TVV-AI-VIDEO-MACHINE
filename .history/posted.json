@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/data-graphics/canada-wildfire-smoke-map-2026-us-states-air-quality-health-risks-rcna588051",
-    "titleNorm": "maps wildfire smoke forecast for the midwest and",
-    "type": "reel",
-    "timestamp": 1784374214407
-  },
-  {
     "url": "https://www.foxnews.com/us/tennessee-woman-arrested-allegedly-trying-drown-child-backyard-pool",
     "titleNorm": "tennessee woman arrested after allegedly trying to drown",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1784417159673
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/",
+    "titleNorm": "trump threatens canada with higher tariffs over wildfire",
+    "type": "card",
+    "timestamp": 1784418106811
   }
 ]
