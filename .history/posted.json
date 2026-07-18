@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "what to know about the canadian and us",
-    "type": "card",
-    "timestamp": 1784327871822
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-28-year-sentence-lenient-libyan-militant-134862501",
-    "titleNorm": "appeals court says 28year sentence is too lenient",
-    "type": "reel",
-    "timestamp": 1784330206690
-  },
-  {
     "url": "https://www.foxnews.com/us/iran-claims-bold-attack-us-airbase-more-top-headlines",
     "titleNorm": "iran claims bold attack on us airbase and",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "covert dna sample from colorado mans trash revives",
     "type": "card",
     "timestamp": 1784369325365
+  },
+  {
+    "url": "https://www.nbcnews.com/data-graphics/canada-wildfire-smoke-map-2026-us-states-air-quality-health-risks-rcna588051",
+    "titleNorm": "maps wildfire smoke forecast for the midwest and",
+    "type": "reel",
+    "timestamp": 1784374214407
   }
 ]
