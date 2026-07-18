@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bloodhound-k9-unit-helps-bring-georgia-manhunt-end-arrest-suspect-accused-shooting-woman",
-    "titleNorm": "bloodhound k9 unit helps bring georgia manhunt to",
-    "type": "reel",
-    "timestamp": 1784303740401
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/",
     "titleNorm": "worst case scenario for shippers as us and",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "us cancels automatic protections for imperiled animals as",
     "type": "reel",
     "timestamp": 1784346344775
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/",
+    "titleNorm": "ice officer in maine shooting has history of",
+    "type": "card",
+    "timestamp": 1784349495306
   }
 ]
