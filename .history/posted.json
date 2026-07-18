@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/employee-who-works-at-aurora-ice-processing-center-arrested-accused-of-shooting-and-injuring-colorado-protester/",
-    "titleNorm": "colorado ice center employee arrested after allegedly shooting",
-    "type": "card",
-    "timestamp": 1784337820339
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-cancels-automatic-protections-imperiled-animals-critics-warn-134864184",
     "titleNorm": "us cancels automatic protections for imperiled animals as",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "alabama mom charged with murder after toddler bound",
     "type": "card",
     "timestamp": 1784378911552
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appeals-court-28-year-sentence-lenient-libyan-militant-134862501",
+    "titleNorm": "appeals court says 28year sentence is too lenient",
+    "type": "reel",
+    "timestamp": 1784383091804
   }
 ]
