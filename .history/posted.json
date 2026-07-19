@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/rescuers-searching-3-people-after-boat-sank-san-134783333",
-    "titleNorm": "rescuers are still searching for 3 people after",
-    "type": "card",
-    "timestamp": 1784414302989
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "nyc helicopter that crashed killed 6 last year",
     "type": "reel",
     "timestamp": 1784455653055
+  },
+  {
+    "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
+    "titleNorm": "today show security guard fired after intruder enters",
+    "type": "card",
+    "timestamp": 1784459035740
   }
 ]
