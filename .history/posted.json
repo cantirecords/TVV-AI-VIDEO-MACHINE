@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
-    "titleNorm": "today show security guard fired after intruder enters",
-    "type": "card",
-    "timestamp": 1784393010981
-  },
-  {
     "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
     "titleNorm": "onlyfans model seeks dead boyfriends animalcruelty warrant in",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "teleprompter operator made over 100k betting on trump",
     "type": "reel",
     "timestamp": 1784433889338
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-wildlife-officials-confirm-13-foot-gator-killed-orlando-woman-death-roll-river",
+    "titleNorm": "florida wildlife officials confirm 13foot gator killed orlando",
+    "type": "card",
+    "timestamp": 1784437248819
   }
 ]
