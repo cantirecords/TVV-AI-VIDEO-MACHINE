@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-wildlife-officials-confirm-13-foot-gator-killed-orlando-woman-death-roll-river",
-    "titleNorm": "florida wildlife officials confirm 13foot gator killed orlando",
-    "type": "card",
-    "timestamp": 1784437248819
-  },
-  {
     "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
     "titleNorm": "onlyfans model seeks dead boyfriends animalcruelty warrant in",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "lawmakers demand answers after bombshell report of ice",
     "type": "card",
     "timestamp": 1784479423452
+  },
+  {
+    "url": "https://www.cbsnews.com/video/trump-nominees-questioned-about-standing-up-to-political-interference/",
+    "titleNorm": "trump nominees questioned about standing up to political",
+    "type": "reel",
+    "timestamp": 1784482324453
   }
 ]
