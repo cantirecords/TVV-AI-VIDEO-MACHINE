@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-28-year-sentence-lenient-libyan-militant-134862501",
-    "titleNorm": "appeals court says 28year sentence is too lenient",
-    "type": "reel",
-    "timestamp": 1784383091804
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1784384105369
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-backs-darline-graham-nordone-primary-replace-lindsey-graham-rcna588075",
-    "titleNorm": "trump backs sen darline graham in primary to",
-    "type": "reel",
-    "timestamp": 1784388613369
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/federal-appeals-court-rules-new-jerseys-assault-weapons-134861216",
-    "titleNorm": "federal appeals court rules that new jerseys assault",
-    "type": "card",
-    "timestamp": 1784389448327
-  },
-  {
     "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
     "titleNorm": "today show security guard fired after intruder enters",
     "type": "card",
@@ -100,5 +76,11 @@
     "titleNorm": "shooting near ice detention facility in aurora colorado",
     "type": "card",
     "timestamp": 1784424533010
+  },
+  {
+    "url": "https://www.cbsnews.com/news/white-house-teleprompter-operator-kalshi-bets/",
+    "titleNorm": "teleprompter operator made over 100k betting on trump",
+    "type": "reel",
+    "timestamp": 1784433889338
   }
 ]
