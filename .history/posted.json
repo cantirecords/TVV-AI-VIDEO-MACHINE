@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
-    "titleNorm": "onlyfans model seeks dead boyfriends animalcruelty warrant in",
-    "type": "reel",
-    "timestamp": 1784444783478
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/",
-    "titleNorm": "2 us service members killed 1 missing following",
-    "type": "card",
-    "timestamp": 1784446077679
-  },
-  {
     "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
     "titleNorm": "covert dna sample from colorado mans trash revives",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "trump celebrates the world cup as a us",
     "type": "card",
     "timestamp": 1784486896081
+  },
+  {
+    "url": "https://www.foxnews.com/us/texas-dentist-accused-fatal-mistakes-4-year-old-dies-dental-procedure",
+    "titleNorm": "texas dentist accused of fatal mistakes after 4yearold",
+    "type": "reel",
+    "timestamp": 1784490074664
   }
 ]
