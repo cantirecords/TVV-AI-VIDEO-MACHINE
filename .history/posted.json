@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
-    "titleNorm": "today show security guard fired after intruder enters",
-    "type": "card",
-    "timestamp": 1784459035740
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-strikes-irans-revolutionary-guard-attack-killed-troops-134886540",
     "titleNorm": "us strikes irans revolutionary guard over attack that",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "nyc helicopter that crashed killed 6 last year",
     "type": "card",
     "timestamp": 1784500850530
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1784503691506
   }
 ]
