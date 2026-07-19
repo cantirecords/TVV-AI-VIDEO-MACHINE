@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-immediately-fires-new-court-appointed-top-prosecutor-134804513",
-    "titleNorm": "trump immediately fires the new courtappointed top prosecutor",
-    "type": "reel",
-    "timestamp": 1784403680883
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-dentist-accused-fatal-mistakes-4-year-old-dies-dental-procedure",
-    "titleNorm": "texas dentist accused of fatal mistakes after 4yearold",
-    "type": "card",
-    "timestamp": 1784404745163
-  },
-  {
-    "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
-    "titleNorm": "maps show wildfire smoke forecast air quality alerts",
-    "type": "card",
-    "timestamp": 1784407379089
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/lawmakers-demand-answers-after-bombshell-report-ice-officer-134839279",
-    "titleNorm": "lawmakers demand answers after bombshell report of ice",
-    "type": "reel",
-    "timestamp": 1784409244397
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-caps-long-international-students-stay-us-134828523",
-    "titleNorm": "trump administration caps how long international students can",
-    "type": "card",
-    "timestamp": 1784410800769
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/rescuers-searching-3-people-after-boat-sank-san-134783333",
     "titleNorm": "rescuers are still searching for 3 people after",
     "type": "card",
@@ -76,5 +46,11 @@
     "titleNorm": "2 us service members killed 1 missing following",
     "type": "card",
     "timestamp": 1784446077679
+  },
+  {
+    "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
+    "titleNorm": "covert dna sample from colorado mans trash revives",
+    "type": "card",
+    "timestamp": 1784454219172
   }
 ]
