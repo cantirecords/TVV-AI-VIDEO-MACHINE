@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/",
-    "titleNorm": "trump threatens canada with higher tariffs over wildfire",
-    "type": "card",
-    "timestamp": 1784418106811
-  },
-  {
     "url": "https://www.foxnews.com/us/shooting-near-ice-detention-facility-aurora-colorado-leaves-1-injured-person-detained",
     "titleNorm": "shooting near ice detention facility in aurora colorado",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "us strikes irans revolutionary guard over attack that",
     "type": "reel",
     "timestamp": 1784461058987
+  },
+  {
+    "url": "https://www.foxnews.com/us/alabama-mom-charged-murder-toddler-bound-left-suffocate-12-hours-cops",
+    "titleNorm": "alabama mom charged with murder after toddler bound",
+    "type": "card",
+    "timestamp": 1784465533807
   }
 ]
