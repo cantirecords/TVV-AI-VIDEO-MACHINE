@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
-    "titleNorm": "covert dna sample from colorado mans trash revives",
-    "type": "card",
-    "timestamp": 1784454219172
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/nyc-helicopter-crashed-killed-6-year-showed-signs-134826959",
-    "titleNorm": "nyc helicopter that crashed killed 6 last year",
-    "type": "reel",
-    "timestamp": 1784455653055
-  },
-  {
     "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
     "titleNorm": "today show security guard fired after intruder enters",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "tipster charged with murder after police say anonymous",
     "type": "card",
     "timestamp": 1784497292568
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/nyc-helicopter-crashed-killed-6-year-showed-signs-134826959",
+    "titleNorm": "nyc helicopter that crashed killed 6 last year",
+    "type": "card",
+    "timestamp": 1784500850530
   }
 ]
