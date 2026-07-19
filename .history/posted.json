@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/white-house-teleprompter-operator-kalshi-bets/",
-    "titleNorm": "teleprompter operator made over 100k betting on trump",
-    "type": "reel",
-    "timestamp": 1784433889338
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-wildlife-officials-confirm-13-foot-gator-killed-orlando-woman-death-roll-river",
     "titleNorm": "florida wildlife officials confirm 13foot gator killed orlando",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1784475914691
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/lawmakers-demand-answers-after-bombshell-report-ice-officer-134839279",
+    "titleNorm": "lawmakers demand answers after bombshell report of ice",
+    "type": "card",
+    "timestamp": 1784479423452
   }
 ]
