@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shooting-near-ice-detention-facility-aurora-colorado-leaves-1-injured-person-detained",
-    "titleNorm": "shooting near ice detention facility in aurora colorado",
-    "type": "card",
-    "timestamp": 1784424533010
-  },
-  {
     "url": "https://www.cbsnews.com/news/white-house-teleprompter-operator-kalshi-bets/",
     "titleNorm": "teleprompter operator made over 100k betting on trump",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "alabama mom charged with murder after toddler bound",
     "type": "card",
     "timestamp": 1784465533807
+  },
+  {
+    "url": "https://www.cbsnews.com/news/employee-who-works-at-aurora-ice-processing-center-arrested-accused-of-shooting-and-injuring-colorado-protester/",
+    "titleNorm": "colorado ice center employee arrested after allegedly shooting",
+    "type": "reel",
+    "timestamp": 1784469710757
   }
 ]
