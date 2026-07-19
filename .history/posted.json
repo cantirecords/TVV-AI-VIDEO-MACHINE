@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1784417159673
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/",
     "titleNorm": "trump threatens canada with higher tariffs over wildfire",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "today show security guard fired after intruder enters",
     "type": "card",
     "timestamp": 1784459035740
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-strikes-irans-revolutionary-guard-attack-killed-troops-134886540",
+    "titleNorm": "us strikes irans revolutionary guard over attack that",
+    "type": "reel",
+    "timestamp": 1784461058987
   }
 ]
