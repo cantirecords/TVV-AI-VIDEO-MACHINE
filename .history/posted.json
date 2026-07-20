@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/lawmakers-demand-answers-after-bombshell-report-ice-officer-134839279",
-    "titleNorm": "lawmakers demand answers after bombshell report of ice",
-    "type": "card",
-    "timestamp": 1784479423452
-  },
-  {
     "url": "https://www.cbsnews.com/video/trump-nominees-questioned-about-standing-up-to-political-interference/",
     "titleNorm": "trump nominees questioned about standing up to political",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "maps show wildfire smoke forecast air quality alerts",
     "type": "reel",
     "timestamp": 1784520868887
+  },
+  {
+    "url": "https://www.cbsnews.com/news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-uk-charges/",
+    "titleNorm": "social media influencers andrew and tristan tate arrested",
+    "type": "card",
+    "timestamp": 1784525408509
   }
 ]
