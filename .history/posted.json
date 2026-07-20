@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1784533344878
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/5-family-members-found-dead-after-flash-flood-134896454",
     "titleNorm": "5 family members found dead after flash flood",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "federal appeals court rules that new jerseys assault",
     "type": "card",
     "timestamp": 1784575418358
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/justice-department-activates-untested-court-alien-terrorist-deportations-134890428",
+    "titleNorm": "justice department activates untested court for alien terrorist",
+    "type": "reel",
+    "timestamp": 1784578108163
   }
 ]
