@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges",
-    "titleNorm": "andrew tristan tate arrested in miami as uk",
-    "type": "card",
-    "timestamp": 1784512453213
-  },
-  {
     "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
     "titleNorm": "maps show wildfire smoke forecast air quality alerts",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "us cancels automatic protections for imperiled animals as",
     "type": "card",
     "timestamp": 1784555173857
+  },
+  {
+    "url": "https://www.foxnews.com/us/young-airman-killed-heavy-equipment-accident-california-space-force-base",
+    "titleNorm": "young airman killed in heavy equipment accident at",
+    "type": "reel",
+    "timestamp": 1784558397470
   }
 ]
