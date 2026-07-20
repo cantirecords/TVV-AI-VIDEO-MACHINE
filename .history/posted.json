@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
-    "titleNorm": "onlyfans model seeks dead boyfriends animalcruelty warrant in",
-    "type": "card",
-    "timestamp": 1784504784576
-  },
-  {
     "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges",
     "titleNorm": "andrew tristan tate arrested in miami as uk",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "covert dna sample from colorado mans trash revives",
     "type": "card",
     "timestamp": 1784547333911
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-cancels-automatic-protections-imperiled-animals-critics-warn-134864184",
+    "titleNorm": "us cancels automatic protections for imperiled animals as",
+    "type": "card",
+    "timestamp": 1784555173857
   }
 ]
