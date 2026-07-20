@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
-    "titleNorm": "maps show wildfire smoke forecast air quality alerts",
-    "type": "reel",
-    "timestamp": 1784520868887
-  },
-  {
     "url": "https://www.cbsnews.com/news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-uk-charges/",
     "titleNorm": "social media influencers andrew and tristan tate arrested",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "father and son arrested after holding 2 forest",
     "type": "card",
     "timestamp": 1784562262236
+  },
+  {
+    "url": "https://www.foxnews.com/us/colombian-nationals-california-carjacking-mercedes",
+    "titleNorm": "2 colombian nationals arrested in stolen mercedes linked",
+    "type": "card",
+    "timestamp": 1784567968218
   }
 ]
