@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1784503691506
-  },
-  {
     "url": "https://www.foxnews.com/us/onlyfans-model-seeks-dead-boyfriends-animal-cruelty-warrant-self-defense-murder-trial-docs",
     "titleNorm": "onlyfans model seeks dead boyfriends animalcruelty warrant in",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1784546500330
+  },
+  {
+    "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
+    "titleNorm": "covert dna sample from colorado mans trash revives",
+    "type": "card",
+    "timestamp": 1784547333911
   }
 ]
