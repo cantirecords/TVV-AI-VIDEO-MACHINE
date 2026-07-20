@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/trump-nominees-questioned-about-standing-up-to-political-interference/",
-    "titleNorm": "trump nominees questioned about standing up to political",
-    "type": "reel",
-    "timestamp": 1784482324453
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-iran-blown-past-red-lines-lurch-back-134870539",
-    "titleNorm": "the us and iran have blown past red",
-    "type": "card",
-    "timestamp": 1784483276805
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-celebrates-world-cup-us-victory-prepares-present-134886637",
-    "titleNorm": "trump celebrates the world cup as a us",
-    "type": "card",
-    "timestamp": 1784486896081
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-dentist-accused-fatal-mistakes-4-year-old-dies-dental-procedure",
-    "titleNorm": "texas dentist accused of fatal mistakes after 4yearold",
-    "type": "reel",
-    "timestamp": 1784490074664
-  },
-  {
     "url": "https://www.cbsnews.com/news/mark-warner-vote-against-jay-clayton-dni-trump-pick/",
     "titleNorm": "mark warner says he039ll vote against trump pick",
     "type": "card",
@@ -76,5 +52,11 @@
     "titleNorm": "social media influencers andrew and tristan tate arrested",
     "type": "card",
     "timestamp": 1784525408509
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1784533344878
   }
 ]
