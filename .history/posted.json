@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/young-airman-killed-heavy-equipment-accident-california-space-force-base",
-    "titleNorm": "young airman killed in heavy equipment accident at",
-    "type": "reel",
-    "timestamp": 1784558397470
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/father-son-arrested-after-holding-2-forest-service-134878503",
-    "titleNorm": "father and son arrested after holding 2 forest",
-    "type": "card",
-    "timestamp": 1784562262236
-  },
-  {
     "url": "https://www.foxnews.com/us/colombian-nationals-california-carjacking-mercedes",
     "titleNorm": "2 colombian nationals arrested in stolen mercedes linked",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "memphis woman charged with firstdegree murder after shooting",
     "type": "card",
     "timestamp": 1784598513568
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/attempt-save-struggling-swimmer-leaves-5-dead-ohio-134927093",
+    "titleNorm": "attempt to save a struggling swimmer leaves 5",
+    "type": "reel",
+    "timestamp": 1784606133722
   }
 ]
