@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/colombian-nationals-california-carjacking-mercedes",
-    "titleNorm": "2 colombian nationals arrested in stolen mercedes linked",
-    "type": "card",
-    "timestamp": 1784567968218
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/texas-hill-country-floods-test-new-warning-systems-134871128",
-    "titleNorm": "texas hill country floods test new warning systems",
-    "type": "reel",
-    "timestamp": 1784572180792
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-appeals-court-rules-new-jerseys-assault-weapons-134861216",
     "titleNorm": "federal appeals court rules that new jerseys assault",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "us cancels automatic protections for imperiled animals as",
     "type": "card",
     "timestamp": 1784609904822
+  },
+  {
+    "url": "https://www.foxnews.com/us/jiu-jitsu-instructor-pastor-accused-horrific-crimes-against-children-exclusive-california-enclave",
+    "titleNorm": "jiujitsu instructor and pastor accused of horrific crimes",
+    "type": "reel",
+    "timestamp": 1784617637405
   }
 ]
