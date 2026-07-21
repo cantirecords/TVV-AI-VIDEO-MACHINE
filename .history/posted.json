@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/federal-appeals-court-rules-new-jerseys-assault-weapons-134861216",
-    "titleNorm": "federal appeals court rules that new jerseys assault",
-    "type": "card",
-    "timestamp": 1784575418358
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/justice-department-activates-untested-court-alien-terrorist-deportations-134890428",
     "titleNorm": "justice department activates untested court for alien terrorist",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "jiujitsu instructor and pastor accused of horrific crimes",
     "type": "reel",
     "timestamp": 1784617637405
+  },
+  {
+    "url": "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/",
+    "titleNorm": "trump encourages darline graham to run for lindsey",
+    "type": "card",
+    "timestamp": 1784619130907
   }
 ]
