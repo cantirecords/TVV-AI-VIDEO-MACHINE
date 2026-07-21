@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/justice-department-activates-untested-court-alien-terrorist-deportations-134890428",
-    "titleNorm": "justice department activates untested court for alien terrorist",
-    "type": "reel",
-    "timestamp": 1784578108163
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415",
-    "titleNorm": "sen darline graham says she is running for",
-    "type": "card",
-    "timestamp": 1784581221459
-  },
-  {
-    "url": "https://www.nbcnews.com/business/media/judge-puts-temporary-pause-paramount-warner-bros-merger-rcna587804",
-    "titleNorm": "judge pauses paramountwarner merger",
-    "type": "reel",
-    "timestamp": 1784583714630
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1784584809631
-  },
-  {
     "url": "https://www.foxnews.com/us/tucson-mass-shooting-residents-concerned-ongoing-rampant-violence-pols-debating-gun-rights",
     "titleNorm": "tucson mass shooting has residents concerned over ongoing",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "trump encourages darline graham to run for lindsey",
     "type": "card",
     "timestamp": 1784619130907
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-strikes-irans-revolutionary-guard-attack-killed-troops-134886540",
+    "titleNorm": "us strikes iran over troop deaths as israel",
+    "type": "card",
+    "timestamp": 1784628834688
   }
 ]
