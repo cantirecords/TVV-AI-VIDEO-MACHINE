@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tucson-mass-shooting-residents-concerned-ongoing-rampant-violence-pols-debating-gun-rights",
-    "titleNorm": "tucson mass shooting has residents concerned over ongoing",
-    "type": "card",
-    "timestamp": 1784588430326
-  },
-  {
-    "url": "https://www.foxnews.com/us/fbi-alleges-suspect-deployed-incendiary-device-outside-federal-building",
-    "titleNorm": "army veteran in custody after launching incendiary attack",
-    "type": "reel",
-    "timestamp": 1784590363605
-  },
-  {
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "newcastle liverpool and england legend keegan dies",
-    "type": "card",
-    "timestamp": 1784591810605
-  },
-  {
     "url": "https://www.foxnews.com/us/memphis-woman-charged-first-degree-murder-after-shooting-man-found-hiding-under-her-childs-bed-docs",
     "titleNorm": "memphis woman charged with firstdegree murder after shooting",
     "type": "card",
@@ -58,5 +40,11 @@
     "titleNorm": "supreme court will review alaska039s bid to seize",
     "type": "reel",
     "timestamp": 1784630350286
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1784636335336
   }
 ]
