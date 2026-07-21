@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jiu-jitsu-instructor-pastor-accused-horrific-crimes-against-children-exclusive-california-enclave",
-    "titleNorm": "jiujitsu instructor and pastor accused of horrific crimes",
-    "type": "reel",
-    "timestamp": 1784617637405
-  },
-  {
-    "url": "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/",
-    "titleNorm": "trump encourages darline graham to run for lindsey",
-    "type": "card",
-    "timestamp": 1784619130907
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-strikes-irans-revolutionary-guard-attack-killed-troops-134886540",
     "titleNorm": "us strikes iran over troop deaths as israel",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "gunman charged after wounding 9 in tucson nightlife",
     "type": "card",
     "timestamp": 1784657334976
+  },
+  {
+    "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
+    "titleNorm": "today suspect caught on camera before hate crime",
+    "type": "reel",
+    "timestamp": 1784664058056
   }
 ]
