@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-strikes-irans-revolutionary-guard-attack-killed-troops-134886540",
-    "titleNorm": "us strikes iran over troop deaths as israel",
-    "type": "card",
-    "timestamp": 1784628834688
-  },
-  {
-    "url": "https://www.cbsnews.com/news/supreme-court-alaska-seize-pilot-plane-6-pack-beer/",
-    "titleNorm": "supreme court will review alaska039s bid to seize",
-    "type": "reel",
-    "timestamp": 1784630350286
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "5 family members found dead after flash flood",
     "type": "card",
     "timestamp": 1784670851619
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-military-identifies-soldier-killed-disarming-drone-iraq-134948419",
+    "titleNorm": "us military identifies soldier killed disarming a drone",
+    "type": "card",
+    "timestamp": 1784673856052
   }
 ]
