@@ -64,5 +64,11 @@
     "titleNorm": "trump administration says its deferring 1b in medicaid",
     "type": "reel",
     "timestamp": 1784704170673
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/6600-noncitizens-registered-vote-nj-software-error-governor-says-rcna588524",
+    "titleNorm": "6600 noncitizens were registered to vote in nj",
+    "type": "card",
+    "timestamp": 1784705487516
   }
 ]
