@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/",
-    "titleNorm": "3 soldiers killed in iran strike on base",
-    "type": "card",
-    "timestamp": 1784715231232
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-rejects-bidens-bid-block-release-recordings-134944724",
-    "titleNorm": "appeals court rejects biden bid to block release",
-    "type": "reel",
-    "timestamp": 1784716757440
-  },
-  {
     "url": "https://www.cbsnews.com/news/lung-cancer-non-smoking-women/",
     "titleNorm": "lung cancer in nonsmoking women a women039s health",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "texas real estate agent suspected in nearly 100stab",
     "type": "card",
     "timestamp": 1784757358570
+  },
+  {
+    "url": "https://www.foxnews.com/us/woman-attacked-brown-bear-hiking-friend-3-dogs-alaska-state-park",
+    "titleNorm": "woman attacked by brown bear while hiking with",
+    "type": "card",
+    "timestamp": 1784760783660
   }
 ]
