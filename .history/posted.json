@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
-    "titleNorm": "today suspect caught on camera before hate crime",
-    "type": "reel",
-    "timestamp": 1784664058056
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/alaska-seize-pilots-plane-6-pack-beer-supreme-134926311",
-    "titleNorm": "alaska wants to seize pilots plane over a",
-    "type": "card",
-    "timestamp": 1784664779323
-  },
-  {
-    "url": "https://www.foxnews.com/us/lee-gilley-begs-italian-protection-alleged-squatter-targets-home-pregnant-wife-killed",
-    "titleNorm": "lee gilley begs for italian protection as alleged",
-    "type": "reel",
-    "timestamp": 1784670027383
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/5-family-members-found-dead-after-flash-flood-134896454",
-    "titleNorm": "5 family members found dead after flash flood",
-    "type": "card",
-    "timestamp": 1784670851619
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-military-identifies-soldier-killed-disarming-drone-iraq-134948419",
     "titleNorm": "us military identifies soldier killed disarming a drone",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "6600 noncitizens were registered to vote in nj",
     "type": "card",
     "timestamp": 1784705487516
+  },
+  {
+    "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/",
+    "titleNorm": "3 soldiers killed in iran strike on base",
+    "type": "card",
+    "timestamp": 1784715231232
   }
 ]
