@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-rejects-bidens-bid-block-release-recordings-134944724",
-    "titleNorm": "appeals court rejects biden bid to block release",
-    "type": "reel",
-    "timestamp": 1784656474482
-  },
-  {
-    "url": "https://www.foxnews.com/us/gunman-charged-wounding-9-tucson-nightlife-shooting-cop-takes-him",
-    "titleNorm": "gunman charged after wounding 9 in tucson nightlife",
-    "type": "card",
-    "timestamp": 1784657334976
-  },
-  {
     "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
     "titleNorm": "today suspect caught on camera before hate crime",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "mexican man killed after ice encounter in florida",
     "type": "card",
     "timestamp": 1784696271530
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-deferring-1b-medicaid-payments-california-minnesota-134961047",
+    "titleNorm": "trump administration says its deferring 1b in medicaid",
+    "type": "reel",
+    "timestamp": 1784704170673
   }
 ]
