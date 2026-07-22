@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/texas-hill-country-floods-test-new-warning-systems-134871128",
-    "titleNorm": "texas hill country floods test new warning systems",
-    "type": "card",
-    "timestamp": 1784650504283
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/appeals-court-rejects-bidens-bid-block-release-recordings-134944724",
     "titleNorm": "appeals court rejects biden bid to block release",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "pentagon identifies army soldier killed in action during",
     "type": "reel",
     "timestamp": 1784692643893
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mexican-man-killed-after-ice-encounter-florida-vacation-134964906",
+    "titleNorm": "mexican man killed after ice encounter in florida",
+    "type": "card",
+    "timestamp": 1784696271530
   }
 ]
