@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pentagon-identifies-army-soldier-killed-action-iraq-operation",
-    "titleNorm": "pentagon identifies army soldier killed in action during",
-    "type": "reel",
-    "timestamp": 1784692643893
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/mexican-man-killed-after-ice-encounter-florida-vacation-134964906",
     "titleNorm": "mexican man killed after ice encounter in florida",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "child actor kaylee hottle killed in car crash",
     "type": "card",
     "timestamp": 1784732081999
+  },
+  {
+    "url": "https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660",
+    "titleNorm": "trump approves landmark ussaudi nuclear deal",
+    "type": "card",
+    "timestamp": 1784736813793
   }
 ]
