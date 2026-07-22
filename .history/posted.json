@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1784683624655
-  },
-  {
     "url": "https://www.foxnews.com/us/pentagon-identifies-army-soldier-killed-action-iraq-operation",
     "titleNorm": "pentagon identifies army soldier killed in action during",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "lung cancer in nonsmoking women a women039s health",
     "type": "card",
     "timestamp": 1784722891077
+  },
+  {
+    "url": "https://www.foxnews.com/us/american-tourists-stabbed-outside-athens-acropolis-police-detain-suspect-apparent-random-attack",
+    "titleNorm": "american tourists stabbed outside athens acropolis as police",
+    "type": "reel",
+    "timestamp": 1784730902229
   }
 ]
