@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-military-identifies-soldier-killed-disarming-drone-iraq-134948419",
-    "titleNorm": "us military identifies soldier killed disarming a drone",
-    "type": "card",
-    "timestamp": 1784673856052
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/attempt-save-struggling-swimmer-leaves-5-dead-ohio-134927093",
-    "titleNorm": "attempt to save a struggling swimmer leaves 5",
-    "type": "reel",
-    "timestamp": 1784676586008
-  },
-  {
-    "url": "https://www.foxnews.com/us/sharpton-offers-50k-nolan-wells-case-arrest-lawyer-release-autopsy-naacp",
-    "titleNorm": "sharpton offers 50k for nolan wells case arrest",
-    "type": "card",
-    "timestamp": 1784677624020
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -58,5 +40,11 @@
     "titleNorm": "appeals court rejects biden bid to block release",
     "type": "reel",
     "timestamp": 1784716757440
+  },
+  {
+    "url": "https://www.cbsnews.com/news/lung-cancer-non-smoking-women/",
+    "titleNorm": "lung cancer in nonsmoking women a women039s health",
+    "type": "card",
+    "timestamp": 1784722891077
   }
 ]
