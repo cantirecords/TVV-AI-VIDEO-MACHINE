@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/woman-attacked-brown-bear-hiking-friend-3-dogs-alaska-state-park",
-    "titleNorm": "woman attacked by brown bear while hiking with",
-    "type": "card",
-    "timestamp": 1784760783660
-  },
-  {
     "url": "https://www.foxnews.com/us/army-veteran-faces-arson-charge-fire-attack-outside-nyc-federal-building",
     "titleNorm": "army veteran faces arson charge after attack outside",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "as the president touts trump accounts some families",
     "type": "reel",
     "timestamp": 1784803254131
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
+    "titleNorm": "us boosts capacity as the iran war spreads",
+    "type": "card",
+    "timestamp": 1784804353864
   }
 ]
