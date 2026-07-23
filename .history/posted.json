@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/us-soldier-believed-killed-jordan-attack-remembered-living-life-courage-selflessness",
-    "titleNorm": "us soldier killed in jordan attack remembered as",
-    "type": "card",
-    "timestamp": 1784771183852
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/passengers-texas-ice-shooting-officers-danger-driver-parking-135001458",
     "titleNorm": "passengers in ice shooting say officers not in",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "tropical storm bertha makes landfall in louisiana and",
     "type": "card",
     "timestamp": 1784809372339
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-attend-dignified-transfer-4-us-service-members-134972991",
+    "titleNorm": "trump will attend the dignified transfer of 4",
+    "type": "reel",
+    "timestamp": 1784817702416
   }
 ]
