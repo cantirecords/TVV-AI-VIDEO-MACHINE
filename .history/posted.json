@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-hypes-mike-collins-senate-campaign-georgia-rally-rcna588685",
-    "titleNorm": "trump hypes mike collins senate campaign at georgia",
-    "type": "reel",
-    "timestamp": 1784789225111
-  },
-  {
     "url": "https://www.foxnews.com/us/teachers-who-once-dated-share-child-arrested-after-classroom-argument-spiraled-violence-police",
     "titleNorm": "teachers who once dated and share child arrested",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "exclusive woman who stole 17m meant for hurricane",
     "type": "card",
     "timestamp": 1784830033957
+  },
+  {
+    "url": "https://www.foxnews.com/us/vance-boelter-sentenced-shootings-minnesota-lawmakers-spouses",
+    "titleNorm": "vance boelter sentenced for shootings of minnesota lawmakers",
+    "type": "reel",
+    "timestamp": 1784836560476
   }
 ]
