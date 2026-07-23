@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/lung-cancer-non-smoking-women/",
-    "titleNorm": "lung cancer in nonsmoking women a women039s health",
-    "type": "card",
-    "timestamp": 1784722891077
-  },
-  {
     "url": "https://www.foxnews.com/us/american-tourists-stabbed-outside-athens-acropolis-police-detain-suspect-apparent-random-attack",
     "titleNorm": "american tourists stabbed outside athens acropolis as police",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "trump attends dignified transfer of 4 service members",
     "type": "card",
     "timestamp": 1784764456958
+  },
+  {
+    "url": "https://www.foxnews.com/us/us-soldier-believed-killed-jordan-attack-remembered-living-life-courage-selflessness",
+    "titleNorm": "us soldier killed in jordan attack remembered as",
+    "type": "card",
+    "timestamp": 1784771183852
   }
 ]
