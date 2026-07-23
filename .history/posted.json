@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/passengers-texas-ice-shooting-officers-danger-driver-parking-135001458",
-    "titleNorm": "passengers in ice shooting say officers not in",
-    "type": "reel",
-    "timestamp": 1784778867713
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "trump flexes power in arizona primaries as democrats",
     "type": "card",
     "timestamp": 1784818882853
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/james-woolsey-cia-director-clinton-administration-dies-84-135000850",
+    "titleNorm": "r james woolsey cia director during the clinton",
+    "type": "card",
+    "timestamp": 1784824693382
   }
 ]
