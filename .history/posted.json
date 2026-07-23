@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/american-tourists-stabbed-outside-athens-acropolis-police-detain-suspect-apparent-random-attack",
-    "titleNorm": "american tourists stabbed outside athens acropolis as police",
-    "type": "reel",
-    "timestamp": 1784730902229
-  },
-  {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/child-actor-kaylee-hottle-killed-car-crash-rcna588575",
-    "titleNorm": "child actor kaylee hottle killed in car crash",
-    "type": "card",
-    "timestamp": 1784732081999
-  },
-  {
     "url": "https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660",
     "titleNorm": "trump approves landmark ussaudi nuclear deal",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "us soldier killed in jordan attack remembered as",
     "type": "card",
     "timestamp": 1784771183852
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/passengers-texas-ice-shooting-officers-danger-driver-parking-135001458",
+    "titleNorm": "passengers in ice shooting say officers not in",
+    "type": "reel",
+    "timestamp": 1784778867713
   }
 ]
