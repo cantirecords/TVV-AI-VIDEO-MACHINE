@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
-    "titleNorm": "us boosts capacity as the iran war spreads",
-    "type": "card",
-    "timestamp": 1784804353864
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tropical-storm-bertha-makes-landfall-louisiana-moves-texas-135009096",
     "titleNorm": "tropical storm bertha makes landfall in louisiana and",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "liberal justice elena kagan says the supreme court",
     "type": "card",
     "timestamp": 1784846745871
+  },
+  {
+    "url": "https://www.foxnews.com/us/bodycam-shows-connecticut-officer-repeatedly-ordering-bat-wielding-suspect-stop-fatal-shooting",
+    "titleNorm": "bodycam shows connecticut officer repeatedly ordering batwielding suspect",
+    "type": "reel",
+    "timestamp": 1784849316777
   }
 ]
