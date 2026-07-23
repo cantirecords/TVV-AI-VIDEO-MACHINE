@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/president-touts-trump-accounts-families-waiting-babys-1000-134972546",
-    "titleNorm": "as the president touts trump accounts some families",
-    "type": "reel",
-    "timestamp": 1784803254131
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
     "titleNorm": "us boosts capacity as the iran war spreads",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "protests erupt after fatal police shooting of man",
     "type": "card",
     "timestamp": 1784843783580
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/liberal-justice-elena-kagan-supreme-court-rubber-stamp-135036312",
+    "titleNorm": "liberal justice elena kagan says the supreme court",
+    "type": "card",
+    "timestamp": 1784846745871
   }
 ]
