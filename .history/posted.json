@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-dead-flash-floods-caused-heavy-rain-west-135032528",
-    "titleNorm": "2 dead in flash floods caused by heavy",
-    "type": "card",
-    "timestamp": 1784856668396
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "next stop trump station administration wants to rename",
     "type": "card",
     "timestamp": 1784895110947
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-saudi-nuclear-pact-requires-kingdom-normalize-israel-135014171",
+    "titleNorm": "trump says saudi nuclear pact requires kingdom to",
+    "type": "reel",
+    "timestamp": 1784902867914
   }
 ]
