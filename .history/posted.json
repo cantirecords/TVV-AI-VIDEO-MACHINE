@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-bertha-makes-landfall-louisiana-moves-texas-135009096",
-    "titleNorm": "tropical storm bertha makes landfall in louisiana and",
-    "type": "card",
-    "timestamp": 1784809372339
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-attend-dignified-transfer-4-us-service-members-134972991",
     "titleNorm": "trump will attend the dignified transfer of 4",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "man shot and killed by police in madison",
     "type": "card",
     "timestamp": 1784850614201
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-dead-flash-floods-caused-heavy-rain-west-135032528",
+    "titleNorm": "2 dead in flash floods caused by heavy",
+    "type": "card",
+    "timestamp": 1784856668396
   }
 ]
