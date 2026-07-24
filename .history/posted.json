@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-attend-dignified-transfer-4-us-service-members-134972991",
-    "titleNorm": "trump will attend the dignified transfer of 4",
-    "type": "reel",
-    "timestamp": 1784817702416
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-flexes-power-arizona-primaries-democrats-dodge-far-left-upset-more-top-headlines",
-    "titleNorm": "trump flexes power in arizona primaries as democrats",
-    "type": "card",
-    "timestamp": 1784818882853
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/james-woolsey-cia-director-clinton-administration-dies-84-135000850",
     "titleNorm": "r james woolsey cia director during the clinton",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "2 dead in flash floods caused by heavy",
     "type": "card",
     "timestamp": 1784856668396
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1784865231772
   }
 ]
