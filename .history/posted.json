@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-saudi-nuclear-pact-requires-kingdom-normalize-israel-135014171",
-    "titleNorm": "trump says saudi nuclear pact requires kingdom to",
-    "type": "reel",
-    "timestamp": 1784902867914
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/liberal-justice-elena-kagan-supreme-court-rubber-stamp-135036312",
-    "titleNorm": "liberal justice elena kagan says the supreme court",
-    "type": "card",
-    "timestamp": 1784904234028
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-woman-run-wanted-murder-relied-network-alleged-accomplices-evade-capture-cops",
     "titleNorm": "florida woman on the run and wanted for",
     "type": "reel",
@@ -82,5 +70,11 @@
     "titleNorm": "hurricane fausto strengthens into category 2 storm",
     "type": "card",
     "timestamp": 1784943037877
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/ice-arrest-ukrainian-woman-sfo-captured-video-rcna589125",
+    "titleNorm": "ice arrest of ukrainian woman at sfo captured",
+    "type": "reel",
+    "timestamp": 1784951293069
   }
 ]
