@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/marvelous-mrs-maisel-set-decorator-slain-husband-found-dead-family-scarred-home-killing",
-    "titleNorm": "marvelous mrs maisel set decorator slain husband found",
-    "type": "reel",
-    "timestamp": 1784961518063
-  },
-  {
     "url": "https://www.foxnews.com/us/wisconsin-protester-brands-madison-corrupt-city-during-anti-police-tirade-following-deadly-shooting",
     "titleNorm": "wisconsin protester brands madison as corrupt city during",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "small businesses sue trump administration to stop latest",
     "type": "card",
     "timestamp": 1785001773916
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/8-found-dead-michigan-home-after-fire-gunshot-135074112",
+    "titleNorm": "8 found dead in michigan home after fire",
+    "type": "card",
+    "timestamp": 1785005441296
   }
 ]
