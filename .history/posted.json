@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/hurricane-fausto-strengthens-category-2-storm-expected-approach-135045685",
-    "titleNorm": "hurricane fausto strengthens into category 2 storm",
-    "type": "card",
-    "timestamp": 1784943037877
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/ice-arrest-ukrainian-woman-sfo-captured-video-rcna589125",
     "titleNorm": "ice arrest of ukrainian woman at sfo captured",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "substance in work van of man killed by",
     "type": "card",
     "timestamp": 1784981081693
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
+    "titleNorm": "4th firefighter dies from injuries in western colorado",
+    "type": "reel",
+    "timestamp": 1784988607495
   }
 ]
