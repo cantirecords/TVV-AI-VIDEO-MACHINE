@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1784916007919
-  },
-  {
-    "url": "https://www.foxnews.com/us/multiple-injured-floatplane-emergency-landing-catches-fire-off-washington-coast",
-    "titleNorm": "multiple injured after floatplane makes emergency landing catches",
-    "type": "card",
-    "timestamp": 1784916635130
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-returns-white-house-correspondents-dinner-after-alleged-assassination-attempt-more-top-headlines",
     "titleNorm": "trump returns to white house correspondents dinner after",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "eleven indicted in alleged texas smuggling scheme that",
     "type": "card",
     "timestamp": 1784955321062
+  },
+  {
+    "url": "https://www.foxnews.com/us/marvelous-mrs-maisel-set-decorator-slain-husband-found-dead-family-scarred-home-killing",
+    "titleNorm": "marvelous mrs maisel set decorator slain husband found",
+    "type": "reel",
+    "timestamp": 1784961518063
   }
 ]
