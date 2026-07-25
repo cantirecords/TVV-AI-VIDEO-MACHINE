@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/eleven-indicted-alleged-texas-smuggling-scheme-left-7-migrants-dead-shipping-container",
-    "titleNorm": "eleven indicted in alleged texas smuggling scheme that",
-    "type": "card",
-    "timestamp": 1784955321062
-  },
-  {
     "url": "https://www.foxnews.com/us/marvelous-mrs-maisel-set-decorator-slain-husband-found-dead-family-scarred-home-killing",
     "titleNorm": "marvelous mrs maisel set decorator slain husband found",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "california trans suspect arrested in mothers killing after",
     "type": "card",
     "timestamp": 1784997880049
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-returns-white-house-correspondents-dinner-after-alleged-assassination-attempt-more-top-headlines",
+    "titleNorm": "trump returns to white house correspondents dinner after",
+    "type": "reel",
+    "timestamp": 1785000627614
   }
 ]
