@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/georgia-high-school-shooting-suspect-colt-gray-changes-plea-guilty-faces-life-prison",
-    "titleNorm": "georgia high school shooting suspect colt gray changes",
-    "type": "reel",
-    "timestamp": 1784935999744
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/family-man-shot-killed-madison-police-exceptional-135065459",
     "titleNorm": "family of a man who was shot and",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1784977252536
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156",
+    "titleNorm": "trump orders signage warning visitors of inaccurate information",
+    "type": "reel",
+    "timestamp": 1784979807278
   }
 ]
