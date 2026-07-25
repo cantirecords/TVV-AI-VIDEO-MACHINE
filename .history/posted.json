@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/family-man-shot-killed-madison-police-exceptional-135065459",
-    "titleNorm": "family of a man who was shot and",
-    "type": "card",
-    "timestamp": 1784937314545
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/hurricane-fausto-strengthens-category-2-storm-expected-approach-135045685",
     "titleNorm": "hurricane fausto strengthens into category 2 storm",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "trump orders signage warning visitors of inaccurate information",
     "type": "reel",
     "timestamp": 1784979807278
+  },
+  {
+    "url": "https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/",
+    "titleNorm": "substance in work van of man killed by",
+    "type": "card",
+    "timestamp": 1784981081693
   }
 ]
