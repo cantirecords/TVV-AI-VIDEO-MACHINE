@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-returns-white-house-correspondents-dinner-after-alleged-assassination-attempt-more-top-headlines",
-    "titleNorm": "trump returns to white house correspondents dinner after",
-    "type": "reel",
-    "timestamp": 1784922935804
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "a year after deadly jet crash at bangladesh",
-    "type": "card",
-    "timestamp": 1784923801943
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -70,5 +58,11 @@
     "titleNorm": "wisconsin protester brands madison as corrupt city during",
     "type": "card",
     "timestamp": 1784963380195
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/democrats-reshape-primary-calendar-politics-desk-rcna589142",
+    "titleNorm": "democrats reshape their primary calendar from the politics",
+    "type": "card",
+    "timestamp": 1784971609237
   }
 ]
