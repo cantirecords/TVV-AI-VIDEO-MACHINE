@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/ice-arrest-ukrainian-woman-sfo-captured-video-rcna589125",
-    "titleNorm": "ice arrest of ukrainian woman at sfo captured",
-    "type": "reel",
-    "timestamp": 1784951293069
-  },
-  {
     "url": "https://www.foxnews.com/us/eleven-indicted-alleged-texas-smuggling-scheme-left-7-migrants-dead-shipping-container",
     "titleNorm": "eleven indicted in alleged texas smuggling scheme that",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1784993882663
+  },
+  {
+    "url": "https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/",
+    "titleNorm": "wildfires in france and spain force more than",
+    "type": "card",
+    "timestamp": 1784994946499
   }
 ]
