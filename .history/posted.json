@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156",
-    "titleNorm": "trump orders signage warning visitors of inaccurate information",
-    "type": "reel",
-    "timestamp": 1784979807278
-  },
-  {
     "url": "https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/",
     "titleNorm": "substance in work van of man killed by",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "nyc 5alarm fire injures at least 17 firefighters",
     "type": "reel",
     "timestamp": 1785022315041
+  },
+  {
+    "url": "https://www.foxnews.com/us/cajun-navy-leader-warns-nolan-wells-search-area-deadly-washing-machine-currents-lots-drownings",
+    "titleNorm": "cajun navy leader warns nolan wells search area",
+    "type": "card",
+    "timestamp": 1785023483247
   }
 ]
