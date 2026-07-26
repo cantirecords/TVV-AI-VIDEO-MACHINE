@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/liberal-justice-elena-kagan-supreme-court-rubber-stamp-135036312",
-    "titleNorm": "liberal justice elena kagan says the supreme court",
-    "type": "reel",
-    "timestamp": 1785038848827
-  },
-  {
     "url": "https://www.foxnews.com/us/americas-most-wanted-ex-cop-fugitive-returned-after-20-years-run-face-murder-child-sex-charges",
     "titleNorm": "americas most wanted excop fugitive returned after 20",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1785081265503
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
+    "titleNorm": "students lose spots at howard university over tuition",
+    "type": "card",
+    "timestamp": 1785084328954
   }
 ]
