@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/substance-work-van-ice-shooting-houston-tested-negative-for-drugs-prosecutor/",
-    "titleNorm": "substance in work van of man killed by",
-    "type": "card",
-    "timestamp": 1784981081693
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
     "titleNorm": "4th firefighter dies from injuries in western colorado",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "cajun navy leader warns nolan wells search area",
     "type": "card",
     "timestamp": 1785023483247
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
+    "titleNorm": "students lose spots at howard university over tuition",
+    "type": "card",
+    "timestamp": 1785030301650
   }
 ]
