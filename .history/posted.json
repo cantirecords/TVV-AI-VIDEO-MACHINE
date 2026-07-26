@@ -94,5 +94,11 @@
     "titleNorm": "what we know so far about the berlin",
     "type": "reel",
     "timestamp": 1785101193361
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1785102495500
   }
 ]
