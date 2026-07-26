@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1785049862722
-  },
-  {
     "url": "https://www.foxnews.com/us/illinois-worker-trapped-gas-station-sign-fire-truck-ladders-reach",
     "titleNorm": "illinois worker spent over six hours trapped in",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "mike waltz dismisses concerns over depleted us weapons",
     "type": "card",
     "timestamp": 1785092081214
+  },
+  {
+    "url": "https://www.cbsnews.com/news/appeals-court-upholds-ruling-blocking-trump-order-federal-voter-list/",
+    "titleNorm": "us appeals court upholds ruling blocking trump039s order",
+    "type": "reel",
+    "timestamp": 1785095055640
   }
 ]
