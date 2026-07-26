@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/eleven-indicted-alleged-texas-smuggling-scheme-left-7-migrants-dead-shipping-container",
-    "titleNorm": "eleven indicted in alleged texas smuggling scheme that",
-    "type": "reel",
-    "timestamp": 1785014277411
-  },
-  {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-judge-shields-911-call-autopsy-photos-moms-triple-murder-trial",
-    "titleNorm": "lindsay clancy judge shields 911 call autopsy photos",
-    "type": "card",
-    "timestamp": 1785015815274
-  },
-  {
     "url": "https://www.nbcnews.com/select/shopping/amazon-fire-tv-stick-deal-of-the-day-2026-rcna589132",
     "titleNorm": "the new amazon fire tv stick hd is",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "illinois worker spent over six hours trapped in",
     "type": "card",
     "timestamp": 1785053208196
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
+    "titleNorm": "oregon firefighters brace for windy and hot weather",
+    "type": "reel",
+    "timestamp": 1785061119952
   }
 ]
