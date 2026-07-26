@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cajun-navy-leader-warns-nolan-wells-search-area-deadly-washing-machine-currents-lots-drownings",
-    "titleNorm": "cajun navy leader warns nolan wells search area",
-    "type": "card",
-    "timestamp": 1785023483247
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
     "titleNorm": "students lose spots at howard university over tuition",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1785066308581
+  },
+  {
+    "url": "https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead",
+    "titleNorm": "armed man in tactical vest emerges from exploding",
+    "type": "card",
+    "timestamp": 1785066866782
   }
 ]
