@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/americas-most-wanted-ex-cop-fugitive-returned-after-20-years-run-face-murder-child-sex-charges",
-    "titleNorm": "americas most wanted excop fugitive returned after 20",
-    "type": "card",
-    "timestamp": 1785043241243
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "students lose spots at howard university over tuition",
     "type": "card",
     "timestamp": 1785084328954
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-litigator-gets-6-years-prison-tax-135067211",
+    "titleNorm": "supreme court litigator gets prison for tax evasion",
+    "type": "reel",
+    "timestamp": 1785087137824
   }
 ]
