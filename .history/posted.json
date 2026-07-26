@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-trans-suspect-arrested-mothers-killing-neighbor-recalls-heated-argument",
-    "titleNorm": "california trans suspect arrested in mothers killing after",
-    "type": "card",
-    "timestamp": 1784997880049
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-returns-white-house-correspondents-dinner-after-alleged-assassination-attempt-more-top-headlines",
     "titleNorm": "trump returns to white house correspondents dinner after",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "liberal justice elena kagan says the supreme court",
     "type": "reel",
     "timestamp": 1785038848827
+  },
+  {
+    "url": "https://www.foxnews.com/us/americas-most-wanted-ex-cop-fugitive-returned-after-20-years-run-face-murder-child-sex-charges",
+    "titleNorm": "americas most wanted excop fugitive returned after 20",
+    "type": "card",
+    "timestamp": 1785043241243
   }
 ]
