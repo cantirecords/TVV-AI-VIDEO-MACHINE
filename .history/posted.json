@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illinois-worker-trapped-gas-station-sign-fire-truck-ladders-reach",
-    "titleNorm": "illinois worker spent over six hours trapped in",
-    "type": "card",
-    "timestamp": 1785053208196
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
     "titleNorm": "oregon firefighters brace for windy and hot weather",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "airstrikes have paused and talks are pressing forward",
     "type": "card",
     "timestamp": 1785096259381
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "what we know so far about the berlin",
+    "type": "reel",
+    "timestamp": 1785101193361
   }
 ]
