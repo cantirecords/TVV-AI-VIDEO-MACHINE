@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
-    "titleNorm": "students lose spots at howard university over tuition",
-    "type": "card",
-    "timestamp": 1785030301650
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/liberal-justice-elena-kagan-supreme-court-rubber-stamp-135036312",
     "titleNorm": "liberal justice elena kagan says the supreme court",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "oregon fire looms near town as fourth firefighter",
     "type": "card",
     "timestamp": 1785070547865
+  },
+  {
+    "url": "https://www.today.com/video/wildfires-force-evacuations-in-europe-heat-grips-american-west-267283013763",
+    "titleNorm": "europe wildfires forces more than 250000 people to",
+    "type": "reel",
+    "timestamp": 1785074922305
   }
 ]
