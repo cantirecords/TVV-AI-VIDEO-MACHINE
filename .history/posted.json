@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
-    "titleNorm": "oregon firefighters brace for windy and hot weather",
-    "type": "reel",
-    "timestamp": 1785061119952
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/influencer-sara-gilson-killed-rcna589211",
-    "titleNorm": "influencer killed by husband after she accused him",
-    "type": "card",
-    "timestamp": 1785061696520
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1785102495500
+  },
+  {
+    "url": "https://www.foxnews.com/us/exclusive-alleged-32m-covid-19-fraud-fugitive-captured-jamaica-returned-us-fbi-says",
+    "titleNorm": "exclusive alleged 32m covid19 fraud fugitive captured in",
+    "type": "card",
+    "timestamp": 1785106153062
   }
 ]
