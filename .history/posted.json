@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
-    "titleNorm": "oregon firefighters brace for windy and hot weather",
-    "type": "reel",
-    "timestamp": 1785008589591
-  },
-  {
-    "url": "https://www.nbcnews.com/news/news-quiz/trump-conditions-landmark-nuclear-agreement-unique-critter-goes-viral-rcna588957",
-    "titleNorm": "trump conditions a landmark nuclear agreement and a",
-    "type": "card",
-    "timestamp": 1785009898361
-  },
-  {
     "url": "https://www.foxnews.com/us/eleven-indicted-alleged-texas-smuggling-scheme-left-7-migrants-dead-shipping-container",
     "titleNorm": "eleven indicted in alleged texas smuggling scheme that",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1785049862722
+  },
+  {
+    "url": "https://www.foxnews.com/us/illinois-worker-trapped-gas-station-sign-fire-truck-ladders-reach",
+    "titleNorm": "illinois worker spent over six hours trapped in",
+    "type": "card",
+    "timestamp": 1785053208196
   }
 ]
