@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead",
-    "titleNorm": "armed man in tactical vest emerges from exploding",
-    "type": "reel",
-    "timestamp": 1785125692168
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-signage-warning-visitors-inaccurate-information-smithsoni-rcna589156",
     "titleNorm": "trump orders signage warning visitors of inaccurate information",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1785166588963
+  },
+  {
+    "url": "https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead",
+    "titleNorm": "armed man in tactical vest emerges from exploding",
+    "type": "card",
+    "timestamp": 1785173336237
   }
 ]
