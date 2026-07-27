@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead",
-    "titleNorm": "armed man in tactical vest emerges from exploding",
-    "type": "card",
-    "timestamp": 1785066866782
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
-    "titleNorm": "oregon fire looms near town as fourth firefighter",
-    "type": "card",
-    "timestamp": 1785070547865
-  },
-  {
     "url": "https://www.today.com/video/wildfires-force-evacuations-in-europe-heat-grips-american-west-267283013763",
     "titleNorm": "europe wildfires forces more than 250000 people to",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "influencer killed by husband after she accused him",
     "type": "card",
     "timestamp": 1785109899543
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
+    "titleNorm": "oregon firefighters brace for windy and hot weather",
+    "type": "card",
+    "timestamp": 1785117134244
   }
 ]
