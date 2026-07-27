@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
-    "titleNorm": "oregon fire looms near town as fourth firefighter",
-    "type": "reel",
-    "timestamp": 1785139341617
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
     "titleNorm": "students lose spots at howard university over tuition",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "beauty queen lindsay shivers attorney rips bahamas dispute",
     "type": "card",
     "timestamp": 1785179431376
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-investigate-shooting-us-consulate-toronto-135129824",
+    "titleNorm": "police investigate shooting at us consulate in toronto",
+    "type": "reel",
+    "timestamp": 1785182662433
   }
 ]
