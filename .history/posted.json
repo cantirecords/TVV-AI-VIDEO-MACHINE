@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/502-students-lose-spots-howard-university-tuition-payments-135067246",
-    "titleNorm": "students lose spots at howard university over tuition",
-    "type": "card",
-    "timestamp": 1785144454788
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/multiple-people-injured-seattle-center-shooting-police-say-rcna589371",
     "titleNorm": "shootout at seattle food festival kills 3 police",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "anger as berlin pride attacker revealed to have",
     "type": "card",
     "timestamp": 1785186085962
+  },
+  {
+    "url": "https://www.cbsnews.com/news/climate-change-severe-homeowner-insurance-first-street/",
+    "titleNorm": "the biggest weather risk for homeowners it039s no",
+    "type": "reel",
+    "timestamp": 1785188248627
   }
 ]
