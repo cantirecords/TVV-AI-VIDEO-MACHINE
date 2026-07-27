@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/family-man-shot-killed-madison-police-exceptional-135065459",
-    "titleNorm": "family of a man who was shot and",
-    "type": "card",
-    "timestamp": 1785088438282
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/mike-waltz-dismisses-concerns-depleted-us-weapons-stockpile-iran-war-rcna589281",
-    "titleNorm": "mike waltz dismisses concerns over depleted us weapons",
-    "type": "card",
-    "timestamp": 1785092081214
-  },
-  {
-    "url": "https://www.cbsnews.com/news/appeals-court-upholds-ruling-blocking-trump-order-federal-voter-list/",
-    "titleNorm": "us appeals court upholds ruling blocking trump039s order",
-    "type": "reel",
-    "timestamp": 1785095055640
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184",
     "titleNorm": "airstrikes have paused and talks are pressing forward",
     "type": "card",
@@ -70,5 +52,11 @@
     "titleNorm": "trump orders signage warning visitors of inaccurate information",
     "type": "card",
     "timestamp": 1785130744343
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
+    "titleNorm": "oregon fire looms near town as fourth firefighter",
+    "type": "reel",
+    "timestamp": 1785139341617
   }
 ]
