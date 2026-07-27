@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/influencer-sara-gilson-killed-rcna589211",
-    "titleNorm": "influencer killed by husband after she accused him",
-    "type": "card",
-    "timestamp": 1785109899543
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/oregon-firefighters-brace-windy-hot-weather-battle-dozens-135075308",
     "titleNorm": "oregon firefighters brace for windy and hot weather",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "shootout at seattle food festival kills 3 police",
     "type": "reel",
     "timestamp": 1785153056153
+  },
+  {
+    "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-christopher-street-attack-ramming-suspect-search-germany/",
+    "titleNorm": "berlin pride attacker served time for trying to",
+    "type": "card",
+    "timestamp": 1785156606734
   }
 ]
