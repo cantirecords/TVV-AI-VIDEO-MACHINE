@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/third-suspect-emerges-deadly-seattle-mass-shooting-one-alleged-gunman-found-dead",
-    "titleNorm": "third suspect emerges in deadly seattle mass shooting",
-    "type": "card",
-    "timestamp": 1785234151757
-  },
-  {
     "url": "https://www.nbcnews.com/politics/congress/sen-lindsey-graham-funeral-plans-trump-netanyahu-dc-south-carolina-rcna589473",
     "titleNorm": "trump congress and world leaders to honor the",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "supreme court denies stays for two florida death",
     "type": "card",
     "timestamp": 1785275909982
+  },
+  {
+    "url": "https://www.foxnews.com/us/dispatcher-heard-loud-bang-before-tiktok-influencer-outed-alleged-pedophile-husband-found-dead-audio",
+    "titleNorm": "dispatcher heard loud bang before tiktok influencer who",
+    "type": "card",
+    "timestamp": 1785279315058
   }
 ]
