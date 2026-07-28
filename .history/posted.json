@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "devastating european wildfires in maps and how theyre",
-    "type": "card",
-    "timestamp": 1785202014770
-  },
-  {
     "url": "https://www.cbsnews.com/news/republicans-trump-freedom-250-progressive-dark-money/",
     "titleNorm": "gop targeted progressive dark money that could boomerang",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "judge orders immigration officials to free key witness",
     "type": "card",
     "timestamp": 1785241835542
+  },
+  {
+    "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
+    "titleNorm": "biden tapes released after legal battle with references",
+    "type": "reel",
+    "timestamp": 1785250889594
   }
 ]
