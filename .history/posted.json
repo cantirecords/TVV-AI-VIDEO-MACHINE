@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/republicans-trump-freedom-250-progressive-dark-money/",
-    "titleNorm": "gop targeted progressive dark money that could boomerang",
-    "type": "reel",
-    "timestamp": 1785210386346
-  },
-  {
-    "url": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency",
-    "titleNorm": "nevada man dies at famed sequoia national park",
-    "type": "card",
-    "timestamp": 1785214437135
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "california family members claim they were attacked at",
     "type": "card",
     "timestamp": 1785251481493
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/genevieve-major-pacific-hurricane-off-mexico-direct-threat-135104049",
+    "titleNorm": "genevieve becomes a major pacific hurricane off mexico",
+    "type": "card",
+    "timestamp": 1785259070326
   }
 ]
