@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/dispatcher-heard-loud-bang-before-tiktok-influencer-outed-alleged-pedophile-husband-found-dead-audio",
-    "titleNorm": "dispatcher heard loud bang before tiktok influencer who",
-    "type": "card",
-    "timestamp": 1785279315058
-  },
-  {
     "url": "https://www.foxnews.com/us/watch-ebike-teen-takeover-swarms-downtown-city-streets-blocking-traffic-leading-charges",
     "titleNorm": "watch ebike teen takeover swarms downtown city streets",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1785320910965
+  },
+  {
+    "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
+    "titleNorm": "biden tapes released after legal battle with references",
+    "type": "reel",
+    "timestamp": 1785322941245
   }
 ]
