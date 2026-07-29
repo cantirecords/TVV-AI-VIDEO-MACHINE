@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1785320910965
-  },
-  {
     "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
     "titleNorm": "biden tapes released after legal battle with references",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1785361591677
+  },
+  {
+    "url": "https://www.foxnews.com/us/dispatch-audio-released-michigan-family-murder-suicide-troubled-family-secrets-emerge",
+    "titleNorm": "dispatch audio released in michigan family murdersuicide as",
+    "type": "card",
+    "timestamp": 1785365307714
   }
 ]
