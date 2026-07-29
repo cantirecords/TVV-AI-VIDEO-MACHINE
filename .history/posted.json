@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/genevieve-major-pacific-hurricane-off-mexico-direct-threat-135104049",
-    "titleNorm": "genevieve becomes a major pacific hurricane off mexico",
-    "type": "card",
-    "timestamp": 1785259070326
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/6-refugees-speak-backed-treaty-people-fleeing-war-135142410",
-    "titleNorm": "6 refugees speak out as unbacked treaty to",
-    "type": "reel",
-    "timestamp": 1785261213566
-  },
-  {
-    "url": "https://www.cbsnews.com/news/texas-civil-war-artifact-live-explosive/",
-    "titleNorm": "civil warera artifact turns out to be live",
-    "type": "card",
-    "timestamp": 1785265572233
-  },
-  {
     "url": "https://www.today.com/video/bryan-kohberger-looks-to-withdraw-guilty-plea-in-idaho-murders-267375173570",
     "titleNorm": "bryan kohberger looks to withdraw guilty plea in",
     "type": "reel",
@@ -76,5 +58,11 @@
     "titleNorm": "how trump drafted renovation plans for dulles a",
     "type": "card",
     "timestamp": 1785301120050
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
+    "titleNorm": "us says it thwarted iranian missile attack on",
+    "type": "reel",
+    "timestamp": 1785309686814
   }
 ]
