@@ -64,5 +64,11 @@
     "titleNorm": "us says it thwarted iranian missile attack on",
     "type": "reel",
     "timestamp": 1785309686814
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1785310823485
   }
 ]
