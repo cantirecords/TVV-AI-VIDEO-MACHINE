@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/watch-ebike-teen-takeover-swarms-downtown-city-streets-blocking-traffic-leading-charges",
-    "titleNorm": "watch ebike teen takeover swarms downtown city streets",
-    "type": "reel",
-    "timestamp": 1785281514076
-  },
-  {
-    "url": "https://www.foxnews.com/us/college-student-dies-falling-historic-ruins-remote-florida-island-friends-say",
-    "titleNorm": "college student dies after falling from historic ruins",
-    "type": "card",
-    "timestamp": 1785282625808
-  },
-  {
     "url": "https://www.cbsnews.com/news/affordability-2025-inflation-food-prices-housing-child-care-health-costs/",
     "titleNorm": "5 charts that illustrate america039s deepening affordability crisis",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "biden tapes released after legal battle with references",
     "type": "reel",
     "timestamp": 1785322941245
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/seattle-shooting-ghost-gun-found-15-year-old-suspect-bite-seattle-fest-rcna589597",
+    "titleNorm": "ghost gun recovered in deadly seattle festival shooting",
+    "type": "card",
+    "timestamp": 1785329723194
   }
 ]
