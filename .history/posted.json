@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
-    "titleNorm": "biden tapes released after legal battle with references",
-    "type": "reel",
-    "timestamp": 1785322941245
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/seattle-shooting-ghost-gun-found-15-year-old-suspect-bite-seattle-fest-rcna589597",
     "titleNorm": "ghost gun recovered in deadly seattle festival shooting",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "dispatch audio released in michigan family murdersuicide as",
     "type": "card",
     "timestamp": 1785365307714
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/caribbean-court-rules-us-extradition-process-guyanas-opposition-135205694",
+    "titleNorm": "a caribbean court rules that a us extradition",
+    "type": "reel",
+    "timestamp": 1785367882950
   }
 ]
