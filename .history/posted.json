@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/houston-ice-shooting-judge-orders-key-witness-release/",
-    "titleNorm": "judge orders immigration officials to free key witness",
-    "type": "card",
-    "timestamp": 1785241835542
-  },
-  {
     "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
     "titleNorm": "biden tapes released after legal battle with references",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "college student dies after falling from historic ruins",
     "type": "card",
     "timestamp": 1785282625808
+  },
+  {
+    "url": "https://www.cbsnews.com/news/affordability-2025-inflation-food-prices-housing-child-care-health-costs/",
+    "titleNorm": "5 charts that illustrate america039s deepening affordability crisis",
+    "type": "card",
+    "timestamp": 1785288443762
   }
 ]
