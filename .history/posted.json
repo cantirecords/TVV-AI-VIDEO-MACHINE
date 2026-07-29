@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/bryan-kohberger-looks-to-withdraw-guilty-plea-in-idaho-murders-267375173570",
-    "titleNorm": "bryan kohberger looks to withdraw guilty plea in",
-    "type": "reel",
-    "timestamp": 1785268840449
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1785272280888
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/lindsey-grahams-funeral-draw-trump-remarks-world-leaders-135141367",
-    "titleNorm": "lindsey grahams funeral to draw trump remarks and",
-    "type": "reel",
-    "timestamp": 1785274742445
-  },
-  {
-    "url": "https://www.foxnews.com/us/supreme-court-denies-stays-two-florida-death-row-inmates-clearing-path-rare-double-execution",
-    "titleNorm": "supreme court denies stays for two florida death",
-    "type": "card",
-    "timestamp": 1785275909982
-  },
-  {
     "url": "https://www.foxnews.com/us/dispatcher-heard-loud-bang-before-tiktok-influencer-outed-alleged-pedophile-husband-found-dead-audio",
     "titleNorm": "dispatcher heard loud bang before tiktok influencer who",
     "type": "card",
@@ -70,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1785310823485
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1785320910965
   }
 ]
