@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/biden-tapes-released-classified/",
-    "titleNorm": "biden tapes released after legal battle with references",
-    "type": "reel",
-    "timestamp": 1785250889594
-  },
-  {
-    "url": "https://www.foxnews.com/us/california-family-members-claim-were-attacked-luxury-maui-resort-during-violent-melee",
-    "titleNorm": "california family members claim they were attacked at",
-    "type": "card",
-    "timestamp": 1785251481493
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/genevieve-major-pacific-hurricane-off-mexico-direct-threat-135104049",
     "titleNorm": "genevieve becomes a major pacific hurricane off mexico",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "5 charts that illustrate america039s deepening affordability crisis",
     "type": "card",
     "timestamp": 1785288443762
+  },
+  {
+    "url": "https://www.foxnews.com/us/drunk-repeat-offender-called-ticking-time-bomb-80-mph-boating-collision-killed-woman-prosecutors",
+    "titleNorm": "drunk repeat offender called a ticking timebomb before",
+    "type": "reel",
+    "timestamp": 1785297024512
   }
 ]
