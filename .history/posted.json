@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/drunk-repeat-offender-called-ticking-time-bomb-80-mph-boating-collision-killed-woman-prosecutors",
-    "titleNorm": "drunk repeat offender called a ticking timebomb before",
-    "type": "reel",
-    "timestamp": 1785297024512
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-dulles-international-airport-renovation-proposals/",
-    "titleNorm": "how trump drafted renovation plans for dulles a",
-    "type": "card",
-    "timestamp": 1785301120050
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
     "titleNorm": "us says it thwarted iranian missile attack on",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "lindsey grahams funeral to draw trump remarks and",
     "type": "card",
     "timestamp": 1785338379720
+  },
+  {
+    "url": "https://www.foxnews.com/us/miami-secret-service-agent-charged-near-deadly-fraternity-hazing-officials-say",
+    "titleNorm": "miami secret service agent charged in neardeadly fraternity",
+    "type": "card",
+    "timestamp": 1785344603594
   }
 ]
