@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/senate-takes-steps-russian-sanctions-after-meeting-zelenskyy-135175487",
-    "titleNorm": "senate takes first steps on russian sanctions after",
-    "type": "card",
-    "timestamp": 1785386832434
-  },
-  {
     "url": "https://www.foxnews.com/us/american-found-shot-dead-execution-style-killing-camping-puerto-rico-beach-reports",
     "titleNorm": "ohio man found shot dead in executionstyle killing",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "bryan kohberger appointed new lawyer after idaho murders",
     "type": "card",
     "timestamp": 1785429473970
+  },
+  {
+    "url": "https://www.cbsnews.com/news/france-wildfires-europe-evacuations-lift-george-clooney-displaced/",
+    "titleNorm": "battle against monster wildfire in france boosted by",
+    "type": "reel",
+    "timestamp": 1785434235898
   }
 ]
