@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/miami-secret-service-agent-charged-near-deadly-fraternity-hazing-officials-say",
-    "titleNorm": "miami secret service agent charged in neardeadly fraternity",
-    "type": "card",
-    "timestamp": 1785344603594
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-saudi-arabia-strait-of-hormuz/",
-    "titleNorm": "trump warns iran is set to get a",
-    "type": "reel",
-    "timestamp": 1785347249050
-  },
-  {
-    "url": "https://www.foxnews.com/us/murdered-9-year-old-begged-not-go-trip-dad-months-before-allegedly-killed-her-mom-testifies",
-    "titleNorm": "murdered 9yearold begged not to go on trip",
-    "type": "card",
-    "timestamp": 1785351331882
-  },
-  {
     "url": "https://www.cbsnews.com/news/ice-airport-immigration-arrests-tsa-collaboration/",
     "titleNorm": "airport immigration arrests stem from tsaice collaboration sources",
     "type": "reel",
@@ -76,5 +58,11 @@
     "titleNorm": "senate takes first steps on russian sanctions after",
     "type": "card",
     "timestamp": 1785386832434
+  },
+  {
+    "url": "https://www.foxnews.com/us/american-found-shot-dead-execution-style-killing-camping-puerto-rico-beach-reports",
+    "titleNorm": "ohio man found shot dead in executionstyle killing",
+    "type": "reel",
+    "timestamp": 1785395453697
   }
 ]
