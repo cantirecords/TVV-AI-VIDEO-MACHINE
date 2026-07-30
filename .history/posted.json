@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-announce-renovation-plans-dulles-airport-makeover-rcna589828",
-    "titleNorm": "trump announces plans for sprawling dulles airport makeover",
-    "type": "reel",
-    "timestamp": 1785382916660
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/senate-takes-steps-russian-sanctions-after-meeting-zelenskyy-135175487",
     "titleNorm": "senate takes first steps on russian sanctions after",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "nancy guthrie case unclaimed 12m reward suggests very",
     "type": "card",
     "timestamp": 1785423676285
+  },
+  {
+    "url": "https://www.foxnews.com/us/bryan-kohberger-appointed-new-lawyer-idaho-murders-case-costs-taxpayers-8-million",
+    "titleNorm": "bryan kohberger appointed new lawyer after idaho murders",
+    "type": "card",
+    "timestamp": 1785429473970
   }
 ]
