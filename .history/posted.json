@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/american-found-shot-dead-execution-style-killing-camping-puerto-rico-beach-reports",
-    "titleNorm": "ohio man found shot dead in executionstyle killing",
-    "type": "reel",
-    "timestamp": 1785395453697
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy-day-2/",
-    "titleNorm": "lindsay clancy trial jury hears exhusband039s 911 call",
-    "type": "card",
-    "timestamp": 1785396470100
-  },
-  {
     "url": "https://www.cbsnews.com/news/doj-secretive-alien-terrorist-court-nazira-haji-zada-isis-2024-allegation/",
     "titleNorm": "doj asking secretive court to remove afghan woman",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "us economy slowed in second quarter as iran",
     "type": "card",
     "timestamp": 1785435025607
+  },
+  {
+    "url": "https://www.foxnews.com/us/salman-rushdie-attacker-convicted-federal-terrorism-charges-motivated-iranian-fatwa",
+    "titleNorm": "salman rushdie attacker convicted of federal terrorism charges",
+    "type": "reel",
+    "timestamp": 1785441701455
   }
 ]
