@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/doj-secretive-alien-terrorist-court-nazira-haji-zada-isis-2024-allegation/",
-    "titleNorm": "doj asking secretive court to remove afghan woman",
-    "type": "card",
-    "timestamp": 1785406294359
-  },
-  {
-    "url": "https://www.cbsnews.com/news/white-house-accuses-china-election-meddling-voter-data/",
-    "titleNorm": "white house levels new allegation that china swept",
-    "type": "reel",
-    "timestamp": 1785407988499
-  },
-  {
     "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "watch japanese mall explodes after magnitude 68 earthquake",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "a caribbean court rules that a us extradition",
     "type": "card",
     "timestamp": 1785448706492
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/stephen-colbert-wins-anti-censorship-award-after-cbs-135198304",
+    "titleNorm": "stephen colbert wins an anticensorship award after cbs",
+    "type": "card",
+    "timestamp": 1785452499699
   }
 ]
