@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/salman-rushdie-attacker-convicted-federal-terrorism-charges-motivated-iranian-fatwa",
-    "titleNorm": "salman rushdie attacker convicted of federal terrorism charges",
-    "type": "reel",
-    "timestamp": 1785441701455
-  },
-  {
-    "url": "https://www.foxnews.com/us/teen-found-in-shallow-california-vineyard-grave-identified-nearly-50-years-later-as-family-warns-killer",
-    "titleNorm": "teen found in shallow california vineyard grave identified",
-    "type": "card",
-    "timestamp": 1785442277481
-  },
-  {
     "url": "https://www.foxnews.com/us/bodycam-shows-los-angeles-county-deputy-stabbed-seconds-arriving-knife-attack",
     "titleNorm": "bodycam shows los angeles county deputy stabbed seconds",
     "type": "reel",
@@ -58,5 +46,11 @@
     "titleNorm": "trump is taking his friday cabinet meeting on",
     "type": "reel",
     "timestamp": 1785482647735
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149",
+    "titleNorm": "seattle police chief resigns days after food festival",
+    "type": "card",
+    "timestamp": 1785486711156
   }
 ]
