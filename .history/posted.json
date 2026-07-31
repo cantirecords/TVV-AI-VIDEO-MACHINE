@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bryan-kohberger-appointed-new-lawyer-idaho-murders-case-costs-taxpayers-8-million",
-    "titleNorm": "bryan kohberger appointed new lawyer after idaho murders",
-    "type": "card",
-    "timestamp": 1785429473970
-  },
-  {
     "url": "https://www.cbsnews.com/news/france-wildfires-europe-evacuations-lift-george-clooney-displaced/",
     "titleNorm": "battle against monster wildfire in france boosted by",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "trump says peace plan will lead to hamas",
     "type": "reel",
     "timestamp": 1785470451560
+  },
+  {
+    "url": "https://www.cbsnews.com/video/europe-facing-brunt-climate-change-impacts-wildfires-continue-burn-professor-explains/",
+    "titleNorm": "europe facing brunt of climate change impacts as",
+    "type": "card",
+    "timestamp": 1785475439734
   }
 ]
