@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/europe-facing-brunt-climate-change-impacts-wildfires-continue-burn-professor-explains/",
-    "titleNorm": "europe facing brunt of climate change impacts as",
-    "type": "card",
-    "timestamp": 1785475439734
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-taking-friday-cabinet-meeting-road-camp-david-135250074",
     "titleNorm": "trump is taking his friday cabinet meeting on",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "trump questioned about antiweaponization fund during cabinet meeting",
     "type": "card",
     "timestamp": 1785518272666
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines",
+    "titleNorm": "trumps historic agreement with hamas marks major step",
+    "type": "reel",
+    "timestamp": 1785520959764
   }
 ]
