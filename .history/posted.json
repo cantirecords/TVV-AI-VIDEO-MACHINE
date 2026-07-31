@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149",
-    "titleNorm": "seattle police chief resigns days after food festival",
-    "type": "card",
-    "timestamp": 1785486711156
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1785528126904
+  },
+  {
+    "url": "https://www.nbcnews.com/sports/mlb/giants-harrison-bader-season-scooter-crash-worsened-foot-injury-rcna590267",
+    "titleNorm": "giants harrison bader out for season following scooter",
+    "type": "card",
+    "timestamp": 1785531176865
   }
 ]
