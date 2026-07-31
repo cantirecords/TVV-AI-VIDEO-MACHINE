@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "watch japanese mall explodes after magnitude 68 earthquake",
-    "type": "card",
-    "timestamp": 1785414157175
-  },
-  {
     "url": "https://www.foxnews.com/us/seattle-police-chief-snaps-chicago-home-questions-absence-city-mass-shooting",
     "titleNorm": "seattle police chief snaps over chicago home questions",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "tsa finds stolen civil warera cannonballs in a",
     "type": "reel",
     "timestamp": 1785454375389
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1785462422313
   }
 ]
