@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151",
-    "titleNorm": "trump says peace plan will lead to hamas",
-    "type": "reel",
-    "timestamp": 1785470451560
-  },
-  {
     "url": "https://www.cbsnews.com/video/europe-facing-brunt-climate-change-impacts-wildfires-continue-burn-professor-explains/",
     "titleNorm": "europe facing brunt of climate change impacts as",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1785513203582
+  },
+  {
+    "url": "https://www.nbcnews.com/now/video/trump-questioned-about-anti-weaponization-fund-during-cabinet-meeting-at-camp-david-267592261527",
+    "titleNorm": "trump questioned about antiweaponization fund during cabinet meeting",
+    "type": "card",
+    "timestamp": 1785518272666
   }
 ]
