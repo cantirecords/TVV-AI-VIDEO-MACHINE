@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/breakneck-pace-immigration-courts-driving-deportation-orders-135280987",
-    "titleNorm": "breakneck pace in immigration courts is driving up",
-    "type": "reel",
-    "timestamp": 1785579371141
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-defends-anti-weaponization-fund-complicating-blanche-nomination-rcna590254",
-    "titleNorm": "trump defends antiweaponization fund further complicating blanche nomination",
-    "type": "card",
-    "timestamp": 1785579981550
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "seattle mayor may oust police chief after criticism",
     "type": "card",
     "timestamp": 1785620615575
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/long-dormant-court-holds-fits-public-hearing-us-135235490",
+    "titleNorm": "longdormant court holds fits first public hearing as",
+    "type": "card",
+    "timestamp": 1785624229855
   }
 ]
