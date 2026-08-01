@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "its our home its our forest bbc speaks",
-    "type": "card",
-    "timestamp": 1785504557682
-  },
-  {
     "url": "https://www.foxnews.com/us/trumps-warning-becomes-reality-after-irans-failed-attack-more-top-headlines",
     "titleNorm": "trumps warning becomes reality after irans failed attack",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "abortion is on the ballot again in these",
     "type": "card",
     "timestamp": 1785541982536
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307",
+    "titleNorm": "trump appeals ruling that found his 10b irs",
+    "type": "card",
+    "timestamp": 1785548872750
   }
 ]
