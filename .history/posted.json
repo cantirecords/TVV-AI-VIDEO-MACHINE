@@ -70,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1785598667109
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-historic-agreement-hamas-marks-major-step-israel-gaza-more-top-headlines",
+    "titleNorm": "trumps historic agreement with hamas marks major step",
+    "type": "card",
+    "timestamp": 1785599721898
   }
 ]
