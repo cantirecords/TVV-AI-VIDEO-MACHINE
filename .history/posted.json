@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278",
-    "titleNorm": "abortion is on the ballot again in these",
-    "type": "card",
-    "timestamp": 1785541982536
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/appeals-ruling-found-10-billion-irs-suit-aimed-manipulate-legal-rcna590307",
     "titleNorm": "trump appeals ruling that found his 10b irs",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1785584474938
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-latvian-dancing-stars-contestant-arrested-ice-after-violent-criminal-history-revealed",
+    "titleNorm": "former latvian dancing with the stars contestant arrested",
+    "type": "card",
+    "timestamp": 1785585306911
   }
 ]
