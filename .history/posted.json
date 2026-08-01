@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/seattle-mayor-oust-police-chief-after-criticism-response-135243580",
-    "titleNorm": "seattle mayor may oust police chief after criticism",
-    "type": "reel",
-    "timestamp": 1785556881599
-  },
-  {
     "url": "https://www.foxnews.com/us/bryan-kohberger-claims-family-joined-plea-talks-seeks-withdraw-guilty-plea-court-docs",
     "titleNorm": "bryan kohberger claims family joined plea talks as",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "trumps historic agreement with hamas marks major step",
     "type": "card",
     "timestamp": 1785599721898
+  },
+  {
+    "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/",
+    "titleNorm": "famed climber dead in pakistan avalanche search for",
+    "type": "card",
+    "timestamp": 1785602806414
   }
 ]
