@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire",
-    "titleNorm": "mystery stranger vanishes after family says frantic warning",
-    "type": "card",
-    "timestamp": 1785571306937
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/breakneck-pace-immigration-courts-driving-deportation-orders-135280987",
     "titleNorm": "breakneck pace in immigration courts is driving up",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "trump stands to profit off us policy announcements",
     "type": "reel",
     "timestamp": 1785613373869
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/f-35-fighter-jet-crashes-san-diego-sparks-fire-miramar-air-base-rcna590274",
+    "titleNorm": "f35 fighter jet crashes in san diego sparking",
+    "type": "card",
+    "timestamp": 1785614700016
   }
 ]
