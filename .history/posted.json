@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pilot-ejects-f-35-crashes-mcas-miramar-sparking-fire",
-    "titleNorm": "pilot ejects as f35 crashes at mcas miramar",
-    "type": "reel",
-    "timestamp": 1785567812363
-  },
-  {
     "url": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire",
     "titleNorm": "mystery stranger vanishes after family says frantic warning",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "trump says hell revive antiweaponization fund if blanches",
     "type": "card",
     "timestamp": 1785610380479
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-stands-profit-off-us-policy-announcements-selling-135283021",
+    "titleNorm": "trump stands to profit off us policy announcements",
+    "type": "reel",
+    "timestamp": 1785613373869
   }
 ]
