@@ -76,5 +76,11 @@
     "titleNorm": "turkish man arrested in uk on us charges",
     "type": "reel",
     "timestamp": 1785605482003
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "spain attacks selfish response of some eu countries",
+    "type": "card",
+    "timestamp": 1785606708341
   }
 ]
