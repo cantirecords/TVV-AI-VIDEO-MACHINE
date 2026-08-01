@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bryan-kohberger-claims-family-joined-plea-talks-seeks-withdraw-guilty-plea-court-docs",
-    "titleNorm": "bryan kohberger claims family joined plea talks as",
-    "type": "card",
-    "timestamp": 1785561448756
-  },
-  {
     "url": "https://www.foxnews.com/us/pilot-ejects-f-35-crashes-mcas-miramar-sparking-fire",
     "titleNorm": "pilot ejects as f35 crashes at mcas miramar",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "famed climber dead in pakistan avalanche search for",
     "type": "card",
     "timestamp": 1785602806414
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/turkish-man-arrested-uk-us-charges-accusing-aiding-135274598",
+    "titleNorm": "turkish man arrested in uk on us charges",
+    "type": "reel",
+    "timestamp": 1785605482003
   }
 ]
