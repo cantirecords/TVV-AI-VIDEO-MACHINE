@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/f-35-fighter-jet-crashes-san-diego-sparks-fire-miramar-air-base-rcna590274",
-    "titleNorm": "f35 fighter jet crashes in san diego sparking",
-    "type": "card",
-    "timestamp": 1785614700016
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-wanted-interest-rate-cuts-rocket-fuel-economy-135280708",
-    "titleNorm": "trump wanted interest rate cuts to be rocket",
-    "type": "reel",
-    "timestamp": 1785619057653
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/seattle-mayor-oust-police-chief-after-criticism-response-135243580",
-    "titleNorm": "seattle mayor may oust police chief after criticism",
-    "type": "card",
-    "timestamp": 1785620615575
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/long-dormant-court-holds-fits-public-hearing-us-135235490",
     "titleNorm": "longdormant court holds fits first public hearing as",
     "type": "card",
@@ -64,5 +46,11 @@
     "titleNorm": "multiple people killed in shooting at idaho innout",
     "type": "card",
     "timestamp": 1785657813715
+  },
+  {
+    "url": "https://www.cbsnews.com/news/explosion-moscow-restaurant-fatalities-injuries/",
+    "titleNorm": "several people killed in explosion at moscow restaurant",
+    "type": "reel",
+    "timestamp": 1785665721024
   }
 ]
