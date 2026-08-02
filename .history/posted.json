@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/",
-    "titleNorm": "trump says deal to end iran war may",
-    "type": "reel",
-    "timestamp": 1785643481962
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "how spains migrant crisis created a political storm",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "helicopters fighting greece wildfires collide in midair",
     "type": "card",
     "timestamp": 1785685929621
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds",
+    "titleNorm": "fox news campus radicals newsletter parents left in",
+    "type": "card",
+    "timestamp": 1785689130066
   }
 ]
