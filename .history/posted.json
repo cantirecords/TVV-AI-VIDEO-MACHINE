@@ -94,5 +94,11 @@
     "titleNorm": "more than 600 structures damaged in washington state",
     "type": "reel",
     "timestamp": 1785705875998
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1785707040925
   }
 ]
