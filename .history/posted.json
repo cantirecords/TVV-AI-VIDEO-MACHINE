@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
-    "titleNorm": "multiple people killed in shooting at idaho innout",
-    "type": "card",
-    "timestamp": 1785657813715
-  },
-  {
     "url": "https://www.cbsnews.com/news/explosion-moscow-restaurant-fatalities-injuries/",
     "titleNorm": "several people killed in explosion at moscow restaurant",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "seattle mayor may oust police chief after criticism",
     "type": "reel",
     "timestamp": 1785699823058
+  },
+  {
+    "url": "https://www.foxnews.com/us/exclusive-ohio-mans-puerto-rico-murder-leaves-close-friend-reliving-call-she-never-expected",
+    "titleNorm": "exclusive ohio mans puerto rico murder leaves close",
+    "type": "card",
+    "timestamp": 1785701164458
   }
 ]
