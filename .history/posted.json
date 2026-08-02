@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-taking-friday-cabinet-meeting-road-camp-david-135250074",
-    "titleNorm": "trump is taking his friday cabinet meeting on",
-    "type": "reel",
-    "timestamp": 1785670922136
-  },
-  {
     "url": "https://www.cbsnews.com/news/48-hours-was-sylvie-cachays-death-at-soho-house-an-accident-or-murder/",
     "titleNorm": "was sylvie cachay039s death at soho house an",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "offduty trooper and armed citizen hailed as heroes",
     "type": "reel",
     "timestamp": 1785713332600
+  },
+  {
+    "url": "https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/",
+    "titleNorm": "rep turner says infrastructure should be hardened as",
+    "type": "card",
+    "timestamp": 1785714591111
   }
 ]
