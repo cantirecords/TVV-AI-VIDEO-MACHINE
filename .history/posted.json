@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1785628148488
-  },
-  {
     "url": "https://www.foxnews.com/us/california-man-arrested-allegedly-sending-bomb-threat-judge-nolan-wells-death-case-docs",
     "titleNorm": "california man arrested for allegedly sending bomb threat",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "trump is taking his friday cabinet meeting on",
     "type": "reel",
     "timestamp": 1785670922136
+  },
+  {
+    "url": "https://www.cbsnews.com/news/48-hours-was-sylvie-cachays-death-at-soho-house-an-accident-or-murder/",
+    "titleNorm": "was sylvie cachay039s death at soho house an",
+    "type": "card",
+    "timestamp": 1785671625343
   }
 ]
