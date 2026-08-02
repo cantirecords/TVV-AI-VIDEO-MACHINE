@@ -52,5 +52,11 @@
     "titleNorm": "several people killed in explosion at moscow restaurant",
     "type": "reel",
     "timestamp": 1785665721024
+  },
+  {
+    "url": "https://www.foxnews.com/us/mangione-lawyers-say-media-limits-murder-trial-unconstitutional-fear-court-hand-pick-press",
+    "titleNorm": "mangione lawyers say media limits at murder trial",
+    "type": "card",
+    "timestamp": 1785666324480
   }
 ]
