@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/gilberto-crdenas-revered-advocacy-chicanos-latino-art-dies-135277781",
-    "titleNorm": "gilberto crdenas revered for his advocacy for chicanos",
-    "type": "reel",
-    "timestamp": 1785654474565
-  },
-  {
     "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
     "titleNorm": "multiple people killed in shooting at idaho innout",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "republicans want voters to elect kansas supreme court",
     "type": "card",
     "timestamp": 1785696807442
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/seattle-mayor-oust-police-chief-after-criticism-response-135243580",
+    "titleNorm": "seattle mayor may oust police chief after criticism",
+    "type": "reel",
+    "timestamp": 1785699823058
   }
 ]
