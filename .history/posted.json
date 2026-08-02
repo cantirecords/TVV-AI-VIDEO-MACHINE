@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "how spains migrant crisis created a political storm",
-    "type": "card",
-    "timestamp": 1785647793273
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/gilberto-crdenas-revered-advocacy-chicanos-latino-art-dies-135277781",
     "titleNorm": "gilberto crdenas revered for his advocacy for chicanos",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "fox news campus radicals newsletter parents left in",
     "type": "card",
     "timestamp": 1785689130066
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/",
+    "titleNorm": "ice detentions set trumpera high in july as",
+    "type": "reel",
+    "timestamp": 1785691962095
   }
 ]
