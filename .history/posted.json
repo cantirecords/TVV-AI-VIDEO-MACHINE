@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/california-man-arrested-allegedly-sending-bomb-threat-judge-nolan-wells-death-case-docs",
-    "titleNorm": "california man arrested for allegedly sending bomb threat",
-    "type": "card",
-    "timestamp": 1785635099764
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/",
     "titleNorm": "trump says deal to end iran war may",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "vincent pastore famous for his role in the",
     "type": "card",
     "timestamp": 1785675372815
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/darline-graham-promotes-trumps-agenda-political-debut-ahead-135295546",
+    "titleNorm": "darline graham promotes trumps agenda in her political",
+    "type": "reel",
+    "timestamp": 1785679654684
   }
 ]
