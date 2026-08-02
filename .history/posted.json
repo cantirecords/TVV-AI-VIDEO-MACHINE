@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/former-latvian-dancing-stars-contestant-arrested-ice-after-violent-criminal-history-revealed",
-    "titleNorm": "former latvian dancing with the stars contestant arrested",
-    "type": "card",
-    "timestamp": 1785585306911
-  },
-  {
-    "url": "https://www.cbsnews.com/news/iranian-cyberattacks-timeline-u-s-companies-water-systems-minnesota-hacked/",
-    "titleNorm": "a brief timeline of iranian cyberattacks on the",
-    "type": "card",
-    "timestamp": 1785588887373
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/abortion-ballot-two-states-politics-desk-rcna590278",
     "titleNorm": "abortion is on the ballot again in these",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1785628148488
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-man-arrested-allegedly-sending-bomb-threat-judge-nolan-wells-death-case-docs",
+    "titleNorm": "california man arrested for allegedly sending bomb threat",
+    "type": "card",
+    "timestamp": 1785635099764
   }
 ]
