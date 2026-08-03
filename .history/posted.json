@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
-    "titleNorm": "multiple people killed in shooting at idaho innout",
-    "type": "reel",
-    "timestamp": 1785743818934
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/republicans-voters-elect-kansas-supreme-court-justices-move-135302462",
     "titleNorm": "republicans want voters to elect kansas supreme court",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "heat wave bringing recordbreaking temps heightened wildfire risk",
     "type": "card",
     "timestamp": 1785784637061
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-taking-friday-cabinet-meeting-road-camp-david-135250074",
+    "titleNorm": "trump is taking his friday cabinet meeting on",
+    "type": "reel",
+    "timestamp": 1785787806363
   }
 ]
