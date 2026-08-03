@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds",
-    "titleNorm": "fox news campus radicals newsletter parents left in",
-    "type": "card",
-    "timestamp": 1785689130066
-  },
-  {
     "url": "https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/",
     "titleNorm": "ice detentions set trumpera high in july as",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1785729990890
+  },
+  {
+    "url": "https://www.foxnews.com/us/deadliest-animals-every-us-state",
+    "titleNorm": "deadliest animal in every us state revealed from",
+    "type": "card",
+    "timestamp": 1785735056615
   }
 ]
