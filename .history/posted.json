@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/",
-    "titleNorm": "ice detentions set trumpera high in july as",
-    "type": "reel",
-    "timestamp": 1785691962095
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-rebukes-jeanine-pirro-decision-drop-reflecting-pool-vandalism-ca-rcna590408",
-    "titleNorm": "trump rebukes jeanine pirro over decision to drop",
-    "type": "card",
-    "timestamp": 1785693171387
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/republicans-voters-elect-kansas-supreme-court-justices-move-135302462",
-    "titleNorm": "republicans want voters to elect kansas supreme court",
-    "type": "card",
-    "timestamp": 1785696807442
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/seattle-mayor-oust-police-chief-after-criticism-response-135243580",
-    "titleNorm": "seattle mayor may oust police chief after criticism",
-    "type": "reel",
-    "timestamp": 1785699823058
-  },
-  {
     "url": "https://www.foxnews.com/us/exclusive-ohio-mans-puerto-rico-murder-leaves-close-friend-reliving-call-she-never-expected",
     "titleNorm": "exclusive ohio mans puerto rico murder leaves close",
     "type": "card",
@@ -76,5 +52,11 @@
     "titleNorm": "deadliest animal in every us state revealed from",
     "type": "card",
     "timestamp": 1785735056615
+  },
+  {
+    "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
+    "titleNorm": "multiple people killed in shooting at idaho innout",
+    "type": "reel",
+    "timestamp": 1785743818934
   }
 ]
