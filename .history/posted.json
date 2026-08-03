@@ -52,5 +52,11 @@
     "titleNorm": "trump is taking his friday cabinet meeting on",
     "type": "reel",
     "timestamp": 1785787806363
+  },
+  {
+    "url": "https://www.foxnews.com/us/north-carolina-couple-found-dead-one-day-after-40th-anniversary-suspected-murder-suicide",
+    "titleNorm": "north carolina couple found dead one day after",
+    "type": "card",
+    "timestamp": 1785790477477
   }
 ]
