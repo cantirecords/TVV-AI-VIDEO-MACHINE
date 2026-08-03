@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/exclusive-ohio-mans-puerto-rico-murder-leaves-close-friend-reliving-call-she-never-expected",
-    "titleNorm": "exclusive ohio mans puerto rico murder leaves close",
-    "type": "card",
-    "timestamp": 1785701164458
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/spokane-washington-wildfire-rcna590469",
     "titleNorm": "more than 600 structures damaged in washington state",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "multiple people killed in shooting at idaho innout",
     "type": "reel",
     "timestamp": 1785743818934
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republicans-voters-elect-kansas-supreme-court-justices-move-135302462",
+    "titleNorm": "republicans want voters to elect kansas supreme court",
+    "type": "card",
+    "timestamp": 1785747651602
   }
 ]
