@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/republicans-voters-elect-kansas-supreme-court-justices-move-135302462",
-    "titleNorm": "republicans want voters to elect kansas supreme court",
-    "type": "card",
-    "timestamp": 1785747651602
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/wind-driven-wildfire-prompts-evacuations-eastern-washington-135300734",
     "titleNorm": "winddriven wildfire prompts evacuations in eastern washington",
     "type": "reel",
@@ -58,5 +52,11 @@
     "titleNorm": "north carolina couple found dead one day after",
     "type": "card",
     "timestamp": 1785790477477
+  },
+  {
+    "url": "https://www.foxnews.com/us/tucson-grandmother-beat-cancer-twice-killed-alleged-attack-felon-apartment",
+    "titleNorm": "tucson grandmother who beat cancer twice killed in",
+    "type": "reel",
+    "timestamp": 1785793257935
   }
 ]
