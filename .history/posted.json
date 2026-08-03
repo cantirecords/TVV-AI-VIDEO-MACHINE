@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1785729990890
-  },
-  {
-    "url": "https://www.foxnews.com/us/deadliest-animals-every-us-state",
-    "titleNorm": "deadliest animal in every us state revealed from",
-    "type": "card",
-    "timestamp": 1785735056615
-  },
-  {
     "url": "https://www.foxnews.com/us/multiple-people-killed-shooting-idaho-in-n-out-restaurant-suspect-dead",
     "titleNorm": "multiple people killed in shooting at idaho innout",
     "type": "reel",
@@ -46,5 +34,11 @@
     "titleNorm": "suspect in shooting at idaho fastfood restaurant died",
     "type": "card",
     "timestamp": 1785771423113
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fbi-investigates-michigan-joins-minnesota-reporting-cyberattacks-water-135291463",
+    "titleNorm": "fbi investigates as michigan joins minnesota in reporting",
+    "type": "card",
+    "timestamp": 1785779178380
   }
 ]
