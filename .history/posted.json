@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/darline-graham-promotes-trumps-agenda-political-debut-ahead-135295546",
-    "titleNorm": "darline graham promotes trumps agenda in her political",
-    "type": "reel",
-    "timestamp": 1785679654684
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1785680601207
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/truth-social-launches-service-selling-faster-access-trump-posts-rcna590419",
-    "titleNorm": "truth social launches service selling faster access to",
-    "type": "reel",
-    "timestamp": 1785685101068
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "helicopters fighting greece wildfires collide in midair",
-    "type": "card",
-    "timestamp": 1785685929621
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-parents-left-dark-trump-starving-socialist-breeding-grounds",
     "titleNorm": "fox news campus radicals newsletter parents left in",
     "type": "card",
@@ -94,5 +70,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1785721636884
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1785729990890
   }
 ]
