@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/heat-wave-bringing-record-breaking-temps-heightened-wildfire-135291113",
-    "titleNorm": "heat wave bringing recordbreaking temps heightened wildfire risk",
-    "type": "card",
-    "timestamp": 1785784637061
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-taking-friday-cabinet-meeting-road-camp-david-135250074",
-    "titleNorm": "trump is taking his friday cabinet meeting on",
-    "type": "reel",
-    "timestamp": 1785787806363
-  },
-  {
     "url": "https://www.foxnews.com/us/north-carolina-couple-found-dead-one-day-after-40th-anniversary-suspected-murder-suicide",
     "titleNorm": "north carolina couple found dead one day after",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "top us admiral warns against coercion says no",
     "type": "reel",
     "timestamp": 1785827412027
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/naked-man-jumped-brooklyn-bridge-survived-arrested-charged-rcna590591",
+    "titleNorm": "naked man who jumped off brooklyn bridge is",
+    "type": "card",
+    "timestamp": 1785831433102
   }
 ]
