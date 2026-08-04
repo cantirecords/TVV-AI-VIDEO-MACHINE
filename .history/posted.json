@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fbi-investigates-michigan-joins-minnesota-reporting-cyberattacks-water-135291463",
-    "titleNorm": "fbi investigates as michigan joins minnesota in reporting",
-    "type": "card",
-    "timestamp": 1785779178380
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1785781048011
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/heat-wave-bringing-record-breaking-temps-heightened-wildfire-135291113",
     "titleNorm": "heat wave bringing recordbreaking temps heightened wildfire risk",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "man charged with setting one of the 3",
     "type": "card",
     "timestamp": 1785821895566
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
+    "titleNorm": "top us admiral warns against coercion says no",
+    "type": "reel",
+    "timestamp": 1785827412027
   }
 ]
