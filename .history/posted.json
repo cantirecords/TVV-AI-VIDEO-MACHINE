@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/know-victims-idaho-shooting-rcna590673",
-    "titleNorm": "what we know about the victims of the",
-    "type": "reel",
-    "timestamp": 1785841422153
-  },
-  {
-    "url": "https://www.foxnews.com/us/manhattan-da-office-luigi-mangione-defense-spread-false-claims-murder-trial-media-plan",
-    "titleNorm": "manhattan das office says luigi mangione defense spread",
-    "type": "card",
-    "timestamp": 1785842090818
-  },
-  {
     "url": "https://www.foxnews.com/us/deadliest-animals-every-us-state",
     "titleNorm": "deadliest animal in every us state revealed from",
     "type": "card",
@@ -64,5 +52,11 @@
     "titleNorm": "trumps arch could harm integrity of many washington",
     "type": "card",
     "timestamp": 1785880995530
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-3-year-old-dies-after-tragic-incident-involving-common-play-toy-babysitters-house",
+    "titleNorm": "florida 3yearold dies after tragic incident involving common",
+    "type": "reel",
+    "timestamp": 1785886444697
   }
 ]
