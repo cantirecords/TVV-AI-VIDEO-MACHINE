@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/spokane-washington-wildfires-homes-destroyed/",
-    "titleNorm": "man charged with setting one of the 3",
-    "type": "card",
-    "timestamp": 1785821895566
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
     "titleNorm": "top us admiral warns against coercion says no",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "watch live lindsay clancy murder trial focuses on",
     "type": "card",
     "timestamp": 1785859601716
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-charged-degree-murder-mans-death-baltimore-harbor-135360624",
+    "titleNorm": "man charged with seconddegree murder for mans death",
+    "type": "reel",
+    "timestamp": 1785867094204
   }
 ]
