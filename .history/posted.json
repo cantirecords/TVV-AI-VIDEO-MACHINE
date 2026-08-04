@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/spencer-pratt-reacts-spokane-devastation-blunt-wildfire-warning-message-faith",
-    "titleNorm": "spencer pratt reacts to spokane devastation with blunt",
-    "type": "card",
-    "timestamp": 1785759767399
-  },
-  {
     "url": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court",
     "titleNorm": "new mexico womans bodycam confession about hiding newborn",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "darline graham promotes trumps agenda in her political",
     "type": "card",
     "timestamp": 1785801559316
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wind-driven-wildfire-prompts-evacuations-eastern-washington-135300734",
+    "titleNorm": "winddriven wildfire prompts evacuations in eastern washington",
+    "type": "card",
+    "timestamp": 1785810167027
   }
 ]
