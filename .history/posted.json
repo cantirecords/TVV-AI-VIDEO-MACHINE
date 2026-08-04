@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1785815292825
-  },
-  {
     "url": "https://www.cbsnews.com/news/spokane-washington-wildfires-homes-destroyed/",
     "titleNorm": "man charged with setting one of the 3",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "bryan kohberger gets new attorney appointed after he",
     "type": "reel",
     "timestamp": 1785855616329
+  },
+  {
+    "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-watch-live-day-6/",
+    "titleNorm": "watch live lindsay clancy murder trial focuses on",
+    "type": "card",
+    "timestamp": 1785859601716
   }
 ]
