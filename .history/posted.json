@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
-    "titleNorm": "top us admiral warns against coercion says no",
-    "type": "reel",
-    "timestamp": 1785827412027
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/naked-man-jumped-brooklyn-bridge-survived-arrested-charged-rcna590591",
     "titleNorm": "naked man who jumped off brooklyn bridge is",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "tucson grandmother who beat cancer twice killed in",
     "type": "card",
     "timestamp": 1785867773771
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-overhaul-gut-head-start-preschool-standards-leaving-135319523",
+    "titleNorm": "trump overhaul could gut head start preschool standards",
+    "type": "reel",
+    "timestamp": 1785874180919
   }
 ]
