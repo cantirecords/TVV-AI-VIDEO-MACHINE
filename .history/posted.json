@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-watch-live-day-6/",
-    "titleNorm": "watch live lindsay clancy murder trial focuses on",
-    "type": "card",
-    "timestamp": 1785859601716
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-charged-degree-murder-mans-death-baltimore-harbor-135360624",
     "titleNorm": "man charged with seconddegree murder for mans death",
     "type": "reel",
@@ -64,5 +58,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1785901455100
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-close-5-smaller-us-consulates-africa-135358850",
+    "titleNorm": "trump administration to close 5 smaller us consulates",
+    "type": "card",
+    "timestamp": 1785905658041
   }
 ]
