@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
-    "titleNorm": "top us admiral warns against coercion says no",
-    "type": "card",
-    "timestamp": 1785925463405
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/mississippi-lawmakers-launch-redistricting-process-after-supreme-court-135364196",
-    "titleNorm": "mississippi lawmakers launch redistricting process after supreme court",
-    "type": "reel",
-    "timestamp": 1785927614132
-  },
-  {
     "url": "https://www.foxnews.com/us/police-hunt-teen-accused-killing-citadel-cadet-childhood-friend-warn-armed-dangerous-suspect",
     "titleNorm": "police hunt teen accused of killing citadel cadet",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "3 killed in idaho innout shooting included a",
     "type": "card",
     "timestamp": 1785967535642
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-killed-top-minnesota-lawmaker-husband-makes-state-135336081",
+    "titleNorm": "man who killed top lawmaker and her husband",
+    "type": "reel",
+    "timestamp": 1785972565079
   }
 ]
