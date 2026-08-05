@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-killed-idaho-shooting-included-man-helping-sober-135363995",
-    "titleNorm": "3 killed in idaho innout shooting included a",
-    "type": "card",
-    "timestamp": 1785915112080
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
     "titleNorm": "top us admiral warns against coercion says no",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "trumpbacked john james wins michigans gop primary for",
     "type": "card",
     "timestamp": 1785957177589
+  },
+  {
+    "url": "https://www.foxnews.com/us/las-vegas-officer-killed-tropicana-shooting",
+    "titleNorm": "marine veteran las vegas officer killed in shooting",
+    "type": "reel",
+    "timestamp": 1785960362557
   }
 ]
