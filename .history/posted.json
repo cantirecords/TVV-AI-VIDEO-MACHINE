@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-3-year-old-dies-after-tragic-incident-involving-common-play-toy-babysitters-house",
-    "titleNorm": "florida 3yearold dies after tragic incident involving common",
-    "type": "reel",
-    "timestamp": 1785886444697
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-arrested-trump-golf-course-ahead-presidents-visit-allegedly-had-weapons-cache",
-    "titleNorm": "man arrested at trump golf course ahead of",
-    "type": "card",
-    "timestamp": 1785887645543
-  },
-  {
     "url": "https://www.foxnews.com/us/beloved-nc-gas-station-clerk-allegedly-killed-registered-sex-offender-vanishing-home-deputies",
     "titleNorm": "beloved nc gas station clerk allegedly killed by",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "mississippi lawmakers launch redistricting process after supreme court",
     "type": "reel",
     "timestamp": 1785927614132
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-hunt-teen-accused-killing-citadel-cadet-childhood-friend-warn-armed-dangerous-suspect",
+    "titleNorm": "police hunt teen accused of killing citadel cadet",
+    "type": "card",
+    "timestamp": 1785934009606
   }
 ]
