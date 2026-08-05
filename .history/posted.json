@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-charged-degree-murder-mans-death-baltimore-harbor-135360624",
-    "titleNorm": "man charged with seconddegree murder for mans death",
-    "type": "reel",
-    "timestamp": 1785867094204
-  },
-  {
-    "url": "https://www.foxnews.com/us/tucson-grandmother-beat-cancer-twice-killed-alleged-attack-felon-apartment",
-    "titleNorm": "tucson grandmother who beat cancer twice killed in",
-    "type": "card",
-    "timestamp": 1785867773771
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-overhaul-gut-head-start-preschool-standards-leaving-135319523",
     "titleNorm": "trump overhaul could gut head start preschool standards",
     "type": "reel",
@@ -64,5 +52,11 @@
     "titleNorm": "trump administration to close 5 smaller us consulates",
     "type": "card",
     "timestamp": 1785905658041
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/republicans-voters-elect-kansas-supreme-court-justices-move-135302462",
+    "titleNorm": "republicans want voters to elect kansas supreme court",
+    "type": "reel",
+    "timestamp": 1785913893533
   }
 ]
