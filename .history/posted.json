@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/beloved-nc-gas-station-clerk-allegedly-killed-registered-sex-offender-vanishing-home-deputies",
-    "titleNorm": "beloved nc gas station clerk allegedly killed by",
-    "type": "card",
-    "timestamp": 1785893297868
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -46,5 +40,11 @@
     "titleNorm": "police hunt teen accused of killing citadel cadet",
     "type": "card",
     "timestamp": 1785934009606
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/eastern-washington-fires-burned-600-structures-forced-evacuation-135307789",
+    "titleNorm": "fires near spokane washington have burned 600 structures",
+    "type": "reel",
+    "timestamp": 1785941232340
   }
 ]
