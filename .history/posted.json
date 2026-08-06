@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/eastern-washington-fires-burned-600-structures-forced-evacuation-135307789",
-    "titleNorm": "fires near spokane washington have burned 600 structures",
-    "type": "reel",
-    "timestamp": 1785941232340
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/man-el-salvador-dies-immigration-jail-new-jersey-135344276",
-    "titleNorm": "man from el salvador dies in immigration jail",
-    "type": "card",
-    "timestamp": 1785942752771
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-charged-degree-murder-mans-death-baltimore-harbor-135360624",
     "titleNorm": "man charged with seconddegree murder for mans death",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "florida 3yearold dies after tragic incident involving common",
     "type": "card",
     "timestamp": 1785979552622
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-hunt-teen-accused-killing-citadel-cadet-childhood-friend-warn-armed-dangerous-suspect",
+    "titleNorm": "teen arrested on murder charges after citadel cadet",
+    "type": "reel",
+    "timestamp": 1785988236300
   }
 ]
