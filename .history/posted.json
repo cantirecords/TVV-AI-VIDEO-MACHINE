@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-killed-top-minnesota-lawmaker-husband-makes-state-135336081",
-    "titleNorm": "man who killed top lawmaker and her husband",
-    "type": "reel",
-    "timestamp": 1785972565079
-  },
-  {
-    "url": "https://www.foxnews.com/us/illegal-immigrants-among-70-arrested-mississippi-child-exploitation-crackdown-feds",
-    "titleNorm": "illegal immigrants among 70 arrested in mississippi child",
-    "type": "card",
-    "timestamp": 1785973646845
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-3-year-old-dies-after-tragic-incident-involving-common-play-toy-babysitters-house",
     "titleNorm": "florida 3yearold dies after tragic incident involving common",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "top us admiral warns against coercion says no",
     "type": "reel",
     "timestamp": 1786014076096
+  },
+  {
+    "url": "https://www.foxnews.com/us/multiple-people-dead-north-carolina-shooting-official-says",
+    "titleNorm": "three people killed in north carolina shooting official",
+    "type": "card",
+    "timestamp": 1786020605527
   }
 ]
