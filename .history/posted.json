@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-hunt-teen-accused-killing-citadel-cadet-childhood-friend-warn-armed-dangerous-suspect",
-    "titleNorm": "police hunt teen accused of killing citadel cadet",
-    "type": "card",
-    "timestamp": 1785934009606
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/eastern-washington-fires-burned-600-structures-forced-evacuation-135307789",
     "titleNorm": "fires near spokane washington have burned 600 structures",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "illegal immigrants among 70 arrested in mississippi child",
     "type": "card",
     "timestamp": 1785973646845
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-3-year-old-dies-after-tragic-incident-involving-common-play-toy-babysitters-house",
+    "titleNorm": "florida 3yearold dies after tragic incident involving common",
+    "type": "card",
+    "timestamp": 1785979552622
   }
 ]
