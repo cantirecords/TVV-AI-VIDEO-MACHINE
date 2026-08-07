@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/delaware-dance-teacher-arrested-alleged-sexual-abuse-solicitation-teen-students",
-    "titleNorm": "delaware dance teacher arrested for alleged sexual abuse",
-    "type": "card",
-    "timestamp": 1786068225348
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-approves-106-million-settlement-deadly-2019-hard-135440765",
     "titleNorm": "judge approves 106m settlement over deadly 2019 hard",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1786110542761
+  },
+  {
+    "url": "https://www.foxnews.com/us/delaware-dance-teacher-arrested-alleged-sexual-abuse-solicitation-teen-students",
+    "titleNorm": "delaware dance teacher arrested for alleged sexual abuse",
+    "type": "card",
+    "timestamp": 1786111562114
   }
 ]
