@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/deal-iran-strait-hormuz-require-compromise-trump-135446529",
-    "titleNorm": "a deal with iran over the strait of",
-    "type": "card",
-    "timestamp": 1786099298297
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/",
     "titleNorm": "trump issues new executive orders aimed at birthright",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "senate passes sanctions bill on russia and iran",
     "type": "card",
     "timestamp": 1786141466062
+  },
+  {
+    "url": "https://www.nbcnews.com/select/shopping/ocoopa-hand-warmer-recall-rcna591394",
+    "titleNorm": "you wont want to wait until winter to",
+    "type": "reel",
+    "timestamp": 1786143895193
   }
 ]
