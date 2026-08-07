@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-people-dead-north-carolina-shooting-official-says",
-    "titleNorm": "three people killed in north carolina shooting official",
-    "type": "card",
-    "timestamp": 1786020605527
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "in odesa noone is safe from russias new",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "canadian accused of attacking teen over trump and",
     "type": "reel",
     "timestamp": 1786062236131
+  },
+  {
+    "url": "https://www.foxnews.com/us/delaware-dance-teacher-arrested-alleged-sexual-abuse-solicitation-teen-students",
+    "titleNorm": "delaware dance teacher arrested for alleged sexual abuse",
+    "type": "card",
+    "timestamp": 1786068225348
   }
 ]
