@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-new-executive-orders-birthright-citizenship/",
-    "titleNorm": "trump issues new executive orders aimed at birthright",
-    "type": "reel",
-    "timestamp": 1786101432163
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-moves-forward-head-start-overhaul-proposing-135423443",
     "titleNorm": "trump administration moves forward with head start overhaul",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "you wont want to wait until winter to",
     "type": "reel",
     "timestamp": 1786143895193
+  },
+  {
+    "url": "https://www.foxnews.com/us/nyc-church-arson-suspect-allegedly-plotted-more-attacks-had-violent-notes-like-murder-them-rape-him",
+    "titleNorm": "nyc church arson suspect allegedly plotted more attacks",
+    "type": "card",
+    "timestamp": 1786145057913
   }
 ]
