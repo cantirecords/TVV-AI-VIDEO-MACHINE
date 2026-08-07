@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-church-arson-suspect-allegedly-plotted-more-attacks-had-violent-notes-like-murder-them-rape-him",
-    "titleNorm": "nyc church arson suspect allegedly plotted more attacks",
-    "type": "reel",
-    "timestamp": 1786082270570
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786082679719
-  },
-  {
     "url": "https://www.foxnews.com/us/eyewitness-describes-suspicious-encounter-helped-launch-washington-wildfire-arson-probe",
     "titleNorm": "eyewitness describes suspicious encounter that helped launch washington",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "seven killed after thai student opens fire at",
     "type": "card",
     "timestamp": 1786124398558
+  },
+  {
+    "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/",
+    "titleNorm": "warren presses us companies to share tariff refunds",
+    "type": "card",
+    "timestamp": 1786127932128
   }
 ]
