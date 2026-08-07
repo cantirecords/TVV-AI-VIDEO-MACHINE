@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "in odesa noone is safe from russias new",
-    "type": "reel",
-    "timestamp": 1786027529371
-  },
-  {
-    "url": "https://www.foxnews.com/us/trumps-decade-assassination-threats-butler-shooting-latest-golf-club-breach",
-    "titleNorm": "trumps decade of assassination threats runs from butler",
-    "type": "card",
-    "timestamp": 1786028756271
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "delaware dance teacher arrested for alleged sexual abuse",
     "type": "card",
     "timestamp": 1786068225348
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-approves-106-million-settlement-deadly-2019-hard-135440765",
+    "titleNorm": "judge approves 106m settlement over deadly 2019 hard",
+    "type": "reel",
+    "timestamp": 1786073217000
   }
 ]
