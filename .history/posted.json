@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396",
-    "titleNorm": "idaho police release chilling new video of innout",
-    "type": "reel",
-    "timestamp": 1786180249668
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/toronto-police-arrest-2-july-shooting-us-consulate-135433380",
     "titleNorm": "toronto police arrest 2 in july shooting at",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "inside d4vd039s preliminary hearing in murder case case",
     "type": "reel",
     "timestamp": 1786222696040
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/louisiana-five-die-flesh-eating-bacteria-rcna591518",
+    "titleNorm": "louisiana warns against flesheating bacteria after five deaths",
+    "type": "card",
+    "timestamp": 1786223988790
   }
 ]
