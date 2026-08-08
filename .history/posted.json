@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/congress/senate-passes-sanctions-bill-russia-iran-named-late-sen-lindsey-graham-rcna589949",
-    "titleNorm": "senate passes sanctions bill on russia and iran",
-    "type": "card",
-    "timestamp": 1786141466062
-  },
-  {
     "url": "https://www.nbcnews.com/select/shopping/ocoopa-hand-warmer-recall-rcna591394",
     "titleNorm": "you wont want to wait until winter to",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "a helicopter battling a utah wildfire crashes with",
     "type": "card",
     "timestamp": 1786184476016
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "german airport dronebomb could russia be involved",
+    "type": "reel",
+    "timestamp": 1786186900026
   }
 ]
