@@ -106,5 +106,11 @@
     "titleNorm": "video shows gunman start deadly rampage at idaho",
     "type": "reel",
     "timestamp": 1786201113164
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-bigwig-accused-driving-sons-getaway-car-gang-shooting-sorority-sisters-mayor-report",
+    "titleNorm": "police bigwig accused of driving sons getaway car",
+    "type": "card",
+    "timestamp": 1786202339225
   }
 ]
