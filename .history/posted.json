@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "seven killed after thai student opens fire at",
-    "type": "card",
-    "timestamp": 1786124398558
-  },
-  {
     "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/",
     "titleNorm": "warren presses us companies to share tariff refunds",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "us intel agencies warn putin could test nato",
     "type": "card",
     "timestamp": 1786167349183
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "thousands of migrants still in ceuta after border",
+    "type": "card",
+    "timestamp": 1786170762626
   }
 ]
