@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1786136976813
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-illinois-kayakers-found-dead-near-strait-called-deaths-door-known-shipwrecks",
     "titleNorm": "missing illinois kayakers found dead near strait called",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "faa investigating why plane was allowed to take",
     "type": "card",
     "timestamp": 1786177727032
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396",
+    "titleNorm": "idaho police release chilling new video of innout",
+    "type": "reel",
+    "timestamp": 1786180249668
   }
 ]
