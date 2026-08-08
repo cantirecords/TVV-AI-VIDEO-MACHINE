@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/more-than-50-bodies-found-decomposing-inside-chicago-funeral-home-after-neighbors-complained-stench",
-    "titleNorm": "more than 50 bodies found decomposing inside chicago",
-    "type": "reel",
-    "timestamp": 1786166190631
-  },
-  {
     "url": "https://www.cbsnews.com/news/u-s-intelligence-agencies-russia-putin-test-nato/",
     "titleNorm": "us intel agencies warn putin could test nato",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "new york state police launch manhunt after killing",
     "type": "reel",
     "timestamp": 1786208592683
+  },
+  {
+    "url": "https://www.nbcnews.com/sports/soccer/jorge-messi-father-soccer-legend-lionel-dies-age-68-rcna591487",
+    "titleNorm": "jorge messi father of soccer legend lionel messi",
+    "type": "card",
+    "timestamp": 1786209635340
   }
 ]
