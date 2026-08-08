@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/toronto-police-arrest-2-july-shooting-us-consulate-135433380",
-    "titleNorm": "toronto police arrest 2 in july shooting at",
-    "type": "card",
-    "timestamp": 1786181250151
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
     "titleNorm": "a helicopter battling a utah wildfire crashes with",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "louisiana warns against flesheating bacteria after five deaths",
     "type": "card",
     "timestamp": 1786223988790
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "thai pm vows to introduce stricter gun laws",
+    "type": "card",
+    "timestamp": 1786227447568
   }
 ]
