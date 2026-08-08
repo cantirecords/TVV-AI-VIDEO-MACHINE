@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/faa-investigating-plane-allowed-off-president-trumps-helicopter-135392993",
-    "titleNorm": "faa investigating why plane was allowed to take",
-    "type": "card",
-    "timestamp": 1786177727032
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396",
     "titleNorm": "idaho police release chilling new video of innout",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "fastmoving canada wildfire doubles in size forcing thousands",
     "type": "card",
     "timestamp": 1786220197282
+  },
+  {
+    "url": "https://www.cbsnews.com/video/inside-d4vds-preliminary-hearing-in-murder-case-case-by-case/",
+    "titleNorm": "inside d4vd039s preliminary hearing in murder case case",
+    "type": "reel",
+    "timestamp": 1786222696040
   }
 ]
