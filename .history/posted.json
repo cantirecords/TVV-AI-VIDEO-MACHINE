@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/elizabeth-warren-tariff-refunds-ieepa/",
-    "titleNorm": "warren presses us companies to share tariff refunds",
-    "type": "card",
-    "timestamp": 1786127932128
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/idaho-police-release-chilling-new-video-n-mass-shooting-rcna591396",
-    "titleNorm": "idaho police release chilling new video of innout",
-    "type": "reel",
-    "timestamp": 1786130933340
-  },
-  {
     "url": "https://www.today.com/video/spokane-arson-suspect-says-he-waited-for-windy-day-to-set-fire-267926085891",
     "titleNorm": "spokane wildfire suspect confesses to setting dozens of",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "thousands of migrants still in ceuta after border",
     "type": "card",
     "timestamp": 1786170762626
+  },
+  {
+    "url": "https://www.cbsnews.com/news/puerto-rico-water-rationing-severe-drought/",
+    "titleNorm": "water rationing begins in puerto rico amid drought",
+    "type": "reel",
+    "timestamp": 1786174201145
   }
 ]
