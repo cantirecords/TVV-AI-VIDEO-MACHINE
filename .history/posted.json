@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "fastmoving canada wildfire doubles in size forcing thousands",
-    "type": "card",
-    "timestamp": 1786220197282
-  },
-  {
     "url": "https://www.cbsnews.com/video/inside-d4vds-preliminary-hearing-in-murder-case-case-by-case/",
     "titleNorm": "inside d4vd039s preliminary hearing in murder case case",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "slain california fire captains wife admits murder after",
     "type": "card",
     "timestamp": 1786261477077
+  },
+  {
+    "url": "https://www.foxnews.com/us/actress-convicted-accessory-double-murder-made-disturbing-remark-killings-former-friend-says",
+    "titleNorm": "actress convicted as accessory after double murder made",
+    "type": "card",
+    "timestamp": 1786264199147
   }
 ]
