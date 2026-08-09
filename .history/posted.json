@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/actress-convicted-accessory-double-murder-made-disturbing-remark-killings-former-friend-says",
-    "titleNorm": "actress convicted as accessory after double murder made",
-    "type": "card",
-    "timestamp": 1786264199147
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
     "type": "card",
     "timestamp": 1786306749227
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1786309362414
   }
 ]
