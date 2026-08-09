@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
-    "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
-    "type": "card",
-    "timestamp": 1786231074576
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "child among three killed in russian missile attacks",
     "type": "reel",
     "timestamp": 1786273346100
+  },
+  {
+    "url": "https://www.foxnews.com/us/mountain-getaway-rocked-latest-chapter-deadly-violence-officials-avoid-gang-label-tourist-town",
+    "titleNorm": "mountain getaway rocked by latest chapter of deadly",
+    "type": "card",
+    "timestamp": 1786274409199
   }
 ]
