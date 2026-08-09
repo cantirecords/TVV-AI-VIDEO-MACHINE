@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1786253442745
-  },
-  {
-    "url": "https://www.foxnews.com/us/exclusive-teen-girls-recall-jersey-shore-ride-malfunction-left-stuck-hanging-upside-down",
-    "titleNorm": "exclusive teen girls recall jersey shore ride malfunction",
-    "type": "card",
-    "timestamp": 1786254039009
-  },
-  {
     "url": "https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/",
     "titleNorm": "woman learns man who attacked her killed a",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "san francisco dad questioned by park rangers for",
     "type": "card",
     "timestamp": 1786296081396
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-men-accused-posing-federal-agents-arrested-allegedly-targeting-85-year-old-200k-gold-scam",
+    "titleNorm": "two men accused of posing as federal agents",
+    "type": "card",
+    "timestamp": 1786299804815
   }
 ]
