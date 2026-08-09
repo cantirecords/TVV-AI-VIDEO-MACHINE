@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/louisiana-five-die-flesh-eating-bacteria-rcna591518",
-    "titleNorm": "louisiana warns against flesheating bacteria after five deaths",
-    "type": "card",
-    "timestamp": 1786223988790
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "thai pm vows to introduce stricter gun laws",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1786266697486
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/body-found-california-home-burned-wildfire-believed-started-135439050",
+    "titleNorm": "body found in california home burned by wildfire",
+    "type": "card",
+    "timestamp": 1786267705393
   }
 ]
