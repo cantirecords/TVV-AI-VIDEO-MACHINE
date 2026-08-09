@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/slain-california-fire-captain-wife-admits-murder-mexico-capture-serving-time-killing-first-spouse",
-    "titleNorm": "slain california fire captains wife admits murder after",
-    "type": "card",
-    "timestamp": 1786213289509
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/hunter-biden-joe-biden-prostate-cancer-spreading-rcna591499",
     "titleNorm": "hunter biden says joe bidens cancer has spread",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "exclusive teen girls recall jersey shore ride malfunction",
     "type": "card",
     "timestamp": 1786254039009
+  },
+  {
+    "url": "https://www.cbsnews.com/news/cc-opanowski-lori-leonard-shawn-doyle-new-york-ex-boyfriend-murder-48-hours/",
+    "titleNorm": "woman learns man who attacked her killed a",
+    "type": "card",
+    "timestamp": 1786257426545
   }
 ]
