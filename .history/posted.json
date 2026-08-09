@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "child among three killed in russian missile attacks",
-    "type": "reel",
-    "timestamp": 1786273346100
-  },
-  {
     "url": "https://www.foxnews.com/us/mountain-getaway-rocked-latest-chapter-deadly-violence-officials-avoid-gang-label-tourist-town",
     "titleNorm": "mountain getaway rocked by latest chapter of deadly",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "don nelson former nba coach and 5time champion",
     "type": "reel",
     "timestamp": 1786316424958
+  },
+  {
+    "url": "https://www.foxnews.com/us/norad-fighter-jets-intercept-aircraft-near-trumps-bedminster-golf-club",
+    "titleNorm": "norad fighter jets intercept 2 aircraft near trumps",
+    "type": "card",
+    "timestamp": 1786317601752
   }
 ]
