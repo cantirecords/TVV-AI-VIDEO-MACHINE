@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "thai pm vows to introduce stricter gun laws",
-    "type": "card",
-    "timestamp": 1786227447568
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "i ran because i knew i would die",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "body found in california home burned by wildfire",
     "type": "card",
     "timestamp": 1786267705393
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-moves-forward-head-start-overhaul-proposing-135423443",
+    "titleNorm": "trump administration moves forward with head start overhaul",
+    "type": "card",
+    "timestamp": 1786270938475
   }
 ]
