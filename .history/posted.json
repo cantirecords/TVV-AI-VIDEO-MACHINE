@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-dead-including-infant-after-boat-capsizes-new-york-harbor-12-rescued",
-    "titleNorm": "two dead including infant after boat capsizes in",
-    "type": "card",
-    "timestamp": 1786345707874
-  },
-  {
     "url": "https://www.cbsnews.com/news/stacy-librandi-haiti-60-minutes/",
     "titleNorm": "a volunteer arrived in haiti after the earthquake",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786387272134
+  },
+  {
+    "url": "https://www.cbsnews.com/news/italy-valter-lavitola-sigfrido-ranucci-bomb-attack-silvio-berlusconi/",
+    "titleNorm": "italian businessman is mastermind behind journalist bomb attack",
+    "type": "reel",
+    "timestamp": 1786390212939
   }
 ]
