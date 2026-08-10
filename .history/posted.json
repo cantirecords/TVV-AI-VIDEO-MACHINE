@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/don-nelson-nba-coach-champion-die/",
-    "titleNorm": "don nelson former nba coach and 5time champion",
-    "type": "reel",
-    "timestamp": 1786316424958
-  },
-  {
-    "url": "https://www.foxnews.com/us/norad-fighter-jets-intercept-aircraft-near-trumps-bedminster-golf-club",
-    "titleNorm": "norad fighter jets intercept 2 aircraft near trumps",
-    "type": "card",
-    "timestamp": 1786317601752
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
     "titleNorm": "a helicopter battling a utah wildfire crashes as",
     "type": "card",
@@ -70,5 +58,11 @@
     "titleNorm": "indian national accused of arizona girlfriends murder entered",
     "type": "card",
     "timestamp": 1786359430797
+  },
+  {
+    "url": "https://www.foxnews.com/us/mountain-getaway-rocked-latest-chapter-deadly-violence-officials-avoid-gang-label-tourist-town",
+    "titleNorm": "mountain getaway rocked by latest chapter of deadly",
+    "type": "reel",
+    "timestamp": 1786361464614
   }
 ]
