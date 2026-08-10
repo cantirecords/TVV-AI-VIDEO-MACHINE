@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1786310478326
-  },
-  {
     "url": "https://www.foxnews.com/us/police-bigwig-accused-driving-sons-getaway-car-gang-shooting-sorority-sisters-mayor-report",
     "titleNorm": "police bigwig accused of driving sons getaway car",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "trump overhaul could gut head start preschool standards",
     "type": "card",
     "timestamp": 1786352765877
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169",
+    "titleNorm": "abdul elsayed says he hopes to campaign with",
+    "type": "reel",
+    "timestamp": 1786355843462
   }
 ]
