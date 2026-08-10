@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-men-accused-posing-federal-agents-arrested-allegedly-targeting-85-year-old-200k-gold-scam",
-    "titleNorm": "two men accused of posing as federal agents",
-    "type": "card",
-    "timestamp": 1786299804815
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1786341332786
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-dead-including-infant-after-boat-capsizes-new-york-harbor-12-rescued",
+    "titleNorm": "two dead including infant after boat capsizes in",
+    "type": "card",
+    "timestamp": 1786345707874
   }
 ]
