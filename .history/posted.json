@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
-    "titleNorm": "a helicopter battling a utah wildfire crashes as",
-    "type": "card",
-    "timestamp": 1786323243935
-  },
-  {
     "url": "https://www.cbsnews.com/news/joe-biden-cancer-has-spread-hunter-biden-says/",
     "titleNorm": "hunter biden says his father039s cancer has spread",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "former thai lawmaker arrested after allegedly shooting government",
     "type": "card",
     "timestamp": 1786365762587
+  },
+  {
+    "url": "https://www.nbcnews.com/news/obituaries/ben-jones-cooter-dukes-hazzard-former-congressman-dies-84-rcna591678",
+    "titleNorm": "ben jones cooter on the dukes of hazzard",
+    "type": "reel",
+    "timestamp": 1786370029135
   }
 ]
