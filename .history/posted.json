@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-hopes-campaign-obama-phone-call-michigan-senate-rcna591169",
-    "titleNorm": "abdul elsayed says he hopes to campaign with",
-    "type": "reel",
-    "timestamp": 1786355843462
-  },
-  {
     "url": "https://www.foxnews.com/us/indian-national-accused-arizona-girlfriends-murder-entered-us-student-visa-federal-sources",
     "titleNorm": "indian national accused of arizona girlfriends murder entered",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "tupac murder trial set to begin nearly 30",
     "type": "card",
     "timestamp": 1786397495543
+  },
+  {
+    "url": "https://www.foxnews.com/us/tupac-shakur-murder-suspect-takes-center-stage-trial-nearly-30-years-after-shooting-shocked-music-world",
+    "titleNorm": "tupac shakur murder suspect takes center stage at",
+    "type": "card",
+    "timestamp": 1786400761452
   }
 ]
