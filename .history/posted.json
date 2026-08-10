@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/joe-biden-cancer-has-spread-hunter-biden-says/",
-    "titleNorm": "hunter biden says his father039s cancer has spread",
-    "type": "reel",
-    "timestamp": 1786329785725
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "child among three killed in russian missile attacks",
-    "type": "card",
-    "timestamp": 1786331177175
-  },
-  {
     "url": "https://www.foxnews.com/us/exclusive-teen-girls-recall-jersey-shore-ride-malfunction-left-stuck-hanging-upside-down",
     "titleNorm": "exclusive teen girls recall jersey shore ride malfunction",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "norad fighter jets intercept 2 aircraft near trumps",
     "type": "card",
     "timestamp": 1786371141985
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-will-scharf-white-house-counsel/",
+    "titleNorm": "trump taps staff secretary will scharf to be",
+    "type": "reel",
+    "timestamp": 1786375924580
   }
 ]
