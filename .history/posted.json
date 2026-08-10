@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
-    "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
-    "type": "card",
-    "timestamp": 1786306749227
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1786309362414
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "a volunteer arrived in haiti after the earthquake",
     "type": "reel",
     "timestamp": 1786349652248
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-overhaul-gut-head-start-preschool-standards-leaving-135319523",
+    "titleNorm": "trump overhaul could gut head start preschool standards",
+    "type": "card",
+    "timestamp": 1786352765877
   }
 ]
