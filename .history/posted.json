@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/exclusive-teen-girls-recall-jersey-shore-ride-malfunction-left-stuck-hanging-upside-down",
-    "titleNorm": "exclusive teen girls recall jersey shore ride malfunction",
-    "type": "card",
-    "timestamp": 1786338949131
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "what to know about trumps new attempt to",
     "type": "card",
     "timestamp": 1786380128483
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wildfires-burn-western-us-canada-residents-evacuated-135503561",
+    "titleNorm": "wildfires burn across western us and canada as",
+    "type": "reel",
+    "timestamp": 1786382733497
   }
 ]
