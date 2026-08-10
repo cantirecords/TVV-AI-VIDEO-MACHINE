@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-bigwig-accused-driving-sons-getaway-car-gang-shooting-sorority-sisters-mayor-report",
-    "titleNorm": "police bigwig accused of driving sons getaway car",
-    "type": "card",
-    "timestamp": 1786313939758
-  },
-  {
     "url": "https://www.cbsnews.com/news/don-nelson-nba-coach-champion-die/",
     "titleNorm": "don nelson former nba coach and 5time champion",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "abdul elsayed says he hopes to campaign with",
     "type": "reel",
     "timestamp": 1786355843462
+  },
+  {
+    "url": "https://www.foxnews.com/us/indian-national-accused-arizona-girlfriends-murder-entered-us-student-visa-federal-sources",
+    "titleNorm": "indian national accused of arizona girlfriends murder entered",
+    "type": "card",
+    "timestamp": 1786359430797
   }
 ]
