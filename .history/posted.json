@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mountain-getaway-rocked-latest-chapter-deadly-violence-officials-avoid-gang-label-tourist-town",
-    "titleNorm": "mountain getaway rocked by latest chapter of deadly",
-    "type": "card",
-    "timestamp": 1786274409199
-  },
-  {
-    "url": "https://www.cbsnews.com/news/lori-ann-leonard-shawn-doyle-new-york-murder-survivor-testimony-48-hours/",
-    "titleNorm": "survivor039s testimony key in helping convict exboyfriend of",
-    "type": "card",
-    "timestamp": 1786278403980
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "thai pm vows to introduce stricter gun laws",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "norad fighter jets intercept 2 aircraft near trumps",
     "type": "card",
     "timestamp": 1786317601752
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
+    "titleNorm": "a helicopter battling a utah wildfire crashes as",
+    "type": "card",
+    "timestamp": 1786323243935
   }
 ]
