@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1786302711608
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/court-orders-instagram-facebooks-meta-pay-567m-address-135441473",
-    "titleNorm": "court orders meta to pay 567m to address",
-    "type": "card",
-    "timestamp": 1786303489430
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
     "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "two dead including infant after boat capsizes in",
     "type": "card",
     "timestamp": 1786345707874
+  },
+  {
+    "url": "https://www.cbsnews.com/news/stacy-librandi-haiti-60-minutes/",
+    "titleNorm": "a volunteer arrived in haiti after the earthquake",
+    "type": "reel",
+    "timestamp": 1786349652248
   }
 ]
