@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/stacy-librandi-haiti-60-minutes/",
-    "titleNorm": "a volunteer arrived in haiti after the earthquake",
-    "type": "reel",
-    "timestamp": 1786349652248
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-overhaul-gut-head-start-preschool-standards-leaving-135319523",
     "titleNorm": "trump overhaul could gut head start preschool standards",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "hunter biden says joe bidens cancer has spread",
     "type": "card",
     "timestamp": 1786391239545
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/georgia-dad-convicted-after-giving-son-gun-school-135468820",
+    "titleNorm": "dad convicted after giving his son the gun",
+    "type": "card",
+    "timestamp": 1786393835986
   }
 ]
