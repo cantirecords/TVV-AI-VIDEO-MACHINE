@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/indian-national-accused-arizona-girlfriends-murder-entered-us-student-visa-federal-sources",
-    "titleNorm": "indian national accused of arizona girlfriends murder entered",
-    "type": "card",
-    "timestamp": 1786359430797
-  },
-  {
     "url": "https://www.foxnews.com/us/mountain-getaway-rocked-latest-chapter-deadly-violence-officials-avoid-gang-label-tourist-town",
     "titleNorm": "mountain getaway rocked by latest chapter of deadly",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "tupac shakur murder suspect takes center stage at",
     "type": "card",
     "timestamp": 1786400761452
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/francesca-hong-surged-democratic-rivals-held-fire-politics-desk-rcna591797",
+    "titleNorm": "as francesca hong surged democratic rivals held their",
+    "type": "reel",
+    "timestamp": 1786403211163
   }
 ]
