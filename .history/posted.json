@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/tupac-shakur-murder-trial-begins-nearly-30-years-after-death-268027973650",
-    "titleNorm": "tupac murder trial set to begin nearly 30",
-    "type": "card",
-    "timestamp": 1786397495543
-  },
-  {
     "url": "https://www.foxnews.com/us/tupac-shakur-murder-suspect-takes-center-stage-trial-nearly-30-years-after-shooting-shocked-music-world",
     "titleNorm": "tupac shakur murder suspect takes center stage at",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "florida man accused of killing nurse mom who",
     "type": "reel",
     "timestamp": 1786440581693
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1786441788961
   }
 ]
