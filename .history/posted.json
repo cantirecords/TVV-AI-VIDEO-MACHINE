@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/georgia-dad-convicted-after-giving-son-gun-school-135468820",
-    "titleNorm": "dad convicted after giving his son the gun",
-    "type": "reel",
-    "timestamp": 1786446855532
-  },
-  {
     "url": "https://www.foxnews.com/us/great-grandson-slaves-has-warning-about-smithsonians-anti-american-indoctrination-more-top-headlines",
     "titleNorm": "greatgrandson of slaves has warning about smithsonians antiamerican",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "what to know about trumps new attempt to",
     "type": "reel",
     "timestamp": 1786489928499
+  },
+  {
+    "url": "https://www.today.com/video/trump-boarded-decoy-air-force-one-in-turkey-after-nato-summit-268102213529",
+    "titleNorm": "trump secretly switched planes in turkey amid reported",
+    "type": "card",
+    "timestamp": 1786490963061
   }
 ]
