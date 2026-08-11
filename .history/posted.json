@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-man-accused-killing-nurse-mom-helped-despite-repeated-arrests-threatening-sheriff",
-    "titleNorm": "florida man accused of killing nurse mom who",
-    "type": "reel",
-    "timestamp": 1786440581693
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "rescuers race to find colombia earthquake survivors as",
     "type": "reel",
     "timestamp": 1786482897482
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-wanted-robbery-tied-penn-state-students-murder-sought-off-duty-cop-shootout",
+    "titleNorm": "man wanted in robbery tied to penn state",
+    "type": "card",
+    "timestamp": 1786484097869
   }
 ]
