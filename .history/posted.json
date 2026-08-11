@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-sentenced-six-years-boyfriends-killing",
-    "titleNorm": "onlyfans model courtney clenney sentenced to six years",
-    "type": "card",
-    "timestamp": 1786444886192
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/georgia-dad-convicted-after-giving-son-gun-school-135468820",
     "titleNorm": "dad convicted after giving his son the gun",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "former us marine held in russia for more",
     "type": "card",
     "timestamp": 1786487462270
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-new-attempt-limit-birthright-citizenship-135476377",
+    "titleNorm": "what to know about trumps new attempt to",
+    "type": "reel",
+    "timestamp": 1786489928499
   }
 ]
