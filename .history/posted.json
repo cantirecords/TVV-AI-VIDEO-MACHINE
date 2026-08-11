@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/video/doctors-respond-trumps-vaccine-executive-order-kids-go-back-school-measles-outbreak/",
-    "titleNorm": "doctors respond to trump039s vaccine executive order as",
-    "type": "card",
-    "timestamp": 1786430720991
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/memphis-forward-brandon-clarke-died-effects-heroin-cocaine-135470819",
     "titleNorm": "memphis forward brandon clarke died from effects of",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "2 custodians dead in possible murdersuicide at chicago",
     "type": "card",
     "timestamp": 1786473913949
+  },
+  {
+    "url": "https://www.foxnews.com/us/unlicensed-nyc-boat-operator-allegedly-ignored-safety-warnings-mother-baby-died-capsizing-feds",
+    "titleNorm": "unlicensed nyc boat operator allegedly ignored safety warnings",
+    "type": "reel",
+    "timestamp": 1786476849525
   }
 ]
