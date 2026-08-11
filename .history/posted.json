@@ -88,5 +88,11 @@
     "titleNorm": "you wont want to wait until winter to",
     "type": "reel",
     "timestamp": 1786456362786
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/firefighters-handle-spokane-wildfires-tens-thousands-remain-evacuated-135402299",
+    "titleNorm": "firefighters get a handle on spokane wildfires as",
+    "type": "card",
+    "timestamp": 1786457489038
   }
 ]
