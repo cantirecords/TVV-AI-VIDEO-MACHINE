@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/georgia-dad-convicted-after-giving-son-gun-school-135468820",
-    "titleNorm": "dad convicted after giving his son the gun",
-    "type": "card",
-    "timestamp": 1786393835986
-  },
-  {
-    "url": "https://www.nbcnews.com/select/shopping/ocoopa-hand-warmer-recall-rcna591394",
-    "titleNorm": "you wont want to wait until winter to",
-    "type": "reel",
-    "timestamp": 1786396301865
-  },
-  {
     "url": "https://www.today.com/video/tupac-shakur-murder-trial-begins-nearly-30-years-after-death-268027973650",
     "titleNorm": "tupac murder trial set to begin nearly 30",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
     "type": "card",
     "timestamp": 1786435359914
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-man-accused-killing-nurse-mom-helped-despite-repeated-arrests-threatening-sheriff",
+    "titleNorm": "florida man accused of killing nurse mom who",
+    "type": "reel",
+    "timestamp": 1786440581693
   }
 ]
