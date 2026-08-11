@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
-    "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
-    "type": "card",
-    "timestamp": 1786435359914
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-man-accused-killing-nurse-mom-helped-despite-repeated-arrests-threatening-sheriff",
     "titleNorm": "florida man accused of killing nurse mom who",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1786478078077
+  },
+  {
+    "url": "https://www.nbcnews.com/world/europe/former-us-marine-robert-gilman-held-russia-released-rcna591952",
+    "titleNorm": "former marine held in russia for more than",
+    "type": "card",
+    "timestamp": 1786480392779
   }
 ]
