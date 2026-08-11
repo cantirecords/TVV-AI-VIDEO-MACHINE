@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tupac-shakur-murder-suspect-takes-center-stage-trial-nearly-30-years-after-shooting-shocked-music-world",
-    "titleNorm": "tupac shakur murder suspect takes center stage at",
-    "type": "card",
-    "timestamp": 1786400761452
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/francesca-hong-surged-democratic-rivals-held-fire-politics-desk-rcna591797",
     "titleNorm": "as francesca hong surged democratic rivals held their",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786441788961
+  },
+  {
+    "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-sentenced-six-years-boyfriends-killing",
+    "titleNorm": "onlyfans model courtney clenney sentenced to six years",
+    "type": "card",
+    "timestamp": 1786444886192
   }
 ]
