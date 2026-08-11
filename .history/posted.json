@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786387272134
-  },
-  {
     "url": "https://www.cbsnews.com/news/italy-valter-lavitola-sigfrido-ranucci-bomb-attack-silvio-berlusconi/",
     "titleNorm": "italian businessman is mastermind behind journalist bomb attack",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1786427188405
+  },
+  {
+    "url": "https://www.cbsnews.com/video/doctors-respond-trumps-vaccine-executive-order-kids-go-back-school-measles-outbreak/",
+    "titleNorm": "doctors respond to trump039s vaccine executive order as",
+    "type": "card",
+    "timestamp": 1786430720991
   }
 ]
