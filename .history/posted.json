@@ -88,5 +88,11 @@
     "titleNorm": "jackie the famous california bald eagle dies after",
     "type": "reel",
     "timestamp": 1786462169790
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaugh-lawyers-allege-fabricated-evidence-secure-murder-indictments",
+    "titleNorm": "alex murdaugh lawyers allege fabricated evidence was used",
+    "type": "card",
+    "timestamp": 1786463345971
   }
 ]
