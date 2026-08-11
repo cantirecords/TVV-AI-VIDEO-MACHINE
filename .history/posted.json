@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "at least 13 killed in ukrainian drone strike",
-    "type": "card",
-    "timestamp": 1786404278463
-  },
-  {
     "url": "https://www.foxnews.com/us/22-year-old-passenger-dies-sudden-medical-emergency-southwest-flight-la",
     "titleNorm": "22yearold passenger dies after sudden medical emergency strikes",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "dad convicted after giving his son the gun",
     "type": "reel",
     "timestamp": 1786446855532
+  },
+  {
+    "url": "https://www.foxnews.com/us/great-grandson-slaves-has-warning-about-smithsonians-anti-american-indoctrination-more-top-headlines",
+    "titleNorm": "greatgrandson of slaves has warning about smithsonians antiamerican",
+    "type": "card",
+    "timestamp": 1786448227730
   }
 ]
