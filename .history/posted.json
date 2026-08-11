@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786441788961
-  },
-  {
     "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-sentenced-six-years-boyfriends-killing",
     "titleNorm": "onlyfans model courtney clenney sentenced to six years",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "man wanted in robbery tied to penn state",
     "type": "card",
     "timestamp": 1786484097869
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/former-us-marine-held-russia-4-years-released-135547671",
+    "titleNorm": "former us marine held in russia for more",
+    "type": "card",
+    "timestamp": 1786487462270
   }
 ]
