@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/italy-valter-lavitola-sigfrido-ranucci-bomb-attack-silvio-berlusconi/",
-    "titleNorm": "italian businessman is mastermind behind journalist bomb attack",
-    "type": "reel",
-    "timestamp": 1786390212939
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/hunter-biden-joe-biden-prostate-cancer-spreading-rcna591499",
     "titleNorm": "hunter biden says joe bidens cancer has spread",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "doctors respond to trump039s vaccine executive order as",
     "type": "card",
     "timestamp": 1786430720991
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/memphis-forward-brandon-clarke-died-effects-heroin-cocaine-135470819",
+    "titleNorm": "memphis forward brandon clarke died from effects of",
+    "type": "reel",
+    "timestamp": 1786434412813
   }
 ]
