@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trump confirms he switched planes after nato summit",
-    "type": "card",
-    "timestamp": 1786518381385
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "trumps dramatic plane swap hints at personal stakes",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "watch neighbors double take helped police identify accused",
     "type": "card",
     "timestamp": 1786560384817
+  },
+  {
+    "url": "https://www.foxnews.com/us/u-haul-worker-allegedly-shoots-co-worker-dead-argument-shift-police",
+    "titleNorm": "uhaul worker allegedly shoots coworker dead after argument",
+    "type": "reel",
+    "timestamp": 1786563446843
   }
 ]
