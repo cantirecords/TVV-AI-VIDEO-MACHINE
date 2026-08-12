@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/2-custodians-dead-possible-murder-suicide-chicago-elementary-school",
-    "titleNorm": "2 custodians dead in possible murdersuicide at chicago",
-    "type": "card",
-    "timestamp": 1786473913949
-  },
-  {
     "url": "https://www.foxnews.com/us/unlicensed-nyc-boat-operator-allegedly-ignored-safety-warnings-mother-baby-died-capsizing-feds",
     "titleNorm": "unlicensed nyc boat operator allegedly ignored safety warnings",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
     "type": "reel",
     "timestamp": 1786514089011
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "trump confirms he switched planes after nato summit",
+    "type": "card",
+    "timestamp": 1786518381385
   }
 ]
