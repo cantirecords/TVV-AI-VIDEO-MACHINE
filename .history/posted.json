@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
-    "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
-    "type": "card",
-    "timestamp": 1786512229927
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
     "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "nypds legendary hiphop cop derrick parker who investigated",
     "type": "card",
     "timestamp": 1786553124751
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-deputy-killed-ex-girlfriend-tv-sheriff-says",
+    "titleNorm": "florida deputy killed exgirlfriend over a tv then",
+    "type": "reel",
+    "timestamp": 1786555689842
   }
 ]
