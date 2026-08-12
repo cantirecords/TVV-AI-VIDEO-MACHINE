@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/16000-civilians-detained-russia-war-ukraine-held-estimates-135550641",
-    "titleNorm": "over 16000 civilians detained by russia during the",
-    "type": "reel",
-    "timestamp": 1786503933623
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/wildfires-burn-western-us-canada-residents-evacuated-135503561",
-    "titleNorm": "wildfires burn across western us and canada as",
-    "type": "card",
-    "timestamp": 1786504951022
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
     "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "firefighters get a handle on spokane wildfires as",
     "type": "card",
     "timestamp": 1786543947252
+  },
+  {
+    "url": "https://www.foxnews.com/us/2-custodians-dead-possible-murder-suicide-chicago-elementary-school",
+    "titleNorm": "2 custodians dead in possible murdersuicide at chicago",
+    "type": "reel",
+    "timestamp": 1786548567798
   }
 ]
