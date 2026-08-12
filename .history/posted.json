@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/critics-blast-trump-s-new-executive-order-on-childhood-vaccines-268103749666",
-    "titleNorm": "trump signs executive order on childhood vaccine schedule",
-    "type": "reel",
-    "timestamp": 1786469309404
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1786470477742
-  },
-  {
     "url": "https://www.foxnews.com/us/2-custodians-dead-possible-murder-suicide-chicago-elementary-school",
     "titleNorm": "2 custodians dead in possible murdersuicide at chicago",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
     "type": "card",
     "timestamp": 1786512229927
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
+    "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
+    "type": "reel",
+    "timestamp": 1786514089011
   }
 ]
