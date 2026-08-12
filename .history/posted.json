@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/dangerous-wildfire-crews-reaching-helicopter-crash-utah-135490108",
-    "titleNorm": "dangerous wildfire keeps crews from reaching helicopter crash",
-    "type": "reel",
-    "timestamp": 1786514089011
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "trump confirms he switched planes after nato summit",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "david crowleys razorthin wisconsin primary win sets up",
     "type": "card",
     "timestamp": 1786557056004
+  },
+  {
+    "url": "https://www.foxnews.com/us/watch-neighbors-double-take-helped-police-identify-accused-wildfire-arsonist-flames-raced-nearby",
+    "titleNorm": "watch neighbors double take helped police identify accused",
+    "type": "card",
+    "timestamp": 1786560384817
   }
 ]
