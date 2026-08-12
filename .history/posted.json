@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trumps dramatic plane swap hints at personal stakes",
-    "type": "reel",
-    "timestamp": 1786521665820
-  },
-  {
     "url": "https://www.nbcnews.com/video/ex-marine-freed-from-russian-prison-after-trump-discussed-case-with-putin-268138053912",
     "titleNorm": "exmarine freed from russian prison after trump discussed",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "over 16000 civilians detained by russia during the",
     "type": "card",
     "timestamp": 1786564584830
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-dc-crime-crackdown-working-city-sees-homicides-plummet-43-since-2025-slain-interns-mom",
+    "titleNorm": "trumps dc crime crackdown working as city sees",
+    "type": "card",
+    "timestamp": 1786566714164
   }
 ]
