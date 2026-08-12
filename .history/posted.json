@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/4-year-old-dies-suffering-electrical-shock-clothes-dryer-kansas-home",
-    "titleNorm": "4yearold dies after suffering electrical shock from clothes",
-    "type": "reel",
-    "timestamp": 1786533419679
-  },
-  {
     "url": "https://www.cbsnews.com/news/midwest-severe-storms-tornadoes-power-outages/",
     "titleNorm": "deadly storms tornadoes slam midwest causing widespread power",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "appointment of muslim judge in tiny mississippi town",
     "type": "reel",
     "timestamp": 1786576260566
+  },
+  {
+    "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/",
+    "titleNorm": "nick reiner indicted on murder charges in parents039",
+    "type": "card",
+    "timestamp": 1786577407082
   }
 ]
