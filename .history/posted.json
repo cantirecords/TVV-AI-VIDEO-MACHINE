@@ -76,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1786543002371
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/firefighters-handle-spokane-wildfires-tens-thousands-remain-evacuated-135402299",
+    "titleNorm": "firefighters get a handle on spokane wildfires as",
+    "type": "card",
+    "timestamp": 1786543947252
   }
 ]
