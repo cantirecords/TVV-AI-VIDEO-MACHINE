@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "jackie the famous california bald eagle dies after",
-    "type": "reel",
-    "timestamp": 1786462169790
-  },
-  {
-    "url": "https://www.foxnews.com/us/alex-murdaugh-lawyers-allege-fabricated-evidence-secure-murder-indictments",
-    "titleNorm": "alex murdaugh lawyers allege fabricated evidence was used",
-    "type": "card",
-    "timestamp": 1786463345971
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1786466736138
-  },
-  {
     "url": "https://www.today.com/video/critics-blast-trump-s-new-executive-order-on-childhood-vaccines-268103749666",
     "titleNorm": "trump signs executive order on childhood vaccine schedule",
     "type": "reel",
@@ -100,5 +82,11 @@
     "titleNorm": "wildfires burn across western us and canada as",
     "type": "card",
     "timestamp": 1786504951022
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
+    "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
+    "type": "card",
+    "timestamp": 1786512229927
   }
 ]
