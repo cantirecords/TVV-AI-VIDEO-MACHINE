@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/former-us-marine-robert-gilman-held-russia-released-rcna591952",
-    "titleNorm": "former marine held in russia for more than",
-    "type": "card",
-    "timestamp": 1786480392779
-  },
-  {
     "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/",
     "titleNorm": "rescuers race to find colombia earthquake survivors as",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "trumps dramatic plane swap hints at personal stakes",
     "type": "reel",
     "timestamp": 1786521665820
+  },
+  {
+    "url": "https://www.nbcnews.com/video/ex-marine-freed-from-russian-prison-after-trump-discussed-case-with-putin-268138053912",
+    "titleNorm": "exmarine freed from russian prison after trump discussed",
+    "type": "card",
+    "timestamp": 1786525181803
   }
 ]
