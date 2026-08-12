@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/",
-    "titleNorm": "rescuers race to find colombia earthquake survivors as",
-    "type": "reel",
-    "timestamp": 1786482897482
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-wanted-robbery-tied-penn-state-students-murder-sought-off-duty-cop-shootout",
-    "titleNorm": "man wanted in robbery tied to penn state",
-    "type": "card",
-    "timestamp": 1786484097869
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-us-marine-held-russia-4-years-released-135547671",
     "titleNorm": "former us marine held in russia for more",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "exmarine freed from russian prison after trump discussed",
     "type": "card",
     "timestamp": 1786525181803
+  },
+  {
+    "url": "https://www.nbcnews.com/weather/storms/dead-million-power-severe-storms-strike-midwest-rcna592035",
+    "titleNorm": "3 dead more than 1 million without power",
+    "type": "reel",
+    "timestamp": 1786527529348
   }
 ]
