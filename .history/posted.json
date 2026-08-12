@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/video/ex-marine-freed-from-russian-prison-after-trump-discussed-case-with-putin-268138053912",
-    "titleNorm": "exmarine freed from russian prison after trump discussed",
-    "type": "card",
-    "timestamp": 1786525181803
-  },
-  {
     "url": "https://www.nbcnews.com/weather/storms/dead-million-power-severe-storms-strike-midwest-rcna592035",
     "titleNorm": "3 dead more than 1 million without power",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trumps dc crime crackdown working as city sees",
     "type": "card",
     "timestamp": 1786566714164
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630",
+    "titleNorm": "minnesota gop picks lisa demuth over trumpbacked mike",
+    "type": "reel",
+    "timestamp": 1786569215233
   }
 ]
