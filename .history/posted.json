@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-us-marine-held-russia-4-years-released-135547671",
-    "titleNorm": "former us marine held in russia for more",
-    "type": "card",
-    "timestamp": 1786487462270
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trumps-new-attempt-limit-birthright-citizenship-135476377",
-    "titleNorm": "what to know about trumps new attempt to",
-    "type": "reel",
-    "timestamp": 1786489928499
-  },
-  {
     "url": "https://www.today.com/video/trump-boarded-decoy-air-force-one-in-turkey-after-nato-summit-268102213529",
     "titleNorm": "trump secretly switched planes in turkey amid reported",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "trump says security threat spurred secret plane swap",
     "type": "card",
     "timestamp": 1786528963209
+  },
+  {
+    "url": "https://www.foxnews.com/us/4-year-old-dies-suffering-electrical-shock-clothes-dryer-kansas-home",
+    "titleNorm": "4yearold dies after suffering electrical shock from clothes",
+    "type": "reel",
+    "timestamp": 1786533419679
   }
 ]
