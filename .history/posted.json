@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/trump-boarded-decoy-air-force-one-in-turkey-after-nato-summit-268102213529",
-    "titleNorm": "trump secretly switched planes in turkey amid reported",
-    "type": "card",
-    "timestamp": 1786490963061
-  },
-  {
     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/lucy-davis-office-shaun-dead-actor-announces-incurable-cancer-rcna592017",
     "titleNorm": "lucy davis the office and shaun of the",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "4yearold dies after suffering electrical shock from clothes",
     "type": "reel",
     "timestamp": 1786533419679
+  },
+  {
+    "url": "https://www.cbsnews.com/news/midwest-severe-storms-tornadoes-power-outages/",
+    "titleNorm": "deadly storms tornadoes slam midwest causing widespread power",
+    "type": "card",
+    "timestamp": 1786534704404
   }
 ]
