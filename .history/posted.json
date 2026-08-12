@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/weather/storms/dead-million-power-severe-storms-strike-midwest-rcna592035",
-    "titleNorm": "3 dead more than 1 million without power",
-    "type": "reel",
-    "timestamp": 1786527529348
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/president-says-security-threat-spurred-secret-plane-swap-turkey-rcna592053",
-    "titleNorm": "trump says security threat spurred secret plane swap",
-    "type": "card",
-    "timestamp": 1786528963209
-  },
-  {
     "url": "https://www.foxnews.com/us/4-year-old-dies-suffering-electrical-shock-clothes-dryer-kansas-home",
     "titleNorm": "4yearold dies after suffering electrical shock from clothes",
     "type": "reel",
@@ -106,5 +94,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786570439037
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/3-people-found-dead-child-daycare-minneapolis-area-rcna592164",
+    "titleNorm": "3 people found dead including child at a",
+    "type": "card",
+    "timestamp": 1786573773609
   }
 ]
