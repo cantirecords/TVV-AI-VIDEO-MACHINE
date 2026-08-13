@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
-    "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
-    "type": "reel",
-    "timestamp": 1786614060889
-  },
-  {
     "url": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
     "titleNorm": "deadly military helicopter crash in texas kills 2",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "the constitution at a standstill from the politics",
     "type": "card",
     "timestamp": 1786656840103
+  },
+  {
+    "url": "https://www.cbsnews.com/news/tupac-shakur-murder-trial-jury-selected-las-vegas-duane-davis/",
+    "titleNorm": "jury selected for tupac shakur murder trial opening",
+    "type": "card",
+    "timestamp": 1786660231758
   }
 ]
