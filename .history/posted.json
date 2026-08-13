@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1786619842172
-  },
-  {
     "url": "https://www.foxnews.com/us/u-haul-worker-allegedly-shoots-co-worker-dead-argument-shift-police",
     "titleNorm": "uhaul worker allegedly shoots coworker dead after argument",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "families concerned about reports of mental health crisis",
     "type": "reel",
     "timestamp": 1786662784872
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/immigration/appeals-court-trump-alien-enemies-act-tren-de-aragua-venezuela-rcna592435",
+    "titleNorm": "appeals court dodges major ruling on trumps contentious",
+    "type": "card",
+    "timestamp": 1786663853601
   }
 ]
