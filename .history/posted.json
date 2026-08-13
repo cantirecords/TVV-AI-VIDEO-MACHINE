@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/",
-    "titleNorm": "nick reiner indicted on murder charges in parents039",
-    "type": "card",
-    "timestamp": 1786577407082
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/former-us-marine-held-russia-4-years-released-135547671",
     "titleNorm": "former us marine held in russia for more",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1786619842172
+  },
+  {
+    "url": "https://www.foxnews.com/us/u-haul-worker-allegedly-shoots-co-worker-dead-argument-shift-police",
+    "titleNorm": "uhaul worker allegedly shoots coworker dead after argument",
+    "type": "card",
+    "timestamp": 1786621109945
   }
 ]
