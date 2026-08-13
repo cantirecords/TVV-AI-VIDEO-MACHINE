@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/3-people-found-dead-child-daycare-minneapolis-area-rcna592164",
-    "titleNorm": "3 people found dead including child at a",
-    "type": "card",
-    "timestamp": 1786573773609
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/appointment-muslim-judge-tiny-mississippi-town-brings-social-135584717",
     "titleNorm": "appointment of muslim judge in tiny mississippi town",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
     "type": "reel",
     "timestamp": 1786614060889
+  },
+  {
+    "url": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
+    "titleNorm": "deadly military helicopter crash in texas kills 2",
+    "type": "card",
+    "timestamp": 1786618338576
   }
 ]
