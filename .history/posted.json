@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/now/video/nick-reiner-indicted-on-murder-charges-in-the-death-of-his-parents-268203589881",
-    "titleNorm": "nick reiner indicted on murder charges in the",
-    "type": "card",
-    "timestamp": 1786605037603
-  },
-  {
     "url": "https://www.cbsnews.com/news/apache-helicopter-crash-salado-texas-fort-hood/",
     "titleNorm": "2 killed as apache helicopter from fort hood",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "nj woman found with multiple stab wounds at",
     "type": "card",
     "timestamp": 1786646800188
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-people-died-military-helicopter-crash-fort-hood-135592627",
+    "titleNorm": "2 people died in military helicopter crash near",
+    "type": "reel",
+    "timestamp": 1786649684407
   }
 ]
