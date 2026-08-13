@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trumps-dc-crime-crackdown-working-city-sees-homicides-plummet-43-since-2025-slain-interns-mom",
-    "titleNorm": "trumps dc crime crackdown working as city sees",
-    "type": "card",
-    "timestamp": 1786566714164
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630",
     "titleNorm": "minnesota gop picks lisa demuth over trumpbacked mike",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "2 killed as apache helicopter from fort hood",
     "type": "reel",
     "timestamp": 1786608178431
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/law-firm-ties-trump-administration-declines-offer-represent-135591094",
+    "titleNorm": "law firm with ties to trump administration declines",
+    "type": "card",
+    "timestamp": 1786611720424
   }
 ]
