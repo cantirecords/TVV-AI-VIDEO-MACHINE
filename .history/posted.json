@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630",
-    "titleNorm": "minnesota gop picks lisa demuth over trumpbacked mike",
-    "type": "reel",
-    "timestamp": 1786569215233
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786570439037
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/3-people-found-dead-child-daycare-minneapolis-area-rcna592164",
     "titleNorm": "3 people found dead including child at a",
     "type": "card",
@@ -76,5 +64,11 @@
     "titleNorm": "law firm with ties to trump administration declines",
     "type": "card",
     "timestamp": 1786611720424
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
+    "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
+    "type": "reel",
+    "timestamp": 1786614060889
   }
 ]
