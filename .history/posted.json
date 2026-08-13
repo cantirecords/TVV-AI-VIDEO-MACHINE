@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-people-died-military-helicopter-crash-fort-hood-135592627",
-    "titleNorm": "2 people died in military helicopter crash near",
-    "type": "card",
-    "timestamp": 1786599482789
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "acton teen held without bail in murders of",
     "type": "reel",
     "timestamp": 1786642282777
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-chicago-detective-says-one-citys-murder-plunge-offers-windy-city-crime-blueprint",
+    "titleNorm": "former chicago detective says one citys murder plunge",
+    "type": "card",
+    "timestamp": 1786643367705
   }
 ]
