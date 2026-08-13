@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/appointment-muslim-judge-tiny-mississippi-town-brings-social-135584717",
-    "titleNorm": "appointment of muslim judge in tiny mississippi town",
-    "type": "reel",
-    "timestamp": 1786576260566
-  },
-  {
     "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/",
     "titleNorm": "nick reiner indicted on murder charges in parents039",
     "type": "card",
@@ -70,5 +64,11 @@
     "titleNorm": "deadly military helicopter crash in texas kills 2",
     "type": "card",
     "timestamp": 1786618338576
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1786619842172
   }
 ]
