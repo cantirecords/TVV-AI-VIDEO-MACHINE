@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
-    "titleNorm": "deadly military helicopter crash in texas kills 2",
-    "type": "card",
-    "timestamp": 1786618338576
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "jury selected for tupac shakur murder trial opening",
     "type": "card",
     "timestamp": 1786660231758
+  },
+  {
+    "url": "https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844",
+    "titleNorm": "families concerned about reports of mental health crisis",
+    "type": "reel",
+    "timestamp": 1786662784872
   }
 ]
