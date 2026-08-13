@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-us-marine-held-russia-4-years-released-135547671",
-    "titleNorm": "former us marine held in russia for more",
-    "type": "card",
-    "timestamp": 1786582863444
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "david crowleys razorthin wisconsin primary win sets up",
     "type": "card",
     "timestamp": 1786624968522
+  },
+  {
+    "url": "https://www.foxnews.com/us/bystander-shot-dead-intervening-man-womans-roadside-fight-murder-suspect-out-bond",
+    "titleNorm": "bystander shot dead after intervening in florida man",
+    "type": "reel",
+    "timestamp": 1786629410398
   }
 ]
