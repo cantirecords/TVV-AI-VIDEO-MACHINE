@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/watch-neighbors-double-take-helped-police-identify-accused-wildfire-arsonist-flames-raced-nearby",
-    "titleNorm": "watch neighbors double take helped police identify accused",
-    "type": "card",
-    "timestamp": 1786560384817
-  },
-  {
     "url": "https://www.foxnews.com/us/u-haul-worker-allegedly-shoots-co-worker-dead-argument-shift-police",
     "titleNorm": "uhaul worker allegedly shoots coworker dead after argument",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1786600586632
+  },
+  {
+    "url": "https://www.nbcnews.com/now/video/nick-reiner-indicted-on-murder-charges-in-the-death-of-his-parents-268203589881",
+    "titleNorm": "nick reiner indicted on murder charges in the",
+    "type": "card",
+    "timestamp": 1786605037603
   }
 ]
