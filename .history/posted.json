@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/law-firm-ties-trump-administration-declines-offer-represent-135591094",
-    "titleNorm": "law firm with ties to trump administration declines",
-    "type": "card",
-    "timestamp": 1786611720424
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-defense-wants-tiktok-expose-hospital-lies-judge-warns-not-tripadvisor",
     "titleNorm": "lindsay clancy defense wants tiktoker to expose hospital",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "convicted rapist who preyed on women at americas",
     "type": "card",
     "timestamp": 1786652995221
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/kennedy-center-board-set-vote-move-forward-closure-135601266",
+    "titleNorm": "kennedy center board set to vote on whether",
+    "type": "reel",
+    "timestamp": 1786655657369
   }
 ]
