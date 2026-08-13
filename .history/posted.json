@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/apache-helicopter-crash-salado-texas-fort-hood/",
-    "titleNorm": "2 killed as apache helicopter from fort hood",
-    "type": "reel",
-    "timestamp": 1786608178431
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/law-firm-ties-trump-administration-declines-offer-represent-135591094",
     "titleNorm": "law firm with ties to trump administration declines",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "judge dismisses trump administration lawsuit alleging harvard failed",
     "type": "card",
     "timestamp": 1786650647167
+  },
+  {
+    "url": "https://www.foxnews.com/us/convicted-rapist-preyed-women-americas-top-party-school-faces-reckoning-courthouse-dash",
+    "titleNorm": "convicted rapist who preyed on women at americas",
+    "type": "card",
+    "timestamp": 1786652995221
   }
 ]
