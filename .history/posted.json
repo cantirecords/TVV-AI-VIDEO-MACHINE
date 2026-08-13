@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/u-haul-worker-allegedly-shoots-co-worker-dead-argument-shift-police",
-    "titleNorm": "uhaul worker allegedly shoots coworker dead after argument",
-    "type": "reel",
-    "timestamp": 1786563446843
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/16000-civilians-detained-russia-war-ukraine-held-estimates-135550641",
-    "titleNorm": "over 16000 civilians detained by russia during the",
-    "type": "card",
-    "timestamp": 1786564584830
-  },
-  {
     "url": "https://www.foxnews.com/us/trumps-dc-crime-crackdown-working-city-sees-homicides-plummet-43-since-2025-slain-interns-mom",
     "titleNorm": "trumps dc crime crackdown working as city sees",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "nick reiner indicted on murder charges in the",
     "type": "card",
     "timestamp": 1786605037603
+  },
+  {
+    "url": "https://www.cbsnews.com/news/apache-helicopter-crash-salado-texas-fort-hood/",
+    "titleNorm": "2 killed as apache helicopter from fort hood",
+    "type": "reel",
+    "timestamp": 1786608178431
   }
 ]
