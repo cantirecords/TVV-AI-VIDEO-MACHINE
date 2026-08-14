@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nj-woman-found-multiple-stab-wounds-home-affluent-county-husband-arrested",
-    "titleNorm": "nj woman found with multiple stab wounds at",
-    "type": "card",
-    "timestamp": 1786646800188
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-people-died-military-helicopter-crash-fort-hood-135592627",
     "titleNorm": "2 people died in military helicopter crash near",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "appointment of muslim judge in tiny mississippi town",
     "type": "reel",
     "timestamp": 1786686853730
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/",
+    "titleNorm": "tehran says strait of hormuz under iran039s control",
+    "type": "card",
+    "timestamp": 1786691216508
   }
 ]
