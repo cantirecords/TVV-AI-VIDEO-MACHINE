@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/",
-    "titleNorm": "tehran says strait of hormuz under iran039s control",
-    "type": "card",
-    "timestamp": 1786691216508
-  },
-  {
     "url": "https://www.foxnews.com/us/former-chicago-detective-says-one-citys-murder-plunge-offers-windy-city-crime-blueprint",
     "titleNorm": "former chicago detective says one citys murder plunge",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "trump set to highlight violent crime reduction during",
     "type": "card",
     "timestamp": 1786732768814
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1786735705298
   }
 ]
