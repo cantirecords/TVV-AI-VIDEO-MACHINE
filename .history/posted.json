@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
-    "titleNorm": "postpartum mom lindsay clancy on trial for murder",
-    "type": "card",
-    "timestamp": 1786685059888
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/appointment-muslim-judge-tiny-mississippi-town-brings-social-135584717",
     "titleNorm": "appointment of muslim judge in tiny mississippi town",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "deadly connecticut home invasion suspect texted ill make",
     "type": "card",
     "timestamp": 1786725578774
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/3-men-set-lethal-injection-same-day-tennessee-135600657",
+    "titleNorm": "alabama man put to death for the murder",
+    "type": "reel",
+    "timestamp": 1786728425387
   }
 ]
