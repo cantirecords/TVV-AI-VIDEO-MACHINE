@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/immigration/appeals-court-trump-alien-enemies-act-tren-de-aragua-venezuela-rcna592435",
-    "titleNorm": "appeals court dodges major ruling on trumps contentious",
-    "type": "card",
-    "timestamp": 1786663853601
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/kennedy-center-board-votes-partially-close-arts-center-renovations-add-rcna592355",
     "titleNorm": "kennedy center board votes to add presidents name",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "nj moms murder shrouded in secrecy as pi",
     "type": "reel",
     "timestamp": 1786706119577
+  },
+  {
+    "url": "https://www.foxnews.com/us/teacher-busted-kentucky-anti-grooming-law-advocate-warns-schools-cant-ignore-red-flags",
+    "titleNorm": "teacher busted under kentuckys new antigrooming law as",
+    "type": "card",
+    "timestamp": 1786707375264
   }
 ]
