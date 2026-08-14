@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/",
-    "titleNorm": "acton teen held without bail in murders of",
-    "type": "reel",
-    "timestamp": 1786642282777
-  },
-  {
-    "url": "https://www.foxnews.com/us/former-chicago-detective-says-one-citys-murder-plunge-offers-windy-city-crime-blueprint",
-    "titleNorm": "former chicago detective says one citys murder plunge",
-    "type": "card",
-    "timestamp": 1786643367705
-  },
-  {
     "url": "https://www.foxnews.com/us/nj-woman-found-multiple-stab-wounds-home-affluent-county-husband-arrested",
     "titleNorm": "nj woman found with multiple stab wounds at",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "postpartum mom lindsay clancy on trial for murder",
     "type": "card",
     "timestamp": 1786685059888
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appointment-muslim-judge-tiny-mississippi-town-brings-social-135584717",
+    "titleNorm": "appointment of muslim judge in tiny mississippi town",
+    "type": "reel",
+    "timestamp": 1786686853730
   }
 ]
