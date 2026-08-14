@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/kennedy-center-board-votes-partially-close-arts-center-renovations-add-rcna592355",
-    "titleNorm": "kennedy center board votes to add presidents name",
-    "type": "card",
-    "timestamp": 1786669208385
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/texas-court-order-kicks-striking-federal-rules-silencers-135624667",
     "titleNorm": "texas court order kicks in striking federal rules",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1786711128974
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/two-people-are-dead-military-helicopter-crashes-texas-sparking-fire-rcna592238",
+    "titleNorm": "two soldiers are dead after a military helicopter",
+    "type": "reel",
+    "timestamp": 1786715598375
   }
 ]
