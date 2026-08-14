@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bystander-shot-dead-intervening-man-womans-roadside-fight-murder-suspect-out-bond",
-    "titleNorm": "bystander shot dead after intervening in florida man",
-    "type": "reel",
-    "timestamp": 1786629410398
-  },
-  {
-    "url": "https://www.foxnews.com/us/state-dept-axes-biden-era-dei-scheme-pushing-woke-politics-across-globe-more-top-headlines",
-    "titleNorm": "state dept axes bidenera dei scheme pushing woke",
-    "type": "card",
-    "timestamp": 1786630501458
-  },
-  {
     "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
     "titleNorm": "postpartum mom lindsay clancy on trial for murder",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "kennedy center board votes to add presidents name",
     "type": "card",
     "timestamp": 1786669208385
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-court-order-kicks-striking-federal-rules-silencers-135624667",
+    "titleNorm": "texas court order kicks in striking federal rules",
+    "type": "reel",
+    "timestamp": 1786676828611
   }
 ]
