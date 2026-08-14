@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
-    "titleNorm": "postpartum mom lindsay clancy on trial for murder",
-    "type": "reel",
-    "timestamp": 1786635085343
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-eyes-20m-purchase-electric-shock-gloves-hochul-warns-legal-consequences",
-    "titleNorm": "ice eyes 20m purchase of electric shock gloves",
-    "type": "card",
-    "timestamp": 1786636140412
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1786639474371
-  },
-  {
     "url": "https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/",
     "titleNorm": "acton teen held without bail in murders of",
     "type": "reel",
@@ -100,5 +82,11 @@
     "titleNorm": "deadly military helicopter crash in texas kills 2",
     "type": "card",
     "timestamp": 1786677877058
+  },
+  {
+    "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
+    "titleNorm": "postpartum mom lindsay clancy on trial for murder",
+    "type": "card",
+    "timestamp": 1786685059888
   }
 ]
