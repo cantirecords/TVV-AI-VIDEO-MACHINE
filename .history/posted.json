@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/texas-court-order-kicks-striking-federal-rules-silencers-135624667",
-    "titleNorm": "texas court order kicks in striking federal rules",
-    "type": "reel",
-    "timestamp": 1786676828611
-  },
-  {
-    "url": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
-    "titleNorm": "deadly military helicopter crash in texas kills 2",
-    "type": "card",
-    "timestamp": 1786677877058
-  },
-  {
     "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
     "titleNorm": "postpartum mom lindsay clancy on trial for murder",
     "type": "card",
@@ -88,5 +76,11 @@
     "titleNorm": "alex murdaugh makes explosive bid to blow up",
     "type": "card",
     "timestamp": 1786716480511
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
+    "titleNorm": "luigi mangione case in photos from brian thompsons",
+    "type": "reel",
+    "timestamp": 1786721183022
   }
 ]
