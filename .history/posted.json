@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/tupac-shakur-murder-trial-jury-selected-las-vegas-duane-davis/",
-    "titleNorm": "jury selected for tupac shakur murder trial opening",
-    "type": "card",
-    "timestamp": 1786660231758
-  },
-  {
     "url": "https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844",
     "titleNorm": "families concerned about reports of mental health crisis",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786701222156
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-guilty-plea-federal-court-case-ceo-shooting-rcna592421",
+    "titleNorm": "luigi mangione expected to plead guilty during manhattan",
+    "type": "card",
+    "timestamp": 1786704479875
   }
 ]
