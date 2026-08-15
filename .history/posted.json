@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/jessica-bang-dies-golfer-age-18-brain-hemorrhage/",
-    "titleNorm": "golfer jessica bang 18 dies while preparing for",
-    "type": "reel",
-    "timestamp": 1786740984440
-  },
-  {
-    "url": "https://www.foxnews.com/us/army-identifies-2-pilots-killed-apache-helicopter-crash-fort-hood-training-exercise",
-    "titleNorm": "army identifies 2 pilots killed in apache helicopter",
-    "type": "card",
-    "timestamp": 1786742114662
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
     "titleNorm": "instagram accounts fuelling ceuta crisis with paid advice",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1786784080248
+  },
+  {
+    "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504",
+    "titleNorm": "in an apparent shift vance says lowering oil",
+    "type": "card",
+    "timestamp": 1786785347606
   }
 ]
