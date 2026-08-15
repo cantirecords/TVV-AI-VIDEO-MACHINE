@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alex-murdaugh-explosive-bid-blow-up-murder-case-hinging-dna-dirty-money-lies-expert",
-    "titleNorm": "alex murdaugh makes explosive bid to blow up",
-    "type": "card",
-    "timestamp": 1786716480511
-  },
-  {
     "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
     "titleNorm": "luigi mangione case in photos from brian thompsons",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "whats next for democrats in november and 2027",
     "type": "card",
     "timestamp": 1786759666342
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/army-identifies-identifies-2-fort-hood-helicopter-pilots-135647707",
+    "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
+    "type": "reel",
+    "timestamp": 1786763559320
   }
 ]
