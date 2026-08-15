@@ -106,5 +106,11 @@
     "titleNorm": "at least 20 dead after powerful earthquake strikes",
     "type": "reel",
     "timestamp": 1786777643047
+  },
+  {
+    "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
+    "titleNorm": "houston police shoot gunman who indiscriminately fired on",
+    "type": "card",
+    "timestamp": 1786778491475
   }
 ]
