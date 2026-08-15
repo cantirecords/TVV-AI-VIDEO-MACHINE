@@ -112,5 +112,11 @@
     "titleNorm": "army identifies 2 pilots killed in apache helicopter",
     "type": "reel",
     "timestamp": 1786805260339
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "eleven killed in israeli strikes on southern lebanon",
+    "type": "card",
+    "timestamp": 1786806638951
   }
 ]
