@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
-    "titleNorm": "jason arday excambridge professor accused of plagiarism found",
-    "type": "reel",
-    "timestamp": 1786747735098
-  },
-  {
     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
     "titleNorm": "several people dead including suspect in rural michigan",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "deadly connecticut home invasion suspect texted ill make",
     "type": "reel",
     "timestamp": 1786790910502
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
+    "titleNorm": "luigi mangione case in photos from brian thompsons",
+    "type": "card",
+    "timestamp": 1786792208872
   }
 ]
