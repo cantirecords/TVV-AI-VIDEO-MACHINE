@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hhs-warns-texas-hospitals-denying-life-saving-care-newborn-disability",
-    "titleNorm": "hhs warns texas hospitals against denying lifesaving care",
-    "type": "card",
-    "timestamp": 1786722070923
-  },
-  {
     "url": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report",
     "titleNorm": "deadly connecticut home invasion suspect texted ill make",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "alex murdaugh defense says murder weapon may be",
     "type": "card",
     "timestamp": 1786764594114
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1786767566507
   }
 ]
