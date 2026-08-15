@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-    "titleNorm": "at least 20 dead after powerful earthquake strikes",
-    "type": "reel",
-    "timestamp": 1786777643047
-  },
-  {
     "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
     "titleNorm": "houston police shoot gunman who indiscriminately fired on",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "5 people injured in shooting at virginia state",
     "type": "reel",
     "timestamp": 1786820164859
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
+    "titleNorm": "us pulls last aircraft carrier in asia as",
+    "type": "card",
+    "timestamp": 1786821234877
   }
 ]
