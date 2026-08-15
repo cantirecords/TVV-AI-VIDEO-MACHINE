@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
-    "titleNorm": "houston police shoot gunman who indiscriminately fired on",
-    "type": "card",
-    "timestamp": 1786778491475
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598",
     "titleNorm": "trump dismisses military families concerns about grim conditions",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "us pulls last aircraft carrier in asia as",
     "type": "card",
     "timestamp": 1786821234877
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "instagram accounts fuelling ceuta crisis with paid advice",
+    "type": "card",
+    "timestamp": 1786824632880
   }
 ]
