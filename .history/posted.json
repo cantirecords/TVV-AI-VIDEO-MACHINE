@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-men-set-lethal-injection-same-day-tennessee-135600657",
-    "titleNorm": "alabama man put to death for the murder",
-    "type": "reel",
-    "timestamp": 1786728425387
-  },
-  {
-    "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
-    "titleNorm": "postpartum mom lindsay clancy on trial for murder",
-    "type": "card",
-    "timestamp": 1786729441386
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-set-highlight-violent-crime-reduction-visit-new-135632926",
     "titleNorm": "trump set to highlight violent crime reduction during",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "trump orders the navy to return to an",
     "type": "card",
     "timestamp": 1786770920773
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson",
+    "titleNorm": "luigi mangione pleads guilty in federal court to",
+    "type": "card",
+    "timestamp": 1786774787219
   }
 ]
