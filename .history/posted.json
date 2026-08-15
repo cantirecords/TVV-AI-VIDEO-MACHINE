@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson",
-    "titleNorm": "luigi mangione pleads guilty in federal court to",
-    "type": "card",
-    "timestamp": 1786774787219
-  },
-  {
     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
     "titleNorm": "at least 20 dead after powerful earthquake strikes",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "lindsay clancy murder trial becomes social media obsession",
     "type": "card",
     "timestamp": 1786817580973
+  },
+  {
+    "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
+    "titleNorm": "5 people injured in shooting at virginia state",
+    "type": "reel",
+    "timestamp": 1786820164859
   }
 ]
