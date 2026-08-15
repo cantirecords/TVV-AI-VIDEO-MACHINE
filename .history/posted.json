@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report",
-    "titleNorm": "deadly connecticut home invasion suspect texted ill make",
-    "type": "card",
-    "timestamp": 1786725578774
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-men-set-lethal-injection-same-day-tennessee-135600657",
     "titleNorm": "alabama man put to death for the murder",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786767566507
+  },
+  {
+    "url": "https://www.nbcnews.com/world/united-kingdom/tinderbox-britain-bans-disposable-barbecues-nationwide-fire-alert-rcna592600",
+    "titleNorm": "tinderbox britain bans disposable barbecues sends nationwide fire",
+    "type": "reel",
+    "timestamp": 1786769794784
   }
 ]
