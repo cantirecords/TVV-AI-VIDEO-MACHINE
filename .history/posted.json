@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-set-highlight-violent-crime-reduction-visit-new-135632926",
-    "titleNorm": "trump set to highlight violent crime reduction during",
-    "type": "card",
-    "timestamp": 1786732768814
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "luigi mangione pleads guilty in federal court to",
     "type": "card",
     "timestamp": 1786774787219
+  },
+  {
+    "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
+    "titleNorm": "at least 20 dead after powerful earthquake strikes",
+    "type": "reel",
+    "timestamp": 1786777643047
   }
 ]
