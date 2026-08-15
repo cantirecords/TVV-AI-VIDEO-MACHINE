@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report",
-    "titleNorm": "deadly connecticut home invasion suspect texted ill make",
-    "type": "reel",
-    "timestamp": 1786790910502
-  },
-  {
-    "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
-    "titleNorm": "luigi mangione case in photos from brian thompsons",
-    "type": "card",
-    "timestamp": 1786792208872
-  },
-  {
     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
     "titleNorm": "luigi mangione pleads guilty in federal case admits",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "trump set to highlight violent crime reduction during",
     "type": "reel",
     "timestamp": 1786834022953
+  },
+  {
+    "url": "https://www.foxnews.com/us/nj-moms-murder-shrouded-secrecy-pi-says-never-seen-anything-like-this-behind-closed-doors-case",
+    "titleNorm": "nj moms murder shrouded in secrecy as pi",
+    "type": "card",
+    "timestamp": 1786835461693
   }
 ]
