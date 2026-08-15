@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1786711128974
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/two-people-are-dead-military-helicopter-crashes-texas-sparking-fire-rcna592238",
-    "titleNorm": "two soldiers are dead after a military helicopter",
-    "type": "reel",
-    "timestamp": 1786715598375
-  },
-  {
     "url": "https://www.foxnews.com/us/alex-murdaugh-explosive-bid-blow-up-murder-case-hinging-dna-dirty-money-lies-expert",
     "titleNorm": "alex murdaugh makes explosive bid to blow up",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "alex murdaugh granted change of venue for murder",
     "type": "card",
     "timestamp": 1786754154479
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
+    "titleNorm": "5 people killed in rural michigan suspect found",
+    "type": "reel",
+    "timestamp": 1786759044679
   }
 ]
