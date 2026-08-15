@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
-    "titleNorm": "luigi mangione case in photos from brian thompsons",
-    "type": "reel",
-    "timestamp": 1786721183022
-  },
-  {
     "url": "https://www.foxnews.com/us/hhs-warns-texas-hospitals-denying-life-saving-care-newborn-disability",
     "titleNorm": "hhs warns texas hospitals against denying lifesaving care",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
     "type": "reel",
     "timestamp": 1786763559320
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaugh-defense-murder-weapon-tied-separate-killing-judge-seeks-answers",
+    "titleNorm": "alex murdaugh defense says murder weapon may be",
+    "type": "card",
+    "timestamp": 1786764594114
   }
 ]
