@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/army-identifies-identifies-2-fort-hood-helicopter-pilots-135647707",
-    "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
-    "type": "reel",
-    "timestamp": 1786763559320
-  },
-  {
-    "url": "https://www.foxnews.com/us/alex-murdaugh-defense-murder-weapon-tied-separate-killing-judge-seeks-answers",
-    "titleNorm": "alex murdaugh defense says murder weapon may be",
-    "type": "card",
-    "timestamp": 1786764594114
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "eleven killed in israeli strikes on southern lebanon",
     "type": "card",
     "timestamp": 1786806638951
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
+    "titleNorm": "5 people killed in rural michigan suspect found",
+    "type": "card",
+    "timestamp": 1786810287002
   }
 ]
