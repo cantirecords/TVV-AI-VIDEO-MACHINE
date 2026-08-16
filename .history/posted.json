@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-cold-case-suspect-allegedly-confesses-1987-murder-reveals-secret-crime-scene-details",
-    "titleNorm": "florida cold case suspect allegedly confesses to 1987",
-    "type": "reel",
-    "timestamp": 1786826903479
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/world-war-ii-memorial-dc-vandalized-bubbles-graffiti-135632655",
     "titleNorm": "world war ii memorial in dc vandalized with",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "eleven killed in israeli strikes on southern lebanon",
     "type": "card",
     "timestamp": 1786868156147
+  },
+  {
+    "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
+    "titleNorm": "nato fighter jet shoots down drone in romania",
+    "type": "reel",
+    "timestamp": 1786870625148
   }
 ]
