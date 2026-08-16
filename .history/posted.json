@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
-    "titleNorm": "lindsay clancy murder trial becomes social media obsession",
-    "type": "card",
-    "timestamp": 1786817580973
-  },
-  {
     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
     "titleNorm": "5 people injured in shooting at virginia state",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "colombian president says he asked trump to suspend",
     "type": "card",
     "timestamp": 1786857494688
+  },
+  {
+    "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
+    "titleNorm": "houston police shoot gunman who indiscriminately fired on",
+    "type": "card",
+    "timestamp": 1786861275092
   }
 ]
