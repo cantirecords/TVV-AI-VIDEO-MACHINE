@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
-    "titleNorm": "ukraine launches one of the largest aerial attacks",
-    "type": "card",
-    "timestamp": 1786875203157
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/hate-crime-charges-filed-manhattan-synagogue-attack-135676744",
     "titleNorm": "hate crime charges filed in manhattan synagogue attack",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "former mlb pitcher tommy john dies at age",
     "type": "card",
     "timestamp": 1786918197540
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-refuses-block-trump-administration-building-border-wall-135659058",
+    "titleNorm": "judge refuses to block trump administration from building",
+    "type": "reel",
+    "timestamp": 1786920402446
   }
 ]
