@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
-    "titleNorm": "us pulls last aircraft carrier in asia as",
-    "type": "card",
-    "timestamp": 1786821234877
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
     "titleNorm": "instagram accounts fuelling ceuta crisis with paid advice",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
     "type": "reel",
     "timestamp": 1786864178576
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-announce-arrest-after-5-wounded-virginia-state-university-shooting",
+    "titleNorm": "police announce arrest after 5 wounded in virginia",
+    "type": "card",
+    "timestamp": 1786864970150
   }
 ]
