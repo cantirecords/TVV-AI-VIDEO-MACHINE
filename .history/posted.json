@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
-    "titleNorm": "houston police shoot gunman who indiscriminately fired on",
-    "type": "card",
-    "timestamp": 1786861275092
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/army-identifies-identifies-2-fort-hood-helicopter-pilots-135647707",
     "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "rep don bacon says trump was setting maybe",
     "type": "card",
     "timestamp": 1786903995704
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770",
+    "titleNorm": "five shot in lexington kentucky park leaving one",
+    "type": "reel",
+    "timestamp": 1786906486968
   }
 ]
