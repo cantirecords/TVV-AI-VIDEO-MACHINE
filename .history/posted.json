@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
-    "titleNorm": "luigi mangione pleads guilty in federal case admits",
-    "type": "card",
-    "timestamp": 1786796150509
-  },
-  {
     "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
     "titleNorm": "jason arday excambridge professor accused of plagiarism found",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "nj moms murder shrouded in secrecy as pi",
     "type": "card",
     "timestamp": 1786835461693
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
+    "titleNorm": "man charged with operating boat under the influence",
+    "type": "card",
+    "timestamp": 1786840634344
   }
 ]
