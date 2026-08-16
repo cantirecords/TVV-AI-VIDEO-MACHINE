@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/colombia-president-asks-trump-to-suspend-tariffs-after-earthquake/",
-    "titleNorm": "colombian president says he asked trump to suspend",
-    "type": "card",
-    "timestamp": 1786857494688
-  },
-  {
     "url": "https://www.foxnews.com/us/houston-police-shoot-gunman-indiscriminately-fired-vehicles-injuring-mother-daughter",
     "titleNorm": "houston police shoot gunman who indiscriminately fired on",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "virginia state university shooting suspect found hiding in",
     "type": "card",
     "timestamp": 1786900284895
+  },
+  {
+    "url": "https://www.cbsnews.com/video/rep-don-bacon-says-trump-was-setting-maybe-false-expectations-in-initial-days-of-iran-war/",
+    "titleNorm": "rep don bacon says trump was setting maybe",
+    "type": "card",
+    "timestamp": 1786903995704
   }
 ]
