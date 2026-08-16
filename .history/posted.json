@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/army-identifies-identifies-2-fort-hood-helicopter-pilots-135647707",
-    "titleNorm": "army identifies identifies 2 fort hood helicopter pilots",
-    "type": "reel",
-    "timestamp": 1786864178576
-  },
-  {
     "url": "https://www.foxnews.com/us/police-announce-arrest-after-5-wounded-virginia-state-university-shooting",
     "titleNorm": "police announce arrest after 5 wounded in virginia",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "five shot in lexington kentucky park leaving one",
     "type": "reel",
     "timestamp": 1786906486968
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/world-war-ii-memorial-dc-vandalized-bubbles-graffiti-135632655",
+    "titleNorm": "world war ii memorial in dc vandalized with",
+    "type": "card",
+    "timestamp": 1786907620464
   }
 ]
