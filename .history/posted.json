@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-    "titleNorm": "hawaii under a hurricane warning as tropical storm",
-    "type": "card",
-    "timestamp": 1786803141833
-  },
-  {
     "url": "https://www.foxnews.com/us/army-identifies-2-pilots-killed-apache-helicopter-crash-fort-hood-training-exercise",
     "titleNorm": "army identifies 2 pilots killed in apache helicopter",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "at least 5 people dead in flooding across",
     "type": "reel",
     "timestamp": 1786845923168
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "south korea proposes talks to officially end war",
+    "type": "card",
+    "timestamp": 1786846546754
   }
 ]
