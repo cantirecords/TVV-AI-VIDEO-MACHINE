@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nj-moms-murder-shrouded-secrecy-pi-says-never-seen-anything-like-this-behind-closed-doors-case",
-    "titleNorm": "nj moms murder shrouded in secrecy as pi",
-    "type": "card",
-    "timestamp": 1786835461693
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
     "titleNorm": "man charged with operating boat under the influence",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "hate crime charges filed in manhattan synagogue attack",
     "type": "reel",
     "timestamp": 1786877369193
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
+    "titleNorm": "lindsay clancy murder trial becomes social media obsession",
+    "type": "card",
+    "timestamp": 1786878671161
   }
 ]
