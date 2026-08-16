@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-announce-arrest-after-5-wounded-virginia-state-university-shooting",
-    "titleNorm": "police announce arrest after 5 wounded in virginia",
-    "type": "card",
-    "timestamp": 1786864970150
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "eleven killed in israeli strikes on southern lebanon",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "world war ii memorial in dc vandalized with",
     "type": "card",
     "timestamp": 1786907620464
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaugh-defense-murder-weapon-tied-separate-killing-judge-seeks-answers",
+    "titleNorm": "alex murdaugh defense says murder weapon may be",
+    "type": "card",
+    "timestamp": 1786910998589
   }
 ]
