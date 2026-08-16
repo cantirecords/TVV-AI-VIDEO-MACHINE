@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson",
-    "titleNorm": "luigi mangione pleads guilty in federal court to",
-    "type": "card",
-    "timestamp": 1786871849859
-  },
-  {
     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
     "titleNorm": "ukraine launches one of the largest aerial attacks",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "army identifies 2 pilots killed in apache helicopter",
     "type": "card",
     "timestamp": 1786914619983
+  },
+  {
+    "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
+    "titleNorm": "former mlb pitcher tommy john dies at age",
+    "type": "card",
+    "timestamp": 1786918197540
   }
 ]
