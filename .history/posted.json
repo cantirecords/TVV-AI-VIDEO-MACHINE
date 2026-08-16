@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/army-identifies-2-pilots-killed-apache-helicopter-crash-fort-hood-training-exercise",
-    "titleNorm": "army identifies 2 pilots killed in apache helicopter",
-    "type": "reel",
-    "timestamp": 1786805260339
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "eleven killed in israeli strikes on southern lebanon",
-    "type": "card",
-    "timestamp": 1786806638951
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
     "titleNorm": "5 people killed in rural michigan suspect found",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "south korea proposes talks to officially end war",
     "type": "card",
     "timestamp": 1786846546754
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/5-killed-suspect-dead-incident-michigan-135660329",
+    "titleNorm": "shootings in michigan leave 5 people plus suspect",
+    "type": "reel",
+    "timestamp": 1786850878144
   }
 ]
