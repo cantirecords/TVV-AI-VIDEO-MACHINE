@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/world-war-ii-memorial-dc-vandalized-bubbles-graffiti-135632655",
-    "titleNorm": "world war ii memorial in dc vandalized with",
-    "type": "card",
-    "timestamp": 1786828266949
-  },
-  {
     "url": "https://www.nbcnews.com/world/iran/revenge-inevitable-iran-ramps-propaganda-war-violent-billboards-rcna591867",
     "titleNorm": "revenge is inevitable iran ramps up propaganda war",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "nato fighter jet shoots down drone in romania",
     "type": "reel",
     "timestamp": 1786870625148
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson",
+    "titleNorm": "luigi mangione pleads guilty in federal court to",
+    "type": "card",
+    "timestamp": 1786871849859
   }
 ]
