@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
-    "titleNorm": "nato fighter jet shoots down drone in romania",
-    "type": "reel",
-    "timestamp": 1786870625148
-  },
-  {
     "url": "https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson",
     "titleNorm": "luigi mangione pleads guilty in federal court to",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1786913202068
+  },
+  {
+    "url": "https://www.foxnews.com/us/army-identifies-2-pilots-killed-apache-helicopter-crash-fort-hood-training-exercise",
+    "titleNorm": "army identifies 2 pilots killed in apache helicopter",
+    "type": "card",
+    "timestamp": 1786914619983
   }
 ]
