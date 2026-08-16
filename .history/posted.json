@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-set-highlight-violent-crime-reduction-visit-new-135632926",
-    "titleNorm": "trump set to highlight violent crime reduction during",
-    "type": "reel",
-    "timestamp": 1786834022953
-  },
-  {
     "url": "https://www.foxnews.com/us/nj-moms-murder-shrouded-secrecy-pi-says-never-seen-anything-like-this-behind-closed-doors-case",
     "titleNorm": "nj moms murder shrouded in secrecy as pi",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "ukraine launches one of the largest aerial attacks",
     "type": "card",
     "timestamp": 1786875203157
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/hate-crime-charges-filed-manhattan-synagogue-attack-135676744",
+    "titleNorm": "hate crime charges filed in manhattan synagogue attack",
+    "type": "reel",
+    "timestamp": 1786877369193
   }
 ]
