@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/hate-crime-charges-filed-manhattan-synagogue-attack-135676744",
-    "titleNorm": "hate crime charges filed in manhattan synagogue attack",
-    "type": "reel",
-    "timestamp": 1786877369193
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
     "titleNorm": "lindsay clancy murder trial becomes social media obsession",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "judge refuses to block trump administration from building",
     "type": "reel",
     "timestamp": 1786920402446
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1786921786519
   }
 ]
