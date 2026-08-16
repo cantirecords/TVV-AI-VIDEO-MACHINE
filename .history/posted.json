@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ohio-city-fires-police-officer-shot-killed-15-135653630",
-    "titleNorm": "ohio city fires officer who shot and killed",
-    "type": "card",
-    "timestamp": 1786813895725
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
     "titleNorm": "lindsay clancy murder trial becomes social media obsession",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "alabama man put to death for the 2021",
     "type": "reel",
     "timestamp": 1786856399458
+  },
+  {
+    "url": "https://www.cbsnews.com/news/colombia-president-asks-trump-to-suspend-tariffs-after-earthquake/",
+    "titleNorm": "colombian president says he asked trump to suspend",
+    "type": "card",
+    "timestamp": 1786857494688
   }
 ]
