@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/alabama-man-put-death-2021-rape-murder-5-135627431",
-    "titleNorm": "alabama man put to death for the 2021",
-    "type": "reel",
-    "timestamp": 1786856399458
-  },
-  {
     "url": "https://www.cbsnews.com/news/colombia-president-asks-trump-to-suspend-tariffs-after-earthquake/",
     "titleNorm": "colombian president says he asked trump to suspend",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "killer excop executed for childs slaying as sheriff",
     "type": "reel",
     "timestamp": 1786899092009
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
+    "titleNorm": "virginia state university shooting suspect found hiding in",
+    "type": "card",
+    "timestamp": 1786900284895
   }
 ]
