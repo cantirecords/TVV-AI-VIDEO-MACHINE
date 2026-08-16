@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1786812594156
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ohio-city-fires-police-officer-shot-killed-15-135653630",
     "titleNorm": "ohio city fires officer who shot and killed",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "2 powerful earthquakes hit indonesia on same day",
     "type": "card",
     "timestamp": 1786854322483
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/alabama-man-put-death-2021-rape-murder-5-135627431",
+    "titleNorm": "alabama man put to death for the 2021",
+    "type": "reel",
+    "timestamp": 1786856399458
   }
 ]
