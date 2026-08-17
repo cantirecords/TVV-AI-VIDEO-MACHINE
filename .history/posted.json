@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786921786519
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/5-killed-suspect-dead-incident-michigan-135660329",
     "titleNorm": "shootings in michigan leave 5 people plus suspect",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1786964255822
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-scale-back-south-korea-military-exercises/",
+    "titleNorm": "trump orders pentagon to substantially reduce military exercises",
+    "type": "card",
+    "timestamp": 1786965364853
   }
 ]
