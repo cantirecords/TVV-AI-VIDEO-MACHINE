@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/killer-ex-cop-executed-childs-slaying-sheriff-says-hes-sure-same-monster-murdered-another-girl",
-    "titleNorm": "killer excop executed for childs slaying as sheriff",
-    "type": "reel",
-    "timestamp": 1786899092009
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
     "titleNorm": "virginia state university shooting suspect found hiding in",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "trump orders military to substantially reduce joint exercises",
     "type": "card",
     "timestamp": 1786941058312
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-announce-arrest-after-5-wounded-virginia-state-university-shooting",
+    "titleNorm": "police announce arrest after 5 wounded in virginia",
+    "type": "reel",
+    "timestamp": 1786943259805
   }
 ]
