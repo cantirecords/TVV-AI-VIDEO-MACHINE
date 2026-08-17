@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
-    "titleNorm": "virginia state university shooting suspect found hiding in",
-    "type": "card",
-    "timestamp": 1786962078408
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump threatens oman iran war in stalemate as",
     "type": "card",
     "timestamp": 1787004793779
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135693863",
+    "titleNorm": "trump orders pentagon to scale back joint exercises",
+    "type": "reel",
+    "timestamp": 1787007018421
   }
 ]
