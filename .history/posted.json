@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
-    "titleNorm": "us pulls last aircraft carrier in asia as",
-    "type": "reel",
-    "timestamp": 1786932186478
-  },
-  {
-    "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
-    "titleNorm": "lexington kentucky park shooting kills 1 injures 4",
-    "type": "card",
-    "timestamp": 1786932800206
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
     "titleNorm": "trump orders pentagon to scale back joint exercises",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "ohio city fires officer who shot and killed",
     "type": "card",
     "timestamp": 1786973511684
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "trump envoy kushner meets netanyahu after hamas talks",
+    "type": "card",
+    "timestamp": 1786976236311
   }
 ]
