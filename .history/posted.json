@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-cold-case-suspect-allegedly-confesses-1987-murder-reveals-secret-crime-scene-details",
-    "titleNorm": "florida cold case suspect allegedly confesses to 1987",
-    "type": "card",
-    "timestamp": 1786948284595
-  },
-  {
     "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
     "titleNorm": "hayden panettiere known for heroes and remember the",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "virginia police seek others who fired shots in",
     "type": "card",
     "timestamp": 1786990935087
+  },
+  {
+    "url": "https://www.foxnews.com/us/repeat-offender-7-prior-convictions-arrested-3-times-12-days-alleged-attacks-women",
+    "titleNorm": "repeat offender with 7 prior convictions arrested 3",
+    "type": "reel",
+    "timestamp": 1786993737351
   }
 ]
