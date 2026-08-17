@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1786889559082
-  },
-  {
     "url": "https://www.cbsnews.com/news/rahm-emanuel-on-trump-the-left-and-whats-right-for-america/",
     "titleNorm": "rahm emanuel on trump the left and what039s",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "us pulls last aircraft carrier in asia as",
     "type": "reel",
     "timestamp": 1786932186478
+  },
+  {
+    "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
+    "titleNorm": "lexington kentucky park shooting kills 1 injures 4",
+    "type": "card",
+    "timestamp": 1786932800206
   }
 ]
