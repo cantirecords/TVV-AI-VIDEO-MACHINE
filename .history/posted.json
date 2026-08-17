@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/5-killed-suspect-dead-incident-michigan-135660329",
-    "titleNorm": "shootings in michigan leave 5 people plus suspect",
-    "type": "card",
-    "timestamp": 1786926959979
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
     "titleNorm": "us pulls last aircraft carrier in asia as",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "killer excop executed for childs slaying as sheriff",
     "type": "card",
     "timestamp": 1786969208665
+  },
+  {
+    "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
+    "titleNorm": "actress hayden panettiere dies suddenly at age 36",
+    "type": "reel",
+    "timestamp": 1786972614284
   }
 ]
