@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/germany/woman-leaps-11th-floor-ledge-firefighters-arms-berlin-high-rise-burns-rcna592815",
-    "titleNorm": "woman leaps from 11thfloor ledge into firefighters arms",
-    "type": "card",
-    "timestamp": 1786955438076
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
     "titleNorm": "man charged with arranging fatal ambush of microsoft",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump threatens to bomb oman if it gets",
     "type": "card",
     "timestamp": 1786997795190
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-new-york-murder-trial-adjourned-december-double-jeopardy-concerns",
+    "titleNorm": "luigi mangiones new york murder trial adjourned until",
+    "type": "reel",
+    "timestamp": 1787000071465
   }
 ]
