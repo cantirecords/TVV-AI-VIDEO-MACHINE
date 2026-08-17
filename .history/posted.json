@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
-    "titleNorm": "man charged with operating boat under the influence",
-    "type": "card",
-    "timestamp": 1786896691671
-  },
-  {
     "url": "https://www.foxnews.com/us/killer-ex-cop-executed-childs-slaying-sheriff-says-hes-sure-same-monster-murdered-another-girl",
     "titleNorm": "killer excop executed for childs slaying as sheriff",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "at least 5 people dead in flooding across",
     "type": "card",
     "timestamp": 1786938007293
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
+    "titleNorm": "trump orders military to substantially reduce joint exercises",
+    "type": "card",
+    "timestamp": 1786941058312
   }
 ]
