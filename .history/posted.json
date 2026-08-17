@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/texas-court-order-kicks-striking-federal-rules-silencers-135624667",
-    "titleNorm": "texas court order kicks in striking federal rules",
-    "type": "reel",
-    "timestamp": 1786885797706
-  },
-  {
-    "url": "https://www.cbsnews.com/news/jessica-bang-dies-golfer-age-18-brain-hemorrhage/",
-    "titleNorm": "golfer jessica bang 18 dies while preparing for",
-    "type": "card",
-    "timestamp": 1786886617790
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "shootings in michigan leave 5 people plus suspect",
     "type": "card",
     "timestamp": 1786926959979
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
+    "titleNorm": "us pulls last aircraft carrier in asia as",
+    "type": "reel",
+    "timestamp": 1786932186478
   }
 ]
