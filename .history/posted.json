@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
-    "titleNorm": "trump orders pentagon to scale back joint exercises",
-    "type": "reel",
-    "timestamp": 1786937301505
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/historic-flooding-prompts-evacuations-water-rescues-indiana-135676877",
-    "titleNorm": "at least 5 people dead in flooding across",
-    "type": "card",
-    "timestamp": 1786938007293
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
     "titleNorm": "trump orders military to substantially reduce joint exercises",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "tupac shakur murder trial kicks off as duane",
     "type": "card",
     "timestamp": 1786979742241
+  },
+  {
+    "url": "https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-killed-lightning-strike-italy-volcano/",
+    "titleNorm": "us tourist killed by lightning strike on italy039s",
+    "type": "card",
+    "timestamp": 1786983313914
   }
 ]
