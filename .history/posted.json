@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770",
-    "titleNorm": "five shot in lexington kentucky park leaving one",
-    "type": "reel",
-    "timestamp": 1786906486968
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/world-war-ii-memorial-dc-vandalized-bubbles-graffiti-135632655",
-    "titleNorm": "world war ii memorial in dc vandalized with",
-    "type": "card",
-    "timestamp": 1786907620464
-  },
-  {
     "url": "https://www.foxnews.com/us/alex-murdaugh-defense-murder-weapon-tied-separate-killing-judge-seeks-answers",
     "titleNorm": "alex murdaugh defense says murder weapon may be",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "florida cold case suspect allegedly confesses to 1987",
     "type": "card",
     "timestamp": 1786948284595
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
+    "titleNorm": "hayden panettiere known for heroes and remember the",
+    "type": "reel",
+    "timestamp": 1786951933275
   }
 ]
