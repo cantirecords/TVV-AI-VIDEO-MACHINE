@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
-    "titleNorm": "trump orders military to substantially reduce joint exercises",
-    "type": "card",
-    "timestamp": 1786941058312
-  },
-  {
     "url": "https://www.foxnews.com/us/police-announce-arrest-after-5-wounded-virginia-state-university-shooting",
     "titleNorm": "police announce arrest after 5 wounded in virginia",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "us tourist killed by lightning strike on italy039s",
     "type": "card",
     "timestamp": 1786983313914
+  },
+  {
+    "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
+    "titleNorm": "former mlb pitcher tommy john dies at age",
+    "type": "reel",
+    "timestamp": 1786985709701
   }
 ]
