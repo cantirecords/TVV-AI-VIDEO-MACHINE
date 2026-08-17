@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
-    "titleNorm": "virginia state university shooting suspect found hiding in",
-    "type": "card",
-    "timestamp": 1786900284895
-  },
-  {
     "url": "https://www.cbsnews.com/video/rep-don-bacon-says-trump-was-setting-maybe-false-expectations-in-initial-days-of-iran-war/",
     "titleNorm": "rep don bacon says trump was setting maybe",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "police announce arrest after 5 wounded in virginia",
     "type": "reel",
     "timestamp": 1786943259805
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
+    "titleNorm": "man charged with operating boat under the influence",
+    "type": "card",
+    "timestamp": 1786944353275
   }
 ]
