@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1786964255822
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-scale-back-south-korea-military-exercises/",
     "titleNorm": "trump orders pentagon to substantially reduce military exercises",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump orders pentagon to scale back joint exercises",
     "type": "reel",
     "timestamp": 1787007018421
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-additional-people-fired-guns-virginia-university-shooting-135691838",
+    "titleNorm": "police looking for additional people who fired guns",
+    "type": "card",
+    "timestamp": 1787008344800
   }
 ]
