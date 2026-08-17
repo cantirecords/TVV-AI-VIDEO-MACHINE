@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/rahm-emanuel-on-trump-the-left-and-whats-right-for-america/",
-    "titleNorm": "rahm emanuel on trump the left and what039s",
-    "type": "reel",
-    "timestamp": 1786891682748
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-cold-case-suspect-allegedly-confesses-1987-murder-reveals-secret-crime-scene-details",
-    "titleNorm": "florida cold case suspect allegedly confesses to 1987",
-    "type": "card",
-    "timestamp": 1786893042082
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
     "titleNorm": "man charged with operating boat under the influence",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "lexington kentucky park shooting kills 1 injures 4",
     "type": "card",
     "timestamp": 1786932800206
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
+    "titleNorm": "trump orders pentagon to scale back joint exercises",
+    "type": "reel",
+    "timestamp": 1786937301505
   }
 ]
