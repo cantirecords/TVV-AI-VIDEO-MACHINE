@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/man-charged-boat-crash-killed-2-kids-rcna592716",
-    "titleNorm": "man charged with operating boat under the influence",
-    "type": "card",
-    "timestamp": 1786944353275
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-cold-case-suspect-allegedly-confesses-1987-murder-reveals-secret-crime-scene-details",
     "titleNorm": "florida cold case suspect allegedly confesses to 1987",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1786987083836
+  },
+  {
+    "url": "https://www.foxnews.com/us/virginia-police-seek-others-fired-shots-virginia-state-university-shooting-wounded-5",
+    "titleNorm": "virginia police seek others who fired shots in",
+    "type": "card",
+    "timestamp": 1786990935087
   }
 ]
