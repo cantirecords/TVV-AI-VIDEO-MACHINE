@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "trump envoy kushner meets netanyahu after hamas talks",
-    "type": "card",
-    "timestamp": 1786976236311
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-trump-appeal-e-jean-carroll-award-rcna592887",
-    "titleNorm": "supreme court turns away trumps latest bid to",
-    "type": "reel",
-    "timestamp": 1786978521948
-  },
-  {
-    "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
-    "titleNorm": "tupac shakur murder trial kicks off as duane",
-    "type": "card",
-    "timestamp": 1786979742241
-  },
-  {
     "url": "https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-killed-lightning-strike-italy-volcano/",
     "titleNorm": "us tourist killed by lightning strike on italy039s",
     "type": "card",
@@ -100,5 +82,11 @@
     "titleNorm": "ice pitches legal insurance to help shield local",
     "type": "card",
     "timestamp": 1787018954667
+  },
+  {
+    "url": "https://www.foxnews.com/us/man-unleashes-deadly-revenge-rampage-ex-family-kills-4-people-3-dogs-torching-home-da",
+    "titleNorm": "man unleashes deadly revenge rampage on exs family",
+    "type": "reel",
+    "timestamp": 1787023056524
   }
 ]
