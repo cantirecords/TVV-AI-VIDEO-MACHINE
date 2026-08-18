@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135693863",
-    "titleNorm": "trump orders pentagon to scale back joint exercises",
-    "type": "reel",
-    "timestamp": 1787007018421
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/police-additional-people-fired-guns-virginia-university-shooting-135691838",
     "titleNorm": "police looking for additional people who fired guns",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1787048239725
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
+    "titleNorm": "trump orders pentagon to scale back joint exercises",
+    "type": "reel",
+    "timestamp": 1787050596892
   }
 ]
