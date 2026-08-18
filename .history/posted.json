@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1787048239725
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
     "titleNorm": "trump orders pentagon to scale back joint exercises",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "manhunt underway after offduty massachusetts police veteran found",
     "type": "card",
     "timestamp": 1787091094462
+  },
+  {
+    "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
+    "titleNorm": "penn state cocaine bust nets 14 arrests over",
+    "type": "reel",
+    "timestamp": 1787093427470
   }
 ]
