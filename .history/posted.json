@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
-    "titleNorm": "former mlb pitcher tommy john dies at age",
-    "type": "reel",
-    "timestamp": 1786985709701
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "ice boston arrests brazilian illegal alien wanted for",
     "type": "card",
     "timestamp": 1787027100669
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
+    "titleNorm": "hayden panettiere known for heroes and remember the",
+    "type": "reel",
+    "timestamp": 1787029379583
   }
 ]
