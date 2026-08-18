@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1786987083836
-  },
-  {
     "url": "https://www.foxnews.com/us/virginia-police-seek-others-fired-shots-virginia-state-university-shooting-wounded-5",
     "titleNorm": "virginia police seek others who fired shots in",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "hayden panettiere known for heroes and remember the",
     "type": "reel",
     "timestamp": 1787029379583
+  },
+  {
+    "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
+    "titleNorm": "actress hayden panettiere dies suddenly at age 36",
+    "type": "card",
+    "timestamp": 1787030382178
   }
 ]
