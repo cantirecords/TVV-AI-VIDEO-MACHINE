@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
-    "titleNorm": "trump orders pentagon to scale back joint exercises",
-    "type": "reel",
-    "timestamp": 1787050596892
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-trump-appeal-e-jean-carroll-award-rcna592887",
     "titleNorm": "supreme court turns away trumps latest bid to",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "penn state cocaine bust nets 14 arrests over",
     "type": "reel",
     "timestamp": 1787093427470
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaugh-moves-new-trial-double-murder-retrial",
+    "titleNorm": "alex murdaugh moves for new home for doublemurder",
+    "type": "card",
+    "timestamp": 1787094727109
   }
 ]
