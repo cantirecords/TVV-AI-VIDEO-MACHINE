@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
-    "titleNorm": "trump threatens oman iran war in stalemate as",
-    "type": "card",
-    "timestamp": 1787004793779
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135693863",
     "titleNorm": "trump orders pentagon to scale back joint exercises",
     "type": "reel",
@@ -82,5 +76,11 @@
     "titleNorm": "lexington kentucky park shooting kills 1 injures 4",
     "type": "card",
     "timestamp": 1787044896033
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1787048239725
   }
 ]
