@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1787041382701
-  },
-  {
     "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
     "titleNorm": "lexington kentucky park shooting kills 1 injures 4",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "trumps slight of south korea in favor of",
     "type": "card",
     "timestamp": 1787083887134
+  },
+  {
+    "url": "https://www.cbsnews.com/news/uss-benfold-navy-days-without-power-south-china-sea/",
+    "titleNorm": "uss benfold went days without power in the",
+    "type": "reel",
+    "timestamp": 1787086181921
   }
 ]
