@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/justice-department-watchdog-review-dea-tactic-permitted-deadly-135713439",
-    "titleNorm": "justice department watchdog to review dea tactic that",
-    "type": "card",
-    "timestamp": 1787034197572
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/1-killed-4-injured-shooting-park-kentucky-135688095",
     "titleNorm": "1 killed 4 injured in shooting at park",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "luigi mangiones new york murder trial adjourned until",
     "type": "card",
     "timestamp": 1787077275485
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-additional-people-fired-guns-virginia-university-shooting-135691838",
+    "titleNorm": "police looking for additional people who fired guns",
+    "type": "reel",
+    "timestamp": 1787080407458
   }
 ]
