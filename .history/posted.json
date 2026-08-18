@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/5-killed-suspect-dead-incident-michigan-135660329",
-    "titleNorm": "shootings in michigan leave 5 people plus suspect",
-    "type": "card",
-    "timestamp": 1786994398556
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-bomb-oman-iran-strait-hormuz-rcna592971",
     "titleNorm": "trump threatens to bomb oman if it gets",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "1 killed 4 injured in shooting at park",
     "type": "reel",
     "timestamp": 1787037331827
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-state-murder-trial-rcna593006",
+    "titleNorm": "judge delays luigi mangiones state murder trial after",
+    "type": "card",
+    "timestamp": 1787038161045
   }
 ]
