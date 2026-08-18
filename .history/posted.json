@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-scale-back-south-korea-military-exercises/",
-    "titleNorm": "trump orders pentagon to substantially reduce military exercises",
-    "type": "card",
-    "timestamp": 1786965364853
-  },
-  {
-    "url": "https://www.foxnews.com/us/killer-ex-cop-executed-childs-slaying-sheriff-says-hes-sure-same-monster-murdered-another-girl",
-    "titleNorm": "killer excop executed for childs slaying as sheriff",
-    "type": "card",
-    "timestamp": 1786969208665
-  },
-  {
-    "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
-    "titleNorm": "actress hayden panettiere dies suddenly at age 36",
-    "type": "reel",
-    "timestamp": 1786972614284
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/ohio-city-fires-police-officer-shot-killed-15-135653630",
-    "titleNorm": "ohio city fires officer who shot and killed",
-    "type": "card",
-    "timestamp": 1786973511684
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "trump envoy kushner meets netanyahu after hamas talks",
     "type": "card",
@@ -112,5 +88,11 @@
     "titleNorm": "police looking for additional people who fired guns",
     "type": "card",
     "timestamp": 1787008344800
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
+    "titleNorm": "man charged with arranging fatal ambush of microsoft",
+    "type": "reel",
+    "timestamp": 1787018463561
   }
 ]
