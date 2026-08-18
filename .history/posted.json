@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
-    "titleNorm": "man charged with arranging fatal ambush of microsoft",
-    "type": "reel",
-    "timestamp": 1787018463561
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/ice-pitches-legal-insurance-shield-local-officers-make-135721607",
-    "titleNorm": "ice pitches legal insurance to help shield local",
-    "type": "card",
-    "timestamp": 1787018954667
-  },
-  {
     "url": "https://www.foxnews.com/us/man-unleashes-deadly-revenge-rampage-ex-family-kills-4-people-3-dogs-torching-home-da",
     "titleNorm": "man unleashes deadly revenge rampage on exs family",
     "type": "reel",
@@ -100,5 +88,11 @@
     "titleNorm": "man calls 911 after girlfriend found dead in",
     "type": "card",
     "timestamp": 1787060094107
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ice-pitches-legal-insurance-shield-local-officers-make-135721607",
+    "titleNorm": "ice pitches legal insurance to help shield local",
+    "type": "card",
+    "timestamp": 1787062936438
   }
 ]
