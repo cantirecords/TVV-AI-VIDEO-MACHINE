@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
-    "titleNorm": "actress hayden panettiere dies suddenly at age 36",
-    "type": "card",
-    "timestamp": 1787030382178
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/justice-department-watchdog-review-dea-tactic-permitted-deadly-135713439",
     "titleNorm": "justice department watchdog to review dea tactic that",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "appeals court upholds block on immigration arrests at",
     "type": "card",
     "timestamp": 1787073473607
+  },
+  {
+    "url": "https://www.foxnews.com/us/luigi-mangione-new-york-murder-trial-adjourned-december-double-jeopardy-concerns",
+    "titleNorm": "luigi mangiones new york murder trial adjourned until",
+    "type": "card",
+    "timestamp": 1787077275485
   }
 ]
