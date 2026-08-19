@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
-    "titleNorm": "scandalridden cory mills ousted in gop primary in",
-    "type": "reel",
-    "timestamp": 1787136947959
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
     "titleNorm": "iran039s top diplomat and trump cast doubt on",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1787179854733
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-rules-paint-tests-eisenhower-building-proceed-advancing-135742725",
+    "titleNorm": "judge rules paint tests on eisenhower building can",
+    "type": "card",
+    "timestamp": 1787181239388
   }
 ]
