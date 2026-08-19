@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-blames-vandals-damaged-grass-same-spot-held-135698396",
-    "titleNorm": "trump blames vandals for damaged grass in the",
-    "type": "card",
-    "timestamp": 1787099746669
-  },
-  {
     "url": "https://www.foxnews.com/us/workers-warned-ohio-trench-too-deep-told-enter-minutes-before-fatal-cave-in-report",
     "titleNorm": "workers warned ohio trench was too deep but",
     "type": "reel",
@@ -70,5 +64,11 @@
     "titleNorm": "teen lifeguard and boy he rescued are honored",
     "type": "card",
     "timestamp": 1787142161447
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-heidi-overton-fda-commissioner-rcna593309",
+    "titleNorm": "trump to nominate heidi overton to lead the",
+    "type": "reel",
+    "timestamp": 1787146004721
   }
 ]
