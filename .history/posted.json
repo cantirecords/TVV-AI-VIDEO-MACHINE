@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/alex-murdaugh-moves-new-trial-double-murder-retrial",
-    "titleNorm": "alex murdaugh moves for new home for doublemurder",
-    "type": "card",
-    "timestamp": 1787094727109
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-blames-vandals-damaged-grass-same-spot-held-135698396",
     "titleNorm": "trump blames vandals for damaged grass in the",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "scandalridden cory mills ousted in gop primary in",
     "type": "reel",
     "timestamp": 1787136947959
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "titleNorm": "iran039s top diplomat and trump cast doubt on",
+    "type": "card",
+    "timestamp": 1787138131372
   }
 ]
