@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/american-tourist-killed-lightning-hiking-sicilys-mount-etna",
-    "titleNorm": "american tourist killed by lightning while hiking sicilys",
-    "type": "reel",
-    "timestamp": 1787059508306
-  },
-  {
-    "url": "https://www.foxnews.com/us/man-calls-911-girlfriend-found-dead-motel-police-allegedly-uncover-disturbing-videos-phone",
-    "titleNorm": "man calls 911 after girlfriend found dead in",
-    "type": "card",
-    "timestamp": 1787060094107
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ice-pitches-legal-insurance-shield-local-officers-make-135721607",
     "titleNorm": "ice pitches legal insurance to help shield local",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "trump blames vandals for damaged grass in the",
     "type": "card",
     "timestamp": 1787099746669
+  },
+  {
+    "url": "https://www.foxnews.com/us/workers-warned-ohio-trench-too-deep-told-enter-minutes-before-fatal-cave-in-report",
+    "titleNorm": "workers warned ohio trench was too deep but",
+    "type": "reel",
+    "timestamp": 1787105365274
   }
 ]
