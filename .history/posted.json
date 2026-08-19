@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
-    "titleNorm": "penn state cocaine bust nets 14 arrests over",
-    "type": "reel",
-    "timestamp": 1787093427470
-  },
-  {
     "url": "https://www.foxnews.com/us/alex-murdaugh-moves-new-trial-double-murder-retrial",
     "titleNorm": "alex murdaugh moves for new home for doublemurder",
     "type": "card",
@@ -64,5 +58,11 @@
     "titleNorm": "chinas backflipping robots leap to blockbuster stock market",
     "type": "card",
     "timestamp": 1787134652660
+  },
+  {
+    "url": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
+    "titleNorm": "scandalridden cory mills ousted in gop primary in",
+    "type": "reel",
+    "timestamp": 1787136947959
   }
 ]
