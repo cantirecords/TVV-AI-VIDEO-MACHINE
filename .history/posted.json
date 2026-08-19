@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/beloved-mom-3-killed-when-massive-tree-crashes-onto-suv-freak-highway-accident",
-    "titleNorm": "beloved mom of 3 killed when massive tree",
-    "type": "card",
-    "timestamp": 1787110652587
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
     "titleNorm": "man charged with arranging fatal ambush of microsoft",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "trumps slight of south korea in favor of",
     "type": "reel",
     "timestamp": 1787153436032
+  },
+  {
+    "url": "https://www.foxnews.com/us/carmelo-anthony-defense-targets-judge-said-jury-got-right-murder-conviction",
+    "titleNorm": "texas judge who presided over karmelo anthony murder",
+    "type": "card",
+    "timestamp": 1787156462990
   }
 ]
