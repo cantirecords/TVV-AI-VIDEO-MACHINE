@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/desantis-ally-appointee-arrested-child-sex-abuse-charges-rcna593206",
-    "titleNorm": "desantis ally and appointee is arrested on child",
-    "type": "card",
-    "timestamp": 1787124633270
-  },
-  {
     "url": "https://www.nbcnews.com/world/asia/unitree-china-robot-maker-stock-market-ai-humanoids-tech-trump-rcna593278",
     "titleNorm": "chinas backflipping robots leap to blockbuster stock market",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
     "type": "card",
     "timestamp": 1787167080345
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1787170473218
   }
 ]
