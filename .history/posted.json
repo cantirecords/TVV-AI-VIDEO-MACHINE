@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
-    "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
-    "type": "card",
-    "timestamp": 1787116814007
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -76,5 +70,11 @@
     "titleNorm": "two missing children rescued from trailer as police",
     "type": "card",
     "timestamp": 1787159852528
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-workers-killed-several-injured-explosions-tear-ohio-recycling-facility",
+    "titleNorm": "two workers killed several injured after explosions tear",
+    "type": "card",
+    "timestamp": 1787163478629
   }
 ]
