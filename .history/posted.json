@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/workers-warned-ohio-trench-too-deep-told-enter-minutes-before-fatal-cave-in-report",
-    "titleNorm": "workers warned ohio trench was too deep but",
-    "type": "reel",
-    "timestamp": 1787105365274
-  },
-  {
     "url": "https://www.foxnews.com/us/beloved-mom-3-killed-when-massive-tree-crashes-onto-suv-freak-highway-accident",
     "titleNorm": "beloved mom of 3 killed when massive tree",
     "type": "card",
@@ -76,5 +70,11 @@
     "titleNorm": "an expecting mom039s headache was an early warning",
     "type": "card",
     "timestamp": 1787146572877
+  },
+  {
+    "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
+    "titleNorm": "massive brawl erupts at wisconsin state fair as",
+    "type": "card",
+    "timestamp": 1787149337892
   }
 ]
