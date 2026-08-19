@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
-    "titleNorm": "man charged with arranging fatal ambush of microsoft",
-    "type": "card",
-    "timestamp": 1787113566841
-  },
-  {
-    "url": "https://www.foxnews.com/us/two-workers-killed-several-injured-explosions-tear-ohio-recycling-facility",
-    "titleNorm": "two workers killed several injured after explosions tear",
-    "type": "reel",
-    "timestamp": 1787116003701
-  },
-  {
     "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
     "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
     "type": "card",
@@ -82,5 +70,11 @@
     "titleNorm": "texas judge who presided over karmelo anthony murder",
     "type": "card",
     "timestamp": 1787156462990
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-missing-children-rescued-trailer-police-arrest-babysitter-kidnapping-charges",
+    "titleNorm": "two missing children rescued from trailer as police",
+    "type": "card",
+    "timestamp": 1787159852528
   }
 ]
