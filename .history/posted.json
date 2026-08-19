@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/microsoft-exec-grieving-widow-faces-man-accused-plotting-murder-reveals-eerie-final-call",
-    "titleNorm": "microsoft execs grieving widow faces man accused of",
-    "type": "reel",
-    "timestamp": 1787073273897
-  },
-  {
-    "url": "https://www.cbsnews.com/news/appeals-court-blocks-immigration-arrests-houses-worship/",
-    "titleNorm": "appeals court upholds block on immigration arrests at",
-    "type": "card",
-    "timestamp": 1787073473607
-  },
-  {
     "url": "https://www.foxnews.com/us/luigi-mangione-new-york-murder-trial-adjourned-december-double-jeopardy-concerns",
     "titleNorm": "luigi mangiones new york murder trial adjourned until",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "two workers killed several injured after explosions tear",
     "type": "reel",
     "timestamp": 1787116003701
+  },
+  {
+    "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
+    "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
+    "type": "card",
+    "timestamp": 1787116814007
   }
 ]
