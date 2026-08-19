@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
-    "titleNorm": "tupac shakur murder trial kicks off as duane",
-    "type": "card",
-    "timestamp": 1787069922015
-  },
-  {
     "url": "https://www.foxnews.com/us/microsoft-exec-grieving-widow-faces-man-accused-plotting-murder-reveals-eerie-final-call",
     "titleNorm": "microsoft execs grieving widow faces man accused of",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "beloved mom of 3 killed when massive tree",
     "type": "card",
     "timestamp": 1787110652587
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-charged-arranging-fatal-ambush-microsoft-manager-faces-135699797",
+    "titleNorm": "man charged with arranging fatal ambush of microsoft",
+    "type": "card",
+    "timestamp": 1787113566841
   }
 ]
