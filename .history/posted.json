@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/man-unleashes-deadly-revenge-rampage-ex-family-kills-4-people-3-dogs-torching-home-da",
-    "titleNorm": "man unleashes deadly revenge rampage on exs family",
-    "type": "card",
-    "timestamp": 1787080829395
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-slight-south-korea-favor-north-raises-broader-135724877",
     "titleNorm": "trumps slight of south korea in favor of",
     "type": "card",
@@ -82,5 +76,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1787123818618
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/desantis-ally-appointee-arrested-child-sex-abuse-charges-rcna593206",
+    "titleNorm": "desantis ally and appointee is arrested on child",
+    "type": "card",
+    "timestamp": 1787124633270
   }
 ]
