@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/carmelo-anthony-defense-targets-judge-said-jury-got-right-murder-conviction",
-    "titleNorm": "texas judge who presided over karmelo anthony murder",
-    "type": "card",
-    "timestamp": 1787156462990
-  },
-  {
     "url": "https://www.foxnews.com/us/two-missing-children-rescued-trailer-police-arrest-babysitter-kidnapping-charges",
     "titleNorm": "two missing children rescued from trailer as police",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "army resumes apache helicopter training missions after texas",
     "type": "card",
     "timestamp": 1787197050326
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+    "titleNorm": "trump announces crushing economic operation on iran as",
+    "type": "card",
+    "timestamp": 1787199947826
   }
 ]
