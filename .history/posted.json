@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
-    "titleNorm": "massive brawl erupts at wisconsin state fair as",
-    "type": "reel",
-    "timestamp": 1787196360409
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/army-resumes-apache-helicopter-training-missions-after-texas-135790320",
-    "titleNorm": "army resumes apache helicopter training missions after texas",
-    "type": "card",
-    "timestamp": 1787197050326
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
     "titleNorm": "trump announces crushing economic operation on iran as",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "judge hands trump gop major redistricting win ahead",
     "type": "card",
     "timestamp": 1787239409301
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-was-warned-peeling-reflecting-pool-nearly-month-b-rcna593390",
+    "titleNorm": "trump admin was warned about peeling reflecting pool",
+    "type": "card",
+    "timestamp": 1787242875017
   }
 ]
