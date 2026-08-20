@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/missouri-court-rejects-petition-proposing-protections-laws-passed-135787583",
-    "titleNorm": "missouri court rejects petition proposing protections for laws",
-    "type": "card",
-    "timestamp": 1787186156370
-  },
-  {
     "url": "https://www.foxnews.com/us/69-live-animals-found-stuffed-pillowcases-hidden-car-compartment-border-arrest-feds",
     "titleNorm": "69 live animals found stuffed in pillowcases in",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "2 college cyclists killed and 7 injured in",
     "type": "card",
     "timestamp": 1787228646615
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspects-large-tucson-police-recruit-killed-pima-county-corrections-officer-wounded-shooting",
+    "titleNorm": "suspects at large after tucson police recruit killed",
+    "type": "reel",
+    "timestamp": 1787232466065
   }
 ]
