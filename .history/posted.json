@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-    "titleNorm": "trump announces crushing economic operation on iran as",
-    "type": "card",
-    "timestamp": 1787199947826
-  },
-  {
     "url": "https://www.foxnews.com/us/colorado-black-bear-dies-trapped-inside-unlocked-car-days-report",
     "titleNorm": "colorado black bear dies after becoming trapped inside",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump admin was warned about peeling reflecting pool",
     "type": "card",
     "timestamp": 1787242875017
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/pilot-killed-state-troopers-hurt-plane-helicopter-crash-pennsylvania-rcna593486",
+    "titleNorm": "pilot killed 2 state troopers hurt after small",
+    "type": "reel",
+    "timestamp": 1787245329519
   }
 ]
