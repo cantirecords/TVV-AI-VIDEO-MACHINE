@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
-    "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
-    "type": "card",
-    "timestamp": 1787167080345
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "two trumpbacked candidates lose debbie wasserman schultz wins",
     "type": "reel",
     "timestamp": 1787210253874
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tens-thousands-indiana-power-week-after-deadly-storms-135788476",
+    "titleNorm": "tens of thousands in indiana are still without",
+    "type": "card",
+    "timestamp": 1787211139799
   }
 ]
