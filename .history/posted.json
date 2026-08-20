@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-plays-white-house-tour-guide-show-off-135783003",
-    "titleNorm": "trump plays white house tour guide to show",
-    "type": "card",
-    "timestamp": 1787207111503
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/two-trump-backed-candidates-lose-debbie-wasserman-schultz-wins-tuesday-rcna592392",
     "titleNorm": "two trumpbacked candidates lose debbie wasserman schultz wins",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "fbi arrests woman who allegedly plotted attack on",
     "type": "card",
     "timestamp": 1787250221069
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/two-students-killed-driver-charged-crash-tennessee-college-cycling-tea-rcna593466",
+    "titleNorm": "two students killed driver charged after crash into",
+    "type": "reel",
+    "timestamp": 1787253103617
   }
 ]
