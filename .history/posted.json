@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tens-thousands-indiana-power-week-after-deadly-storms-135788476",
-    "titleNorm": "tens of thousands in indiana are still without",
-    "type": "card",
-    "timestamp": 1787211139799
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-accused-operating-overcrowded-boat-capsized-liberty-island-arrested-ice",
     "titleNorm": "illegal immigrant accused of operating overcrowded boat that",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "bloodied ejected marine corps pilot seen calm and",
     "type": "card",
     "timestamp": 1787253784858
+  },
+  {
+    "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
+    "titleNorm": "pilot killed as plane collides with police helicopter",
+    "type": "card",
+    "timestamp": 1787257009060
   }
 ]
