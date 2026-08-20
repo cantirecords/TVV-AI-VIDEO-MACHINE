@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/69-live-animals-found-stuffed-pillowcases-hidden-car-compartment-border-arrest-feds",
-    "titleNorm": "69 live animals found stuffed in pillowcases in",
-    "type": "reel",
-    "timestamp": 1787191211546
-  },
-  {
-    "url": "https://www.foxnews.com/us/8-year-old-boy-killed-tree-falls-ymca-summer-camp-massachusetts",
-    "titleNorm": "8yearold boy killed after tree falls at ymca",
-    "type": "card",
-    "timestamp": 1787191819779
-  },
-  {
     "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
     "titleNorm": "massive brawl erupts at wisconsin state fair as",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1787233101870
+  },
+  {
+    "url": "https://www.foxnews.com/us/tyler-robinson-rarely-hit-bullseye-practice-shots-putting-bystanders-risk-kirk-shooting-prosecutors",
+    "titleNorm": "tyler robinson rarely hit bullseye in practice shots",
+    "type": "card",
+    "timestamp": 1787235868324
   }
 ]
