@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/colorado-black-bear-dies-trapped-inside-unlocked-car-days-report",
-    "titleNorm": "colorado black bear dies after becoming trapped inside",
-    "type": "reel",
-    "timestamp": 1787202248585
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/video-shows-officers-fall-story-deck-collapses-make-135782733",
     "titleNorm": "video shows officers fall as deck collapses while",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "pilot killed 2 state troopers hurt after small",
     "type": "reel",
     "timestamp": 1787245329519
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-us-canada-trade-deal-key-terms-remain-135785809",
+    "titleNorm": "trump says us and canada have a trade",
+    "type": "card",
+    "timestamp": 1787246345783
   }
 ]
