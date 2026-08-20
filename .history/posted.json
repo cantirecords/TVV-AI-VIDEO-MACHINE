@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/manhunt-underway-after-off-duty-massachusetts-police-veteran-found-dead-womans-home",
-    "titleNorm": "manhunt underway after offduty massachusetts police veteran found",
-    "type": "reel",
-    "timestamp": 1787166350710
-  },
-  {
     "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
     "titleNorm": "prosecutors hammer tyler robinsons bid to derail death",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "trump plays white house tour guide to show",
     "type": "card",
     "timestamp": 1787207111503
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/two-trump-backed-candidates-lose-debbie-wasserman-schultz-wins-tuesday-rcna592392",
+    "titleNorm": "two trumpbacked candidates lose debbie wasserman schultz wins",
+    "type": "reel",
+    "timestamp": 1787210253874
   }
 ]
