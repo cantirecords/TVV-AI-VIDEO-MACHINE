@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trumps-slight-south-korea-favor-north-raises-broader-135724877",
-    "titleNorm": "trumps slight of south korea in favor of",
-    "type": "reel",
-    "timestamp": 1787153436032
-  },
-  {
     "url": "https://www.foxnews.com/us/carmelo-anthony-defense-targets-judge-said-jury-got-right-murder-conviction",
     "titleNorm": "texas judge who presided over karmelo anthony murder",
     "type": "card",
@@ -88,5 +82,11 @@
     "titleNorm": "massive brawl erupts at wisconsin state fair as",
     "type": "reel",
     "timestamp": 1787196360409
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/army-resumes-apache-helicopter-training-missions-after-texas-135790320",
+    "titleNorm": "army resumes apache helicopter training missions after texas",
+    "type": "card",
+    "timestamp": 1787197050326
   }
 ]
