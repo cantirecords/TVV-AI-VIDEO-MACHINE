@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/video-shows-officers-fall-story-deck-collapses-make-135782733",
-    "titleNorm": "video shows officers fall as deck collapses while",
-    "type": "card",
-    "timestamp": 1787203261126
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-plays-white-house-tour-guide-show-off-135783003",
     "titleNorm": "trump plays white house tour guide to show",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "trump says us and canada have a trade",
     "type": "card",
     "timestamp": 1787246345783
+  },
+  {
+    "url": "https://www.foxnews.com/us/fbi-arrests-woman-who-allegedly-plotted-attack-new-york-state-capitol-building",
+    "titleNorm": "fbi arrests woman who allegedly plotted attack on",
+    "type": "card",
+    "timestamp": 1787250221069
   }
 ]
