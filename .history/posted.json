@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1787179854733
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-rules-paint-tests-eisenhower-building-proceed-advancing-135742725",
     "titleNorm": "judge rules paint tests on eisenhower building can",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "derek chauvin targets george floyd murder conviction with",
     "type": "card",
     "timestamp": 1787221179693
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/alarmed-bond-market-gets-trump-administration-act-135783005",
+    "titleNorm": "an alarmed bond market gets the trump administration",
+    "type": "reel",
+    "timestamp": 1787223488945
   }
 ]
