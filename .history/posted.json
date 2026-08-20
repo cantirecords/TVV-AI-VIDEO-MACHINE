@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-missing-children-rescued-trailer-police-arrest-babysitter-kidnapping-charges",
-    "titleNorm": "two missing children rescued from trailer as police",
-    "type": "card",
-    "timestamp": 1787159852528
-  },
-  {
     "url": "https://www.foxnews.com/us/two-workers-killed-several-injured-explosions-tear-ohio-recycling-facility",
     "titleNorm": "two workers killed several injured after explosions tear",
     "type": "card",
@@ -94,5 +88,11 @@
     "titleNorm": "colorado black bear dies after becoming trapped inside",
     "type": "reel",
     "timestamp": 1787202248585
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/video-shows-officers-fall-story-deck-collapses-make-135782733",
+    "titleNorm": "video shows officers fall as deck collapses while",
+    "type": "card",
+    "timestamp": 1787203261126
   }
 ]
