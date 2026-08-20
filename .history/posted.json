@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/derek-chauvin-targets-george-floyd-murder-conviction-new-claims-his-prosecution-unlawful",
-    "titleNorm": "derek chauvin targets george floyd murder conviction with",
-    "type": "card",
-    "timestamp": 1787221179693
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/alarmed-bond-market-gets-trump-administration-act-135783005",
     "titleNorm": "an alarmed bond market gets the trump administration",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "bronx man accused of attacking shabbat worshippers admitted",
     "type": "card",
     "timestamp": 1787264138142
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/pilot-killed-violent-collision-pennsylvania-police-helicopter-135792838",
+    "titleNorm": "pilot killed in violent collision with pennsylvania police",
+    "type": "reel",
+    "timestamp": 1787266472165
   }
 ]
