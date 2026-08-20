@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/judge-rules-paint-tests-eisenhower-building-proceed-advancing-135742725",
-    "titleNorm": "judge rules paint tests on eisenhower building can",
-    "type": "card",
-    "timestamp": 1787181239388
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/missouri-court-rejects-petition-proposing-protections-laws-passed-135787583",
     "titleNorm": "missouri court rejects petition proposing protections for laws",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "an alarmed bond market gets the trump administration",
     "type": "reel",
     "timestamp": 1787223488945
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/rights-chief-concerned-arrest-opposition-figures-zambias-election-135771805",
+    "titleNorm": "un rights chief is concerned about arrest of",
+    "type": "card",
+    "timestamp": 1787224638362
   }
 ]
