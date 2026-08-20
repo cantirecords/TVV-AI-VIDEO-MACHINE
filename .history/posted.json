@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
-    "titleNorm": "massive brawl erupts at wisconsin state fair as",
-    "type": "card",
-    "timestamp": 1787149337892
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trumps-slight-south-korea-favor-north-raises-broader-135724877",
     "titleNorm": "trumps slight of south korea in favor of",
     "type": "reel",
@@ -88,5 +82,11 @@
     "titleNorm": "8yearold boy killed after tree falls at ymca",
     "type": "card",
     "timestamp": 1787191819779
+  },
+  {
+    "url": "https://www.foxnews.com/us/massive-brawl-erupts-wisconsin-state-fair-seven-arrested-chaotic-closing-hours",
+    "titleNorm": "massive brawl erupts at wisconsin state fair as",
+    "type": "reel",
+    "timestamp": 1787196360409
   }
 ]
