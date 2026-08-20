@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-workers-killed-several-injured-explosions-tear-ohio-recycling-facility",
-    "titleNorm": "two workers killed several injured after explosions tear",
-    "type": "card",
-    "timestamp": 1787163478629
-  },
-  {
     "url": "https://www.foxnews.com/us/manhunt-underway-after-off-duty-massachusetts-police-veteran-found-dead-womans-home",
     "titleNorm": "manhunt underway after offduty massachusetts police veteran found",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "video shows officers fall as deck collapses while",
     "type": "card",
     "timestamp": 1787203261126
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-plays-white-house-tour-guide-show-off-135783003",
+    "titleNorm": "trump plays white house tour guide to show",
+    "type": "card",
+    "timestamp": 1787207111503
   }
 ]
