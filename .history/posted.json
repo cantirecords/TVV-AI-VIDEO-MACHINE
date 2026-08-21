@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-us-canada-trade-deal-key-terms-remain-135785809",
-    "titleNorm": "trump says us and canada have a trade",
-    "type": "card",
-    "timestamp": 1787246345783
-  },
-  {
     "url": "https://www.foxnews.com/us/fbi-arrests-woman-who-allegedly-plotted-attack-new-york-state-capitol-building",
     "titleNorm": "fbi arrests woman who allegedly plotted attack on",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "army resumes apache helicopter training missions after texas",
     "type": "reel",
     "timestamp": 1787288706086
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "multiple deadly israeli strikes in gaza in under",
+    "type": "card",
+    "timestamp": 1787289770689
   }
 ]
