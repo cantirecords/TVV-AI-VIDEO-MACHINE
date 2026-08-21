@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tens-thousands-indiana-power-week-after-deadly-storms-135788476",
-    "titleNorm": "tens of thousands in indiana are still without",
-    "type": "reel",
-    "timestamp": 1787278093359
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1787278616764
-  },
-  {
     "url": "https://www.foxnews.com/us/murder-convict-accused-running-full-service-drug-operation-selling-minors-near-texas-schools",
     "titleNorm": "murder convict accused of running fullservice drug operation",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "federal court is asked to block kennedy center",
     "type": "card",
     "timestamp": 1787319428230
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1787322211996
   }
 ]
