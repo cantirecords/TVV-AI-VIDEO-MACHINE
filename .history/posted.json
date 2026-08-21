@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/president-fixer-michael-cohen-reunite-radio-show-rcna593535",
-    "titleNorm": "trump and former fixer michael cohen bury the",
-    "type": "reel",
-    "timestamp": 1787297088644
-  },
-  {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial",
-    "titleNorm": "lindsay clancys exhusband has quietly remarried and started",
-    "type": "card",
-    "timestamp": 1787297696263
-  },
-  {
     "url": "https://www.foxnews.com/us/substitute-teacher-arrested-allegedly-triggering-false-active-shooter-alerts-5-schools-sheriff",
     "titleNorm": "substitute teacher arrested after allegedly triggering false active",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "irish authorities seek extradition warrant for suspect in",
     "type": "card",
     "timestamp": 1787339937192
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
+    "titleNorm": "army will shut down a unit in europe",
+    "type": "card",
+    "timestamp": 1787343226353
   }
 ]
