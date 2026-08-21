@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murder-convict-accused-running-full-service-drug-operation-selling-minors-near-texas-schools",
-    "titleNorm": "murder convict accused of running fullservice drug operation",
-    "type": "reel",
-    "timestamp": 1787283045534
-  },
-  {
-    "url": "https://www.cbsnews.com/news/underground-scholars-uc-davis-arrest/",
-    "titleNorm": "she was a california comeback story serving juvenile",
-    "type": "card",
-    "timestamp": 1787283680858
-  },
-  {
     "url": "https://www.foxnews.com/us/illegal-immigrant-accused-operating-overcrowded-boat-capsized-liberty-island-arrested-ice",
     "titleNorm": "illegal immigrant accused of operating overcrowded boat that",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "fentanyl deaths plummet as white house points to",
     "type": "card",
     "timestamp": 1787325748358
+  },
+  {
+    "url": "https://www.foxnews.com/us/judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections-more-top-headlines",
+    "titleNorm": "judge hands trump gop major redistricting win ahead",
+    "type": "card",
+    "timestamp": 1787329169214
   }
 ]
