@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
-    "titleNorm": "charter plane carrying 8 crashes near remote radar",
-    "type": "card",
-    "timestamp": 1787307547890
-  },
-  {
     "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
     "titleNorm": "jury awards teens 550k after oregon amusement park",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
     "type": "card",
     "timestamp": 1787350421373
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/laken-snelling-ex-kentucky-student-whose-infant-was-found-dead-closet-rcna593745",
+    "titleNorm": "laken snelling whose infant was found dead in",
+    "type": "reel",
+    "timestamp": 1787352640777
   }
 ]
