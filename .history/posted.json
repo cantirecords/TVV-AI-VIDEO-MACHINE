@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bronx-man-accused-attacking-shabbat-worshippers-admitted-motive-recorded-interview-feds-say",
-    "titleNorm": "bronx man accused of attacking shabbat worshippers admitted",
-    "type": "card",
-    "timestamp": 1787264138142
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/pilot-killed-violent-collision-pennsylvania-police-helicopter-135792838",
     "titleNorm": "pilot killed in violent collision with pennsylvania police",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "charter plane crashes near remote radar site in",
     "type": "card",
     "timestamp": 1787304309399
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
+    "titleNorm": "charter plane carrying 8 crashes near remote radar",
+    "type": "card",
+    "timestamp": 1787307547890
   }
 ]
