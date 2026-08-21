@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
-    "titleNorm": "pilot killed as plane collides with police helicopter",
-    "type": "card",
-    "timestamp": 1787257009060
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-us-canada-reached-minute-deal-delay-50-135759591",
     "titleNorm": "trump says us and canada have reached lastminute",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "lindsay clancys exhusband has quietly remarried and started",
     "type": "card",
     "timestamp": 1787297696263
+  },
+  {
+    "url": "https://www.foxnews.com/us/substitute-teacher-arrested-allegedly-triggering-false-active-shooter-alerts-5-schools-sheriff",
+    "titleNorm": "substitute teacher arrested after allegedly triggering false active",
+    "type": "card",
+    "timestamp": 1787300789086
   }
 ]
