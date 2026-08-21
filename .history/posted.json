@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/pilot-killed-violent-collision-pennsylvania-police-helicopter-135792838",
-    "titleNorm": "pilot killed in violent collision with pennsylvania police",
-    "type": "reel",
-    "timestamp": 1787266472165
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "card",
     "timestamp": 1787307547890
+  },
+  {
+    "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
+    "titleNorm": "jury awards teens 550k after oregon amusement park",
+    "type": "reel",
+    "timestamp": 1787309955706
   }
 ]
