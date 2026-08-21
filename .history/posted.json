@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1787260671568
-  },
-  {
     "url": "https://www.foxnews.com/us/bronx-man-accused-attacking-shabbat-worshippers-admitted-motive-recorded-interview-feds-say",
     "titleNorm": "bronx man accused of attacking shabbat worshippers admitted",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1787303323963
+  },
+  {
+    "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
+    "titleNorm": "charter plane crashes near remote radar site in",
+    "type": "card",
+    "timestamp": 1787304309399
   }
 ]
