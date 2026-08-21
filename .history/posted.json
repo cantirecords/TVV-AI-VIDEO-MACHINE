@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/8-year-old-boy-killed-tree-falls-ymca-summer-camp-massachusetts",
-    "titleNorm": "8yearold boy killed after tree falls at ymca",
-    "type": "card",
-    "timestamp": 1787272777442
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tens-thousands-indiana-power-week-after-deadly-storms-135788476",
     "titleNorm": "tens of thousands in indiana are still without",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "driver accused of killing 2 college cyclists in",
     "type": "card",
     "timestamp": 1787315007749
+  },
+  {
+    "url": "https://www.foxnews.com/us/bloodied-ejected-marine-corps-pilot-seen-calm-collected-washington-crash-destroys-aircraft",
+    "titleNorm": "bloodied ejected marine corps pilot seen calm and",
+    "type": "reel",
+    "timestamp": 1787318874960
   }
 ]
