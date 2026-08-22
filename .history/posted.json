@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections-more-top-headlines",
-    "titleNorm": "judge hands trump gop major redistricting win ahead",
-    "type": "card",
-    "timestamp": 1787329169214
-  },
-  {
     "url": "https://www.cbsnews.com/news/infowars-alex-jones-texas-court-judgment/",
     "titleNorm": "texas court slashes 50m judgment against infowars039 alex",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "card",
     "timestamp": 1787369613691
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/investigators-probe-dramatic-midair-crash-landing-plane-hits-135823224",
+    "titleNorm": "investigators probe dramatic midair crash as landing plane",
+    "type": "card",
+    "timestamp": 1787372504174
   }
 ]
