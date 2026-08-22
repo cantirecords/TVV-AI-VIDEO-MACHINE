@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/infowars-alex-jones-texas-court-judgment/",
-    "titleNorm": "texas court slashes 50m judgment against infowars039 alex",
-    "type": "reel",
-    "timestamp": 1787331734574
-  },
-  {
     "url": "https://www.foxnews.com/us/murder-convict-accused-running-full-service-drug-operation-selling-minors-near-texas-schools",
     "titleNorm": "murder convict accused of running fullservice drug operation",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1787374795354
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/vances-homecoming-throwback-2024-preview-midterm-politics-desk-rcna593794",
+    "titleNorm": "vances homecoming is a throwback to 2024 and",
+    "type": "card",
+    "timestamp": 1787375837112
   }
 ]
