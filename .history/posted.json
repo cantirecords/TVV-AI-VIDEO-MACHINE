@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
-    "titleNorm": "army will shut down a unit in europe",
-    "type": "card",
-    "timestamp": 1787343226353
-  },
-  {
     "url": "https://www.foxnews.com/us/college-soccer-player-allegedly-killed-boyfriend-blamed-demon-mom-accused-cover-up",
     "titleNorm": "college soccer player allegedly killed by boyfriend who",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "what to know about alex jones texas court",
     "type": "card",
     "timestamp": 1787383389257
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-darline-graham-south-carolina-runoff/",
+    "titleNorm": "trump campaigns with darline graham in south carolina",
+    "type": "card",
+    "timestamp": 1787386627746
   }
 ]
