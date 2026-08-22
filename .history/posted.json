@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/substitute-teacher-arrested-allegedly-triggering-false-active-shooter-alerts-5-schools-sheriff",
-    "titleNorm": "substitute teacher arrested after allegedly triggering false active",
-    "type": "card",
-    "timestamp": 1787358917272
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-ed-martin-leaving-justice-department-pardon-attorney-rcna593793",
     "titleNorm": "trump says loyalist ed martin to leave the",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "karoline leavitt to work for trumpaffiliated super pac",
     "type": "card",
     "timestamp": 1787401036074
+  },
+  {
+    "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+    "titleNorm": "trump doesnt have a plan on iran voters",
+    "type": "reel",
+    "timestamp": 1787404218858
   }
 ]
