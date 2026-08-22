@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murder-convict-accused-running-full-service-drug-operation-selling-minors-near-texas-schools",
-    "titleNorm": "murder convict accused of running fullservice drug operation",
-    "type": "card",
-    "timestamp": 1787332763663
-  },
-  {
     "url": "https://www.foxnews.com/us/mugshot-accused-ny-capitol-isis-plotter-revealed-feds-detail-plans-more-attacks",
     "titleNorm": "mugshot of accused ny capitol isis plotter revealed",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "vances homecoming is a throwback to 2024 and",
     "type": "card",
     "timestamp": 1787375837112
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/recovering-hurricane-lala-hawaii-prepares-weekend-cyclone-135809606",
+    "titleNorm": "still recovering from hurricane lala hawaii prepares for",
+    "type": "card",
+    "timestamp": 1787379623869
   }
 ]
