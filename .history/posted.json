@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/vances-homecoming-throwback-2024-preview-midterm-politics-desk-rcna593794",
-    "titleNorm": "vances homecoming is a throwback to 2024 and",
-    "type": "card",
-    "timestamp": 1787375837112
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/recovering-hurricane-lala-hawaii-prepares-weekend-cyclone-135809606",
     "titleNorm": "still recovering from hurricane lala hawaii prepares for",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "missing new york grandmother found dead near las",
     "type": "card",
     "timestamp": 1787418703889
+  },
+  {
+    "url": "https://www.foxnews.com/us/philadelphia-chucky-style-mask-suspect-ties-los-angeles-area-police-warn",
+    "titleNorm": "philadelphia chuckystyle mask suspect has ties to los",
+    "type": "card",
+    "timestamp": 1787422480256
   }
 ]
