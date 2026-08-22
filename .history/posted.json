@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
-    "titleNorm": "nancy kissinger wife of former secretary of state",
-    "type": "reel",
-    "timestamp": 1787382646989
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/alex-jones-texas-court-win-1-billion-damages-135859305",
     "titleNorm": "what to know about alex jones texas court",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "jury awards teens 550k after oregon amusement park",
     "type": "reel",
     "timestamp": 1787425109766
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
+    "titleNorm": "nancy kissinger wife of former secretary of state",
+    "type": "card",
+    "timestamp": 1787426108816
   }
 ]
