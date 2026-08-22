@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/recovering-hurricane-lala-hawaii-prepares-weekend-cyclone-135809606",
-    "titleNorm": "still recovering from hurricane lala hawaii prepares for",
-    "type": "card",
-    "timestamp": 1787379623869
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
     "titleNorm": "nancy kissinger wife of former secretary of state",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "philadelphia chuckystyle mask suspect has ties to los",
     "type": "card",
     "timestamp": 1787422480256
+  },
+  {
+    "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
+    "titleNorm": "jury awards teens 550k after oregon amusement park",
+    "type": "reel",
+    "timestamp": 1787425109766
   }
 ]
