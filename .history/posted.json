@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/michael-cohen-trumps-former-fixer-turned-enemy-hosting-135815594",
-    "titleNorm": "michael cohen is hosting president trump on his",
-    "type": "card",
-    "timestamp": 1787346809029
-  },
-  {
     "url": "https://www.foxnews.com/us/laken-snelling-ex-university-kentucky-student-pleads-guilty-death-baby-found-dead-closet",
     "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "fentanyl deaths plummet as white house points to",
     "type": "reel",
     "timestamp": 1787389049887
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
+    "titleNorm": "army will shut down a unit in europe",
+    "type": "card",
+    "timestamp": 1787390254241
   }
 ]
