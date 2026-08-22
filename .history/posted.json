@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/laken-snelling-ex-kentucky-student-whose-infant-was-found-dead-closet-rcna593745",
-    "titleNorm": "laken snelling whose infant was found dead in",
-    "type": "reel",
-    "timestamp": 1787352640777
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/court-slashes-50m-judgment-infowars-alex-jones-falsely-135839937",
     "titleNorm": "court cuts 50m judgment against alex jones over",
     "type": "card",
@@ -106,5 +100,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1787395809571
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/backcountry-guide-company-faces-150k-fines-after-californias-135851244",
+    "titleNorm": "backcountry guide company faces 150k in fines after",
+    "type": "card",
+    "timestamp": 1787397102878
   }
 ]
