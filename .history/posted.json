@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/college-soccer-player-allegedly-killed-boyfriend-blamed-demon-mom-accused-cover-up",
-    "titleNorm": "college soccer player allegedly killed by boyfriend who",
-    "type": "reel",
-    "timestamp": 1787345393218
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/michael-cohen-trumps-former-fixer-turned-enemy-hosting-135815594",
     "titleNorm": "michael cohen is hosting president trump on his",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "trump campaigns with darline graham in south carolina",
     "type": "card",
     "timestamp": 1787386627746
+  },
+  {
+    "url": "https://www.foxnews.com/us/fentanyl-deaths-plummet-white-house-points-trumps-sweeping-crackdown-more-top-headlines",
+    "titleNorm": "fentanyl deaths plummet as white house points to",
+    "type": "reel",
+    "timestamp": 1787389049887
   }
 ]
