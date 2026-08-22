@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
-    "titleNorm": "army will shut down a unit in europe",
-    "type": "card",
-    "timestamp": 1787390254241
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tens-thousands-indiana-power-week-after-deadly-storms-135788476",
     "titleNorm": "tens of thousands in indiana are still without",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "missing new york city grandmother found dead near",
     "type": "card",
     "timestamp": 1787433093497
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-us-army-corps-engineers-employees-among-8-killed-alaska-charter-plane-crash",
+    "titleNorm": "two us army corps of engineers employees among",
+    "type": "card",
+    "timestamp": 1787436690197
   }
 ]
