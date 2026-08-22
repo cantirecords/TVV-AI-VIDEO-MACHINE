@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mugshot-accused-ny-capitol-isis-plotter-revealed-feds-detail-plans-more-attacks",
-    "titleNorm": "mugshot of accused ny capitol isis plotter revealed",
-    "type": "card",
-    "timestamp": 1787336479508
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "multiple deadly israeli strikes in gaza in under",
-    "type": "reel",
-    "timestamp": 1787339257314
-  },
-  {
     "url": "https://www.foxnews.com/us/irish-authorities-seek-extradition-warrant-suspect-murder-american-mom-jamey-carney",
     "titleNorm": "irish authorities seek extradition warrant for suspect in",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "still recovering from hurricane lala hawaii prepares for",
     "type": "card",
     "timestamp": 1787379623869
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
+    "titleNorm": "nancy kissinger wife of former secretary of state",
+    "type": "reel",
+    "timestamp": 1787382646989
   }
 ]
