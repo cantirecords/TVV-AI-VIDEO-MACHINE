@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/laken-snelling-ex-university-kentucky-student-pleads-guilty-death-baby-found-dead-closet",
-    "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
-    "type": "card",
-    "timestamp": 1787350421373
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/laken-snelling-ex-kentucky-student-whose-infant-was-found-dead-closet-rcna593745",
     "titleNorm": "laken snelling whose infant was found dead in",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "tens of thousands in indiana are still without",
     "type": "card",
     "timestamp": 1787393544178
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1787395809571
   }
 ]
