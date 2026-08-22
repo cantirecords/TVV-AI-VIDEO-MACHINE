@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/alex-jones-texas-court-win-1-billion-damages-135859305",
-    "titleNorm": "what to know about alex jones texas court",
-    "type": "card",
-    "timestamp": 1787383389257
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-darline-graham-south-carolina-runoff/",
     "titleNorm": "trump campaigns with darline graham in south carolina",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "nancy kissinger wife of former secretary of state",
     "type": "card",
     "timestamp": 1787426108816
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1787429445688
   }
 ]
