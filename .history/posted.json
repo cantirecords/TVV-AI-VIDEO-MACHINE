@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/irish-authorities-seek-extradition-warrant-suspect-murder-american-mom-jamey-carney",
-    "titleNorm": "irish authorities seek extradition warrant for suspect in",
-    "type": "card",
-    "timestamp": 1787339937192
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
     "titleNorm": "army will shut down a unit in europe",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "nancy kissinger wife of former secretary of state",
     "type": "reel",
     "timestamp": 1787382646989
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/alex-jones-texas-court-win-1-billion-damages-135859305",
+    "titleNorm": "what to know about alex jones texas court",
+    "type": "card",
+    "timestamp": 1787383389257
   }
 ]
