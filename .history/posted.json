@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-college-cyclists-killed-7-injured-tennessee-car-135790436",
-    "titleNorm": "2 college cyclists killed and 7 injured in",
-    "type": "card",
-    "timestamp": 1787310995727
-  },
-  {
-    "url": "https://www.foxnews.com/us/driver-accused-killing-2-college-cyclists-tennessee-crash-allegedly-failed-brake-court-docs",
-    "titleNorm": "driver accused of killing 2 college cyclists in",
-    "type": "card",
-    "timestamp": 1787315007749
-  },
-  {
     "url": "https://www.foxnews.com/us/bloodied-ejected-marine-corps-pilot-seen-calm-collected-washington-crash-destroys-aircraft",
     "titleNorm": "bloodied ejected marine corps pilot seen calm and",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "court cuts 50m judgment against alex jones over",
     "type": "card",
     "timestamp": 1787354016386
+  },
+  {
+    "url": "https://www.foxnews.com/us/substitute-teacher-arrested-allegedly-triggering-false-active-shooter-alerts-5-schools-sheriff",
+    "titleNorm": "substitute teacher arrested after allegedly triggering false active",
+    "type": "card",
+    "timestamp": 1787358917272
   }
 ]
