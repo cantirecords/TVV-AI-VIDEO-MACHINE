@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-us-army-corps-engineers-employees-among-8-killed-alaska-charter-plane-crash",
-    "titleNorm": "two us army corps of engineers employees among",
-    "type": "card",
-    "timestamp": 1787436690197
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-ed-martin-leaving-justice-department-pardon-attorney-rcna593793",
     "titleNorm": "trump says loyalist ed martin to leave the",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "gop lawmakers criticize trumps beef import plan amid",
     "type": "card",
     "timestamp": 1787476662403
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-court-asked-block-kennedy-center-returning-trumps-135826908",
+    "titleNorm": "federal court is asked to block kennedy center",
+    "type": "card",
+    "timestamp": 1787479989494
   }
 ]
