@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/federal-court-asked-block-kennedy-center-returning-trumps-135826908",
-    "titleNorm": "federal court is asked to block kennedy center",
-    "type": "card",
-    "timestamp": 1787479989494
-  },
-  {
-    "url": "https://www.nbcnews.com/select/shopping/how-to-prep-for-hurricane-rcna593780",
-    "titleNorm": "this is what you need and need to",
-    "type": "reel",
-    "timestamp": 1787482165149
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "american airlines flight lands safely after laptop battery",
     "type": "card",
     "timestamp": 1787523051927
+  },
+  {
+    "url": "https://www.foxnews.com/us/bear-crashes-couples-anniversary-getaway-rummages-tennessee-tea-shop-jumping-counter",
+    "titleNorm": "bear crashes couples anniversary getaway rummages through tennessee",
+    "type": "reel",
+    "timestamp": 1787525379748
   }
 ]
