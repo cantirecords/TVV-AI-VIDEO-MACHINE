@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1787429445688
-  },
-  {
     "url": "https://www.cbsnews.com/news/cruise-ship-workers-arrested-boston-operation-tidal-wave/",
     "titleNorm": "11 cruise workers arrested in boston over alleged",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "one year after iryna zarutskas murder violent crimes",
     "type": "card",
     "timestamp": 1787469894803
+  },
+  {
+    "url": "https://www.foxnews.com/us/college-soccer-player-allegedly-killed-boyfriend-blamed-demon-mom-accused-cover-up",
+    "titleNorm": "college soccer player allegedly killed by boyfriend who",
+    "type": "card",
+    "timestamp": 1787473067148
   }
 ]
