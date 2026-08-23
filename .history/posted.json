@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-ed-martin-leaving-justice-department-pardon-attorney-rcna593793",
-    "titleNorm": "trump says loyalist ed martin to leave the",
-    "type": "reel",
-    "timestamp": 1787438858900
-  },
-  {
     "url": "https://www.foxnews.com/us/womans-alleged-isis-radicalization-unfolded-online-before-capitol-bomb-plot-court-docs",
     "titleNorm": "womans alleged isis radicalization unfolded online before capitol",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "federal court is asked to block kennedy center",
     "type": "card",
     "timestamp": 1787479989494
+  },
+  {
+    "url": "https://www.nbcnews.com/select/shopping/how-to-prep-for-hurricane-rcna593780",
+    "titleNorm": "this is what you need and need to",
+    "type": "reel",
+    "timestamp": 1787482165149
   }
 ]
