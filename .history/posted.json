@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-    "titleNorm": "connecticut police officers shot suspect killed after attempted",
-    "type": "card",
-    "timestamp": 1787445528706
-  },
-  {
     "url": "https://www.foxnews.com/us/mugshot-accused-ny-capitol-isis-plotter-revealed-feds-detail-plans-more-attacks",
     "titleNorm": "mugshot of accused ny capitol isis plotter revealed",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "trump tries new midterm message to supporters pretend",
     "type": "card",
     "timestamp": 1787487469687
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/inside-trumps-remake-white-house-rose-garden-stone-135862013",
+    "titleNorm": "inside trumps remake of the white house rose",
+    "type": "reel",
+    "timestamp": 1787490659880
   }
 ]
