@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
-    "titleNorm": "charter plane crashes near remote radar site in",
-    "type": "reel",
-    "timestamp": 1787417393430
-  },
-  {
     "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
     "titleNorm": "missing new york grandmother found dead near las",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "karoline leavitt to work for trumpaffiliated super pac",
     "type": "card",
     "timestamp": 1787459199690
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1787461333270
   }
 ]
