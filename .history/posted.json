@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/backcountry-guide-company-faces-150k-fines-after-californias-135851244",
-    "titleNorm": "backcountry guide company faces 150k in fines after",
-    "type": "card",
-    "timestamp": 1787397102878
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-    "titleNorm": "karoline leavitt to work for trumpaffiliated super pac",
-    "type": "card",
-    "timestamp": 1787401036074
-  },
-  {
     "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
     "titleNorm": "trump doesnt have a plan on iran voters",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "womans alleged isis radicalization unfolded online before capitol",
     "type": "card",
     "timestamp": 1787440258800
+  },
+  {
+    "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
+    "titleNorm": "connecticut police officers shot suspect killed after attempted",
+    "type": "card",
+    "timestamp": 1787445528706
   }
 ]
