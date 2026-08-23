@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/philadelphia-chucky-style-mask-suspect-ties-los-angeles-area-police-warn",
-    "titleNorm": "philadelphia chuckystyle mask suspect has ties to los",
-    "type": "card",
-    "timestamp": 1787422480256
-  },
-  {
     "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
     "titleNorm": "jury awards teens 550k after oregon amusement park",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "charter plane crashes near remote radar site in",
     "type": "card",
     "timestamp": 1787462388368
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1787466105617
   }
 ]
