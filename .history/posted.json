@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
-    "titleNorm": "missing new york grandmother found dead near las",
-    "type": "reel",
-    "timestamp": 1787475457636
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/gop-lawmakers-ranchers-criticize-trump-tariff-beef-import-high-prices-rcna593879",
     "titleNorm": "gop lawmakers criticize trumps beef import plan amid",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "reel",
     "timestamp": 1787518121069
+  },
+  {
+    "url": "https://www.cbsnews.com/news/bunny-levine-gilmore-girls-la-la-land-dies/",
+    "titleNorm": "bunny levine gilmore girls and la la land",
+    "type": "card",
+    "timestamp": 1787519500489
   }
 ]
