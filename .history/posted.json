@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/cruise-ship-workers-arrested-boston-operation-tidal-wave/",
-    "titleNorm": "11 cruise workers arrested in boston over alleged",
-    "type": "reel",
-    "timestamp": 1787431734551
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833",
     "titleNorm": "missing new york city grandmother found dead near",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "college soccer player allegedly killed by boyfriend who",
     "type": "card",
     "timestamp": 1787473067148
+  },
+  {
+    "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
+    "titleNorm": "missing new york grandmother found dead near las",
+    "type": "reel",
+    "timestamp": 1787475457636
   }
 ]
