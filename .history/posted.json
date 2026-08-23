@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/one-year-after-iryna-zarutska-murder-violent-crimes-fuel-north-carolina-public-safety-debate",
-    "titleNorm": "one year after iryna zarutskas murder violent crimes",
-    "type": "card",
-    "timestamp": 1787469894803
-  },
-  {
     "url": "https://www.foxnews.com/us/college-soccer-player-allegedly-killed-boyfriend-blamed-demon-mom-accused-cover-up",
     "titleNorm": "college soccer player allegedly killed by boyfriend who",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "frustration mounts for thousands still without power after",
     "type": "card",
     "timestamp": 1787512536251
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
+    "titleNorm": "officials warn firefighters about the risks of using",
+    "type": "card",
+    "timestamp": 1787515837858
   }
 ]
