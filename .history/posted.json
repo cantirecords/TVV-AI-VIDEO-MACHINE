@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
-    "titleNorm": "longestserving us prisoner dies at 101 after escaping",
-    "type": "reel",
-    "timestamp": 1787469136940
-  },
-  {
     "url": "https://www.foxnews.com/us/one-year-after-iryna-zarutska-murder-violent-crimes-fuel-north-carolina-public-safety-debate",
     "titleNorm": "one year after iryna zarutskas murder violent crimes",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "karmelo anthony newtrial fight reveals messages about knives",
     "type": "reel",
     "timestamp": 1787511457999
+  },
+  {
+    "url": "https://www.cbsnews.com/news/deadly-indiana-storms-frustration-mounts-thousands-still-without-power/",
+    "titleNorm": "frustration mounts for thousands still without power after",
+    "type": "card",
+    "timestamp": 1787512536251
   }
 ]
