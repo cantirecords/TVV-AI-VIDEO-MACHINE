@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
-    "titleNorm": "charter plane carrying 8 crashes near remote radar",
-    "type": "card",
-    "timestamp": 1787451490882
-  },
-  {
     "url": "https://www.foxnews.com/us/fentanyl-deaths-plummet-white-house-points-trumps-sweeping-crackdown-more-top-headlines",
     "titleNorm": "fentanyl deaths plummet as white house points to",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
     "type": "card",
     "timestamp": 1787494411874
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
+    "titleNorm": "zelenskyy rejects wartime elections cites huge risk",
+    "type": "reel",
+    "timestamp": 1787496602314
   }
 ]
