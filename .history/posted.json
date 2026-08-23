@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/gop-lawmakers-ranchers-criticize-trump-tariff-beef-import-high-prices-rcna593879",
-    "titleNorm": "gop lawmakers criticize trumps beef import plan amid",
-    "type": "card",
-    "timestamp": 1787476662403
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-court-asked-block-kennedy-center-returning-trumps-135826908",
     "titleNorm": "federal court is asked to block kennedy center",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "bunny levine gilmore girls and la la land",
     "type": "card",
     "timestamp": 1787519500489
+  },
+  {
+    "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
+    "titleNorm": "american airlines flight lands safely after laptop battery",
+    "type": "card",
+    "timestamp": 1787523051927
   }
 ]
