@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "peru earthquake damages buildings and causes power cuts",
-    "type": "card",
-    "timestamp": 1787415082778
-  },
-  {
     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
     "titleNorm": "charter plane crashes near remote radar site in",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "investigators probe dramatic midair crash as landing plane",
     "type": "card",
     "timestamp": 1787456459624
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+    "titleNorm": "karoline leavitt to work for trumpaffiliated super pac",
+    "type": "card",
+    "timestamp": 1787459199690
   }
 ]
