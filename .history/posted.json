@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-    "titleNorm": "karoline leavitt to work for trumpaffiliated super pac",
-    "type": "card",
-    "timestamp": 1787459199690
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "connecticut police officers shot suspect killed after attempted",
     "type": "card",
     "timestamp": 1787501533215
+  },
+  {
+    "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-first-week-heated-testimony-reluctant-witnesses-old-gangland-ties",
+    "titleNorm": "tupac shakur murder trials first week had heated",
+    "type": "reel",
+    "timestamp": 1787503884672
   }
 ]
