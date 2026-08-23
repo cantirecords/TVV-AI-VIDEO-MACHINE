@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
-    "titleNorm": "jury awards teens 550k after oregon amusement park",
-    "type": "reel",
-    "timestamp": 1787425109766
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
     "titleNorm": "nancy kissinger wife of former secretary of state",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1787466105617
+  },
+  {
+    "url": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
+    "titleNorm": "longestserving us prisoner dies at 101 after escaping",
+    "type": "reel",
+    "timestamp": 1787469136940
   }
 ]
