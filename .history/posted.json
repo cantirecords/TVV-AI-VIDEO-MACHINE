@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-first-week-heated-testimony-reluctant-witnesses-old-gangland-ties",
-    "titleNorm": "tupac shakur murder trials first week sees heated",
-    "type": "reel",
-    "timestamp": 1787410063982
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/inside-trumps-remake-white-house-rose-garden-stone-135862013",
-    "titleNorm": "inside trumps remake of the white house rose",
-    "type": "card",
-    "timestamp": 1787411436799
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
     "titleNorm": "peru earthquake damages buildings and causes power cuts",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "card",
     "timestamp": 1787451490882
+  },
+  {
+    "url": "https://www.foxnews.com/us/fentanyl-deaths-plummet-white-house-points-trumps-sweeping-crackdown-more-top-headlines",
+    "titleNorm": "fentanyl deaths plummet as white house points to",
+    "type": "reel",
+    "timestamp": 1787455850304
   }
 ]
