@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
-    "titleNorm": "missing new york grandmother found dead near las",
-    "type": "card",
-    "timestamp": 1787418703889
-  },
-  {
     "url": "https://www.foxnews.com/us/philadelphia-chucky-style-mask-suspect-ties-los-angeles-area-police-warn",
     "titleNorm": "philadelphia chuckystyle mask suspect has ties to los",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1787461333270
+  },
+  {
+    "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
+    "titleNorm": "charter plane crashes near remote radar site in",
+    "type": "card",
+    "timestamp": 1787462388368
   }
 ]
