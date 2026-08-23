@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mugshot-accused-ny-capitol-isis-plotter-revealed-feds-detail-plans-more-attacks",
-    "titleNorm": "mugshot of accused ny capitol isis plotter revealed",
-    "type": "reel",
-    "timestamp": 1787451041126
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1787491472812
+  },
+  {
+    "url": "https://www.foxnews.com/us/laken-snelling-ex-university-kentucky-student-pleads-guilty-death-baby-found-dead-closet",
+    "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
+    "type": "card",
+    "timestamp": 1787494411874
   }
 ]
