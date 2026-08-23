@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1787461333270
-  },
-  {
     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
     "titleNorm": "charter plane crashes near remote radar site in",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "tupac shakur murder trials first week had heated",
     "type": "reel",
     "timestamp": 1787503884672
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+    "titleNorm": "fastgrowing hawk fire near reno nevada forces thousands",
+    "type": "card",
+    "timestamp": 1787505152642
   }
 ]
