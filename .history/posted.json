@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/philanthropist-nancy-kissinger-wife-former-secretary-state-henry-135845395",
-    "titleNorm": "nancy kissinger wife of former secretary of state",
-    "type": "card",
-    "timestamp": 1787426108816
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "longestserving us prisoner dies at 101 after escaping",
     "type": "reel",
     "timestamp": 1787469136940
+  },
+  {
+    "url": "https://www.foxnews.com/us/one-year-after-iryna-zarutska-murder-violent-crimes-fuel-north-carolina-public-safety-debate",
+    "titleNorm": "one year after iryna zarutskas murder violent crimes",
+    "type": "card",
+    "timestamp": 1787469894803
   }
 ]
