@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/select/shopping/how-to-prep-for-hurricane-rcna593780",
-    "titleNorm": "this is what you need and need to",
-    "type": "card",
-    "timestamp": 1787407880033
-  },
-  {
     "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-first-week-heated-testimony-reluctant-witnesses-old-gangland-ties",
     "titleNorm": "tupac shakur murder trials first week sees heated",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "mugshot of accused ny capitol isis plotter revealed",
     "type": "reel",
     "timestamp": 1787451041126
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
+    "titleNorm": "charter plane carrying 8 crashes near remote radar",
+    "type": "card",
+    "timestamp": 1787451490882
   }
 ]
