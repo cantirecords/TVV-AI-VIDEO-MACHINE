@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
-    "titleNorm": "charter plane carrying 8 crashes near remote radar",
-    "type": "reel",
-    "timestamp": 1787518121069
-  },
-  {
-    "url": "https://www.cbsnews.com/news/bunny-levine-gilmore-girls-la-la-land-dies/",
-    "titleNorm": "bunny levine gilmore girls and la la land",
-    "type": "card",
-    "timestamp": 1787519500489
-  },
-  {
     "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
     "titleNorm": "american airlines flight lands safely after laptop battery",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "minnesota tree trimmer charged in coworkers death after",
     "type": "card",
     "timestamp": 1787560527503
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/french-tourist-dies-death-valley-heat-rcna594043",
+    "titleNorm": "french tourist dies in death valley heat after",
+    "type": "reel",
+    "timestamp": 1787562849067
   }
 ]
