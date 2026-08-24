@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
-    "titleNorm": "uncontained brush fire in nevada triggered by human",
-    "type": "card",
-    "timestamp": 1787526658985
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
     "titleNorm": "sean grayson exdeputy convicted of fatally shooting sonya",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "american airlines flight lands safely after laptop battery",
     "type": "reel",
     "timestamp": 1787569400783
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949",
+    "titleNorm": "suspect found dead after 5 bodies discovered in",
+    "type": "card",
+    "timestamp": 1787570265665
   }
 ]
