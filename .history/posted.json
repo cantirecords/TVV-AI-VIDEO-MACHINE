@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/carmelo-anthony-fights-new-trial-lawyers-clash-unwritten-deal-shaped-case",
-    "titleNorm": "karmelo anthony newtrial fight reveals messages about knives",
-    "type": "reel",
-    "timestamp": 1787511457999
-  },
-  {
-    "url": "https://www.cbsnews.com/news/deadly-indiana-storms-frustration-mounts-thousands-still-without-power/",
-    "titleNorm": "frustration mounts for thousands still without power after",
-    "type": "card",
-    "timestamp": 1787512536251
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
     "titleNorm": "officials warn firefighters about the risks of using",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1787553307487
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fast-moving-wildfire-amid-shifting-winds-threatens-reno-135879987",
+    "titleNorm": "fastmoving wildfire amid shifting winds threatens reno nevada",
+    "type": "reel",
+    "timestamp": 1787557038576
   }
 ]
