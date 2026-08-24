@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
-    "titleNorm": "zelenskyy rejects wartime elections cites huge risk",
-    "type": "reel",
-    "timestamp": 1787496602314
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/army-shut-unit-europe-focused-learning-drone-warfare-135821683",
-    "titleNorm": "army will shut down a unit in europe",
-    "type": "card",
-    "timestamp": 1787497912030
-  },
-  {
     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
     "titleNorm": "connecticut police officers shot suspect killed after attempted",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "tropical storm moke advances toward hawaii as winds",
     "type": "card",
     "timestamp": 1787537822149
+  },
+  {
+    "url": "https://www.foxnews.com/us/video-shows-young-female-pilot-23-swimming-off-after-surviving-emergency-water-landing-florida",
+    "titleNorm": "video shows young female pilot 23 swimming off",
+    "type": "reel",
+    "timestamp": 1787542340830
   }
 ]
