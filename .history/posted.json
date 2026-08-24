@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
-    "titleNorm": "fastgrowing hawk fire near reno nevada forces thousands",
-    "type": "card",
-    "timestamp": 1787505152642
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/investigators-probe-dramatic-midair-crash-landing-plane-hits-135823224",
     "titleNorm": "investigators probe dramatic midair crash as landing plane",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "this is what you need and need to",
     "type": "reel",
     "timestamp": 1787548299438
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/hakeem-jeffries-jared-kushner-meet-nyc-democrats-trump-work-together-rcna594014",
+    "titleNorm": "hakeem jeffries and jared kushner meet in nyc",
+    "type": "card",
+    "timestamp": 1787549367747
   }
 ]
