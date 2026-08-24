@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-arrest-gunfire-california-high-school-football-game-1-dead",
-    "titleNorm": "police make arrest after gunfire during california high",
-    "type": "card",
-    "timestamp": 1787546096713
-  },
-  {
     "url": "https://www.nbcnews.com/select/shopping/how-to-prep-for-hurricane-rcna593780",
     "titleNorm": "this is what you need and need to",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "inside trumps remake of the white house rose",
     "type": "card",
     "timestamp": 1787588607507
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
+    "titleNorm": "chinas economy is off to a solid start",
+    "type": "reel",
+    "timestamp": 1787591145263
   }
 ]
