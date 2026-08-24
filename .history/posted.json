@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-    "titleNorm": "connecticut police officers shot suspect killed after attempted",
-    "type": "card",
-    "timestamp": 1787501533215
-  },
-  {
     "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-first-week-heated-testimony-reluctant-witnesses-old-gangland-ties",
     "titleNorm": "tupac shakur murder trials first week had heated",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "dozens of coordinated arson attacks hit southern thailand",
     "type": "card",
     "timestamp": 1787543038575
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-arrest-gunfire-california-high-school-football-game-1-dead",
+    "titleNorm": "police make arrest after gunfire during california high",
+    "type": "card",
+    "timestamp": 1787546096713
   }
 ]
