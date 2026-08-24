@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/one-year-after-iryna-zarutska-murder-violent-crimes-fuel-north-carolina-public-safety-debate",
-    "titleNorm": "one year after iryna zarutskas murder violent crimes",
-    "type": "card",
-    "timestamp": 1787564136811
-  },
-  {
     "url": "https://www.cbsnews.com/news/suspect-5-murders-found-dead-day-after-bodies-discovered-portland-oregon/",
     "titleNorm": "suspect in murders of 5 found dead day",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1787606332302
+  },
+  {
+    "url": "https://www.cbsnews.com/news/autism-trump-education-department-civil-rights/",
+    "titleNorm": "trump puts autistic kids in the spotlight and",
+    "type": "card",
+    "timestamp": 1787609770428
   }
 ]
