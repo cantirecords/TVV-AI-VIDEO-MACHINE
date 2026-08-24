@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/select/shopping/how-to-prep-for-hurricane-rcna593780",
-    "titleNorm": "this is what you need and need to",
-    "type": "reel",
-    "timestamp": 1787548299438
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/hakeem-jeffries-jared-kushner-meet-nyc-democrats-trump-work-together-rcna594014",
     "titleNorm": "hakeem jeffries and jared kushner meet in nyc",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1787591145263
+  },
+  {
+    "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
+    "titleNorm": "navy sailor on uss lincoln says dad was",
+    "type": "card",
+    "timestamp": 1787592120056
   }
 ]
