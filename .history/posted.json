@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/investigators-probe-dramatic-midair-crash-landing-plane-hits-135823224",
-    "titleNorm": "investigators probe dramatic midair crash as landing plane",
-    "type": "card",
-    "timestamp": 1787508830036
-  },
-  {
     "url": "https://www.foxnews.com/us/carmelo-anthony-fights-new-trial-lawyers-clash-unwritten-deal-shaped-case",
     "titleNorm": "karmelo anthony newtrial fight reveals messages about knives",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "hakeem jeffries and jared kushner meet in nyc",
     "type": "card",
     "timestamp": 1787549367747
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1787553307487
   }
 ]
