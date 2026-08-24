@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
-    "titleNorm": "minnesota tree trimmer charged in coworkers death after",
-    "type": "card",
-    "timestamp": 1787560527503
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/french-tourist-dies-death-valley-heat-rcna594043",
     "titleNorm": "french tourist dies in death valley heat after",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump hits back at carney threatens to hike",
     "type": "card",
     "timestamp": 1787602682615
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/waiting-son-return-uss-lincoln-border-patrol-arrested-135888086",
+    "titleNorm": "he was waiting for his son to return",
+    "type": "reel",
+    "timestamp": 1787605128009
   }
 ]
