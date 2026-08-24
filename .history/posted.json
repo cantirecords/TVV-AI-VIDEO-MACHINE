@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/suspect-5-murders-found-dead-day-after-bodies-discovered-portland-oregon/",
-    "titleNorm": "suspect in murders of 5 found dead day",
-    "type": "card",
-    "timestamp": 1787567304786
-  },
-  {
     "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
     "titleNorm": "american airlines flight lands safely after laptop battery",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "trump puts autistic kids in the spotlight and",
     "type": "card",
     "timestamp": 1787609770428
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/firefighters-stop-fast-moving-nevada-wildfire-spreading-homes-135906420",
+    "titleNorm": "firefighters are trying to stop a fastmoving nevada",
+    "type": "reel",
+    "timestamp": 1787612007571
   }
 ]
