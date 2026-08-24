@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/video-shows-young-female-pilot-23-swimming-off-after-surviving-emergency-water-landing-florida",
-    "titleNorm": "video shows young female pilot 23 swimming off",
-    "type": "reel",
-    "timestamp": 1787542340830
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "dozens of coordinated arson attacks hit southern thailand",
-    "type": "card",
-    "timestamp": 1787543038575
-  },
-  {
     "url": "https://www.foxnews.com/us/police-arrest-gunfire-california-high-school-football-game-1-dead",
     "titleNorm": "police make arrest after gunfire during california high",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "tropical storm moke set to dump more heavy",
     "type": "card",
     "timestamp": 1787585306536
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/inside-trumps-remake-white-house-rose-garden-stone-135862013",
+    "titleNorm": "inside trumps remake of the white house rose",
+    "type": "card",
+    "timestamp": 1787588607507
   }
 ]
