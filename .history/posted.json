@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/laken-snelling-ex-university-kentucky-student-pleads-guilty-death-baby-found-dead-closet",
-    "titleNorm": "laken snelling exuniversity of kentucky student pleads guilty",
-    "type": "card",
-    "timestamp": 1787494411874
-  },
-  {
     "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
     "titleNorm": "zelenskyy rejects wartime elections cites huge risk",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "two us army corps of engineers employees among",
     "type": "reel",
     "timestamp": 1787537257973
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
+    "titleNorm": "tropical storm moke advances toward hawaii as winds",
+    "type": "card",
+    "timestamp": 1787537822149
   }
 ]
