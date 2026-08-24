@@ -106,5 +106,11 @@
     "titleNorm": "2 phoenix police officers fired arrested after violent",
     "type": "reel",
     "timestamp": 1787578275255
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/court-slashes-50m-judgment-infowars-alex-jones-falsely-135839937",
+    "titleNorm": "court cuts 50m judgment against alex jones over",
+    "type": "card",
+    "timestamp": 1787578925479
   }
 ]
