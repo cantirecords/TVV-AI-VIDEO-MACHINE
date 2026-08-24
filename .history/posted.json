@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-us-army-corps-engineers-employees-among-8-killed-alaska-charter-plane-crash",
-    "titleNorm": "two us army corps of engineers employees among",
-    "type": "reel",
-    "timestamp": 1787537257973
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
-    "titleNorm": "tropical storm moke advances toward hawaii as winds",
-    "type": "card",
-    "timestamp": 1787537822149
-  },
-  {
     "url": "https://www.foxnews.com/us/video-shows-young-female-pilot-23-swimming-off-after-surviving-emergency-water-landing-florida",
     "titleNorm": "video shows young female pilot 23 swimming off",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "court cuts 50m judgment against alex jones over",
     "type": "card",
     "timestamp": 1787578925479
+  },
+  {
+    "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
+    "titleNorm": "connecticut police officers shot suspect killed after attempted",
+    "type": "card",
+    "timestamp": 1787581890965
   }
 ]
