@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
-    "titleNorm": "american airlines flight lands safely after laptop battery",
-    "type": "card",
-    "timestamp": 1787523051927
-  },
-  {
     "url": "https://www.foxnews.com/us/bear-crashes-couples-anniversary-getaway-rummages-tennessee-tea-shop-jumping-counter",
     "titleNorm": "bear crashes couples anniversary getaway rummages through tennessee",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "one year after iryna zarutskas murder violent crimes",
     "type": "card",
     "timestamp": 1787564136811
+  },
+  {
+    "url": "https://www.cbsnews.com/news/suspect-5-murders-found-dead-day-after-bodies-discovered-portland-oregon/",
+    "titleNorm": "suspect in murders of 5 found dead day",
+    "type": "card",
+    "timestamp": 1787567304786
   }
 ]
