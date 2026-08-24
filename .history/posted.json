@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fast-moving-wildfire-amid-shifting-winds-threatens-reno-135879987",
-    "titleNorm": "fastmoving wildfire amid shifting winds threatens reno nevada",
-    "type": "reel",
-    "timestamp": 1787557038576
-  },
-  {
-    "url": "https://www.foxnews.com/us/missing-new-york-grandmother-found-dead-las-vegas-airport-mysterious-bitcoin-texts",
-    "titleNorm": "missing new york grandmother found dead near las",
-    "type": "card",
-    "timestamp": 1787557823368
-  },
-  {
     "url": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
     "titleNorm": "minnesota tree trimmer charged in coworkers death after",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "missouri assistant fire chief charged with murder after",
     "type": "card",
     "timestamp": 1787599314418
+  },
+  {
+    "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-autos-metals-rcna594108",
+    "titleNorm": "trump hits back at carney threatens to hike",
+    "type": "card",
+    "timestamp": 1787602682615
   }
 ]
