@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
-    "titleNorm": "officials warn firefighters about the risks of using",
-    "type": "card",
-    "timestamp": 1787515837858
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/charter-plane-carrying-8-crashes-remote-radar-site-135827465",
     "titleNorm": "charter plane carrying 8 crashes near remote radar",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "missing new york grandmother found dead near las",
     "type": "card",
     "timestamp": 1787557823368
+  },
+  {
+    "url": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
+    "titleNorm": "minnesota tree trimmer charged in coworkers death after",
+    "type": "card",
+    "timestamp": 1787560527503
   }
 ]
