@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
-    "titleNorm": "sean grayson exdeputy convicted of fatally shooting sonya",
-    "type": "card",
-    "timestamp": 1787531831274
-  },
-  {
     "url": "https://www.foxnews.com/us/two-us-army-corps-engineers-employees-among-8-killed-alaska-charter-plane-crash",
     "titleNorm": "two us army corps of engineers employees among",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "china probes use of formaldehyde to keep cabbages",
     "type": "card",
     "timestamp": 1787574291315
+  },
+  {
+    "url": "https://www.cbsnews.com/news/2-phoenix-police-officers-fired-arrested-after-violent-unreported-traffic-stop/",
+    "titleNorm": "2 phoenix police officers fired arrested after violent",
+    "type": "reel",
+    "timestamp": 1787578275255
   }
 ]
