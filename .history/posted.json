@@ -94,5 +94,11 @@
     "titleNorm": "tropical storm moke advances toward hawaii as winds",
     "type": "reel",
     "timestamp": 1787642775970
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
+    "titleNorm": "trump announces 50 tariffs on canadian automotive and",
+    "type": "card",
+    "timestamp": 1787643331400
   }
 ]
