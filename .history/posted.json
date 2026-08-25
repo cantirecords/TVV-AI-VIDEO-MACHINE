@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1787606332302
-  },
-  {
     "url": "https://www.cbsnews.com/news/autism-trump-education-department-civil-rights/",
     "titleNorm": "trump puts autistic kids in the spotlight and",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "exdeputy sean grayson dies serving 20year prison term",
     "type": "reel",
     "timestamp": 1787648992404
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/trump-supporters-arent-sold-darline-graham-politics-desk-rcna594199",
+    "titleNorm": "why some trump supporters arent sold on darline",
+    "type": "card",
+    "timestamp": 1787649844173
   }
 ]
