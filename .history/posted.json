@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
-    "titleNorm": "tropical storm moke advances toward hawaii as winds",
-    "type": "reel",
-    "timestamp": 1787598693490
-  },
-  {
-    "url": "https://www.foxnews.com/us/missouri-assistant-fire-chief-charged-murder-hidden-video-found-wifes-phone-investigators-say",
-    "titleNorm": "missouri assistant fire chief charged with murder after",
-    "type": "card",
-    "timestamp": 1787599314418
-  },
-  {
     "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-autos-metals-rcna594108",
     "titleNorm": "trump hits back at carney threatens to hike",
     "type": "card",
@@ -100,5 +88,11 @@
     "titleNorm": "tropical storm moke set to dump more heavy",
     "type": "card",
     "timestamp": 1787639140444
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
+    "titleNorm": "tropical storm moke advances toward hawaii as winds",
+    "type": "reel",
+    "timestamp": 1787642775970
   }
 ]
