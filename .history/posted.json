@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-    "titleNorm": "connecticut police officers shot suspect killed after attempted",
-    "type": "card",
-    "timestamp": 1787581890965
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "russias secondbiggest online retailer targeted in ukrainian strikes",
-    "type": "reel",
-    "timestamp": 1787584247026
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-set-dump-heavy-rain-hurricane-135884430",
     "titleNorm": "tropical storm moke set to dump more heavy",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "judge postpones us trial for man accused in",
     "type": "card",
     "timestamp": 1787623931562
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/phoenix-police-officers-arrested-fired-after-violent-unreported-135889059",
+    "titleNorm": "two phoenix police officers arrested and fired after",
+    "type": "reel",
+    "timestamp": 1787628458108
   }
 ]
