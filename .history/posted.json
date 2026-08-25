@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
-    "titleNorm": "college grad reportedly dies in six flags roller",
-    "type": "reel",
-    "timestamp": 1787623270550
-  },
-  {
-    "url": "https://www.cbsnews.com/news/lockerbie-bombing-suspect-us-trial-postponed-new-evidence/",
-    "titleNorm": "judge postpones us trial for man accused in",
-    "type": "card",
-    "timestamp": 1787623931562
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/phoenix-police-officers-arrested-fired-after-violent-unreported-135889059",
     "titleNorm": "two phoenix police officers arrested and fired after",
     "type": "reel",
@@ -112,5 +100,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1787665211987
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
+    "titleNorm": "officials warn firefighters about the risks of using",
+    "type": "card",
+    "timestamp": 1787668488588
   }
 ]
