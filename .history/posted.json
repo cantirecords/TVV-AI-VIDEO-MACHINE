@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/waiting-son-return-uss-lincoln-border-patrol-arrested-135888086",
-    "titleNorm": "he was waiting for his son to return",
-    "type": "reel",
-    "timestamp": 1787605128009
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "why trump039s canada tariffs are likely to have",
     "type": "card",
     "timestamp": 1787646554120
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-deputy-sean-grayson-dies-serving-20-year-prison-term-sonya-massey-killing-medical-release-denied",
+    "titleNorm": "exdeputy sean grayson dies serving 20year prison term",
+    "type": "reel",
+    "timestamp": 1787648992404
   }
 ]
