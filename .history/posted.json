@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/firefighters-stop-fast-moving-nevada-wildfire-spreading-homes-135906420",
-    "titleNorm": "firefighters are trying to stop a fastmoving nevada",
-    "type": "reel",
-    "timestamp": 1787612007571
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
     "titleNorm": "supreme court hands preliminary win to trump on",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "north carolina doctor accused of shooting 2 sisters",
     "type": "card",
     "timestamp": 1787653279332
+  },
+  {
+    "url": "https://www.foxnews.com/us/oklahoma-based-southwest-airlines-flight-attendant-found-dead-hawaii-police-investigating",
+    "titleNorm": "oklahomabased southwest airlines flight attendant found dead in",
+    "type": "reel",
+    "timestamp": 1787655634706
   }
 ]
