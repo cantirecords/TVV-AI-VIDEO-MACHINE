@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
-    "titleNorm": "officials warn firefighters about the risks of using",
-    "type": "card",
-    "timestamp": 1787618207256
-  },
-  {
     "url": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
     "titleNorm": "college grad reportedly dies in six flags roller",
     "type": "reel",
@@ -106,5 +100,11 @@
     "titleNorm": "he was waiting for his son to return",
     "type": "card",
     "timestamp": 1787660710680
+  },
+  {
+    "url": "https://www.nbcnews.com/world/china/send-questions-ai-robotics-janis-mackey-frayer-rcna593744",
+    "titleNorm": "send in your questions on china ai and",
+    "type": "reel",
+    "timestamp": 1787664560789
   }
 ]
