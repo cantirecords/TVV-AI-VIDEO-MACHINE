@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/trump-supporters-arent-sold-darline-graham-politics-desk-rcna594199",
-    "titleNorm": "why some trump supporters arent sold on darline",
-    "type": "card",
-    "timestamp": 1787649844173
-  },
-  {
     "url": "https://www.foxnews.com/us/north-carolina-doctor-accused-shooting-2-sisters-alleged-interstate-road-rage-attack",
     "titleNorm": "north carolina doctor accused of shooting 2 sisters",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "mamdani launches fasttrack housingcourt push says landlords unable",
     "type": "card",
     "timestamp": 1787692654189
+  },
+  {
+    "url": "https://www.foxnews.com/us/atlanta-beltline-trail-stabbing-suspect-charged-murder-30-prior-arrests-probation-police",
+    "titleNorm": "atlanta beltline trail stabbing suspect charged with murder",
+    "type": "card",
+    "timestamp": 1787696100357
   }
 ]
