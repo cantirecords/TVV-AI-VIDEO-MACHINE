@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
-    "titleNorm": "tropical storm moke advances toward hawaii as winds",
-    "type": "reel",
-    "timestamp": 1787642775970
-  },
-  {
-    "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
-    "titleNorm": "trump announces 50 tariffs on canadian automotive and",
-    "type": "card",
-    "timestamp": 1787643331400
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-canada-tariffs-goods-us-price-impact/",
     "titleNorm": "why trump039s canada tariffs are likely to have",
     "type": "card",
@@ -118,5 +106,11 @@
     "titleNorm": "trump administration says it might demolish the kennedy",
     "type": "card",
     "timestamp": 1787685766204
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ice-arrests-jumped-50000-july-highest-monthly-total-135941401",
+    "titleNorm": "ice arrests jumped to nearly 50000 in july",
+    "type": "card",
+    "timestamp": 1787689011736
   }
 ]
