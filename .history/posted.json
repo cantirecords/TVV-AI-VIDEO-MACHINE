@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-set-dump-heavy-rain-hurricane-135884430",
-    "titleNorm": "tropical storm moke set to dump more heavy",
-    "type": "card",
-    "timestamp": 1787639140444
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
     "titleNorm": "tropical storm moke advances toward hawaii as winds",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "washington post ordered to reinstate black writer fired",
     "type": "card",
     "timestamp": 1787682165434
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/el-sayed-jesse-watters-fox-news-interview-michigan-senate-2026-rcna594300",
+    "titleNorm": "abdul elsayed pushes back in fox news interview",
+    "type": "reel",
+    "timestamp": 1787684996471
   }
 ]
