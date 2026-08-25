@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/manhunt-massachusetts-woman-ends-grim-discovery-week-after-police-officer-husband-found-dead-home",
-    "titleNorm": "manhunt for massachusetts woman ends with grim discovery",
-    "type": "card",
-    "timestamp": 1787632121357
-  },
-  {
-    "url": "https://www.cbsnews.com/news/supreme-court-trump-mail-voting-order-usps-dhs/",
-    "titleNorm": "supreme court allows trump to implement parts of",
-    "type": "reel",
-    "timestamp": 1787634287870
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/backcountry-guide-company-faces-150k-fines-after-californias-135851244",
     "titleNorm": "backcountry guide company faces 150k in fines after",
     "type": "card",
@@ -112,5 +100,11 @@
     "titleNorm": "brain disease in dead nfl players higher than",
     "type": "card",
     "timestamp": 1787675014409
+  },
+  {
+    "url": "https://www.nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280",
+    "titleNorm": "canada retaliates against trump tariffs by raising steel",
+    "type": "reel",
+    "timestamp": 1787677563384
   }
 ]
