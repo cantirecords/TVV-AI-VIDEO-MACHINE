@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/autism-trump-education-department-civil-rights/",
-    "titleNorm": "trump puts autistic kids in the spotlight and",
-    "type": "card",
-    "timestamp": 1787609770428
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/firefighters-stop-fast-moving-nevada-wildfire-spreading-homes-135906420",
     "titleNorm": "firefighters are trying to stop a fastmoving nevada",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "why some trump supporters arent sold on darline",
     "type": "card",
     "timestamp": 1787649844173
+  },
+  {
+    "url": "https://www.foxnews.com/us/north-carolina-doctor-accused-shooting-2-sisters-alleged-interstate-road-rage-attack",
+    "titleNorm": "north carolina doctor accused of shooting 2 sisters",
+    "type": "card",
+    "timestamp": 1787653279332
   }
 ]
