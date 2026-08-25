@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bear-crashes-couples-anniversary-getaway-rummages-tennessee-tea-shop-jumping-counter",
-    "titleNorm": "bear crashes couples anniversary getaway rummages through tennessee",
-    "type": "card",
-    "timestamp": 1787595807913
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-advances-hawaii-winds-strengthen-135869683",
     "titleNorm": "tropical storm moke advances toward hawaii as winds",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "backcountry guide company faces 150k in fines after",
     "type": "card",
     "timestamp": 1787635380583
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-set-dump-heavy-rain-hurricane-135884430",
+    "titleNorm": "tropical storm moke set to dump more heavy",
+    "type": "card",
+    "timestamp": 1787639140444
   }
 ]
