@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/tropical-storm-moke-set-dump-heavy-rain-hurricane-135884430",
-    "titleNorm": "tropical storm moke set to dump more heavy",
-    "type": "card",
-    "timestamp": 1787585306536
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/inside-trumps-remake-white-house-rose-garden-stone-135862013",
     "titleNorm": "inside trumps remake of the white house rose",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "two phoenix police officers arrested and fired after",
     "type": "reel",
     "timestamp": 1787628458108
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-rules-paint-tests-eisenhower-building-proceed-advancing-135742725",
+    "titleNorm": "judge rules paint tests on eisenhower building can",
+    "type": "card",
+    "timestamp": 1787629158912
   }
 ]
