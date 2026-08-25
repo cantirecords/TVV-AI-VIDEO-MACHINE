@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/2-phoenix-police-officers-fired-arrested-after-violent-unreported-traffic-stop/",
-    "titleNorm": "2 phoenix police officers fired arrested after violent",
-    "type": "reel",
-    "timestamp": 1787578275255
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/court-slashes-50m-judgment-infowars-alex-jones-falsely-135839937",
-    "titleNorm": "court cuts 50m judgment against alex jones over",
-    "type": "card",
-    "timestamp": 1787578925479
-  },
-  {
     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
     "titleNorm": "connecticut police officers shot suspect killed after attempted",
     "type": "card",
@@ -106,5 +94,11 @@
     "titleNorm": "officials warn firefighters about the risks of using",
     "type": "card",
     "timestamp": 1787618207256
+  },
+  {
+    "url": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
+    "titleNorm": "college grad reportedly dies in six flags roller",
+    "type": "reel",
+    "timestamp": 1787623270550
   }
 ]
