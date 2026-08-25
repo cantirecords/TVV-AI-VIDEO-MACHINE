@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/north-carolina-doctor-accused-shooting-2-sisters-alleged-interstate-road-rage-attack",
-    "titleNorm": "north carolina doctor accused of shooting 2 sisters",
-    "type": "card",
-    "timestamp": 1787653279332
-  },
-  {
     "url": "https://www.foxnews.com/us/oklahoma-based-southwest-airlines-flight-attendant-found-dead-hawaii-police-investigating",
     "titleNorm": "oklahomabased southwest airlines flight attendant found dead in",
     "type": "reel",
@@ -112,5 +106,11 @@
     "titleNorm": "atlanta beltline trail stabbing suspect charged with murder",
     "type": "card",
     "timestamp": 1787696100357
+  },
+  {
+    "url": "https://www.nbcnews.com/weather/wildfires/some-residents-return-hawk-fire-reno-area-rcna594426",
+    "titleNorm": "some allowed to return after hawk fire destroys",
+    "type": "reel",
+    "timestamp": 1787698429074
   }
 ]
