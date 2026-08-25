@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-hands-preliminary-win-trump-mail-ballots-executive-order-rcna590120",
-    "titleNorm": "supreme court hands preliminary win to trump on",
-    "type": "card",
-    "timestamp": 1787613262171
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
     "titleNorm": "officials warn firefighters about the risks of using",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "oklahomabased southwest airlines flight attendant found dead in",
     "type": "reel",
     "timestamp": 1787655634706
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/multiple-dead-children-billings-montana-shooting-fire-rcna594239",
+    "titleNorm": "multiple dead including children in montana shooting and",
+    "type": "card",
+    "timestamp": 1787656612349
   }
 ]
