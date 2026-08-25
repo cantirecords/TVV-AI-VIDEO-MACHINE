@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/phoenix-police-officers-arrested-fired-after-violent-unreported-135889059",
-    "titleNorm": "two phoenix police officers arrested and fired after",
-    "type": "reel",
-    "timestamp": 1787628458108
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/judge-rules-paint-tests-eisenhower-building-proceed-advancing-135742725",
     "titleNorm": "judge rules paint tests on eisenhower building can",
     "type": "card",
@@ -112,5 +106,11 @@
     "titleNorm": "arizona police shooting suspect arrested another remains at",
     "type": "reel",
     "timestamp": 1787670898660
+  },
+  {
+    "url": "https://www.foxnews.com/us/missouri-assistant-fire-chief-charged-murder-hidden-video-found-wifes-phone-investigators-say",
+    "titleNorm": "missouri assistant fire chief charged with murder after",
+    "type": "card",
+    "timestamp": 1787672025403
   }
 ]
