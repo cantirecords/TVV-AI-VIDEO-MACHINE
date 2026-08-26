@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949",
-    "titleNorm": "suspect found dead after 5 bodies discovered in",
-    "type": "card",
-    "timestamp": 1787725712231
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583",
     "titleNorm": "trumpbacked mike mazzei wins the gop nomination in",
     "type": "reel",
@@ -94,5 +88,11 @@
     "titleNorm": "california man arrested after guillotine spotted in back",
     "type": "reel",
     "timestamp": 1787768009057
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/unusual-dragonfly-swarms-sweep-california-after-warm-spring-135925333",
+    "titleNorm": "unusual dragonfly swarms sweep across california after warm",
+    "type": "card",
+    "timestamp": 1787770145938
   }
 ]
