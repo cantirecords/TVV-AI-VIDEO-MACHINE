@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583",
-    "titleNorm": "trumpbacked mike mazzei wins the gop nomination in",
-    "type": "reel",
-    "timestamp": 1787729227220
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/officials-warn-wildland-firefighters-risks-supplement-smoke-exposure-135878690",
-    "titleNorm": "officials warn firefighters about the risks of using",
-    "type": "card",
-    "timestamp": 1787729818974
-  },
-  {
     "url": "https://www.foxnews.com/us/journalist-goes-viral-grinning-winking-camera-during-lindsay-clancy-courtroom-proceedings",
     "titleNorm": "journalist goes viral for grinning winking on camera",
     "type": "card",
@@ -94,5 +82,11 @@
     "titleNorm": "unusual dragonfly swarms sweep across california after warm",
     "type": "card",
     "timestamp": 1787770145938
+  },
+  {
+    "url": "https://www.foxnews.com/us/suspect-microsoft-executive-jared-bridegan-murder-convicted-roadside-ambush",
+    "titleNorm": "suspect in microsoft executive jared bridegans murder convicted",
+    "type": "reel",
+    "timestamp": 1787776025824
   }
 ]
