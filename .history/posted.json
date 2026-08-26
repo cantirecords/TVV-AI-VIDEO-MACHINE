@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1787691332131
-  },
-  {
     "url": "https://www.foxnews.com/us/mamdani-launches-fast-track-housing-court-push-says-landlords-unable-comply-should-not-be-landlord",
     "titleNorm": "mamdani launches fasttrack housingcourt push says landlords unable",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "journalist goes viral for grinning winking on camera",
     "type": "card",
     "timestamp": 1787733021906
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ice-agent-charged-shooting-minnesota-released-texas-jail-135959965",
+    "titleNorm": "ice agent charged with shooting in minnesota could",
+    "type": "reel",
+    "timestamp": 1787735557005
   }
 ]
