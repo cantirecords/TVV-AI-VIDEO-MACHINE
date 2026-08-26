@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/weather/wildfires/some-residents-return-hawk-fire-reno-area-rcna594426",
-    "titleNorm": "some allowed to return after hawk fire destroys",
-    "type": "reel",
-    "timestamp": 1787698429074
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/unusual-dragonfly-swarms-sweep-california-after-warm-spring-135925333",
     "titleNorm": "unusual dragonfly swarms sweep across california after warm",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "california couple and their surrogate testify in texas",
     "type": "card",
     "timestamp": 1787739826602
+  },
+  {
+    "url": "https://www.foxnews.com/us/mamdani-launches-fast-track-housing-court-push-says-landlords-unable-comply-should-not-be-landlord",
+    "titleNorm": "mamdani launches fasttrack housingcourt push says landlords unable",
+    "type": "reel",
+    "timestamp": 1787742165777
   }
 ]
