@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/missouri-assistant-fire-chief-charged-murder-hidden-video-found-wifes-phone-investigators-say",
-    "titleNorm": "missouri assistant fire chief charged with murder after",
-    "type": "card",
-    "timestamp": 1787672025403
-  },
-  {
     "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "brain disease in dead nfl players higher than",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "prominent sikh separatist says fbi has warned him",
     "type": "reel",
     "timestamp": 1787715218030
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/montana-man-killed-8-relatives-including-4-kids-135951915",
+    "titleNorm": "a montana man killed 8 relatives including 4",
+    "type": "card",
+    "timestamp": 1787715849946
   }
 ]
