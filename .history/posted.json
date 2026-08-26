@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mamdani-launches-fast-track-housing-court-push-says-landlords-unable-comply-should-not-be-landlord",
-    "titleNorm": "mamdani launches fasttrack housingcourt push says landlords unable",
-    "type": "card",
-    "timestamp": 1787692654189
-  },
-  {
     "url": "https://www.foxnews.com/us/atlanta-beltline-trail-stabbing-suspect-charged-murder-30-prior-arrests-probation-police",
     "titleNorm": "atlanta beltline trail stabbing suspect charged with murder",
     "type": "card",
@@ -100,5 +94,11 @@
     "titleNorm": "ice agent charged with shooting in minnesota could",
     "type": "reel",
     "timestamp": 1787735557005
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/firefighters-stop-fast-moving-nevada-wildfire-spreading-homes-135906420",
+    "titleNorm": "firefighters make progress against a nevada wildfire thats",
+    "type": "card",
+    "timestamp": 1787736606333
   }
 ]
