@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/atlanta-beltline-trail-stabbing-suspect-charged-murder-30-prior-arrests-probation-police",
-    "titleNorm": "atlanta beltline trail stabbing suspect charged with murder",
-    "type": "card",
-    "timestamp": 1787696100357
-  },
-  {
     "url": "https://www.nbcnews.com/weather/wildfires/some-residents-return-hawk-fire-reno-area-rcna594426",
     "titleNorm": "some allowed to return after hawk fire destroys",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "firefighters make progress against a nevada wildfire thats",
     "type": "card",
     "timestamp": 1787736606333
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/california-couple-surrogate-testify-texas-court-dispute-newborn-135952883",
+    "titleNorm": "california couple and their surrogate testify in texas",
+    "type": "card",
+    "timestamp": 1787739826602
   }
 ]
