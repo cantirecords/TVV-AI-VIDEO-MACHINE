@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "brain disease in dead nfl players higher than",
-    "type": "card",
-    "timestamp": 1787675014409
-  },
-  {
     "url": "https://www.nbcnews.com/business/consumer/canada-retaliates-against-trump-tariffs-rcna594280",
     "titleNorm": "canada retaliates against trump tariffs by raising steel",
     "type": "reel",
@@ -100,5 +94,11 @@
     "titleNorm": "a montana man killed 8 relatives including 4",
     "type": "card",
     "timestamp": 1787715849946
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "half my business will be gone firms in",
+    "type": "card",
+    "timestamp": 1787718575960
   }
 ]
