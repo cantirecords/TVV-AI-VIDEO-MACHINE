@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/california-couple-surrogate-testify-texas-court-dispute-newborn-135952883",
-    "titleNorm": "california couple and their surrogate testify in texas",
-    "type": "reel",
-    "timestamp": 1787788550803
-  },
-  {
     "url": "https://www.foxnews.com/us/vanity-fair-drops-journalist-brittany-romano-viral-wink-lindsay-clancy-murder-trial",
     "titleNorm": "vanity fair drops journalist brittany romano after viral",
     "type": "card",
@@ -16,5 +10,11 @@
     "titleNorm": "trump039s oil and gas stock trades continued during",
     "type": "reel",
     "timestamp": 1787825227962
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "key moments in trial of mother accused of",
+    "type": "card",
+    "timestamp": 1787836655436
   }
 ]
