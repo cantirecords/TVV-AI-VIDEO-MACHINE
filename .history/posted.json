@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/vanity-fair-drops-journalist-brittany-romano-viral-wink-lindsay-clancy-murder-trial",
-    "titleNorm": "vanity fair drops journalist brittany romano after viral",
-    "type": "card",
-    "timestamp": 1787797415737
-  },
-  {
     "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
     "titleNorm": "trump039s oil and gas stock trades continued during",
     "type": "reel",
@@ -16,5 +10,11 @@
     "titleNorm": "key moments in trial of mother accused of",
     "type": "card",
     "timestamp": 1787836655436
+  },
+  {
+    "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-verdict-outcomes/",
+    "titleNorm": "where will lindsay clancy end up after her",
+    "type": "reel",
+    "timestamp": 1787863262232
   }
 ]
