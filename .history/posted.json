@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1787754848534
-  },
-  {
-    "url": "https://www.foxnews.com/us/anna-kepner-stepbrother-blames-unfortunate-family-dynamic-push-murder-trial-plea-deadline-looms",
-    "titleNorm": "anna kepners stepbrother blames very unfortunate family dynamic",
-    "type": "reel",
-    "timestamp": 1787760013810
-  },
-  {
-    "url": "https://www.foxnews.com/us/four-teens-kill-couple-head-on-crash-stealing-g-wagon-leading-cops-hours-long-chase-police",
-    "titleNorm": "four teens kill couple in headon crash after",
-    "type": "card",
-    "timestamp": 1787760559655
-  },
-  {
-    "url": "https://www.foxnews.com/us/california-man-arrested-guillotine-back-pickup-truck-across-from-us-capitol",
-    "titleNorm": "california man arrested after guillotine spotted in back",
-    "type": "reel",
-    "timestamp": 1787768009057
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/unusual-dragonfly-swarms-sweep-california-after-warm-spring-135925333",
-    "titleNorm": "unusual dragonfly swarms sweep across california after warm",
-    "type": "card",
-    "timestamp": 1787770145938
-  },
-  {
-    "url": "https://www.foxnews.com/us/suspect-microsoft-executive-jared-bridegan-murder-convicted-roadside-ambush",
-    "titleNorm": "suspect in microsoft executive jared bridegans murder convicted",
-    "type": "reel",
-    "timestamp": 1787776025824
-  },
-  {
-    "url": "https://www.foxnews.com/us/montana-man-killed-4-children-4-family-members-sunday-dinner-asked-move-out-relative",
-    "titleNorm": "montana man who killed 4 children 4 other",
-    "type": "card",
-    "timestamp": 1787779617273
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/california-couple-surrogate-testify-texas-court-dispute-newborn-135952883",
     "titleNorm": "california couple and their surrogate testify in texas",
     "type": "reel",
@@ -52,5 +10,11 @@
     "titleNorm": "vanity fair drops journalist brittany romano after viral",
     "type": "card",
     "timestamp": 1787797415737
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
+    "titleNorm": "trump039s oil and gas stock trades continued during",
+    "type": "reel",
+    "timestamp": 1787825227962
   }
 ]
