@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trumps-oil-gas-stock-trades-iran-war/",
-    "titleNorm": "trump039s oil and gas stock trades continued during",
-    "type": "reel",
-    "timestamp": 1787825227962
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
     "titleNorm": "key moments in trial of mother accused of",
     "type": "card",
@@ -16,5 +10,11 @@
     "titleNorm": "where will lindsay clancy end up after her",
     "type": "reel",
     "timestamp": 1787863262232
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ice-agent-christian-castro-minneapolis-shooting-released-texas-jail/",
+    "titleNorm": "ice officer charged in minneapolis shooting released from",
+    "type": "card",
+    "timestamp": 1787872838194
   }
 ]
