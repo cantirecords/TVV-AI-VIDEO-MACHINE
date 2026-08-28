@@ -1,26 +1,14 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-verdict-outcomes/",
-    "titleNorm": "where will lindsay clancy end up after her",
-    "type": "reel",
-    "timestamp": 1787863262232
-  },
-  {
-    "url": "https://www.cbsnews.com/news/ice-agent-christian-castro-minneapolis-shooting-released-texas-jail/",
-    "titleNorm": "ice officer charged in minneapolis shooting released from",
-    "type": "card",
-    "timestamp": 1787872838194
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1787897722342
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-wildfires-burn-californias-scenic-big-sur-coast-136019594",
     "titleNorm": "2 wildfires burn along californias scenic big sur",
     "type": "card",
     "timestamp": 1787903043903
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/controllers-warned-marine-pilots-communication-issues-week-dual-136010948",
+    "titleNorm": "controllers warned marine one pilots about communication issues",
+    "type": "reel",
+    "timestamp": 1787943346884
   }
 ]
