@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "key moments in trial of mother accused of",
-    "type": "card",
-    "timestamp": 1787836655436
-  },
-  {
     "url": "https://www.cbsnews.com/news/lindsay-clancy-murder-trial-verdict-outcomes/",
     "titleNorm": "where will lindsay clancy end up after her",
     "type": "reel",
@@ -16,5 +10,11 @@
     "titleNorm": "ice officer charged in minneapolis shooting released from",
     "type": "card",
     "timestamp": 1787872838194
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1787897722342
   }
 ]
