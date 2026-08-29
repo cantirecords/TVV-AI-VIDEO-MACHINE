@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/pair-allegedly-looted-florida-home-victims-killed-kenya-crash-woman-locked-immigration-hold",
-    "titleNorm": "cuban national in us illegally man accused of",
-    "type": "reel",
-    "timestamp": 1787972088597
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-timeline-sought-help-killed-children-rcna594970",
     "titleNorm": "how lindsay clancy sought help before she killed",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "fiery views on lindsay clancy at work could",
     "type": "card",
     "timestamp": 1788014837575
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1788022365404
   }
 ]
