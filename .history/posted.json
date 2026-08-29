@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-trial-timeline-sought-help-killed-children-rcna594970",
-    "titleNorm": "how lindsay clancy sought help before she killed",
-    "type": "card",
-    "timestamp": 1787995904688
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
     "titleNorm": "shootings surge as drug gangs torment brussels",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump clears supreme court hurdle on mail ballots",
     "type": "reel",
     "timestamp": 1788037513527
+  },
+  {
+    "url": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744",
+    "titleNorm": "dolly partons legacy revered and trump renames another",
+    "type": "card",
+    "timestamp": 1788044125641
   }
 ]
