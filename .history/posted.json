@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/washington-chemical-tank-called-unfit-service-deadly-failure-136027363",
-    "titleNorm": "washington chemical tank called unfit for service before",
-    "type": "card",
-    "timestamp": 1787970879990
-  },
-  {
     "url": "https://www.foxnews.com/us/pair-allegedly-looted-florida-home-victims-killed-kenya-crash-woman-locked-immigration-hold",
     "titleNorm": "cuban national in us illegally man accused of",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "shootings surge as drug gangs torment brussels",
     "type": "reel",
     "timestamp": 1788002272538
+  },
+  {
+    "url": "https://www.foxnews.com/us/fiery-views-lindsay-clancy-work-could-get-you-fired-perfectly-legal-employment-lawyer-warns",
+    "titleNorm": "fiery views on lindsay clancy at work could",
+    "type": "card",
+    "timestamp": 1788014837575
   }
 ]
