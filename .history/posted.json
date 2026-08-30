@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024",
-    "titleNorm": "palestinian woman and nbc news team attacked by",
-    "type": "card",
-    "timestamp": 1788035345793
-  },
-  {
-    "url": "https://www.foxnews.com/us/trump-clears-supreme-court-hurdle-mail-ballots-states-vow-another-fight-more-top-headlines",
-    "titleNorm": "trump clears supreme court hurdle on mail ballots",
-    "type": "reel",
-    "timestamp": 1788037513527
-  },
-  {
-    "url": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744",
-    "titleNorm": "dolly partons legacy revered and trump renames another",
-    "type": "card",
-    "timestamp": 1788044125641
-  },
-  {
     "url": "https://www.foxnews.com/us/new-hampshire-man-allegedly-steals-rescue-truck-firefighters-battling-burning-home",
     "titleNorm": "new hampshire man allegedly steals rescue truck from",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "nasa readies to launch its nextgeneration space telescope",
     "type": "card",
     "timestamp": 1788069785879
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "norways king harald dies aged 89 a beloved",
+    "type": "reel",
+    "timestamp": 1788091623438
   }
 ]
