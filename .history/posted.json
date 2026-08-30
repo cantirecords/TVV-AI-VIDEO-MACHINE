@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/new-hampshire-man-allegedly-steals-rescue-truck-firefighters-battling-burning-home",
-    "titleNorm": "new hampshire man allegedly steals rescue truck from",
-    "type": "reel",
-    "timestamp": 1788049939093
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1788051271834
-  },
-  {
     "url": "https://www.cbsnews.com/news/micahjo-barnett-william-jewell-football-player-dies/",
     "titleNorm": "missouri college football player dies after medical emergency",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "manhunt after shooting at swiss rave kills woman",
     "type": "card",
     "timestamp": 1788092692992
+  },
+  {
+    "url": "https://www.foxnews.com/us/south-carolina-police-officer-killed-another-wounded-gunfight-suspect-who-had-extensive-record",
+    "titleNorm": "south carolina police officer killed another wounded in",
+    "type": "reel",
+    "timestamp": 1788108923883
   }
 ]
