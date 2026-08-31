@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "norways king harald dies aged 89 a beloved",
-    "type": "reel",
-    "timestamp": 1788091623438
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "manhunt after shooting at swiss rave kills woman",
-    "type": "card",
-    "timestamp": 1788092692992
-  },
-  {
     "url": "https://www.foxnews.com/us/south-carolina-police-officer-killed-another-wounded-gunfight-suspect-who-had-extensive-record",
     "titleNorm": "south carolina police officer killed another wounded in",
     "type": "reel",
@@ -40,5 +28,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1788130803090
+  },
+  {
+    "url": "https://www.foxnews.com/us/colorado-city-leader-dies-collapsing-mountain-hike-loss-city",
+    "titleNorm": "colorado city leader dies after collapsing on mountain",
+    "type": "reel",
+    "timestamp": 1788137075190
   }
 ]
