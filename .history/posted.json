@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/former-mayor-town-alaska-4-men-killed-small-136012720",
-    "titleNorm": "former mayor of town in alaska among 4",
-    "type": "card",
-    "timestamp": 1788120875690
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-cities-begun-rewarding-careful-drivers-fewer-red-136052636",
     "titleNorm": "some us cities have begun rewarding careful drivers",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1788162658397
+  },
+  {
+    "url": "https://www.foxnews.com/us/north-carolina-warns-visitors-rabies-exposure-baby-goats-mobile-petting-zoo-test-positive",
+    "titleNorm": "north carolina warns mobile petting zoo visitors of",
+    "type": "reel",
+    "timestamp": 1788166157292
   }
 ]
