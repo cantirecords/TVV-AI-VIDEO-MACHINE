@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1788190689083
-  },
-  {
     "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
     "titleNorm": "south carolina woman accused of stabbing lyft driver",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "two dead and more than a dozen missing",
     "type": "card",
     "timestamp": 1788224053801
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/house-returns-short-list-politics-desk-rcna595407",
+    "titleNorm": "the house returns with a short todo list",
+    "type": "reel",
+    "timestamp": 1788240393544
   }
 ]
