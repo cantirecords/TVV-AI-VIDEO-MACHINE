@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/house-returns-short-list-politics-desk-rcna595407",
-    "titleNorm": "the house returns with a short todo list",
-    "type": "reel",
-    "timestamp": 1788240393544
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/after-criticism-canadas-cbc-policy-label-911-attacks-136048008",
-    "titleNorm": "after criticism canadas cbc changes policy that said",
-    "type": "card",
-    "timestamp": 1788241852138
-  },
-  {
     "url": "https://www.foxnews.com/us/bryan-kohberger-new-lawyer-says-key-questions-may-soon-get-answers-court",
     "titleNorm": "bryan kohbergers new lawyer says key questions may",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "victim in times square stabbing shooting identified as",
     "type": "reel",
     "timestamp": 1788281432854
+  },
+  {
+    "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-jury-deliberations-tuesday/",
+    "titleNorm": "lindsay clancy trial jury deadlocked but judge tells",
+    "type": "card",
+    "timestamp": 1788289093207
   }
 ]
