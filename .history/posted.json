@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-trump-move-forward-white-house-ballroom-construct-rcna594097",
-    "titleNorm": "supreme court allows trump to move forward with",
-    "type": "card",
-    "timestamp": 1788210733862
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "after criticism canadas cbc changes policy that said",
     "type": "card",
     "timestamp": 1788241852138
+  },
+  {
+    "url": "https://www.foxnews.com/us/bryan-kohberger-new-lawyer-says-key-questions-may-soon-get-answers-court",
+    "titleNorm": "bryan kohbergers new lawyer says key questions may",
+    "type": "card",
+    "timestamp": 1788259369421
   }
 ]
