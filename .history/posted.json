@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bryan-kohberger-new-lawyer-says-key-questions-may-soon-get-answers-court",
-    "titleNorm": "bryan kohbergers new lawyer says key questions may",
-    "type": "card",
-    "timestamp": 1788259369421
-  },
-  {
     "url": "https://www.cbsnews.com/news/woman-attacked-by-otter-lake-tahoe/",
     "titleNorm": "woman attacked by otter while swimming in lake",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "rescuers saved some 80 people in grand canyon",
     "type": "card",
     "timestamp": 1788298432139
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting",
+    "titleNorm": "teen girl indicted on murder charges for allegedly",
+    "type": "card",
+    "timestamp": 1788305999527
   }
 ]
