@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "two dead and more than a dozen missing",
-    "type": "card",
-    "timestamp": 1788224053801
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/house-returns-short-list-politics-desk-rcna595407",
     "titleNorm": "the house returns with a short todo list",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "woman attacked by otter while swimming in lake",
     "type": "reel",
     "timestamp": 1788263682913
+  },
+  {
+    "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
+    "titleNorm": "south carolina woman accused of stabbing lyft driver",
+    "type": "card",
+    "timestamp": 1788275864685
   }
 ]
