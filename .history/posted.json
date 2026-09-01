@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1788217217152
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
     "titleNorm": "two dead and more than a dozen missing",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "bryan kohbergers new lawyer says key questions may",
     "type": "card",
     "timestamp": 1788259369421
+  },
+  {
+    "url": "https://www.cbsnews.com/news/woman-attacked-by-otter-lake-tahoe/",
+    "titleNorm": "woman attacked by otter while swimming in lake",
+    "type": "reel",
+    "timestamp": 1788263682913
   }
 ]
