@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting",
-    "titleNorm": "teen girl indicted on murder charges for allegedly",
-    "type": "card",
-    "timestamp": 1788305999527
-  },
-  {
     "url": "https://www.foxnews.com/us/knife-wielding-woman-accused-stabbing-2-times-square-before-being-shot-police",
     "titleNorm": "nypd identifies woman killed in times square stabbing",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "could the man who murdered a christian missionary",
     "type": "reel",
     "timestamp": 1788348939381
+  },
+  {
+    "url": "https://www.foxnews.com/us/haitian-college-student-ohio-dies-apparent-suicide-losing-tps-status-family-says",
+    "titleNorm": "haitian college student in ohio dies by apparent",
+    "type": "card",
+    "timestamp": 1788349825909
   }
 ]
