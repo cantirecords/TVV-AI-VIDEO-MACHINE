@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/woman-attacked-by-otter-lake-tahoe/",
-    "titleNorm": "woman attacked by otter while swimming in lake",
-    "type": "reel",
-    "timestamp": 1788263682913
-  },
-  {
     "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
     "titleNorm": "south carolina woman accused of stabbing lyft driver",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "teen girl indicted on murder charges for allegedly",
     "type": "card",
     "timestamp": 1788305999527
+  },
+  {
+    "url": "https://www.foxnews.com/us/knife-wielding-woman-accused-stabbing-2-times-square-before-being-shot-police",
+    "titleNorm": "nypd identifies woman killed in times square stabbing",
+    "type": "reel",
+    "timestamp": 1788308718385
   }
 ]
