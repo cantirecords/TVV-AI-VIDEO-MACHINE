@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-jury-deliberations-tuesday/",
-    "titleNorm": "lindsay clancy trial jury deadlocked but judge tells",
-    "type": "card",
-    "timestamp": 1788289093207
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/new-generation-elm-trees-equipped-beat-disease-killed-136082979",
-    "titleNorm": "new generation of elm trees could be equipped",
-    "type": "reel",
-    "timestamp": 1788297235743
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/storms-grand-canyon-flash-flood-killed-2-people-136083009",
-    "titleNorm": "rescuers saved some 80 people in grand canyon",
-    "type": "card",
-    "timestamp": 1788298432139
-  },
-  {
     "url": "https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting",
     "titleNorm": "teen girl indicted on murder charges for allegedly",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "california legislature to vote on wildfire reforms after",
     "type": "card",
     "timestamp": 1788330916630
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "could the man who murdered a christian missionary",
+    "type": "reel",
+    "timestamp": 1788348939381
   }
 ]
