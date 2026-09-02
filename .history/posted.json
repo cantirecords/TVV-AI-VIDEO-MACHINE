@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/south-carolina-woman-accused-stabbing-lyft-driver-11-times-claims-mental-health-crisis",
-    "titleNorm": "south carolina woman accused of stabbing lyft driver",
-    "type": "card",
-    "timestamp": 1788275864685
-  },
-  {
-    "url": "https://www.cbsnews.com/news/erin-piacenti-times-square-stabbing-nypd-shooting/",
-    "titleNorm": "victim in times square stabbing shooting identified as",
-    "type": "reel",
-    "timestamp": 1788281432854
-  },
-  {
     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-jury-deliberations-tuesday/",
     "titleNorm": "lindsay clancy trial jury deadlocked but judge tells",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1788313830446
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "reel",
+    "timestamp": 1788324765044
   }
 ]
