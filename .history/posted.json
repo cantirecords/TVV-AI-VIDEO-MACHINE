@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "could the man who murdered a christian missionary",
-    "type": "reel",
-    "timestamp": 1788348939381
-  },
-  {
-    "url": "https://www.foxnews.com/us/haitian-college-student-ohio-dies-apparent-suicide-losing-tps-status-family-says",
-    "titleNorm": "haitian college student in ohio dies by apparent",
-    "type": "card",
-    "timestamp": 1788349825909
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551",
     "titleNorm": "send your questions for richard engel on ukraine",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1788386821458
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/1-adult-hurt-kids-harmed-after-shooting-virginia-136147077",
+    "titleNorm": "1 adult hurt no kids harmed after shooting",
+    "type": "reel",
+    "timestamp": 1788395236698
   }
 ]
