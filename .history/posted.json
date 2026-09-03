@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-verdict-within-reach-retired-massachusetts-judge-pushes-back-hung-jury-predictions",
-    "titleNorm": "lindsay clancy verdict still within reach retired massachusetts",
-    "type": "card",
-    "timestamp": 1788375860427
-  },
-  {
-    "url": "https://www.foxnews.com/us/what-tuey-rodriguez-charge-judge-gives-instruction-deadlocked-lindsay-clancy-jury",
-    "titleNorm": "what is a tueyrodriguez charge judge gives instruction",
-    "type": "reel",
-    "timestamp": 1788383610313
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1788386821458
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/1-adult-hurt-kids-harmed-after-shooting-virginia-136147077",
     "titleNorm": "1 adult hurt no kids harmed after shooting",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "suburban illinois boy dies in suspected domestic homicide",
     "type": "card",
     "timestamp": 1788412718714
+  },
+  {
+    "url": "https://www.foxnews.com/us/police-officers-shot-among-multiple-victims-downtown-minneapolis-shooting",
+    "titleNorm": "3 dead including suspected gunman and 3 officers",
+    "type": "card",
+    "timestamp": 1788430769795
   }
 ]
