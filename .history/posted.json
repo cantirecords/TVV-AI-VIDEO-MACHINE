@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1788411097483
-  },
-  {
-    "url": "https://www.foxnews.com/us/suburban-illinois-boy-dies-suspected-domestic-homicide-neighbors-fear-another-lindsay-clancy-case",
-    "titleNorm": "suburban illinois boy dies in suspected domestic homicide",
-    "type": "card",
-    "timestamp": 1788412718714
-  },
-  {
     "url": "https://www.foxnews.com/us/police-officers-shot-among-multiple-victims-downtown-minneapolis-shooting",
     "titleNorm": "3 dead including suspected gunman and 3 officers",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "oil touches 97 per barrel as diesel prices",
     "type": "reel",
     "timestamp": 1788453459241
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-jury-recap-day-5-ends-no-verdict-after-rare-instruction",
+    "titleNorm": "lindsay clancy jury recap day 5 ends with",
+    "type": "card",
+    "timestamp": 1788459173260
   }
 ]
