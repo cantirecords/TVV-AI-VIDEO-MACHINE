@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/police-officers-shot-among-multiple-victims-downtown-minneapolis-shooting",
-    "titleNorm": "3 dead including suspected gunman and 3 officers",
-    "type": "card",
-    "timestamp": 1788430769795
-  },
-  {
-    "url": "https://www.today.com/video/gloria-steinem-trailblazing-feminist-and-social-activist-dies-at-92-269263429859",
-    "titleNorm": "trailblazing feminist and social activist gloria steinem dies",
-    "type": "reel",
-    "timestamp": 1788435134909
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/parents-arrested-death-5-year-old-nonverbal-daughter-extradited-rcna595852",
     "titleNorm": "parents arrested after death of 5yearold nonverbal daughter",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1788470992476
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/china-presses-us-answers-after-man-dies-hours-136145729",
+    "titleNorm": "china presses the us for answers after a",
+    "type": "card",
+    "timestamp": 1788478790650
   }
 ]
