@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/parents-arrested-death-5-year-old-nonverbal-daughter-extradited-rcna595852",
-    "titleNorm": "parents arrested after death of 5yearold nonverbal daughter",
-    "type": "card",
-    "timestamp": 1788446849745
-  },
-  {
-    "url": "https://www.nbcnews.com/business/energy/oil-touches-97-barrel-diesel-prices-surge-highest-level-year-rcna595904",
-    "titleNorm": "oil touches 97 per barrel as diesel prices",
-    "type": "reel",
-    "timestamp": 1788453459241
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-jury-recap-day-5-ends-no-verdict-after-rare-instruction",
     "titleNorm": "lindsay clancy jury recap day 5 ends with",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "trump administration pushes to remove tax exemption for",
     "type": "card",
     "timestamp": 1788486824206
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/us-forest-service-closing-23-research-facilities-part-136184407",
+    "titleNorm": "us forest service closing 23 research facilities as",
+    "type": "reel",
+    "timestamp": 1788497733375
   }
 ]
