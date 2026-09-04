@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/teenager-arrested-5-sought-deadly-july-4-fire-136187050",
-    "titleNorm": "teenager arrested and 5 others sought in deadly",
-    "type": "reel",
-    "timestamp": 1788481081842
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-pushes-remove-tax-exemption-private-colleges-136176928",
-    "titleNorm": "trump administration pushes to remove tax exemption for",
-    "type": "card",
-    "timestamp": 1788486824206
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/us-forest-service-closing-23-research-facilities-part-136184407",
     "titleNorm": "us forest service closing 23 research facilities as",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "two trapped workers pulled alive from nepal tunnel",
     "type": "card",
     "timestamp": 1788522880399
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
+    "titleNorm": "doj charges ice officer with lying to investigators",
+    "type": "card",
+    "timestamp": 1788535366029
   }
 ]
