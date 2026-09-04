@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/officials-identify-victims-killed-officers-injured-minneapolis-apartment-shooting",
-    "titleNorm": "officials identify victims killed officers injured in minneapolis",
-    "type": "card",
-    "timestamp": 1788504354357
-  },
-  {
     "url": "https://www.foxnews.com/us/exclusive-fbi-extraditions-soar-patel-ramps-up-foreign-outreach-vows-no-sanctuary",
     "titleNorm": "exclusive fbi extraditions soar as patel ramps up",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "ice whistleblower warned of unprecedented lowering of standards",
     "type": "card",
     "timestamp": 1788547246675
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/jurors-lindsay-clancy-murder-trial-head-seventh-day-deliberations-2-de-rcna596075",
+    "titleNorm": "lindsay clancy jury risks mistrial on 7th day",
+    "type": "reel",
+    "timestamp": 1788548793412
   }
 ]
