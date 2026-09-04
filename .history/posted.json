@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-jury-recap-day-5-ends-no-verdict-after-rare-instruction",
-    "titleNorm": "lindsay clancy jury recap day 5 ends with",
-    "type": "card",
-    "timestamp": 1788459173260
-  },
-  {
     "url": "https://www.foxnews.com/us/15-year-old-accused-firing-crowd-deadly-seattle-mass-shooting-claims-self-defense",
     "titleNorm": "15yearold accused of firing into crowd during deadly",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "us forest service closing 23 research facilities as",
     "type": "reel",
     "timestamp": 1788497733375
+  },
+  {
+    "url": "https://www.foxnews.com/us/officials-identify-victims-killed-officers-injured-minneapolis-apartment-shooting",
+    "titleNorm": "officials identify victims killed officers injured in minneapolis",
+    "type": "card",
+    "timestamp": 1788504354357
   }
 ]
