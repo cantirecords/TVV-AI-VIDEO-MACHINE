@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
-    "titleNorm": "doj charges ice officer with lying to investigators",
-    "type": "card",
-    "timestamp": 1788535366029
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-woman-70-opens-fire-port-orange-police-department-lobby-chief-says",
-    "titleNorm": "florida woman 70 opens fire inside port orange",
-    "type": "reel",
-    "timestamp": 1788539651171
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/ice-whistleblower-warned-unprecedented-lowering-standards-hiring-spree-136189046",
     "titleNorm": "ice whistleblower warned of unprecedented lowering of standards",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "lindsay clancy mistrial declared after jury deadlocks in",
     "type": "card",
     "timestamp": 1788573118207
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
+    "titleNorm": "doj charges ice officer with lying to investigators",
+    "type": "reel",
+    "timestamp": 1788583636069
   }
 ]
