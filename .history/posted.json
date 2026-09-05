@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-woman-70-opens-fire-port-orange-police-department-lobby-chief-says",
-    "titleNorm": "florida woman 70 opens fire inside port orange",
-    "type": "card",
-    "timestamp": 1788589722876
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/burning-man-attendee-dies-festival-grounds-rcna596203",
     "titleNorm": "burning man attendee dies at festival after medical",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1788627595631
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/arizona-group-home-provider-center-pay-play-scandal-136198673",
+    "titleNorm": "arizona group home provider at center of paytoplay",
+    "type": "reel",
+    "timestamp": 1788633074217
   }
 ]
