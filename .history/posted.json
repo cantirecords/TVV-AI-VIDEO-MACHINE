@@ -46,5 +46,11 @@
     "titleNorm": "us strikes 3 iranian oil tankers after iran",
     "type": "reel",
     "timestamp": 1788640635119
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
+    "titleNorm": "doj charges ice officer with lying to investigators",
+    "type": "card",
+    "timestamp": 1788641350624
   }
 ]
