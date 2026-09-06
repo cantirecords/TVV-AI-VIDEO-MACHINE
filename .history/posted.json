@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1788627595631
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/arizona-group-home-provider-center-pay-play-scandal-136198673",
     "titleNorm": "arizona group home provider at center of paytoplay",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "officials identify victims killed officers injured in minneapolis",
     "type": "reel",
     "timestamp": 1788670663849
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+    "titleNorm": "us strikes iranian oil tankers in retaliation for",
+    "type": "card",
+    "timestamp": 1788671821153
   }
 ]
