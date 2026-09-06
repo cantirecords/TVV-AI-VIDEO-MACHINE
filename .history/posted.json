@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/detransitioner-takes-malpractice-fight-appeals-court-north-carolina-law-change",
-    "titleNorm": "detransitioner takes malpractice fight to appeals court after",
-    "type": "card",
-    "timestamp": 1788647285189
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-names-adam-telle-acting-secretary-army-following-dan-driscoll-resignation",
     "titleNorm": "trump names adam telle acting secretary of the",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1788688309805
+  },
+  {
+    "url": "https://www.cbsnews.com/news/makayla-meave-frank-byers-oklahoma-murder-48-hours/",
+    "titleNorm": "detective says cruelty of woman039s murder will stay",
+    "type": "reel",
+    "timestamp": 1788693170341
   }
 ]
