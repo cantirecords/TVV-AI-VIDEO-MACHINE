@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1788617397961
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "lindsay clancy murder trial has divided us on",
-    "type": "reel",
-    "timestamp": 1788621965441
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "trump gets a big win at the supreme",
     "type": "card",
     "timestamp": 1788654137134
+  },
+  {
+    "url": "https://www.foxnews.com/us/officials-identify-victims-killed-officers-injured-minneapolis-apartment-shooting",
+    "titleNorm": "officials identify victims killed officers injured in minneapolis",
+    "type": "reel",
+    "timestamp": 1788670663849
   }
 ]
