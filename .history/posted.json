@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/burning-man-attendee-dies-festival-grounds-rcna596203",
-    "titleNorm": "burning man attendee dies at festival after medical",
-    "type": "reel",
-    "timestamp": 1788605404368
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/records-reveal-safety-complaints-poor-maintenance-site-deadly-136209566",
-    "titleNorm": "records show safety complaints poor maintenance at site",
-    "type": "card",
-    "timestamp": 1788606083532
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "detransitioner takes malpractice fight to appeals court after",
     "type": "card",
     "timestamp": 1788647285189
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-names-adam-telle-acting-secretary-army-following-dan-driscoll-resignation",
+    "titleNorm": "trump names adam telle acting secretary of the",
+    "type": "reel",
+    "timestamp": 1788653200878
   }
 ]
