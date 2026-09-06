@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/arizona-group-home-provider-center-pay-play-scandal-136198673",
-    "titleNorm": "arizona group home provider at center of paytoplay",
-    "type": "reel",
-    "timestamp": 1788633074217
-  },
-  {
-    "url": "https://www.foxnews.com/us/charles-manson-helter-skelter-motive-myth-new-tapes-reveal-sparked-sharon-tate-murders",
-    "titleNorm": "charles mansons helter skelter motive a myth new",
-    "type": "card",
-    "timestamp": 1788634140270
-  },
-  {
-    "url": "https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222",
-    "titleNorm": "us strikes 3 iranian oil tankers after iran",
-    "type": "reel",
-    "timestamp": 1788640635119
-  },
-  {
-    "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
-    "titleNorm": "doj charges ice officer with lying to investigators",
-    "type": "card",
-    "timestamp": 1788641350624
-  },
-  {
     "url": "https://www.foxnews.com/us/detransitioner-takes-malpractice-fight-appeals-court-north-carolina-law-change",
     "titleNorm": "detransitioner takes malpractice fight to appeals court after",
     "type": "card",
@@ -52,5 +28,11 @@
     "titleNorm": "us strikes iranian oil tankers in retaliation for",
     "type": "card",
     "timestamp": 1788671821153
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1788688309805
   }
 ]
