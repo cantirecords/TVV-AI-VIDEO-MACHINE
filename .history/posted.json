@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-names-adam-telle-acting-secretary-army-following-dan-driscoll-resignation",
-    "titleNorm": "trump names adam telle acting secretary of the",
-    "type": "reel",
-    "timestamp": 1788653200878
-  },
-  {
-    "url": "https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982",
-    "titleNorm": "trump gets a big win at the supreme",
-    "type": "card",
-    "timestamp": 1788654137134
-  },
-  {
     "url": "https://www.foxnews.com/us/officials-identify-victims-killed-officers-injured-minneapolis-apartment-shooting",
     "titleNorm": "officials identify victims killed officers injured in minneapolis",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "detective says cruelty of woman039s murder will stay",
     "type": "reel",
     "timestamp": 1788693170341
+  },
+  {
+    "url": "https://www.nbcnews.com/now/video/fake-nfl-player-arrested-for-scamming-women-out-of-a-million-dollars-269354053646",
+    "titleNorm": "fake nfl player arrested for scamming women out",
+    "type": "card",
+    "timestamp": 1788700598258
   }
 ]
