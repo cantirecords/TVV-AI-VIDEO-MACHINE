@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/makayla-meave-frank-byers-oklahoma-murder-48-hours/",
-    "titleNorm": "detective says cruelty of woman039s murder will stay",
-    "type": "reel",
-    "timestamp": 1788693170341
-  },
-  {
     "url": "https://www.nbcnews.com/now/video/fake-nfl-player-arrested-for-scamming-women-out-of-a-million-dollars-269354053646",
     "titleNorm": "fake nfl player arrested for scamming women out",
     "type": "card",
@@ -52,5 +46,11 @@
     "titleNorm": "andrew williams every time i die guitarist known",
     "type": "card",
     "timestamp": 1788734082174
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/records-reveal-safety-complaints-poor-maintenance-site-deadly-136209566",
+    "titleNorm": "records show safety complaints poor maintenance at site",
+    "type": "reel",
+    "timestamp": 1788739785338
   }
 ]
