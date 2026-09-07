@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-mistrial-declared-after-jury-deadlocks-killings-three-children",
-    "titleNorm": "lindsay clancy mistrial declared after jury deadlocks in",
-    "type": "card",
-    "timestamp": 1788778690332
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-officer-pleads-not-guilty-lying-minneapolis-shooting-involving-venezuelan-man",
     "titleNorm": "ice officer pleads not guilty to lying about",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "karmelo anthony seeks 250k for murder appeal as",
     "type": "reel",
     "timestamp": 1788821863562
+  },
+  {
+    "url": "https://www.foxnews.com/us/charles-manson-helter-skelter-motive-myth-new-tapes-reveal-sparked-sharon-tate-murders",
+    "titleNorm": "charles mansons helter skelter motive a myth new",
+    "type": "card",
+    "timestamp": 1788822559945
   }
 ]
