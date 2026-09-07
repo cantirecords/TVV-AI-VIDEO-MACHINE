@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/illinois-mother-charged-murder-death-2-year-old-son-case-drawing-comparisons-lindsay-clancy",
-    "titleNorm": "illinois mother charged with murder in death of",
-    "type": "reel",
-    "timestamp": 1788719428557
-  },
-  {
-    "url": "https://www.foxnews.com/us/black-widow-allegedly-attempted-murder-romantic-partner-69-met-online",
-    "titleNorm": "black widow allegedly attempted to murder romantic partner",
-    "type": "card",
-    "timestamp": 1788720248222
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1788727209987
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-charged-wrong-way-maryland-crash-killed-mom-daughter",
-    "titleNorm": "ice lodges detainer for illegal immigrant charged in",
-    "type": "card",
-    "timestamp": 1788728204163
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/andy-williams-every-time-i-die-the-butcher-rcna596322",
-    "titleNorm": "andrew williams every time i die guitarist known",
-    "type": "card",
-    "timestamp": 1788734082174
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/records-reveal-safety-complaints-poor-maintenance-site-deadly-136209566",
     "titleNorm": "records show safety complaints poor maintenance at site",
     "type": "reel",
@@ -52,5 +22,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1788758712607
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-mistrial-declared-after-jury-deadlocks-killings-three-children",
+    "titleNorm": "lindsay clancy mistrial declared after jury deadlocks in",
+    "type": "card",
+    "timestamp": 1788778690332
   }
 ]
