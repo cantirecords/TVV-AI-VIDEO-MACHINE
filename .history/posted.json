@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-deputy-screams-runs-dead-deer-springs-feet-viral-encounter",
-    "titleNorm": "texas deputy screams and runs after dead deer",
-    "type": "card",
-    "timestamp": 1788832495534
-  },
-  {
     "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
     "titleNorm": "jimmy johns employee accused of opening fire on",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "new mexico democrats push back over trump posts",
     "type": "card",
     "timestamp": 1788868378069
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/whiplash-election-year-enters-final-stretch-trump-holds-136237557",
+    "titleNorm": "a whiplash election year enters its final stretch",
+    "type": "card",
+    "timestamp": 1788881755167
   }
 ]
