@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/second-attendee-dies-burning-man-festival-rcna596380",
-    "titleNorm": "second festivalgoer dies at burning man",
-    "type": "card",
-    "timestamp": 1788797734271
-  },
-  {
     "url": "https://www.foxnews.com/us/illinois-mother-charged-murder-death-2-year-old-son-case-drawing-comparisons-lindsay-clancy",
     "titleNorm": "illinois mother charged with murder in death of",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "texas deputy screams and runs after dead deer",
     "type": "card",
     "timestamp": 1788832495534
+  },
+  {
+    "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
+    "titleNorm": "jimmy johns employee accused of opening fire on",
+    "type": "reel",
+    "timestamp": 1788843556062
   }
 ]
