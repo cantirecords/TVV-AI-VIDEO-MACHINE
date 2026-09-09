@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/hawaiis-western-islands-hit-fierce-winds-heavy-rain-136280271",
-    "titleNorm": "hawaiis western islands hit by fierce winds and",
-    "type": "card",
-    "timestamp": 1788949183750
-  },
-  {
     "url": "https://www.foxnews.com/us/third-burning-man-festivalgoer-dies-final-days-annual-nevada-desert-gathering",
     "titleNorm": "third burning man festivalgoer dies during final days",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump gave 45000 holiday gifts to natalie harp",
     "type": "card",
     "timestamp": 1788988882423
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
+    "titleNorm": "what to watch as republicans gather in dallas",
+    "type": "card",
+    "timestamp": 1788997157213
   }
 ]
