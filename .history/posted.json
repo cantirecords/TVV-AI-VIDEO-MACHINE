@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/whiplash-election-year-enters-final-stretch-trump-holds-136237557",
-    "titleNorm": "a whiplash election year enters its final stretch",
-    "type": "card",
-    "timestamp": 1788881755167
-  },
-  {
-    "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
-    "titleNorm": "massive fire engulfs apartment complex under construction forces",
-    "type": "reel",
-    "timestamp": 1788886215092
-  },
-  {
     "url": "https://www.foxnews.com/us/victims-identified-fatal-amazon-cargo-jet-crash-miami-airport",
     "titleNorm": "victims identified in fatal amazon cargo jet crash",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "fuel prices at record labor day high in",
     "type": "card",
     "timestamp": 1788915020927
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/firefighters-ground-zero-right-after-september-11-attacks-rcna596723",
+    "titleNorm": "trump says firefighters near ground zero carried him",
+    "type": "reel",
+    "timestamp": 1788929965689
   }
 ]
