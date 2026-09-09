@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/victims-identified-fatal-amazon-cargo-jet-crash-miami-airport",
-    "titleNorm": "victims identified in fatal amazon cargo jet crash",
-    "type": "card",
-    "timestamp": 1788894424867
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1788902481713
-  },
-  {
-    "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
-    "titleNorm": "jimmy johns employee accused of opening fire on",
-    "type": "card",
-    "timestamp": 1788905307895
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
     "titleNorm": "what to watch as republicans gather in dallas",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "trump threatens canadian jetmaker bombardier which has an",
     "type": "card",
     "timestamp": 1788931846009
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/hawaiis-western-islands-hit-fierce-winds-heavy-rain-136280271",
+    "titleNorm": "hawaiis western islands hit by fierce winds and",
+    "type": "card",
+    "timestamp": 1788949183750
   }
 ]
