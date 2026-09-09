@@ -34,5 +34,11 @@
     "titleNorm": "what to watch as republicans gather in dallas",
     "type": "reel",
     "timestamp": 1788913588180
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fuel-prices-record-labor-day-high-us-iran-136247960",
+    "titleNorm": "fuel prices at record labor day high in",
+    "type": "card",
+    "timestamp": 1788915020927
   }
 ]
