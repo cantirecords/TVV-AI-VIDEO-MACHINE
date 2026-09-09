@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/black-widow-allegedly-attempted-murder-romantic-partner-69-met-online",
-    "titleNorm": "black widow allegedly attempted to murder romantic partner",
-    "type": "reel",
-    "timestamp": 1788867286447
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/new-mexico-democrats-push-back-trump-posts-renaming-state-new-america-rcna596473",
-    "titleNorm": "new mexico democrats push back over trump posts",
-    "type": "card",
-    "timestamp": 1788868378069
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/whiplash-election-year-enters-final-stretch-trump-holds-136237557",
     "titleNorm": "a whiplash election year enters its final stretch",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "jimmy johns employee accused of opening fire on",
     "type": "card",
     "timestamp": 1788905307895
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
+    "titleNorm": "what to watch as republicans gather in dallas",
+    "type": "reel",
+    "timestamp": 1788913588180
   }
 ]
