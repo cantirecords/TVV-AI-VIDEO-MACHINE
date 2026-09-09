@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
-    "titleNorm": "what to watch as republicans gather in dallas",
-    "type": "reel",
-    "timestamp": 1788913588180
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/fuel-prices-record-labor-day-high-us-iran-136247960",
-    "titleNorm": "fuel prices at record labor day high in",
-    "type": "card",
-    "timestamp": 1788915020927
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/firefighters-ground-zero-right-after-september-11-attacks-rcna596723",
     "titleNorm": "trump says firefighters near ground zero carried him",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "third burning man festivalgoer dies during final days",
     "type": "reel",
     "timestamp": 1788954022700
+  },
+  {
+    "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
+    "titleNorm": "judge orders alex murdaugh murder retrial moved to",
+    "type": "card",
+    "timestamp": 1788965637945
   }
 ]
