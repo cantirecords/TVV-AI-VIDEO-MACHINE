@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/third-burning-man-festivalgoer-dies-final-days-annual-nevada-desert-gathering",
-    "titleNorm": "third burning man festivalgoer dies during final days",
-    "type": "reel",
-    "timestamp": 1788954022700
-  },
-  {
     "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
     "titleNorm": "judge orders alex murdaugh murder retrial moved to",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "what to watch as republicans gather in dallas",
     "type": "card",
     "timestamp": 1788997157213
+  },
+  {
+    "url": "https://www.foxnews.com/us/bank-of-america-exec-killed-random-times-square-stabbing-laid-rest-hundreds-mourn-young-mom",
+    "titleNorm": "bank of america exec killed in random times",
+    "type": "reel",
+    "timestamp": 1788999876203
   }
 ]
