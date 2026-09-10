@@ -40,5 +40,11 @@
     "titleNorm": "bank of america exec killed in random times",
     "type": "reel",
     "timestamp": 1788999876203
+  },
+  {
+    "url": "https://www.foxnews.com/us/data-shows-amazon-jets-key-braking-systems-did-not-deploy-deadly-miami-crash-ntsb",
+    "titleNorm": "data shows amazon jets key braking systems did",
+    "type": "card",
+    "timestamp": 1789005437680
   }
 ]
