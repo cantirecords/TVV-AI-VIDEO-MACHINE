@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
-    "titleNorm": "judge orders alex murdaugh murder retrial moved to",
-    "type": "card",
-    "timestamp": 1788965637945
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/venezuelans-living-us-junes-earthquakes-reverberate-daily-life-136300051",
-    "titleNorm": "for these venezuelans living in the us junes",
-    "type": "reel",
-    "timestamp": 1788972730904
-  },
-  {
     "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
     "titleNorm": "massive fire engulfs apartment complex under construction forces",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "data shows amazon jets key braking systems did",
     "type": "card",
     "timestamp": 1789005437680
+  },
+  {
+    "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
+    "titleNorm": "judge orders alex murdaugh murder retrial moved to",
+    "type": "reel",
+    "timestamp": 1789016505744
   }
 ]
