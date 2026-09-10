@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
-    "titleNorm": "judge orders alex murdaugh murder retrial moved to",
-    "type": "reel",
-    "timestamp": 1789016505744
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-woman-accused-dui-crashes-suv-parked-car-makes-bizarre-plea-police-caught-camera",
     "titleNorm": "florida woman accused of dui crashes suv into",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "temporary protections for about 200000 salvadoran immigrants are",
     "type": "reel",
     "timestamp": 1789058198822
+  },
+  {
+    "url": "https://www.foxnews.com/us/pilot-rescued-world-war-ii-era-plane-crashes-pennsylvania-airport",
+    "titleNorm": "pilot rescued after world war iiera plane crashes",
+    "type": "card",
+    "timestamp": 1789066154181
   }
 ]
