@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-woman-accused-dui-crashes-suv-parked-car-makes-bizarre-plea-police-caught-camera",
-    "titleNorm": "florida woman accused of dui crashes suv into",
-    "type": "card",
-    "timestamp": 1789023099958
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848",
     "titleNorm": "trump admin fires prosecutor in dropped case against",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "pilot rescued after world war iiera plane crashes",
     "type": "card",
     "timestamp": 1789066154181
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1789074248959
   }
 ]
