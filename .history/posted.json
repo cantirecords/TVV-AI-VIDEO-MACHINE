@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-attorney-appeal-trump-pardon-could-hurt-credibility-expert-says",
-    "titleNorm": "lindsay clancy attorneys appeal to trump for pardon",
-    "type": "reel",
-    "timestamp": 1788987977933
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-gave-45000-holiday-gifts-natalie-harp-white-136292284",
-    "titleNorm": "trump gave 45000 holiday gifts to natalie harp",
-    "type": "card",
-    "timestamp": 1788988882423
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
     "titleNorm": "what to watch as republicans gather in dallas",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "florida woman accused of dui crashes suv into",
     "type": "card",
     "timestamp": 1789023099958
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848",
+    "titleNorm": "trump admin fires prosecutor in dropped case against",
+    "type": "reel",
+    "timestamp": 1789040355468
   }
 ]
