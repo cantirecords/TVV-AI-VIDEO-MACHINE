@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bank-of-america-exec-killed-random-times-square-stabbing-laid-rest-hundreds-mourn-young-mom",
-    "titleNorm": "bank of america exec killed in random times",
-    "type": "reel",
-    "timestamp": 1788999876203
-  },
-  {
-    "url": "https://www.foxnews.com/us/data-shows-amazon-jets-key-braking-systems-did-not-deploy-deadly-miami-crash-ntsb",
-    "titleNorm": "data shows amazon jets key braking systems did",
-    "type": "card",
-    "timestamp": 1789005437680
-  },
-  {
     "url": "https://www.foxnews.com/us/judge-orders-alex-murdaugh-murder-retrial-moved-nearby-county",
     "titleNorm": "judge orders alex murdaugh murder retrial moved to",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "surrogate who refused abortion takes fight to supreme",
     "type": "card",
     "timestamp": 1789041500842
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/florida-man-faces-execution-1996-killing-connected-hog-136326309",
+    "titleNorm": "man faces execution for 1996 killing connected to",
+    "type": "card",
+    "timestamp": 1789054871571
   }
 ]
