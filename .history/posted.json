@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
-    "titleNorm": "massive fire engulfs apartment complex under construction forces",
-    "type": "card",
-    "timestamp": 1788977296893
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-attorney-appeal-trump-pardon-could-hurt-credibility-expert-says",
     "titleNorm": "lindsay clancy attorneys appeal to trump for pardon",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "judge orders alex murdaugh murder retrial moved to",
     "type": "reel",
     "timestamp": 1789016505744
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-woman-accused-dui-crashes-suv-parked-car-makes-bizarre-plea-police-caught-camera",
+    "titleNorm": "florida woman accused of dui crashes suv into",
+    "type": "card",
+    "timestamp": 1789023099958
   }
 ]
