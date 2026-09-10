@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/watch-republicans-gather-dallas-trumps-unusual-midterm-convention-136263971",
-    "titleNorm": "what to watch as republicans gather in dallas",
-    "type": "card",
-    "timestamp": 1788997157213
-  },
-  {
     "url": "https://www.foxnews.com/us/bank-of-america-exec-killed-random-times-square-stabbing-laid-rest-hundreds-mourn-young-mom",
     "titleNorm": "bank of america exec killed in random times",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "trump admin fires prosecutor in dropped case against",
     "type": "reel",
     "timestamp": 1789040355468
+  },
+  {
+    "url": "https://www.foxnews.com/us/surrogate-refused-abortion-takes-fight-supreme-court-babys-life-hangs-balance",
+    "titleNorm": "surrogate who refused abortion takes fight to supreme",
+    "type": "card",
+    "timestamp": 1789041500842
   }
 ]
