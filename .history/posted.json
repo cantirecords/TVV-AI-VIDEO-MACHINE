@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/florida-man-faces-execution-1996-killing-connected-hog-136326309",
-    "titleNorm": "man faces execution for 1996 killing connected to",
-    "type": "card",
-    "timestamp": 1789054871571
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/temporary-protections-200000-salvadoran-immigrants-limbo-deadline-nears-136304794",
-    "titleNorm": "temporary protections for about 200000 salvadoran immigrants are",
-    "type": "reel",
-    "timestamp": 1789058198822
-  },
-  {
     "url": "https://www.foxnews.com/us/pilot-rescued-world-war-ii-era-plane-crashes-pennsylvania-airport",
     "titleNorm": "pilot rescued after world war iiera plane crashes",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "teen boater found clinging to capsized vessel after",
     "type": "card",
     "timestamp": 1789091745914
+  },
+  {
+    "url": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
+    "titleNorm": "exanthropic researcher warns ai could grow smart enough",
+    "type": "reel",
+    "timestamp": 1789102738291
   }
 ]
