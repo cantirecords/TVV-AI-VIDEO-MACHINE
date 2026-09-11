@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
-    "titleNorm": "exanthropic researcher warns ai could grow smart enough",
-    "type": "reel",
-    "timestamp": 1789102738291
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-terrorism-warning-9-11-rcna597051",
-    "titleNorm": "hillary clinton warns the us has let its",
-    "type": "card",
-    "timestamp": 1789109333773
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "tourists should skip kauai as it recovers from",
     "type": "reel",
     "timestamp": 1789144944290
+  },
+  {
+    "url": "https://www.cbsnews.com/news/saudi-arabia-mbs-trump-houthis-yemen/",
+    "titleNorm": "saudi arabia039s mbs pressed trump to strike houthis",
+    "type": "card",
+    "timestamp": 1789152717184
   }
 ]
