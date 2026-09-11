@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-5000-checks-inflation-deficit-economists/",
-    "titleNorm": "trump039s 5000 payments would reignite inflation economists say",
-    "type": "reel",
-    "timestamp": 1789086085868
-  },
-  {
-    "url": "https://www.foxnews.com/us/teen-boater-found-clinging-capsized-vessel-after-3-go-missing-2-bodies-recovered",
-    "titleNorm": "teen boater found clinging to capsized vessel after",
-    "type": "card",
-    "timestamp": 1789091745914
-  },
-  {
     "url": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
     "titleNorm": "exanthropic researcher warns ai could grow smart enough",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "trumps stunning vow steals show during night one",
     "type": "card",
     "timestamp": 1789127772780
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-gave-45000-holiday-gifts-natalie-harp-white-136292284",
+    "titleNorm": "trump gave 45000 holiday gifts to natalie harp",
+    "type": "card",
+    "timestamp": 1789140532526
   }
 ]
