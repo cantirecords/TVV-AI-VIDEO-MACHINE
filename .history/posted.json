@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/20-year-old-michigan-man-killed-possible-lightning-strike-florida",
-    "titleNorm": "20yearold michigan man killed by possible lightning strike",
-    "type": "card",
-    "timestamp": 1789170036894
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trial-remains-elusive-purported-mastermind-accused-plotting-911-136357149",
-    "titleNorm": "trial remains elusive for purported mastermind accused of",
-    "type": "reel",
-    "timestamp": 1789172852803
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-man-remembered-fox-news-hosts-repeat-offender-arrested-savage-park-bench-slaying",
-    "titleNorm": "texas man remembered by fox news hosts after",
-    "type": "card",
-    "timestamp": 1789178416496
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-500-checks-obamacare-enrollees/",
     "titleNorm": "trump admin to send 500 checks to nearly",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "911 hero known as man in the red",
     "type": "card",
     "timestamp": 1789212224068
+  },
+  {
+    "url": "https://www.foxnews.com/us/20-year-old-michigan-man-killed-possible-lightning-strike-florida",
+    "titleNorm": "20yearold michigan man killed by possible lightning strike",
+    "type": "card",
+    "timestamp": 1789223732599
   }
 ]
