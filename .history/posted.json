@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1789126840541
-  },
-  {
-    "url": "https://www.foxnews.com/us/trumps-stunning-vow-steals-show-during-night-one-keynote-gop-midterm-convention-more-top-headlines",
-    "titleNorm": "trumps stunning vow steals show during night one",
-    "type": "card",
-    "timestamp": 1789127772780
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-gave-45000-holiday-gifts-natalie-harp-white-136292284",
     "titleNorm": "trump gave 45000 holiday gifts to natalie harp",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "20yearold michigan man killed by possible lightning strike",
     "type": "card",
     "timestamp": 1789170036894
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trial-remains-elusive-purported-mastermind-accused-plotting-911-136357149",
+    "titleNorm": "trial remains elusive for purported mastermind accused of",
+    "type": "reel",
+    "timestamp": 1789172852803
   }
 ]
