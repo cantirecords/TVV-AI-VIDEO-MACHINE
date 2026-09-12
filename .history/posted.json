@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-gave-45000-holiday-gifts-natalie-harp-white-136292284",
-    "titleNorm": "trump gave 45000 holiday gifts to natalie harp",
-    "type": "card",
-    "timestamp": 1789140532526
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/tourists-skip-kauai-now-recovers-hurricane-lowell-officials-136356346",
-    "titleNorm": "tourists should skip kauai as it recovers from",
-    "type": "reel",
-    "timestamp": 1789144944290
-  },
-  {
     "url": "https://www.cbsnews.com/news/saudi-arabia-mbs-trump-houthis-yemen/",
     "titleNorm": "saudi arabia039s mbs pressed trump to strike houthis",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "texas man remembered by fox news hosts after",
     "type": "card",
     "timestamp": 1789178416496
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-500-checks-obamacare-enrollees/",
+    "titleNorm": "trump admin to send 500 checks to nearly",
+    "type": "reel",
+    "timestamp": 1789188691442
   }
 ]
