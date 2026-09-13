@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/florida-man-faces-execution-1996-killing-connected-hog-136326309",
-    "titleNorm": "man faces execution for 1996 killing connected to",
-    "type": "card",
-    "timestamp": 1789242626779
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1789249705876
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/nyc-firehouse-1st-respond-911-25-years-sal-136292830",
-    "titleNorm": "a nyc firehouse was first to respond on",
-    "type": "reel",
-    "timestamp": 1789252130226
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "card",
-    "timestamp": 1789255956968
-  },
-  {
-    "url": "https://www.foxnews.com/us/firefighter-caught-camera-ripping-pro-palestinian-agitator-elmo-costume-near-ground-zero-9-11",
-    "titleNorm": "firefighter caught on camera ripping propalestinian agitator in",
-    "type": "reel",
-    "timestamp": 1789258103871
-  },
-  {
     "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-slowdown-ai-development/",
     "titleNorm": "anthropic ceo says exponential growth of ai is",
     "type": "card",
@@ -46,5 +16,11 @@
     "titleNorm": "family of offduty fdny firefighter retraces steps as",
     "type": "card",
     "timestamp": 1789282648493
+  },
+  {
+    "url": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines",
+    "titleNorm": "trump set to honor 911 victims and first",
+    "type": "reel",
+    "timestamp": 1789301594364
   }
 ]
