@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/trump-james-blair-cautiously-optimistic-midterms-scoop-podcast-rcna596830",
-    "titleNorm": "top trump political adviser james blair says hes",
-    "type": "card",
-    "timestamp": 1789234294079
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/tourists-skip-kauai-now-recovers-hurricane-lowell-officials-136356346",
-    "titleNorm": "tourists should skip kauai as it recovers from",
-    "type": "reel",
-    "timestamp": 1789238170372
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/florida-man-faces-execution-1996-killing-connected-hog-136326309",
     "titleNorm": "man faces execution for 1996 killing connected to",
     "type": "card",
@@ -52,5 +40,11 @@
     "titleNorm": "mississippi police arrest a man in the death",
     "type": "reel",
     "timestamp": 1789276016170
+  },
+  {
+    "url": "https://www.foxnews.com/us/family-off-duty-fdny-firefighter-retraces-steps-tunnel-towers-mission-continues-911-anniversary",
+    "titleNorm": "family of offduty fdny firefighter retraces steps as",
+    "type": "card",
+    "timestamp": 1789282648493
   }
 ]
