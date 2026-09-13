@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-slowdown-ai-development/",
-    "titleNorm": "anthropic ceo says exponential growth of ai is",
-    "type": "card",
-    "timestamp": 1789264486783
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/mississippi-police-arrest-man-death-tasia-fortune-136379033",
     "titleNorm": "mississippi police arrest a man in the death",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "georgia killer who murdered two suburban real estate",
     "type": "card",
     "timestamp": 1789302527711
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/gop-congressman-wisconsin-swims-safety-after-plane-makes-136401182",
+    "titleNorm": "wisconsin congressman swims to safety after plane makes",
+    "type": "reel",
+    "timestamp": 1789317293953
   }
 ]
