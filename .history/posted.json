@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/mississippi-police-arrest-man-death-tasia-fortune-136379033",
-    "titleNorm": "mississippi police arrest a man in the death",
-    "type": "reel",
-    "timestamp": 1789276016170
-  },
-  {
-    "url": "https://www.foxnews.com/us/family-off-duty-fdny-firefighter-retraces-steps-tunnel-towers-mission-continues-911-anniversary",
-    "titleNorm": "family of offduty fdny firefighter retraces steps as",
-    "type": "card",
-    "timestamp": 1789282648493
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines",
     "titleNorm": "trump set to honor 911 victims and first",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "man accused in brutal motel stabbing sought as",
     "type": "card",
     "timestamp": 1789317868755
+  },
+  {
+    "url": "https://www.foxnews.com/us/firefighter-caught-camera-ripping-pro-palestinian-agitator-elmo-costume-near-ground-zero-9-11",
+    "titleNorm": "firefighter caught on camera ripping propalestinian agitator in",
+    "type": "card",
+    "timestamp": 1789326310651
   }
 ]
