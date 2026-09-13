@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/20-year-old-michigan-man-killed-possible-lightning-strike-florida",
-    "titleNorm": "20yearold michigan man killed by possible lightning strike",
-    "type": "card",
-    "timestamp": 1789223732599
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-man-remembered-fox-news-hosts-repeat-offender-arrested-savage-park-bench-slaying",
-    "titleNorm": "texas man remembered by fox news hosts after",
-    "type": "reel",
-    "timestamp": 1789227804430
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/trump-james-blair-cautiously-optimistic-midterms-scoop-podcast-rcna596830",
     "titleNorm": "top trump political adviser james blair says hes",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "anthropic ceo says exponential growth of ai is",
     "type": "card",
     "timestamp": 1789264486783
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mississippi-police-arrest-man-death-tasia-fortune-136379033",
+    "titleNorm": "mississippi police arrest a man in the death",
+    "type": "reel",
+    "timestamp": 1789276016170
   }
 ]
