@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/gop-congressman-wisconsin-swims-safety-after-plane-makes-136401182",
-    "titleNorm": "wisconsin congressman swims to safety after plane makes",
-    "type": "reel",
-    "timestamp": 1789317293953
-  },
-  {
-    "url": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
-    "titleNorm": "man accused in brutal motel stabbing sought as",
-    "type": "card",
-    "timestamp": 1789317868755
-  },
-  {
     "url": "https://www.foxnews.com/us/firefighter-caught-camera-ripping-pro-palestinian-agitator-elmo-costume-near-ground-zero-9-11",
     "titleNorm": "firefighter caught on camera ripping propalestinian agitator in",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "georgia killer who murdered two suburban real estate",
     "type": "card",
     "timestamp": 1789351922596
+  },
+  {
+    "url": "https://www.foxnews.com/us/arrest-rips-apart-media-narrative-death-black-woman-found-hanging-mississippi-tree",
+    "titleNorm": "arrest rips apart media narrative on death of",
+    "type": "reel",
+    "timestamp": 1789362905863
   }
 ]
