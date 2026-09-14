@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/arrest-rips-apart-media-narrative-death-black-woman-found-hanging-mississippi-tree",
-    "titleNorm": "arrest rips apart media narrative on death of",
-    "type": "reel",
-    "timestamp": 1789362905863
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "trump agrees to new bipartisan ethics provision in",
     "type": "card",
     "timestamp": 1789399398617
+  },
+  {
+    "url": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631",
+    "titleNorm": "china dismisses ai slowdown calls and blasts fearmongering",
+    "type": "reel",
+    "timestamp": 1789414441506
   }
 ]
