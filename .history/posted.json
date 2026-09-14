@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines",
-    "titleNorm": "trump set to honor 911 victims and first",
-    "type": "reel",
-    "timestamp": 1789301594364
-  },
-  {
     "url": "https://www.foxnews.com/us/georgia-killer-murdered-two-suburban-real-estate-agents-faces-execution-after-23-year-wait-justice",
     "titleNorm": "georgia killer who murdered two suburban real estate",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1789343161276
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1789345296220
   }
 ]
