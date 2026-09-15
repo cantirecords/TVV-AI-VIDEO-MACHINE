@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
-    "titleNorm": "man accused in brutal motel stabbing sought as",
-    "type": "reel",
-    "timestamp": 1789391427346
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-agrees-new-bipartisan-ethics-provision-massive-crypto-136413574",
     "titleNorm": "trump agrees to new bipartisan ethics provision in",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1789427860270
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "titleNorm": "supreme court seems sympathetic to postal worker who",
+    "type": "card",
+    "timestamp": 1789434835082
   }
 ]
