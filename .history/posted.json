@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-agrees-new-bipartisan-ethics-provision-massive-crypto-136413574",
-    "titleNorm": "trump agrees to new bipartisan ethics provision in",
-    "type": "card",
-    "timestamp": 1789399398617
-  },
-  {
     "url": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631",
     "titleNorm": "china dismisses ai slowdown calls and blasts fearmongering",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1789434835082
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
+    "titleNorm": "donald trump jr acknowledges russian oligarch with ties",
+    "type": "reel",
+    "timestamp": 1789448943938
   }
 ]
