@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
-    "titleNorm": "man accused in brutal motel stabbing sought as",
-    "type": "card",
-    "timestamp": 1789455391534
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "trump weighs in on scrutiny surrounding sons recent",
     "type": "card",
     "timestamp": 1789493035521
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-decide-hear-maine-lobstermans-challenge-gps-136427080",
+    "titleNorm": "court to decide whether to hear lobstermans challenge",
+    "type": "card",
+    "timestamp": 1789504581252
   }
 ]
