@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-hires-karen-read-attorney-high-stakes-double-jeopardy-fight-after-murder-mistrial",
-    "titleNorm": "lindsay clancy hires karen read attorney for highstakes",
-    "type": "card",
-    "timestamp": 1789524707316
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-administration-plans-send-powerful-bombs-israel-28-136479048",
     "titleNorm": "trump administration plans to send powerful bombs to",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "supreme court lifts a cloud over midterms letting",
     "type": "reel",
     "timestamp": 1789565987270
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/texas-landowners-sue-block-trump-border-wall-plans-136425067",
+    "titleNorm": "texas landowners sue to block trump border wall",
+    "type": "card",
+    "timestamp": 1789580981541
   }
 ]
