@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-plans-send-powerful-bombs-israel-28-136479048",
-    "titleNorm": "trump administration plans to send powerful bombs to",
-    "type": "reel",
-    "timestamp": 1789545069173
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-oil-strait-of-hormuz/",
-    "titleNorm": "white house backs hegseth as new details come",
-    "type": "card",
-    "timestamp": 1789545681311
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/trump-butler-pennsylvania-assassination-attempt-fbi-documents-rcna597986",
     "titleNorm": "wouldbe trump assassin practiced shooting a day before",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "house votes to limit trump039s power to strike",
     "type": "reel",
     "timestamp": 1789582779456
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/doge/trump-doge-employee-leave-billions-rcna598108",
+    "titleNorm": "trump administration spent 95b last year on employee",
+    "type": "card",
+    "timestamp": 1789590973479
   }
 ]
