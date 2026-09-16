@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/donald-trump-jr-wife-wedding-russian-umar-kremlev/",
-    "titleNorm": "don jr039s wife says russian oligarch hosted postwedding",
-    "type": "reel",
-    "timestamp": 1789492428396
-  },
-  {
-    "url": "https://www.today.com/video/trump-weighs-in-son-s-wedding-party-paid-for-by-russian-oligarch-269866565827",
-    "titleNorm": "trump weighs in on scrutiny surrounding sons recent",
-    "type": "card",
-    "timestamp": 1789493035521
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-decide-hear-maine-lobstermans-challenge-gps-136427080",
     "titleNorm": "court to decide whether to hear lobstermans challenge",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "lindsay clancy hires karen read attorney for highstakes",
     "type": "card",
     "timestamp": 1789524707316
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-plans-send-powerful-bombs-israel-28-136479048",
+    "titleNorm": "trump administration plans to send powerful bombs to",
+    "type": "reel",
+    "timestamp": 1789545069173
   }
 ]
