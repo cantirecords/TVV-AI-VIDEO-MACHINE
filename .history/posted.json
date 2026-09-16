@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-decide-hear-maine-lobstermans-challenge-gps-136427080",
-    "titleNorm": "court to decide whether to hear lobstermans challenge",
-    "type": "card",
-    "timestamp": 1789504581252
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-pushes-back-trump-gop-ahead-midterm-elections-rcna595375",
-    "titleNorm": "supreme court pushes back against trump and gop",
-    "type": "reel",
-    "timestamp": 1789508169503
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-agrees-new-bipartisan-ethics-provision-massive-crypto-136413574",
-    "titleNorm": "trump agrees to new bipartisan ethics provision in",
-    "type": "card",
-    "timestamp": 1789514265853
-  },
-  {
-    "url": "https://www.cbsnews.com/news/pennsylvania-man-fbi-planning-attack-isis/",
-    "titleNorm": "fbi investigation thwarts mass casualty attack from man",
-    "type": "reel",
-    "timestamp": 1789519145015
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-hires-karen-read-attorney-high-stakes-double-jeopardy-fight-after-murder-mistrial",
     "titleNorm": "lindsay clancy hires karen read attorney for highstakes",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "white house backs hegseth as new details come",
     "type": "card",
     "timestamp": 1789545681311
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/trump-butler-pennsylvania-assassination-attempt-fbi-documents-rcna597986",
+    "titleNorm": "wouldbe trump assassin practiced shooting a day before",
+    "type": "card",
+    "timestamp": 1789564512027
   }
 ]
