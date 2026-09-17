@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/doge/trump-doge-employee-leave-billions-rcna598108",
-    "titleNorm": "trump administration spent 95b last year on employee",
-    "type": "card",
-    "timestamp": 1789590973479
-  },
-  {
-    "url": "https://www.foxnews.com/us/isis-k-militant-sentenced-20-years-supporting-deadly-2021-abbey-gate-bombing",
-    "titleNorm": "isisk militant sentenced to 20 years for supporting",
-    "type": "reel",
-    "timestamp": 1789594355482
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1789600947089
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "ukraines postal workers deliver lifeline under russian fire",
-    "type": "reel",
-    "timestamp": 1789605963757
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "colombia and brazil deadliest countries for environmental activists",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "top democrat places hold on trump administrations plan",
     "type": "card",
     "timestamp": 1789632433561
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/federal-judge-restricts-warrantless-immigration-arrests-southern-california-136514562",
+    "titleNorm": "federal judge restricts warrantless immigration arrests in southern",
+    "type": "reel",
+    "timestamp": 1789652571179
   }
 ]
