@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "colombia and brazil deadliest countries for environmental activists",
-    "type": "card",
-    "timestamp": 1789611336531
-  },
-  {
     "url": "https://www.foxnews.com/us/attempted-trump-assassin-thomas-crooks-behavior-revealed-red-flags-before-attack-former-fbi-agent",
     "titleNorm": "attempted trump assassin thomas crooks behavior revealed red",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1789653272212
+  },
+  {
+    "url": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284",
+    "titleNorm": "how canada and the eu are teaming up",
+    "type": "card",
+    "timestamp": 1789667412141
   }
 ]
