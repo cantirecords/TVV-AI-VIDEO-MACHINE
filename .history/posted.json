@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/attempted-trump-assassin-thomas-crooks-behavior-revealed-red-flags-before-attack-former-fbi-agent",
-    "titleNorm": "attempted trump assassin thomas crooks behavior revealed red",
-    "type": "reel",
-    "timestamp": 1789631709771
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/top-democrat-places-hold-trump-administrations-plan-sell-136508465",
-    "titleNorm": "top democrat places hold on trump administrations plan",
-    "type": "card",
-    "timestamp": 1789632433561
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/federal-judge-restricts-warrantless-immigration-arrests-southern-california-136514562",
     "titleNorm": "federal judge restricts warrantless immigration arrests in southern",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "what the fed039s rate hike reveals about warsh",
     "type": "reel",
     "timestamp": 1789669628827
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/global-ai-safety-strategy-depends-us-china-cooperation-136516755",
+    "titleNorm": "a global ai safety strategy depends on uschina",
+    "type": "card",
+    "timestamp": 1789677788712
   }
 ]
