@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/republicans-seek-daylight-trump-politics-desk-rcna598415",
-    "titleNorm": "republicans seek daylight with trump from the politics",
-    "type": "card",
-    "timestamp": 1789696924681
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/park-service-quietly-awards-contracts-work-trumps-takeover-136510283",
     "titleNorm": "park service awards contracts to work on trumps",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "trump doesnt have a plan on iran voters",
     "type": "reel",
     "timestamp": 1789736753580
+  },
+  {
+    "url": "https://www.cbsnews.com/news/warren-buffett-stepping-aside-berkshire-hathaway-chairman/",
+    "titleNorm": "warren buffett stepping aside as berkshire hathaway chairman",
+    "type": "card",
+    "timestamp": 1789750069819
   }
 ]
