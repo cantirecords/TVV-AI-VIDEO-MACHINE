@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/global-ai-safety-strategy-depends-us-china-cooperation-136516755",
-    "titleNorm": "a global ai safety strategy depends on uschina",
-    "type": "card",
-    "timestamp": 1789677788712
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-campaign-north-carolina-rally-handpicked-senate-nominee-136483578",
-    "titleNorm": "trump to campaign in north carolina rally with",
-    "type": "reel",
-    "timestamp": 1789681009794
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/nbc-news-helicopter-crashes-kills-3-la-neighborhood-136482056",
-    "titleNorm": "3 people killed when nbc and telemundo news",
-    "type": "card",
-    "timestamp": 1789686841692
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "dna links arizona man who died by suicide",
     "type": "card",
     "timestamp": 1789717349560
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/driver-slammed-la-bus-news-helicopter-crash-charged-136541813",
+    "titleNorm": "the driver who slammed into an la bus",
+    "type": "card",
+    "timestamp": 1789734453570
   }
 ]
