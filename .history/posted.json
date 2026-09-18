@@ -40,5 +40,11 @@
     "titleNorm": "3 people killed when nbc and telemundo news",
     "type": "card",
     "timestamp": 1789686841692
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1789691726224
   }
 ]
