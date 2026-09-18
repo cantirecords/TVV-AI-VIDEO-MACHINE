@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284",
-    "titleNorm": "how canada and the eu are teaming up",
-    "type": "card",
-    "timestamp": 1789667412141
-  },
-  {
-    "url": "https://www.cbsnews.com/news/fed-rate-hike-warsh-trump-inflation/",
-    "titleNorm": "what the fed039s rate hike reveals about warsh",
-    "type": "reel",
-    "timestamp": 1789669628827
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/global-ai-safety-strategy-depends-us-china-cooperation-136516755",
     "titleNorm": "a global ai safety strategy depends on uschina",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "republicans seek daylight with trump from the politics",
     "type": "card",
     "timestamp": 1789696924681
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/park-service-quietly-awards-contracts-work-trumps-takeover-136510283",
+    "titleNorm": "park service awards contracts to work on trumps",
+    "type": "reel",
+    "timestamp": 1789716804830
   }
 ]
