@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1789691726224
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/republicans-seek-daylight-trump-politics-desk-rcna598415",
     "titleNorm": "republicans seek daylight with trump from the politics",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "the driver who slammed into an la bus",
     "type": "card",
     "timestamp": 1789734453570
+  },
+  {
+    "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+    "titleNorm": "trump doesnt have a plan on iran voters",
+    "type": "reel",
+    "timestamp": 1789736753580
   }
 ]
