@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/obituaries/singer-songwriter-broadway-composer-duncan-sheik-dead-56-rcna598308",
-    "titleNorm": "singersongwriter and broadway composer duncan sheik dies at",
-    "type": "reel",
-    "timestamp": 1789753695081
-  },
-  {
-    "url": "https://www.cbsnews.com/news/slotkin-xi-trump-iran-chinese-satellite-images-u-s-base-attack/",
-    "titleNorm": "senator urges trump to press xi on chinese",
-    "type": "card",
-    "timestamp": 1789759054713
-  },
-  {
-    "url": "https://www.foxnews.com/us/los-angeles-nbc-helicopter-plummeting-ground-dashcam-video",
-    "titleNorm": "los angeles nbc helicopter seen plummeting toward ground",
-    "type": "reel",
-    "timestamp": 1789765703173
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/bail-set-ice-officer-accused-lying-assault-shooting-minneapolis-rcna598491",
     "titleNorm": "ice agent christian castro pleads not guilty to",
     "type": "card",
@@ -46,5 +28,11 @@
     "titleNorm": "fencing goes up around the main kennedy center",
     "type": "card",
     "timestamp": 1789794936032
+  },
+  {
+    "url": "https://www.foxnews.com/us/kavanaugh-throws-trump-lifeline-mail-ballot-rules-supreme-court-more-top-headlines",
+    "titleNorm": "kavanaugh throws trump a lifeline on mail ballot",
+    "type": "card",
+    "timestamp": 1789811648235
   }
 ]
