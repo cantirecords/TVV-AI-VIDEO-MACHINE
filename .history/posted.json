@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/kavanaugh-throws-trump-lifeline-mail-ballot-rules-supreme-court-more-top-headlines",
-    "titleNorm": "kavanaugh throws trump a lifeline on mail ballot",
-    "type": "card",
-    "timestamp": 1789811648235
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
     "titleNorm": "oil prices are high but could be much",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump vows to form ai force says he",
     "type": "card",
     "timestamp": 1789844668227
+  },
+  {
+    "url": "https://www.foxnews.com/us/federal-judges-reveal-private-coordination-behind-trump-immigration-cases-more-top-headlines",
+    "titleNorm": "federal judges reveal private coordination behind trump immigration",
+    "type": "card",
+    "timestamp": 1789854864434
   }
 ]
