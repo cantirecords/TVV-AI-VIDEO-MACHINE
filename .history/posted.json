@@ -34,5 +34,11 @@
     "titleNorm": "trump announces agreement with denmark to secure permanent",
     "type": "reel",
     "timestamp": 1789833713159
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-officer-accused-lying-fbi-about-minneapolis-shooting-pleads-not-guilty",
+    "titleNorm": "ice officer accused of lying to fbi about",
+    "type": "card",
+    "timestamp": 1789836823609
   }
 ]
