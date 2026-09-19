@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-begins-building-border-wall-texas-big-136565895",
-    "titleNorm": "trump administration begins building border wall in texas",
-    "type": "reel",
-    "timestamp": 1789777832369
-  },
-  {
-    "url": "https://www.nbcnews.com/business/media/trump-bans-cnn-ms-now-politico-white-house-rcna598609",
-    "titleNorm": "trump says hes banning cnn ms now and",
-    "type": "card",
-    "timestamp": 1789778752980
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "oil prices are high but could be much",
     "type": "reel",
     "timestamp": 1789816787097
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
+    "titleNorm": "ms now says its journalists were denied access",
+    "type": "card",
+    "timestamp": 1789824826121
   }
 ]
