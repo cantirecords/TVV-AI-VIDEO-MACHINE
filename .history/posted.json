@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/oil-prices-high-worse-trump-chinas-xi-136580397",
-    "titleNorm": "oil prices are high but could be much",
-    "type": "reel",
-    "timestamp": 1789816787097
-  },
-  {
     "url": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
     "titleNorm": "ms now says its journalists were denied access",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "texas air national guard pilot ejects safely before",
     "type": "reel",
     "timestamp": 1789856715400
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1789861571394
   }
 ]
