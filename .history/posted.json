@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/driver-slammed-la-bus-news-helicopter-crash-charged-136541813",
-    "titleNorm": "the driver who slammed into an la bus",
-    "type": "card",
-    "timestamp": 1789734453570
-  },
-  {
     "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
     "titleNorm": "trump doesnt have a plan on iran voters",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "ice agent christian castro pleads not guilty to",
     "type": "card",
     "timestamp": 1789768933572
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-begins-building-border-wall-texas-big-136565895",
+    "titleNorm": "trump administration begins building border wall in texas",
+    "type": "reel",
+    "timestamp": 1789777832369
   }
 ]
