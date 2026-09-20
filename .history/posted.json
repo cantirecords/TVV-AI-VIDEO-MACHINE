@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641",
-    "titleNorm": "trump announces agreement with denmark to secure permanent",
-    "type": "reel",
-    "timestamp": 1789833713159
-  },
-  {
-    "url": "https://www.foxnews.com/us/ice-officer-accused-lying-fbi-about-minneapolis-shooting-pleads-not-guilty",
-    "titleNorm": "ice officer accused of lying to fbi about",
-    "type": "card",
-    "timestamp": 1789836823609
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/fbi-warned-immigration-authorities-fake-tradwife-dating-profiles-rcna598685",
     "titleNorm": "fbi warned immigration authorities about fake tradwife dating",
     "type": "reel",
@@ -52,5 +40,11 @@
     "titleNorm": "trump will be at the airport to greet",
     "type": "card",
     "timestamp": 1789870314090
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-banning-cnn-ms-now-politico-white-house/",
+    "titleNorm": "trump says he039s banning cnn politico and ms",
+    "type": "reel",
+    "timestamp": 1789880930562
   }
 ]
