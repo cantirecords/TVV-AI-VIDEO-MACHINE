@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/federal-judges-reveal-private-coordination-behind-trump-immigration-cases-more-top-headlines",
-    "titleNorm": "federal judges reveal private coordination behind trump immigration",
-    "type": "card",
-    "timestamp": 1789854864434
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-air-national-guard-pilot-ejects-safely-before-f-16-crash-michigan",
-    "titleNorm": "texas air national guard pilot ejects safely before",
-    "type": "reel",
-    "timestamp": 1789856715400
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "3 killed in navajo nation flood include 7yearold",
     "type": "card",
     "timestamp": 1789891293360
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/denmarks-leaders-cautiously-optimistic-trumps-announcement-greenland-deal-136582645",
+    "titleNorm": "denmarks leaders are cautiously optimistic about trumps announcement",
+    "type": "reel",
+    "timestamp": 1789904481139
   }
 ]
