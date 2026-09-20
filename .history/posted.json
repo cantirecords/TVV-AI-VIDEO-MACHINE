@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-banning-cnn-ms-now-politico-white-house/",
-    "titleNorm": "trump says he039s banning cnn politico and ms",
-    "type": "reel",
-    "timestamp": 1789880930562
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/3-killed-navajo-nation-flood-include-7-year-136575967",
     "titleNorm": "3 killed in navajo nation flood include 7yearold",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1789923961124
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/ms-now-cnn-politico-journalists-denied-access-white-136583845",
+    "titleNorm": "ms now cnn and politico say their journalists",
+    "type": "reel",
+    "timestamp": 1789930739166
   }
 ]
