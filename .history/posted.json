@@ -34,5 +34,11 @@
     "titleNorm": "ms now cnn and politico say their journalists",
     "type": "reel",
     "timestamp": 1789930739166
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+    "titleNorm": "trump says hes creating an ai force and",
+    "type": "card",
+    "timestamp": 1789934183487
   }
 ]
