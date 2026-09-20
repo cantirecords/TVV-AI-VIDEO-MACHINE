@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/white-house/ms-now-journalists-denied-access-white-house-trump-announced-ban-rcna598677",
-    "titleNorm": "ms now says its journalists were denied access",
-    "type": "card",
-    "timestamp": 1789824826121
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641",
     "titleNorm": "trump announces agreement with denmark to secure permanent",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "judge rejects pamela smarts latest bid for new",
     "type": "reel",
     "timestamp": 1789863325462
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-airport-greet-xi-chinas-leader-arrives-us-136577203",
+    "titleNorm": "trump will be at the airport to greet",
+    "type": "card",
+    "timestamp": 1789870314090
   }
 ]
