@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/3-killed-navajo-nation-flood-include-7-year-136575967",
-    "titleNorm": "3 killed in navajo nation flood include 7yearold",
-    "type": "card",
-    "timestamp": 1789891293360
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/denmarks-leaders-cautiously-optimistic-trumps-announcement-greenland-deal-136582645",
     "titleNorm": "denmarks leaders are cautiously optimistic about trumps announcement",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "trump says hes creating an ai force and",
     "type": "card",
     "timestamp": 1789934183487
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/knife-attack-sikh-trucker-wyoming-stirs-fresh-fears-136575777",
+    "titleNorm": "knife attack on sikh trucker in wyoming stirs",
+    "type": "card",
+    "timestamp": 1789941764320
   }
 ]
