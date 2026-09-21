@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-officer-accused-lying-fbi-about-minneapolis-shooting-pleads-not-guilty",
-    "titleNorm": "ice officer accused of lying to fbi about",
-    "type": "reel",
-    "timestamp": 1789967681567
-  },
-  {
     "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-vows-break-silence-lawyer-warns-public-attacks",
     "titleNorm": "lindsay clancy holdout juror makes new promise as",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "ice shooting rocks austin as democrat demands bodycam",
     "type": "reel",
     "timestamp": 1789996200191
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-trump-bashing-chilled-speech-major-saga-renewed",
+    "titleNorm": "fox news campus radicals newsletter trump bashing chilled",
+    "type": "card",
+    "timestamp": 1790011338320
   }
 ]
