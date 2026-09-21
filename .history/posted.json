@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/ms-now-cnn-politico-journalists-denied-access-white-136583845",
-    "titleNorm": "ms now cnn and politico say their journalists",
-    "type": "reel",
-    "timestamp": 1789930739166
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
-    "titleNorm": "trump says hes creating an ai force and",
-    "type": "card",
-    "timestamp": 1789934183487
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/knife-attack-sikh-trucker-wyoming-stirs-fresh-fears-136575777",
-    "titleNorm": "knife attack on sikh trucker in wyoming stirs",
-    "type": "card",
-    "timestamp": 1789941764320
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/rising-gas-prices-frustrate-voters-trump-inexpensive-price-136597370",
-    "titleNorm": "rising gas prices frustrate voters trump says its",
-    "type": "reel",
-    "timestamp": 1789943783161
-  },
-  {
     "url": "https://www.nbcnews.com/politics/politics-news/trump-meeting-zohran-mamdani-nyc-gracie-mansion-rcna598817",
     "titleNorm": "trump set to meet with new york city",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "lindsay clancy holdout juror makes new promise as",
     "type": "card",
     "timestamp": 1789969086604
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "card",
+    "timestamp": 1789989679970
   }
 ]
