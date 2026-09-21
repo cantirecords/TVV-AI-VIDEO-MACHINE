@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/politics-news/trump-meeting-zohran-mamdani-nyc-gracie-mansion-rcna598817",
-    "titleNorm": "trump set to meet with new york city",
-    "type": "card",
-    "timestamp": 1789951088298
-  },
-  {
     "url": "https://www.foxnews.com/us/ice-officer-accused-lying-fbi-about-minneapolis-shooting-pleads-not-guilty",
     "titleNorm": "ice officer accused of lying to fbi about",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1789989679970
+  },
+  {
+    "url": "https://www.foxnews.com/us/ice-shooting-rocks-austin-democrat-demands-bodycam-video-independent-probe",
+    "titleNorm": "ice shooting rocks austin as democrat demands bodycam",
+    "type": "reel",
+    "timestamp": 1789996200191
   }
 ]
