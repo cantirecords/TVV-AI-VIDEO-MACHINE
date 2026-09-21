@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/denmarks-leaders-cautiously-optimistic-trumps-announcement-greenland-deal-136582645",
-    "titleNorm": "denmarks leaders are cautiously optimistic about trumps announcement",
-    "type": "reel",
-    "timestamp": 1789904481139
-  },
-  {
     "url": "https://www.foxnews.com/us/alleged-killer-mom-corie-walsh-ruled-too-dangerous-return-home-psychiatrist-warns-risk-can-change",
     "titleNorm": "alleged killer mom corie walsh ruled too dangerous",
     "type": "card",
@@ -46,5 +40,11 @@
     "titleNorm": "rising gas prices frustrate voters trump says its",
     "type": "reel",
     "timestamp": 1789943783161
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/trump-meeting-zohran-mamdani-nyc-gracie-mansion-rcna598817",
+    "titleNorm": "trump set to meet with new york city",
+    "type": "card",
+    "timestamp": 1789951088298
   }
 ]
