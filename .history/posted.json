@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-trump-bashing-chilled-speech-major-saga-renewed",
-    "titleNorm": "fox news campus radicals newsletter trump bashing chilled",
-    "type": "card",
-    "timestamp": 1790011338320
-  },
-  {
     "url": "https://www.foxnews.com/us/attorney-busts-biggest-misconception-karmelo-anthony-filing-key-track-meet-murder-case",
     "titleNorm": "attorney busts biggest misconception in karmelo anthony filing",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1790054153077
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/2-battling-fire-yosemite-killed-helicopter-crash-rcna599074",
+    "titleNorm": "2 battling fire at yosemite killed in helicopter",
+    "type": "card",
+    "timestamp": 1790055311684
   }
 ]
