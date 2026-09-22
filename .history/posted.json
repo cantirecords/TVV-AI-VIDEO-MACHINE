@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1790054153077
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/2-battling-fire-yosemite-killed-helicopter-crash-rcna599074",
-    "titleNorm": "2 battling fire at yosemite killed in helicopter",
-    "type": "card",
-    "timestamp": 1790055311684
-  },
-  {
     "url": "https://www.foxnews.com/us/law-professor-killer-stalked-shark-circling-ex-mother-in-law-murder-for-hire-ambush",
     "titleNorm": "law professors killer stalked him like a shark",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "trump and xi see tensions flare over ai",
     "type": "reel",
     "timestamp": 1790096982720
+  },
+  {
+    "url": "https://www.foxnews.com/us/texas-prosecutors-take-death-penalty-off-table-man-accused-murdering-wife-fleeing-italy",
+    "titleNorm": "texas prosecutors take death penalty off the table",
+    "type": "card",
+    "timestamp": 1790104947952
   }
 ]
