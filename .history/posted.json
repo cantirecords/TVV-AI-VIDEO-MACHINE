@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/paramount-skydance-antitrust-deal-warner-bros-discovery/",
-    "titleNorm": "paramount skydance reaches antitrust deal with states over",
-    "type": "card",
-    "timestamp": 1790036566481
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "florida plastic surgeon accused of killing attorney in",
     "type": "reel",
     "timestamp": 1790078255051
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/rubio-defends-trump-white-house-ban-cnn-politico-ms-now-rcna599169",
+    "titleNorm": "rubio defends trumps banning media organizations arguing there",
+    "type": "card",
+    "timestamp": 1790090150834
   }
 ]
