@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ice-shooting-rocks-austin-democrat-demands-bodycam-video-independent-probe",
-    "titleNorm": "ice shooting rocks austin as democrat demands bodycam",
-    "type": "reel",
-    "timestamp": 1789996200191
-  },
-  {
     "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-trump-bashing-chilled-speech-major-saga-renewed",
     "titleNorm": "fox news campus radicals newsletter trump bashing chilled",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "paramount skydance reaches antitrust deal with states over",
     "type": "card",
     "timestamp": 1790036566481
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1790054153077
   }
 ]
