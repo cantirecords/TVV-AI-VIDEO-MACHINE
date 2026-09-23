@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-prosecutors-take-death-penalty-off-table-man-accused-murdering-wife-fleeing-italy",
-    "titleNorm": "texas prosecutors take death penalty off the table",
-    "type": "card",
-    "timestamp": 1790104947952
-  },
-  {
     "url": "https://www.cbsnews.com/news/ai-agent-swarm-hugging-face-openai-harm/",
     "titleNorm": "what is an ai swarm and why is",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "bodycam footage captures moments after ice shooting of",
     "type": "card",
     "timestamp": 1790146526252
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-administration-tells-congress-admit-17500-white-south-136665312",
+    "titleNorm": "trump administration tells congress it will admit 17500",
+    "type": "reel",
+    "timestamp": 1790150065376
   }
 ]
