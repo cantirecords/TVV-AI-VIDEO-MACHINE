@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bodycam-footage-captures-moments-after-ice-shooting-venezuelan-migrant-austin",
-    "titleNorm": "bodycam footage captures moments after ice shooting of",
-    "type": "card",
-    "timestamp": 1790146526252
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-tells-congress-admit-17500-white-south-136665312",
-    "titleNorm": "trump administration tells congress it will admit 17500",
-    "type": "reel",
-    "timestamp": 1790150065376
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
     "titleNorm": "huge data centres rise at china speed to",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "former news anchor working for california democrat arrested",
     "type": "reel",
     "timestamp": 1790188302930
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/second-man-arrested-death-tasia-fortune-rcna599395",
+    "titleNorm": "second man arrested in death of mississippi woman",
+    "type": "card",
+    "timestamp": 1790196515519
   }
 ]
