@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/rubio-defends-trump-white-house-ban-cnn-politico-ms-now-rcna599169",
-    "titleNorm": "rubio defends trumps banning media organizations arguing there",
-    "type": "card",
-    "timestamp": 1790090150834
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-xi-tensions-flare-ai-trade-iran-seek-136640291",
-    "titleNorm": "trump and xi see tensions flare over ai",
-    "type": "reel",
-    "timestamp": 1790096982720
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-prosecutors-take-death-penalty-off-table-man-accused-murdering-wife-fleeing-italy",
     "titleNorm": "texas prosecutors take death penalty off the table",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1790125336104
+  },
+  {
+    "url": "https://www.foxnews.com/us/bodycam-footage-captures-moments-after-ice-shooting-venezuelan-migrant-austin",
+    "titleNorm": "bodycam footage captures moments after ice shooting of",
+    "type": "card",
+    "timestamp": 1790146526252
   }
 ]
