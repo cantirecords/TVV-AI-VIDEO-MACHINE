@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/synagogue-shooting-belleville-ontario-yom-kippur/",
-    "titleNorm": "police officer wounded in shooting near ontario synagogue",
-    "type": "card",
-    "timestamp": 1790184841501
-  },
-  {
-    "url": "https://www.foxnews.com/us/former-news-anchor-working-california-democrat-arrested-immigration-authorities-las-vegas-airport",
-    "titleNorm": "former news anchor working for california democrat arrested",
-    "type": "reel",
-    "timestamp": 1790188302930
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/second-man-arrested-death-tasia-fortune-rcna599395",
     "titleNorm": "second man arrested in death of mississippi woman",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "texas man charged with capital murder after 5yearold",
     "type": "card",
     "timestamp": 1790215444823
+  },
+  {
+    "url": "https://www.cbsnews.com/news/storm-nolo-hurricane-hawaii/",
+    "titleNorm": "hawaii under another hurricane watch as new storm",
+    "type": "reel",
+    "timestamp": 1790235929577
   }
 ]
