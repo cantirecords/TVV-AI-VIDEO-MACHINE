@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1790171278156
-  },
-  {
     "url": "https://www.cbsnews.com/news/synagogue-shooting-belleville-ontario-yom-kippur/",
     "titleNorm": "police officer wounded in shooting near ontario synagogue",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "chinese president xi set to arrive in dc",
     "type": "reel",
     "timestamp": 1790210524472
+  },
+  {
+    "url": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting",
+    "titleNorm": "texas man charged with capital murder after 5yearold",
+    "type": "card",
+    "timestamp": 1790215444823
   }
 ]
