@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/storm-nolo-hurricane-hawaii/",
-    "titleNorm": "hawaii under another hurricane watch as new storm",
-    "type": "reel",
-    "timestamp": 1790235929577
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/mississippi-police-make-2nd-arrest-death-black-woman-136686415",
-    "titleNorm": "mississippi police make 2nd arrest in death of",
-    "type": "card",
-    "timestamp": 1790236508038
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/facebook-accused-deceiving-users-new-mexico-trial-privacy-136701002",
     "titleNorm": "facebook accused of deceiving users in new mexico",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "texas triple murderer uses last words before execution",
     "type": "reel",
     "timestamp": 1790274813898
+  },
+  {
+    "url": "https://www.foxnews.com/us/california-gunman-repeatedly-released-deadly-rampage-fiery-shootout-deputies",
+    "titleNorm": "california gunman repeatedly released before deadly rampage fiery",
+    "type": "card",
+    "timestamp": 1790283272584
   }
 ]
