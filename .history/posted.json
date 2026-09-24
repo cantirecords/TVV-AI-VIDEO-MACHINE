@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting",
-    "titleNorm": "texas man charged with capital murder after 5yearold",
-    "type": "card",
-    "timestamp": 1790215444823
-  },
-  {
     "url": "https://www.cbsnews.com/news/storm-nolo-hurricane-hawaii/",
     "titleNorm": "hawaii under another hurricane watch as new storm",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "oil prices back up as us and iran",
     "type": "reel",
     "timestamp": 1790257539319
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/newsom-talks-climate-world-leaders-new-york-accuses-136698219",
+    "titleNorm": "newsom talks climate with world leaders in new",
+    "type": "card",
+    "timestamp": 1790271949640
   }
 ]
