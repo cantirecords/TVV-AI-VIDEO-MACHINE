@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "huge data centres rise at china speed to",
-    "type": "card",
-    "timestamp": 1790166322000
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
@@ -40,5 +34,11 @@
     "titleNorm": "us iran hold first talks since june as",
     "type": "card",
     "timestamp": 1790205555483
+  },
+  {
+    "url": "https://www.foxnews.com/us/chinese-president-xi-set-arrive-dc-high-stakes-trump-summit-more-top-headlines",
+    "titleNorm": "chinese president xi set to arrive in dc",
+    "type": "reel",
+    "timestamp": 1790210524472
   }
 ]
