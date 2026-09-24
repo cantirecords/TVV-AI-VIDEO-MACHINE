@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/second-man-arrested-death-tasia-fortune-rcna599395",
-    "titleNorm": "second man arrested in death of mississippi woman",
-    "type": "card",
-    "timestamp": 1790196515519
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/xi-heads-trump-visit-after-making-china-global-136695450",
-    "titleNorm": "xi heads into trump visit after making china",
-    "type": "reel",
-    "timestamp": 1790199801718
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
-    "titleNorm": "us iran hold first talks since june as",
-    "type": "card",
-    "timestamp": 1790205555483
-  },
-  {
-    "url": "https://www.foxnews.com/us/chinese-president-xi-set-arrive-dc-high-stakes-trump-summit-more-top-headlines",
-    "titleNorm": "chinese president xi set to arrive in dc",
-    "type": "reel",
-    "timestamp": 1790210524472
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting",
     "titleNorm": "texas man charged with capital murder after 5yearold",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "mississippi police make 2nd arrest in death of",
     "type": "card",
     "timestamp": 1790236508038
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/facebook-accused-deceiving-users-new-mexico-trial-privacy-136701002",
+    "titleNorm": "facebook accused of deceiving users in new mexico",
+    "type": "card",
+    "timestamp": 1790254807550
   }
 ]
