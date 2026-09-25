@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/newsom-talks-climate-world-leaders-new-york-accuses-136698219",
-    "titleNorm": "newsom talks climate with world leaders in new",
-    "type": "card",
-    "timestamp": 1790271949640
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates",
-    "titleNorm": "texas triple murderer uses last words before execution",
-    "type": "reel",
-    "timestamp": 1790274813898
-  },
-  {
     "url": "https://www.foxnews.com/us/california-gunman-repeatedly-released-deadly-rampage-fiery-shootout-deputies",
     "titleNorm": "california gunman repeatedly released before deadly rampage fiery",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "hayden panettieres overdose shows fentanyl crisis doesnt discriminate",
     "type": "card",
     "timestamp": 1790302869270
+  },
+  {
+    "url": "https://www.cbsnews.com/news/abraham-accords-countries-hold-first-official-meeting-since-oct-7-attacks/",
+    "titleNorm": "abraham accords countries hold first official meeting since",
+    "type": "reel",
+    "timestamp": 1790323429573
   }
 ]
