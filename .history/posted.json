@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/facebook-accused-deceiving-users-new-mexico-trial-privacy-136701002",
-    "titleNorm": "facebook accused of deceiving users in new mexico",
-    "type": "card",
-    "timestamp": 1790254807550
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
-    "titleNorm": "oil prices back up as us and iran",
-    "type": "reel",
-    "timestamp": 1790257539319
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/newsom-talks-climate-world-leaders-new-york-accuses-136698219",
     "titleNorm": "newsom talks climate with world leaders in new",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
     "timestamp": 1790296822465
+  },
+  {
+    "url": "https://www.foxnews.com/us/hayden-panettiere-overdose-shows-fentanyl-crisis-doesnt-discriminate-stanford-psychiatrist-says",
+    "titleNorm": "hayden panettieres overdose shows fentanyl crisis doesnt discriminate",
+    "type": "card",
+    "timestamp": 1790302869270
   }
 ]
