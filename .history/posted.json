@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/hayden-panettiere-overdose-shows-fentanyl-crisis-doesnt-discriminate-stanford-psychiatrist-says",
-    "titleNorm": "hayden panettieres overdose shows fentanyl crisis doesnt discriminate",
-    "type": "card",
-    "timestamp": 1790302869270
-  },
-  {
     "url": "https://www.cbsnews.com/news/abraham-accords-countries-hold-first-official-meeting-since-oct-7-attacks/",
     "titleNorm": "abraham accords countries hold first official meeting since",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1790345837381
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1790362203028
   }
 ]
