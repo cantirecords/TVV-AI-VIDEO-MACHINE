@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/abraham-accords-countries-hold-first-official-meeting-since-oct-7-attacks/",
-    "titleNorm": "abraham accords countries hold first official meeting since",
-    "type": "reel",
-    "timestamp": 1790323429573
-  },
-  {
-    "url": "https://www.cbsnews.com/news/california-supreme-court-riverside-county-chad-bianco-ballot-seizure-case/",
-    "titleNorm": "california sheriff unlawfully seized ballots state supreme court",
-    "type": "card",
-    "timestamp": 1790324300826
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/invited-china-state-dinner-white-house-releases-guest-136740703",
     "titleNorm": "who was invited to china state dinner white",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "dreading your winter commute these hand warmers will",
     "type": "card",
     "timestamp": 1790362881445
+  },
+  {
+    "url": "https://www.cbsnews.com/news/pittsburgh-doctor-idris-evans-killed-in-bed-remembered/",
+    "titleNorm": "pittsburgh doctor killed while he slept remembered as",
+    "type": "card",
+    "timestamp": 1790376972449
   }
 ]
