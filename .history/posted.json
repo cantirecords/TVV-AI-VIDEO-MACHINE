@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1790362203028
-  },
-  {
-    "url": "https://www.nbcnews.com/select/shopping/best-hand-warmers-rcna240344",
-    "titleNorm": "dreading your winter commute these hand warmers will",
-    "type": "card",
-    "timestamp": 1790362881445
-  },
-  {
-    "url": "https://www.cbsnews.com/news/pittsburgh-doctor-idris-evans-killed-in-bed-remembered/",
-    "titleNorm": "pittsburgh doctor killed while he slept remembered as",
-    "type": "card",
-    "timestamp": 1790376972449
-  },
-  {
-    "url": "https://www.foxnews.com/us/michigan-nurse-accused-breaking-bones-bruising-premature-infant-childrens-hospital",
-    "titleNorm": "michigan nurse accused of breaking bones and bruising",
-    "type": "reel",
-    "timestamp": 1790378714771
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/report-finds-security-deficiencies-utah-university-charlie-kirk-136762900",
     "titleNorm": "report finds many security deficiencies at university where",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "parents accuse oregon hospital of making them drive",
     "type": "card",
     "timestamp": 1790405331557
+  },
+  {
+    "url": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates",
+    "titleNorm": "texas triple murderer uses last words before execution",
+    "type": "reel",
+    "timestamp": 1790422792908
   }
 ]
