@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/report-finds-security-deficiencies-utah-university-charlie-kirk-136762900",
-    "titleNorm": "report finds many security deficiencies at university where",
-    "type": "card",
-    "timestamp": 1790384603890
-  },
-  {
     "url": "https://www.foxnews.com/us/suspect-pittsburgh-doctors-murder-released-without-bail-prior-burglary-charge-court-docs",
     "titleNorm": "suspect in pittsburgh doctors murder had been released",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "ole miss names students found dead as official",
     "type": "card",
     "timestamp": 1790423782833
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/protesters-xis-policies-push-change-earshot-white-house-136742287",
+    "titleNorm": "protesters of xis policies push for change in",
+    "type": "card",
+    "timestamp": 1790436095025
   }
 ]
