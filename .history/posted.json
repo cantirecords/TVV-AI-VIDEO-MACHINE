@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351",
-    "titleNorm": "europe frets as the kremlin pushes the limits",
-    "type": "card",
-    "timestamp": 1790467257392
-  },
-  {
-    "url": "https://www.nbcnews.com/select/shopping/best-hand-warmers-rcna240344",
-    "titleNorm": "dreading your winter commute these hand warmers will",
-    "type": "reel",
-    "timestamp": 1790470034828
-  },
-  {
     "url": "https://www.cbsnews.com/news/storm-nolo-hurricane-hawaii/",
     "titleNorm": "hurricane nolo weakens but still brings heavy rain",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "report finds many security deficiencies at university where",
     "type": "card",
     "timestamp": 1790504216360
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/homeland-security-defends-officers-immigrants-fatal-car-crash-136728301",
+    "titleNorm": "homeland security defends officers in immigrants fatal car",
+    "type": "reel",
+    "timestamp": 1790518360931
   }
 ]
