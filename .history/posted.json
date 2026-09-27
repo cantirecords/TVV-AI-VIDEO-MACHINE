@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/brightline-reworks-debt-bankruptcy-court-high-speed-trains-136754805",
-    "titleNorm": "brightline reworks debt in bankruptcy court highspeed trains",
-    "type": "reel",
-    "timestamp": 1790457759866
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "security lapses at utah campus where charlie kirk",
-    "type": "card",
-    "timestamp": 1790458939628
-  },
-  {
     "url": "https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351",
     "titleNorm": "europe frets as the kremlin pushes the limits",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "third suspect arrested in death of mississippi woman",
     "type": "reel",
     "timestamp": 1790497667799
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/report-finds-security-deficiencies-utah-university-charlie-kirk-136762900",
+    "titleNorm": "report finds many security deficiencies at university where",
+    "type": "card",
+    "timestamp": 1790504216360
   }
 ]
