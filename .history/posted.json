@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/third-suspect-arrested-death-mississippi-woman-found-hanging-tree-rcna599617",
-    "titleNorm": "third suspect arrested in death of mississippi woman",
-    "type": "reel",
-    "timestamp": 1790497667799
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/report-finds-security-deficiencies-utah-university-charlie-kirk-136762900",
-    "titleNorm": "report finds many security deficiencies at university where",
-    "type": "card",
-    "timestamp": 1790504216360
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/homeland-security-defends-officers-immigrants-fatal-car-crash-136728301",
     "titleNorm": "homeland security defends officers in immigrants fatal car",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "iran fully prepared for war to resume but",
     "type": "card",
     "timestamp": 1790537077203
+  },
+  {
+    "url": "https://www.foxnews.com/us/michigan-nurse-accused-breaking-bones-bruising-premature-infant-childrens-hospital",
+    "titleNorm": "michigan nurse accused of breaking bones and bruising",
+    "type": "card",
+    "timestamp": 1790548834861
   }
 ]
