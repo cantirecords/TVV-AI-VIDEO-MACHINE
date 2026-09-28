@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/michigan-nurse-accused-breaking-bones-bruising-premature-infant-childrens-hospital",
-    "titleNorm": "michigan nurse accused of breaking bones and bruising",
-    "type": "card",
-    "timestamp": 1790548834861
-  },
-  {
-    "url": "https://www.nbcnews.com/select/shopping/best-towel-warmers-rcna600083",
-    "titleNorm": "6 towel warmers that will make your shower",
-    "type": "reel",
-    "timestamp": 1790550877041
-  },
-  {
-    "url": "https://www.cbsnews.com/news/england-raf-fairford-us-military-air-force-bomb-disposal/",
-    "titleNorm": "5 arrested near base used by us on",
-    "type": "card",
-    "timestamp": 1790558236449
-  },
-  {
     "url": "https://www.foxnews.com/us/woman-found-dead-unexplained-trauma-central-park-nypd-searches-answers",
     "titleNorm": "woman found dead with unexplained trauma in central",
     "type": "reel",
@@ -28,5 +10,11 @@
     "titleNorm": "china as usual uses un speech to promote",
     "type": "card",
     "timestamp": 1790582028878
+  },
+  {
+    "url": "https://www.foxnews.com/us/georgia-man-18-charged-murder-after-dismembered-human-remains-found-car-trunk",
+    "titleNorm": "georgia man 18 charged with murder after dismembered",
+    "type": "reel",
+    "timestamp": 1790605160113
   }
 ]
