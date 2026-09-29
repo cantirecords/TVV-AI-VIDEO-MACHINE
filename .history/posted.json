@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/georgia-man-18-charged-murder-after-dismembered-human-remains-found-car-trunk",
-    "titleNorm": "georgia man 18 charged with murder after dismembered",
-    "type": "reel",
-    "timestamp": 1790605160113
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/people-killed-injured-shooting-detroit-strip-club-police-136800235",
     "titleNorm": "3 dead 4 hurt in shooting at detroit",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "watch american idol alum caleb flynn tells cops",
     "type": "reel",
     "timestamp": 1790647819566
+  },
+  {
+    "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
+    "titleNorm": "russia hammers ukraine039s capital with major daytime drone",
+    "type": "card",
+    "timestamp": 1790648602089
   }
 ]
