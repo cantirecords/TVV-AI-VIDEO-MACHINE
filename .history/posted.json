@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/people-killed-injured-shooting-detroit-strip-club-police-136800235",
-    "titleNorm": "3 dead 4 hurt in shooting at detroit",
-    "type": "card",
-    "timestamp": 1790611964130
-  },
-  {
-    "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
-    "titleNorm": "vape store arrests near ole miss campus not",
-    "type": "reel",
-    "timestamp": 1790628159194
-  },
-  {
     "url": "https://www.nbcnews.com/world/latin-america/search-loved-ones-remains-three-months-venezuela-earthquakes-rcna600302",
     "titleNorm": "a search for their loved ones remains three",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "russia hammers ukraine039s capital with major daytime drone",
     "type": "card",
     "timestamp": 1790648602089
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+    "titleNorm": "trump denies reports he offered iran sanctions relief",
+    "type": "reel",
+    "timestamp": 1790671894161
   }
 ]
