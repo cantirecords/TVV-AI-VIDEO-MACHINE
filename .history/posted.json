@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/latin-america/search-loved-ones-remains-three-months-venezuela-earthquakes-rcna600302",
-    "titleNorm": "a search for their loved ones remains three",
-    "type": "card",
-    "timestamp": 1790633999350
-  },
-  {
-    "url": "https://www.foxnews.com/us/american-idol-alum-caleb-flynn-tells-cops-flag-carrying-stranger-came-door-before-wifes-shooting",
-    "titleNorm": "watch american idol alum caleb flynn tells cops",
-    "type": "reel",
-    "timestamp": 1790647819566
-  },
-  {
-    "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
-    "titleNorm": "russia hammers ukraine039s capital with major daytime drone",
-    "type": "card",
-    "timestamp": 1790648602089
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
     "titleNorm": "trump denies reports he offered iran sanctions relief",
     "type": "reel",
@@ -28,5 +10,11 @@
     "titleNorm": "vape store arrests near ole miss campus not",
     "type": "card",
     "timestamp": 1790673237540
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/justice-department/senate-gop-press-jack-smith-trump-jan-6-probe-doj-targets-investigator-rcna600306",
+    "titleNorm": "jack smith tells senators he wont be silenced",
+    "type": "card",
+    "timestamp": 1790698388483
   }
 ]
