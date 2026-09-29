@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
-    "titleNorm": "vape store arrests near ole miss campus not",
-    "type": "card",
-    "timestamp": 1790673237540
-  },
-  {
     "url": "https://www.nbcnews.com/politics/justice-department/senate-gop-press-jack-smith-trump-jan-6-probe-doj-targets-investigator-rcna600306",
     "titleNorm": "jack smith tells senators he wont be silenced",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "lindsay clancys shooter mcgavin unloads on hoodiewearing lawyer",
     "type": "card",
     "timestamp": 1790716111617
+  },
+  {
+    "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
+    "titleNorm": "vape store arrests near ole miss campus not",
+    "type": "reel",
+    "timestamp": 1790721033901
   }
 ]
