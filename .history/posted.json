@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
-    "titleNorm": "trump denies reports he offered iran sanctions relief",
-    "type": "reel",
-    "timestamp": 1790671894161
-  },
-  {
     "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
     "titleNorm": "vape store arrests near ole miss campus not",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "trump to host summit with top ai leaders",
     "type": "reel",
     "timestamp": 1790699830462
+  },
+  {
+    "url": "https://www.foxnews.com/us/lindsay-clancy-push-investigate-holdout-juror-paused-defense-prosecutors-agree-adjourn",
+    "titleNorm": "lindsay clancys shooter mcgavin unloads on hoodiewearing lawyer",
+    "type": "card",
+    "timestamp": 1790716111617
   }
 ]
