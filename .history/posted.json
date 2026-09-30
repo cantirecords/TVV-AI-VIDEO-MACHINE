@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/lindsay-clancy-push-investigate-holdout-juror-paused-defense-prosecutors-agree-adjourn",
-    "titleNorm": "lindsay clancys shooter mcgavin unloads on hoodiewearing lawyer",
-    "type": "card",
-    "timestamp": 1790716111617
-  },
-  {
-    "url": "https://www.foxnews.com/us/yemen-born-vape-shop-owner-ole-miss-fled-country-synthetic-drug-trafficking-indictment-docs",
-    "titleNorm": "vape store arrests near ole miss campus not",
-    "type": "reel",
-    "timestamp": 1790721033901
-  },
-  {
-    "url": "https://www.cbsnews.com/news/malcolm-jamal-warner-tenisha-warner-pamela-warner-lawsuit-interview/",
-    "titleNorm": "tenisha warner widow of malcolmjamal warner opens up",
-    "type": "card",
-    "timestamp": 1790729521337
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "reel",
@@ -34,5 +16,11 @@
     "titleNorm": "trump and major ai executives sign morally binding",
     "type": "reel",
     "timestamp": 1790758254432
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+    "titleNorm": "iran says it expects response to ceasefire plan",
+    "type": "card",
+    "timestamp": 1790773748219
   }
 ]
