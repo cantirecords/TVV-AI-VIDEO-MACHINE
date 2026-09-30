@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
-    "titleNorm": "trump and major ai executives sign morally binding",
-    "type": "reel",
-    "timestamp": 1790758254432
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
     "titleNorm": "iran says it expects response to ceasefire plan",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1790793652057
+  },
+  {
+    "url": "https://www.nbcnews.com/business/media/judge-allows-paramount-close-110-billion-takeover-warner-bros-discover-rcna600780",
+    "titleNorm": "judge allows paramount to close 110 billion takeover",
+    "type": "reel",
+    "timestamp": 1790801922338
   }
 ]
