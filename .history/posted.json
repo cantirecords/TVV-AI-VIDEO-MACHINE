@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tiktok-couple-charged-arson-house-fire-causes-10k-damage",
-    "titleNorm": "tiktok couple charged with arson after house fire",
-    "type": "reel",
-    "timestamp": 1790846065509
-  },
-  {
     "url": "https://www.nbcnews.com/politics/national-security/new-legislation-aims-block-renaming-aircraft-carrier-trump-rcna600888",
     "titleNorm": "new legislation aims to block renaming aircraft carrier",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "trump suggests fly dubai copilot may be linked",
     "type": "card",
     "timestamp": 1790885522745
+  },
+  {
+    "url": "https://www.foxnews.com/us/penn-state-cocaine-ring-suspect-attorney-warns-foolish-move-alleged-frat-drug-operation",
+    "titleNorm": "penn state cocaine ring suspects attorney warns of",
+    "type": "reel",
+    "timestamp": 1790895110128
   }
 ]
