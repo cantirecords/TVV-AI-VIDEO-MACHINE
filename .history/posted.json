@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/mass-migration-eroding-western-sovereignty-immigration-expert-warns",
-    "titleNorm": "mass migration eroding western sovereignty immigration expert warns",
-    "type": "reel",
-    "timestamp": 1790785869534
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1790793652057
-  },
-  {
     "url": "https://www.nbcnews.com/business/media/judge-allows-paramount-close-110-billion-takeover-warner-bros-discover-rcna600780",
     "titleNorm": "judge allows paramount to close 110 billion takeover",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "south carolina mom accused of knife attack on",
     "type": "card",
     "timestamp": 1790818925623
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1790841475483
   }
 ]
