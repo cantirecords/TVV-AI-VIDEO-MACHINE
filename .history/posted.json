@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/media/judge-allows-paramount-close-110-billion-takeover-warner-bros-discover-rcna600780",
-    "titleNorm": "judge allows paramount to close 110 billion takeover",
-    "type": "reel",
-    "timestamp": 1790801922338
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-obamacare-500-refund-checks/",
     "titleNorm": "trump sending 500 aca refund checks to nearly",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1790841475483
+  },
+  {
+    "url": "https://www.foxnews.com/us/tiktok-couple-charged-arson-house-fire-causes-10k-damage",
+    "titleNorm": "tiktok couple charged with arson after house fire",
+    "type": "reel",
+    "timestamp": 1790846065509
   }
 ]
