@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-obamacare-500-refund-checks/",
-    "titleNorm": "trump sending 500 aca refund checks to nearly",
-    "type": "card",
-    "timestamp": 1790808167970
-  },
-  {
-    "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-    "titleNorm": "trump doesnt have a plan on iran voters",
-    "type": "reel",
-    "timestamp": 1790818007083
-  },
-  {
-    "url": "https://www.foxnews.com/us/south-carolina-mom-accused-knife-attack-young-children-6-year-old-may-lose-arm-sheriffs-office",
-    "titleNorm": "south carolina mom accused of knife attack on",
-    "type": "card",
-    "timestamp": 1790818925623
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -28,5 +10,11 @@
     "titleNorm": "tiktok couple charged with arson after house fire",
     "type": "reel",
     "timestamp": 1790846065509
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/national-security/new-legislation-aims-block-renaming-aircraft-carrier-trump-rcna600888",
+    "titleNorm": "new legislation aims to block renaming aircraft carrier",
+    "type": "card",
+    "timestamp": 1790866862366
   }
 ]
