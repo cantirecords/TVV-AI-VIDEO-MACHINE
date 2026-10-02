@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/national-security/new-legislation-aims-block-renaming-aircraft-carrier-trump-rcna600888",
-    "titleNorm": "new legislation aims to block renaming aircraft carrier",
-    "type": "card",
-    "timestamp": 1790866862366
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-unveil-54-billion-south-korean-investment-alaska-136887911",
-    "titleNorm": "trump plugs 54 billion natural gas project in",
-    "type": "reel",
-    "timestamp": 1790874485338
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-flydubai-pilot-linked-to-iran/",
     "titleNorm": "trump suggests fly dubai copilot may be linked",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "fetal tissue supplier billed 765 procurement fee per",
     "type": "card",
     "timestamp": 1790900322489
+  },
+  {
+    "url": "https://www.foxnews.com/us/tiktok-couple-charged-arson-house-fire-causes-10k-damage",
+    "titleNorm": "tiktok couple charged with arson after house fire",
+    "type": "reel",
+    "timestamp": 1790920781693
   }
 ]
