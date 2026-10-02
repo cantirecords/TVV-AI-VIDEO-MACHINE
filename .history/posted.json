@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tiktok-couple-charged-arson-house-fire-causes-10k-damage",
-    "titleNorm": "tiktok couple charged with arson after house fire",
-    "type": "reel",
-    "timestamp": 1790920781693
-  },
-  {
-    "url": "https://www.foxnews.com/us/father-hoped-nyt-executive-son-would-visit-home-weeks-before-prosecutors-allege-deadly-in-law-ambush",
-    "titleNorm": "father hoped nyt executive son would visit home",
-    "type": "card",
-    "timestamp": 1790922285027
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/trump-clashes-ahead-new-supreme-court-term-begins-rcna600256",
     "titleNorm": "trump clashes ahead as new supreme court term",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "trump says iran ready to fold up",
     "type": "card",
     "timestamp": 1790947174536
+  },
+  {
+    "url": "https://www.cbsnews.com/news/gypsy-rose-blanchard-partner-ken-urker-dies-at-34/",
+    "titleNorm": "gypsy rose blanchard039s partner ken urker dies at",
+    "type": "card",
+    "timestamp": 1790966846197
   }
 ]
