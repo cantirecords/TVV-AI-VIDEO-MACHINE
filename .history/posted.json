@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murdaugh-lawyers-allege-prosecutors-withheld-witness-claim-police-chief-handled-murder-weapons-filing",
-    "titleNorm": "murdaugh lawyers allege prosecutors withheld witness claim that",
-    "type": "card",
-    "timestamp": 1790991184334
-  },
-  {
     "url": "https://www.foxnews.com/us/inside-explosive-cornell-rape-allegations-7-men-accused-conflicting-accounts-political-firestorm",
     "titleNorm": "inside explosive cornell rape allegations 7 men accused",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "ukiranian dual national bailed after raf fairford incident",
     "type": "card",
     "timestamp": 1791031789989
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/judge-overturns-trumps-decision-fire-court-appointed-us-136933315",
+    "titleNorm": "judge overturns trumps decision to fire courtappointed us",
+    "type": "reel",
+    "timestamp": 1791045406601
   }
 ]
