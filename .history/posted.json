@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/inside-explosive-cornell-rape-allegations-7-men-accused-conflicting-accounts-political-firestorm",
-    "titleNorm": "inside explosive cornell rape allegations 7 men accused",
-    "type": "reel",
-    "timestamp": 1791005688918
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/ohio-rape-dna-statute-limitations-rcna600394",
-    "titleNorm": "police knew who her rapist was the law",
-    "type": "card",
-    "timestamp": 1791011667350
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "nolo strengthens to a hurricane again in the",
     "type": "card",
     "timestamp": 1791046301115
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/households-pay-energy-trumps-policy-tank-136940136",
+    "titleNorm": "households will pay more for energy because of",
+    "type": "card",
+    "timestamp": 1791056124103
   }
 ]
