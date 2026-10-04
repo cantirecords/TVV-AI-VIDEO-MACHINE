@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/gypsy-rose-blanchard-partner-ken-urker-found-dead-louisiana-home-sheriff",
-    "titleNorm": "gypsy rose blanchards partner ken urker found dead",
-    "type": "reel",
-    "timestamp": 1791103226610
-  },
-  {
-    "url": "https://www.cbsnews.com/news/flydubai-plane-attempted-crash-hijacking-israel-dubai-what-to-know/",
-    "titleNorm": "more details emerge about flydubai copilot who tried",
-    "type": "card",
-    "timestamp": 1791104235179
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
     "titleNorm": "anger in the streets tens of thousands protest",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "inside explosive cornell rape allegations 7 men accused",
     "type": "reel",
     "timestamp": 1791143219539
+  },
+  {
+    "url": "https://www.nbcnews.com/world/middle-east/flydubai-copilot-acted-alone-rcna601436",
+    "titleNorm": "early indications suggest flydubai copilot acted alone in",
+    "type": "card",
+    "timestamp": 1791151489528
   }
 ]
