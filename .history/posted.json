@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/now-typhoon-nolo-after-pacific-hurricane-crosses-international-136991141",
-    "titleNorm": "now its typhoon nolo after pacific hurricane crosses",
-    "type": "reel",
-    "timestamp": 1791180130612
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
-    "titleNorm": "senior trump administration officials met to discuss iran",
-    "type": "card",
-    "timestamp": 1791186763333
-  },
-  {
     "url": "https://www.cbsnews.com/video/cornell-police-made-drug-arrest-chi-phi-22-hours-before-alleged-gang-rape-log/",
     "titleNorm": "cornell police made drug arrest at chi phi",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "some democrats dont expect to fill a supreme",
     "type": "card",
     "timestamp": 1791218019771
+  },
+  {
+    "url": "https://www.cbsnews.com/news/dennis-hastert-dies-former-house-speaker-illinois/",
+    "titleNorm": "dennis hastert disgraced former house speaker dies at",
+    "type": "reel",
+    "timestamp": 1791240670643
   }
 ]
