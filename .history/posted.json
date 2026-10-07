@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/freddie-jackson-rb-star-sang-are-lady-dies-70-rcna601957",
-    "titleNorm": "freddie jackson rb star who sang you are",
-    "type": "reel",
-    "timestamp": 1791320859021
-  },
-  {
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/robert-kelker-kelly-days-lives-general-hospital-soap-opera-star-dies-6-rcna601908",
-    "titleNorm": "robert kelkerkelly days of our lives and general",
-    "type": "card",
-    "timestamp": 1791321704795
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/families-us-troops-killed-iran-wars-deadliest-attack-137043744",
-    "titleNorm": "most families of us troops killed in the",
-    "type": "card",
-    "timestamp": 1791335198113
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1791337483500
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/sally-yates-former-acting-ag-clashed-trump-leading-cornell-assault-pro-rcna601914",
     "titleNorm": "sally yates former acting attorney general who defied",
     "type": "card",
@@ -34,5 +10,11 @@
     "titleNorm": "in maine senate debate collins and jackson both",
     "type": "reel",
     "timestamp": 1791363668662
+  },
+  {
+    "url": "https://www.cbsnews.com/news/october-7-gaza-war-three-years-later-how-israel-and-palestinian-kids-coping/",
+    "titleNorm": "how israeli and palestinian kids are coping 3",
+    "type": "card",
+    "timestamp": 1791384757147
   }
 ]
