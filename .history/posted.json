@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/maine-senate-debate-collins-jackson-trump/",
-    "titleNorm": "in maine senate debate collins and jackson both",
-    "type": "reel",
-    "timestamp": 1791363668662
-  },
-  {
     "url": "https://www.cbsnews.com/news/october-7-gaza-war-three-years-later-how-israel-and-palestinian-kids-coping/",
     "titleNorm": "how israeli and palestinian kids are coping 3",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "fbi arrests california woman accused of spying on",
     "type": "card",
     "timestamp": 1791404222851
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appeals-court-reverses-convictions-kidnapping-terrorism-case-involving-137073539",
+    "titleNorm": "appeals court reverses convictions in kidnapping and terrorism",
+    "type": "reel",
+    "timestamp": 1791414997784
   }
 ]
