@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/sally-yates-former-acting-ag-clashed-trump-leading-cornell-assault-pro-rcna601914",
-    "titleNorm": "sally yates former acting attorney general who defied",
-    "type": "card",
-    "timestamp": 1791359535257
-  },
-  {
     "url": "https://www.cbsnews.com/news/maine-senate-debate-collins-jackson-trump/",
     "titleNorm": "in maine senate debate collins and jackson both",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "dennis hastert disgraced former house speaker dies at",
     "type": "reel",
     "timestamp": 1791394306724
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/fbi-arrests-california-woman-accused-spying-taiwan-leaders-136995467",
+    "titleNorm": "fbi arrests california woman accused of spying on",
+    "type": "card",
+    "timestamp": 1791404222851
   }
 ]
