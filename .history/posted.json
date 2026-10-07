@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-criticizes-election-officials-arizonas-maricopa-county-error-137020966",
-    "titleNorm": "trump criticizes election officials in arizonas maricopa county",
-    "type": "card",
-    "timestamp": 1791279222797
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/arizona-opens-new-taiwan-representative-office-rejecting-warning-137022920",
     "titleNorm": "arizona welcomes new taiwan representative office rejecting warning",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "robert kelkerkelly days of our lives and general",
     "type": "card",
     "timestamp": 1791321704795
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/families-us-troops-killed-iran-wars-deadliest-attack-137043744",
+    "titleNorm": "most families of us troops killed in the",
+    "type": "card",
+    "timestamp": 1791335198113
   }
 ]
