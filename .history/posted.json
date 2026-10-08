@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/october-7-gaza-war-three-years-later-how-israel-and-palestinian-kids-coping/",
-    "titleNorm": "how israeli and palestinian kids are coping 3",
-    "type": "card",
-    "timestamp": 1791384757147
-  },
-  {
-    "url": "https://www.cbsnews.com/news/dennis-hastert-dies-former-house-speaker-illinois/",
-    "titleNorm": "dennis hastert disgraced former house speaker dies at",
-    "type": "reel",
-    "timestamp": 1791394306724
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/fbi-arrests-california-woman-accused-spying-taiwan-leaders-136995467",
     "titleNorm": "fbi arrests california woman accused of spying on",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "republican john james seeks some distance from trump",
     "type": "card",
     "timestamp": 1791419558466
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/okinawa-governor-discipline-us-military-japan-after-murder-137056444",
+    "titleNorm": "okinawa governor wants discipline for us military in",
+    "type": "reel",
+    "timestamp": 1791441378599
   }
 ]
