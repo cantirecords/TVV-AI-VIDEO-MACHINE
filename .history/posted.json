@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-reverses-convictions-kidnapping-terrorism-case-involving-137073539",
-    "titleNorm": "appeals court reverses convictions in kidnapping and terrorism",
-    "type": "card",
-    "timestamp": 1791528960364
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/family-mexican-father-shot-dead-ice-chicago-files-137101897",
     "titleNorm": "family of mexican father shot dead by ice",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "arizona man arrested after allegedly emailing white house",
     "type": "reel",
     "timestamp": 1791565765193
+  },
+  {
+    "url": "https://www.cbsnews.com/news/trump-promised-lower-prices-cost-living-inflation/",
+    "titleNorm": "trump promised to lower prices for americans here039s",
+    "type": "card",
+    "timestamp": 1791573288697
   }
 ]
