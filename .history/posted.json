@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/biden-era-fbi-records-reveal-sprawling-wiles-monitoring-more-top-headlines",
-    "titleNorm": "bidenera fbi records reveal sprawling wiles monitoring and",
-    "type": "reel",
-    "timestamp": 1791506038059
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-atlanta-family-government-trial-mistaken-fbi-137080374",
-    "titleNorm": "appeals court says family cannot take the government",
-    "type": "card",
-    "timestamp": 1791506845974
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/appeals-court-reverses-convictions-kidnapping-terrorism-case-involving-137073539",
     "titleNorm": "appeals court reverses convictions in kidnapping and terrorism",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "family of mexican father shot dead by ice",
     "type": "reel",
     "timestamp": 1791537940991
+  },
+  {
+    "url": "https://www.foxnews.com/us/former-massachusetts-police-officer-faces-murder-trial-pregnant-woman-staged-suicide",
+    "titleNorm": "former massachusetts police officer faces murder trial over",
+    "type": "card",
+    "timestamp": 1791554339697
   }
 ]
