@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/trump-promised-lower-prices-cost-living-inflation/",
-    "titleNorm": "trump promised to lower prices for americans here039s",
-    "type": "card",
-    "timestamp": 1791573288697
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/el-nios-storm-killer-winds-climates-warming-waters-137119158",
     "titleNorm": "el nios stormkiller winds and climates warming waters",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "appeals court says family cannot take the government",
     "type": "reel",
     "timestamp": 1791612591165
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1791627184401
   }
 ]
