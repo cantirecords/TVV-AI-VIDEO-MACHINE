@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
-    "titleNorm": "arizona man arrested after allegedly emailing white house",
-    "type": "reel",
-    "timestamp": 1791565765193
-  },
-  {
     "url": "https://www.cbsnews.com/news/trump-promised-lower-prices-cost-living-inflation/",
     "titleNorm": "trump promised to lower prices for americans here039s",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
     "timestamp": 1791601896093
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appeals-court-atlanta-family-government-trial-mistaken-fbi-137080374",
+    "titleNorm": "appeals court says family cannot take the government",
+    "type": "reel",
+    "timestamp": 1791612591165
   }
 ]
