@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1791627184401
-  },
-  {
     "url": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
     "titleNorm": "arizona man arrested after allegedly emailing white house",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "severe turbulence injures 9 aboard avianca flight forcing",
     "type": "card",
     "timestamp": 1791661694816
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/",
+    "titleNorm": "at least 4 dead as isaias brings threat",
+    "type": "card",
+    "timestamp": 1791673439194
   }
 ]
