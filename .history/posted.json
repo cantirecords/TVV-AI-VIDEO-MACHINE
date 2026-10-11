@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
-    "titleNorm": "arizona man arrested after allegedly emailing white house",
-    "type": "reel",
-    "timestamp": 1791636660910
-  },
-  {
     "url": "https://www.cbsnews.com/news/erie-pennsylvania-mass-shooting-perry-street/",
     "titleNorm": "9 killed including 2 children in mass shooting",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "trump says ukraine needs new president blames zelenskyy",
     "type": "reel",
     "timestamp": 1791675811586
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-katie-bailey-lead-white-house-outreach-congress-rcna602727",
+    "titleNorm": "trump announces katie bailey to lead white house",
+    "type": "card",
+    "timestamp": 1791686637528
   }
 ]
