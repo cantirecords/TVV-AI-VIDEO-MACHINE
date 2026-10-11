@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report",
-    "titleNorm": "nine people killed in pennsylvania shooting suspected gunman",
-    "type": "card",
-    "timestamp": 1791710816903
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/4-family-members-shooter-dead-rural-georgia-shooting-137166725",
     "titleNorm": "4 family members and shooter dead in rural",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "delaware neighborhood on edge after masked men with",
     "type": "card",
     "timestamp": 1791751281217
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/white-house/thom-tillis-fuel-deal-russia-may-break-law-ukraine-rcna602757",
+    "titleNorm": "lawmakers push back on trumps fuel deal with",
+    "type": "reel",
+    "timestamp": 1791762650576
   }
 ]
