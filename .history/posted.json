@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/el-nios-storm-killer-winds-climates-warming-waters-137119158",
-    "titleNorm": "el nios stormkiller winds and climates warming waters",
-    "type": "reel",
-    "timestamp": 1791658070423
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/severe-turbulence-injures-9-aboard-avianca-flight-forcing-137135177",
-    "titleNorm": "severe turbulence injures 9 aboard avianca flight forcing",
-    "type": "card",
-    "timestamp": 1791661694816
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/",
     "titleNorm": "at least 4 dead as isaias brings threat",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "delaware neighborhood on edge after masked men with",
     "type": "reel",
     "timestamp": 1791698779665
+  },
+  {
+    "url": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report",
+    "titleNorm": "nine people killed in pennsylvania shooting suspected gunman",
+    "type": "card",
+    "timestamp": 1791710816903
   }
 ]
