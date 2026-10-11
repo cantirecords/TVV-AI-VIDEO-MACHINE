@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/erie-pennsylvania-mass-shooting-perry-street/",
-    "titleNorm": "9 killed including 2 children in mass shooting",
-    "type": "card",
-    "timestamp": 1791647993226
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/el-nios-storm-killer-winds-climates-warming-waters-137119158",
     "titleNorm": "el nios stormkiller winds and climates warming waters",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "trump announces katie bailey to lead white house",
     "type": "card",
     "timestamp": 1791686637528
+  },
+  {
+    "url": "https://www.foxnews.com/us/delaware-neighborhood-edge-after-masked-men-apparent-weapons-knock-doors-homes",
+    "titleNorm": "delaware neighborhood on edge after masked men with",
+    "type": "reel",
+    "timestamp": 1791698779665
   }
 ]
