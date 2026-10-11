@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/",
-    "titleNorm": "at least 4 dead as isaias brings threat",
-    "type": "card",
-    "timestamp": 1791673439194
-  },
-  {
-    "url": "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/",
-    "titleNorm": "trump says ukraine needs new president blames zelenskyy",
-    "type": "reel",
-    "timestamp": 1791675811586
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-katie-bailey-lead-white-house-outreach-congress-rcna602727",
     "titleNorm": "trump announces katie bailey to lead white house",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "nine people killed in pennsylvania shooting suspected gunman",
     "type": "card",
     "timestamp": 1791710816903
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/4-family-members-shooter-dead-rural-georgia-shooting-137166725",
+    "titleNorm": "4 family members and shooter dead in rural",
+    "type": "reel",
+    "timestamp": 1791724417837
   }
 ]
