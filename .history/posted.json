@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/therapy-dogs-bring-calm-joy-students-shooting-colorado-137153349",
-    "titleNorm": "therapy dogs bring calm and joy to students",
-    "type": "reel",
-    "timestamp": 1791785895930
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "ukraine strikes yandex data centre in third attack",
-    "type": "card",
-    "timestamp": 1791787419817
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-time-ukraine-new-president-blames-zelenskyy-diesel-137162216",
     "titleNorm": "trump says i think its time for ukraine",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1791821812151
+  },
+  {
+    "url": "https://www.today.com/video/trump-s-russian-oil-deal-draws-strong-bipartisan-backlash-271429189814",
+    "titleNorm": "trump faces intense bipartisan backlash over russian oil",
+    "type": "reel",
+    "timestamp": 1791846566132
   }
 ]
