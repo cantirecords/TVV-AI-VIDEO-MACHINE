@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/4-family-members-shooter-dead-rural-georgia-shooting-137166725",
-    "titleNorm": "4 family members and shooter dead in rural",
-    "type": "reel",
-    "timestamp": 1791724417837
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512",
-    "titleNorm": "bracing for the midterms trump says he will",
-    "type": "card",
-    "timestamp": 1791734538998
-  },
-  {
     "url": "https://www.foxnews.com/us/discarded-trash-uncaps-41-year-old-murder-case-ritzy-seaside-resort-town-authorities-say",
     "titleNorm": "discarded trash uncaps 41yearold murder case in ritzy",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "iranbacked houthis claim latest attacks on airport in",
     "type": "card",
     "timestamp": 1791763503426
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/therapy-dogs-bring-calm-joy-students-shooting-colorado-137153349",
+    "titleNorm": "therapy dogs bring calm and joy to students",
+    "type": "reel",
+    "timestamp": 1791785895930
   }
 ]
