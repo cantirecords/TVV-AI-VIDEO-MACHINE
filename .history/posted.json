@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/therapy-dogs-bring-calm-joy-students-shooting-colorado-137153349",
-    "titleNorm": "therapy dogs bring calm and joy to students",
-    "type": "card",
-    "timestamp": 1791865405443
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/florida-execute-prisoner-killed-cellmate-hopes-death-sentence-137215408",
-    "titleNorm": "florida to execute prisoner who killed cellmate in",
-    "type": "reel",
-    "timestamp": 1791874742314
-  },
-  {
     "url": "https://www.foxnews.com/us/trial-college-students-murder-zeroes-rum-bottle-vulgar-note-missing-evidence",
     "titleNorm": "trial in college students murder zeroes in on",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "man dies after falling out of six flags",
     "type": "reel",
     "timestamp": 1791908073178
+  },
+  {
+    "url": "https://www.foxnews.com/us/trumps-new-press-secretary-takes-podium-after-weeks-long-white-house-shake-up-more-top-headlines",
+    "titleNorm": "trumps new press secretary takes the podium after",
+    "type": "card",
+    "timestamp": 1791920258854
   }
 ]
