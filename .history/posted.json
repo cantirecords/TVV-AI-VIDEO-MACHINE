@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/man-dies-after-falling-from-six-flags-goliath-roller-coaster-271484485723",
-    "titleNorm": "man dies after falling out of six flags",
-    "type": "reel",
-    "timestamp": 1791908073178
-  },
-  {
-    "url": "https://www.foxnews.com/us/trumps-new-press-secretary-takes-podium-after-weeks-long-white-house-shake-up-more-top-headlines",
-    "titleNorm": "trumps new press secretary takes the podium after",
-    "type": "card",
-    "timestamp": 1791920258854
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/florida-execute-prisoner-killed-cellmate-hopes-death-sentence-137215408",
     "titleNorm": "florida to execute prisoner who killed cellmate in",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "4 family members and shooter dead in rural",
     "type": "card",
     "timestamp": 1791945219214
+  },
+  {
+    "url": "https://www.foxnews.com/us/feds-arrest-man-nantucket-early-morning-operation-involving-multiple-felony-charges",
+    "titleNorm": "feds arrest man on nantucket in early morning",
+    "type": "reel",
+    "timestamp": 1791964425356
   }
 ]
