@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/trial-college-students-murder-zeroes-rum-bottle-vulgar-note-missing-evidence",
-    "titleNorm": "trial in college students murder zeroes in on",
-    "type": "card",
-    "timestamp": 1791893895761
-  },
-  {
     "url": "https://www.today.com/video/man-dies-after-falling-from-six-flags-goliath-roller-coaster-271484485723",
     "titleNorm": "man dies after falling out of six flags",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "duane davis gets 40 years to life for",
     "type": "card",
     "timestamp": 1791934243607
+  },
+  {
+    "url": "https://www.foxnews.com/us/embattled-soros-backed-da-blames-criminal-police-misconduct-accused-philly-cop-killer-prior-murder-case",
+    "titleNorm": "embattled sorosbacked da blames criminal police misconduct in",
+    "type": "reel",
+    "timestamp": 1791940896759
   }
 ]
