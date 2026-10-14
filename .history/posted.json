@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/4-family-members-shooter-dead-rural-georgia-shooting-137166725",
-    "titleNorm": "4 family members and shooter dead in rural",
-    "type": "card",
-    "timestamp": 1791945219214
-  },
-  {
     "url": "https://www.foxnews.com/us/feds-arrest-man-nantucket-early-morning-operation-involving-multiple-felony-charges",
     "titleNorm": "feds arrest man on nantucket in early morning",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "six flags rider who fell to his death",
     "type": "card",
     "timestamp": 1791986927147
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1792003697507
   }
 ]
