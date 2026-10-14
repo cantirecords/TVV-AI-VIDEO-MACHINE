@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/feds-arrest-man-nantucket-early-morning-operation-involving-multiple-felony-charges",
-    "titleNorm": "feds arrest man on nantucket in early morning",
-    "type": "reel",
-    "timestamp": 1791964425356
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1791965301185
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "vance gives pointed warning after federal raid on",
     "type": "card",
     "timestamp": 1792004509914
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-campaigns-arizona-montana-2nd-day-western-swing-137261762",
+    "titleNorm": "trump campaigns in arizona and montana on 2nd",
+    "type": "card",
+    "timestamp": 1792018138032
   }
 ]
