@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1792003697507
-  },
-  {
-    "url": "https://www.foxnews.com/us/vance-gives-pointed-warning-after-federal-raid-ilhan-omars-home-more-top-headlines",
-    "titleNorm": "vance gives pointed warning after federal raid on",
-    "type": "card",
-    "timestamp": 1792004509914
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-campaigns-arizona-montana-2nd-day-western-swing-137261762",
-    "titleNorm": "trump campaigns in arizona and montana on 2nd",
-    "type": "card",
-    "timestamp": 1792018138032
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/wyoming-grad-student-allegedly-poisoned-colleague-arrested-fleeing-137242761",
-    "titleNorm": "grad student who allegedly poisoned colleague arrested fleeing",
-    "type": "reel",
-    "timestamp": 1792020107568
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/kentucky-police-arrest-8-child-abuse-trafficking-rape-investigation-rcna603573",
     "titleNorm": "kentucky police arrest 8 in child abuse trafficking",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "woman accused of deadly revenge crash faces jury",
     "type": "card",
     "timestamp": 1792046435823
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1792065179470
   }
 ]
