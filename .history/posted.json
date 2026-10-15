@@ -34,5 +34,11 @@
     "titleNorm": "will the fed raise interest rates this month",
     "type": "reel",
     "timestamp": 1792100261153
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/black-panther-party-stalwarts-celebrate-1966-founding-oakland-137278023",
+    "titleNorm": "black panther party stalwarts to celebrate 1966 founding",
+    "type": "card",
+    "timestamp": 1792106686269
   }
 ]
