@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/six-flags-rider-fell-death-remission-cancer-survived-crazy-car-fire-sister-says",
-    "titleNorm": "six flags rider who fell to his death",
-    "type": "card",
-    "timestamp": 1792116351605
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/wisconsins-republican-candidate-governor-distance-trump-nail-biter-137288952",
     "titleNorm": "wisconsins republican candidate for governor keeps his distance",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "trump says ukraine resuming strikes on russian oil",
     "type": "reel",
     "timestamp": 1792157171724
+  },
+  {
+    "url": "https://www.foxnews.com/us/alex-murdaughs-wild-goose-chase-missing-murder-guns-targets-police-chief-expert",
+    "titleNorm": "alex murdaughs wild goose chase for missing murder",
+    "type": "card",
+    "timestamp": 1792170212876
   }
 ]
