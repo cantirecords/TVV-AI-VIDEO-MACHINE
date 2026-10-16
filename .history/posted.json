@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/doj-touts-hundreds-gun-drug-arrests-st-louis-surge-operation-ends-violence-not-inevitable",
-    "titleNorm": "doj touts hundreds of gun drug arrests as",
-    "type": "card",
-    "timestamp": 1792096827109
-  },
-  {
-    "url": "https://www.nbcnews.com/business/economy/will-fed-raise-interest-rates-kevin-warsh-offer-clues-rcna603661",
-    "titleNorm": "will the fed raise interest rates this month",
-    "type": "reel",
-    "timestamp": 1792100261153
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/black-panther-party-stalwarts-celebrate-1966-founding-oakland-137278023",
-    "titleNorm": "black panther party stalwarts to celebrate 1966 founding",
-    "type": "card",
-    "timestamp": 1792106686269
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-mom-vanished-after-peoples-court-airing-now-ex-fiance-arrested-murder-charge-15-years-later",
-    "titleNorm": "florida mom vanished after peoples court airing now",
-    "type": "reel",
-    "timestamp": 1792110861080
-  },
-  {
     "url": "https://www.foxnews.com/us/six-flags-rider-fell-death-remission-cancer-survived-crazy-car-fire-sister-says",
     "titleNorm": "six flags rider who fell to his death",
     "type": "card",
@@ -40,5 +16,11 @@
     "titleNorm": "teen accused of plotting mass shooting at chicagoarea",
     "type": "card",
     "timestamp": 1792136279920
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/",
+    "titleNorm": "3 children 1 teacher killed in oregon school",
+    "type": "card",
+    "timestamp": 1792154953139
   }
 ]
