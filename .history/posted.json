@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/",
-    "titleNorm": "3 children 1 teacher killed in oregon school",
-    "type": "card",
-    "timestamp": 1792154953139
-  },
-  {
-    "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848",
-    "titleNorm": "trump says ukraine resuming strikes on russian oil",
-    "type": "reel",
-    "timestamp": 1792157171724
-  },
-  {
     "url": "https://www.foxnews.com/us/alex-murdaughs-wild-goose-chase-missing-murder-guns-targets-police-chief-expert",
     "titleNorm": "alex murdaughs wild goose chase for missing murder",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "teen accused of plotting mass shooting at chicagoarea",
     "type": "reel",
     "timestamp": 1792197737841
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/black-panther-party-stalwarts-celebrate-1966-founding-oakland-137278023",
+    "titleNorm": "black panther party stalwarts to celebrate 1966 founding",
+    "type": "card",
+    "timestamp": 1792202397982
   }
 ]
