@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/murder-weapons-great-wolf-lodge-family-massacre-may-offer-premeditation-evidence-private-investigator",
-    "titleNorm": "murder weapons in great wolf lodge family massacre",
-    "type": "card",
-    "timestamp": 1792181577022
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/hot-weather-winds-raise-california-wildfire-threat-power-137278020",
-    "titleNorm": "hot weather and winds raise california wildfire threat",
-    "type": "reel",
-    "timestamp": 1792186223812
-  },
-  {
-    "url": "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme",
-    "titleNorm": "fbi returns most wanted fraudster to us after",
-    "type": "card",
-    "timestamp": 1792191994249
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/teen-accused-plotting-mass-shooting-chicago-area-hindu-137275418",
     "titleNorm": "teen accused of plotting mass shooting at chicagoarea",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "multiple fires burn in southern california triggering some",
     "type": "reel",
     "timestamp": 1792220926721
+  },
+  {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+    "titleNorm": "reported attacks on ships around strait of hormuz",
+    "type": "card",
+    "timestamp": 1792235739630
   }
 ]
