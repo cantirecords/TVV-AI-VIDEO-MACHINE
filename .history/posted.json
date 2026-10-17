@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/malibu-wildfire-rages-triggering-evacuations-southern-california-rcna603911",
-    "titleNorm": "multiple fires burn in southern california triggering some",
-    "type": "reel",
-    "timestamp": 1792220926721
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
     "titleNorm": "reported attacks on ships around strait of hormuz",
     "type": "card",
@@ -40,5 +34,11 @@
     "titleNorm": "ivy leagueeducated pediatrician allegedly murdered by husband who",
     "type": "reel",
     "timestamp": 1792262550436
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/wisconsins-republican-candidate-governor-distance-trump-nail-biter-137288952",
+    "titleNorm": "wisconsins republican candidate for governor keeps his distance",
+    "type": "card",
+    "timestamp": 1792266513958
   }
 ]
