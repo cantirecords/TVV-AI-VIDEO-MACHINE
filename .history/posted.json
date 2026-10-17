@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
-    "titleNorm": "reported attacks on ships around strait of hormuz",
-    "type": "card",
-    "timestamp": 1792235739630
-  },
-  {
     "url": "https://www.foxnews.com/us/3-children-1-adult-killed-oregon-elementary-school-shooting-suspected-gunman-dead-police",
     "titleNorm": "armed bystander fatally shoots suspected teen gunman after",
     "type": "reel",
@@ -52,5 +46,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1792276340504
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/iran-war-votes-congress-become-focal-point-campaign-137341523",
+    "titleNorm": "iran war votes in congress become a focal",
+    "type": "card",
+    "timestamp": 1792280199215
   }
 ]
