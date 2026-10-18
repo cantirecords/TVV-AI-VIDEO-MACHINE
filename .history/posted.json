@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/immigrant-ice-was-seeking-agent-hit-man-suv-dead-2017-family-says-rcna603899",
-    "titleNorm": "immigrant ice was seeking when it hit man",
-    "type": "reel",
-    "timestamp": 1792299244210
-  },
-  {
     "url": "https://www.foxnews.com/us/suspected-florida-publix-slasher-walked-free-court-months-earlier-despite-victim-warnings",
     "titleNorm": "suspected florida publix slasher walked free from court",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "murder weapons in great wolf lodge family massacre",
     "type": "reel",
     "timestamp": 1792339460455
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/nellis-air-force-base-service-member-dies-after-137359469",
+    "titleNorm": "nellis air force base service member dies after",
+    "type": "card",
+    "timestamp": 1792347663465
   }
 ]
