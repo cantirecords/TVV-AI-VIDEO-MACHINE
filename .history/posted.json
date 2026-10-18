@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/3-children-1-adult-killed-oregon-elementary-school-shooting-suspected-gunman-dead-police",
-    "titleNorm": "armed bystander fatally shoots suspected teen gunman after",
-    "type": "reel",
-    "timestamp": 1792239651429
-  },
-  {
     "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/",
     "titleNorm": "3 children 1 teacher killed in oregon school",
     "type": "card",
@@ -58,5 +52,11 @@
     "titleNorm": "ukraine still can039t intercept drones due to starlink",
     "type": "reel",
     "timestamp": 1792282428217
+  },
+  {
+    "url": "https://www.foxnews.com/us/doj-touts-hundreds-gun-drug-arrests-st-louis-surge-operation-ends-violence-not-inevitable",
+    "titleNorm": "doj touts hundreds of gun drug arrests as",
+    "type": "card",
+    "timestamp": 1792288736388
   }
 ]
