@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/",
-    "titleNorm": "3 children 1 teacher killed in oregon school",
-    "type": "card",
-    "timestamp": 1792247744613
-  },
-  {
-    "url": "https://www.foxnews.com/us/horse-farm-owner-gets-life-prison-boyfriends-murder-claiming-self-defense",
-    "titleNorm": "horse farm owner gets life in prison for",
-    "type": "reel",
-    "timestamp": 1792252103124
-  },
-  {
     "url": "https://www.nbcnews.com/video/inside-ukraine-s-kill-zone-where-soldiers-face-swarming-killer-drones-271735365853",
     "titleNorm": "inside ukraines kill zone where soldiers face swarming",
     "type": "card",
@@ -58,5 +46,11 @@
     "titleNorm": "doj touts hundreds of gun drug arrests as",
     "type": "card",
     "timestamp": 1792288736388
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/immigrant-ice-was-seeking-agent-hit-man-suv-dead-2017-family-says-rcna603899",
+    "titleNorm": "immigrant ice was seeking when it hit man",
+    "type": "reel",
+    "timestamp": 1792299244210
   }
 ]
