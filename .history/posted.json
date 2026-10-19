@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-plans-renovate-dc-golf-course-legal-battle-rcna604147",
-    "titleNorm": "trump announces plans to renovate dc golf course",
-    "type": "reel",
-    "timestamp": 1792386139775
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/fire-crews-battle-southern-california-blaze-burned-6-137353781",
     "titleNorm": "fire crews battle southern california blaze that burned",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "child among 2 killed after vehicle drives onto",
     "type": "card",
     "timestamp": 1792425605853
+  },
+  {
+    "url": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful",
+    "titleNorm": "bend school district honors slain teacher praises staff",
+    "type": "reel",
+    "timestamp": 1792440211924
   }
 ]
