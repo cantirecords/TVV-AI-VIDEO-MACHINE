@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/fire-crews-battle-southern-california-blaze-burned-6-137353781",
-    "titleNorm": "fire crews battle southern california blaze that burned",
-    "type": "card",
-    "timestamp": 1792397702839
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/american-pope-brings-american-style-governance-vatican-health-137341244",
     "titleNorm": "an american pope brings americanstyle governance to the",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "bend school district honors slain teacher praises staff",
     "type": "reel",
     "timestamp": 1792440211924
+  },
+  {
+    "url": "https://www.foxnews.com/us/lsu-student-firefighter-fiance-mowed-down-near-campus-impaired-underage-driver-arrested",
+    "titleNorm": "lsu student and firefighter fianc mowed down near",
+    "type": "card",
+    "timestamp": 1792443240812
   }
 ]
