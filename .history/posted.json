@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064",
-    "titleNorm": "poll americans are anxious pessimistic and deeply unhappy",
-    "type": "card",
-    "timestamp": 1792376144815
-  },
-  {
     "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-plans-renovate-dc-golf-course-legal-battle-rcna604147",
     "titleNorm": "trump announces plans to renovate dc golf course",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "an american pope brings americanstyle governance to the",
     "type": "reel",
     "timestamp": 1792417606818
+  },
+  {
+    "url": "https://www.foxnews.com/us/child-among-2-killed-after-vehicle-drives-onto-soccer-field-kansas-sports-complex",
+    "titleNorm": "child among 2 killed after vehicle drives onto",
+    "type": "card",
+    "timestamp": 1792425605853
   }
 ]
