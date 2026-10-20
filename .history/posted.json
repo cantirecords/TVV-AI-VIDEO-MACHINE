@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/arizona-man-accused-plotting-mass-casualty-attack-religious-site-cookbook-tied-okc-bombing",
-    "titleNorm": "arizona man accused of plotting mass casualty attack",
-    "type": "card",
-    "timestamp": 1792474300463
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/mississippi-ag-says-police-shooting-killed-1-year-old-was-justified-rcna604424",
     "titleNorm": "mississippi ag says police shooting that killed 1yearold",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "pennsylvania warns of rise in congenital measles and",
     "type": "reel",
     "timestamp": 1792517214391
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-declines-hear-appeal-disputed-afghan-adoption-137382022",
+    "titleNorm": "supreme court declines to hear appeal in disputed",
+    "type": "card",
+    "timestamp": 1792525392095
   }
 ]
