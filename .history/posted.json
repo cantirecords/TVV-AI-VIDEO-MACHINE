@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "deadly fire at canada military base moved a",
-    "type": "reel",
-    "timestamp": 1792453893397
-  },
-  {
     "url": "https://www.nbcnews.com/politics/supreme-court/high-spirits-supreme-court-decide-fate-federal-ban-home-distilling-rcna603576",
     "titleNorm": "high spirits supreme court to decide fate of",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "mississippi ag says police shooting that killed 1yearold",
     "type": "card",
     "timestamp": 1792492500597
+  },
+  {
+    "url": "https://www.foxnews.com/us/unc-settles-trump-admin-probes-alleged-campus-antisemitism-race-based-admissions",
+    "titleNorm": "unc settles trump admin probes into alleged campus",
+    "type": "reel",
+    "timestamp": 1792497505612
   }
 ]
