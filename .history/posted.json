@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/american-pope-brings-american-style-governance-vatican-health-137341244",
-    "titleNorm": "an american pope brings americanstyle governance to the",
-    "type": "reel",
-    "timestamp": 1792417606818
-  },
-  {
-    "url": "https://www.foxnews.com/us/child-among-2-killed-after-vehicle-drives-onto-soccer-field-kansas-sports-complex",
-    "titleNorm": "child among 2 killed after vehicle drives onto",
-    "type": "card",
-    "timestamp": 1792425605853
-  },
-  {
     "url": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful",
     "titleNorm": "bend school district honors slain teacher praises staff",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "high spirits supreme court to decide fate of",
     "type": "card",
     "timestamp": 1792454529611
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-effort-revive-khalid-sheikh-mohammed-137379605",
+    "titleNorm": "supreme court rejects effort to revive khalid sheikh",
+    "type": "reel",
+    "timestamp": 1792472818069
   }
 ]
