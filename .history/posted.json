@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/bend-school-district-honors-slain-teacher-praises-staff-member-courage-during-attack-forever-grateful",
-    "titleNorm": "bend school district honors slain teacher praises staff",
-    "type": "reel",
-    "timestamp": 1792440211924
-  },
-  {
-    "url": "https://www.foxnews.com/us/lsu-student-firefighter-fiance-mowed-down-near-campus-impaired-underage-driver-arrested",
-    "titleNorm": "lsu student and firefighter fianc mowed down near",
-    "type": "card",
-    "timestamp": 1792443240812
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
     "titleNorm": "deadly fire at canada military base moved a",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "arizona man accused of plotting mass casualty attack",
     "type": "card",
     "timestamp": 1792474300463
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/mississippi-ag-says-police-shooting-killed-1-year-old-was-justified-rcna604424",
+    "titleNorm": "mississippi ag says police shooting that killed 1yearold",
+    "type": "card",
+    "timestamp": 1792492500597
   }
 ]
