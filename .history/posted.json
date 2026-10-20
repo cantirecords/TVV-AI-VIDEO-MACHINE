@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/high-spirits-supreme-court-decide-fate-federal-ban-home-distilling-rcna603576",
-    "titleNorm": "high spirits supreme court to decide fate of",
-    "type": "card",
-    "timestamp": 1792454529611
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-effort-revive-khalid-sheikh-mohammed-137379605",
     "titleNorm": "supreme court rejects effort to revive khalid sheikh",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "unc settles trump admin probes into alleged campus",
     "type": "reel",
     "timestamp": 1792497505612
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appeals-court-blocks-start-takeover-healthcare-operations-arizona-137389908",
+    "titleNorm": "appeals court blocks start of takeover of healthcare",
+    "type": "card",
+    "timestamp": 1792510005593
   }
 ]
