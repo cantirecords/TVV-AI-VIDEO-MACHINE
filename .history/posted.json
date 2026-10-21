@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/minnesota-teen-accused-plotting-terror-attack-mall-america-137396109",
-    "titleNorm": "minnesota teen accused of plotting terror attack at",
-    "type": "reel",
-    "timestamp": 1792543542094
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/supreme-court/justice-elena-kagan-accuses-conservative-majority-undermining-democrac-rcna604673",
-    "titleNorm": "justice elena kagan accuses supreme courts conservative majority",
-    "type": "card",
-    "timestamp": 1792544781416
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "kyle francis kennedy the granddaughter of sen robert",
     "type": "card",
     "timestamp": 1792585967856
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/vance-faces-tough-questions-iran-war-immigration-cbs-137356407",
+    "titleNorm": "vance faces tough questions on iran war immigration",
+    "type": "reel",
+    "timestamp": 1792591351747
   }
 ]
