@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/supreme-court-declines-hear-appeal-disputed-afghan-adoption-137382022",
-    "titleNorm": "supreme court declines to hear appeal in disputed",
-    "type": "card",
-    "timestamp": 1792525392095
-  },
-  {
     "url": "https://www.foxnews.com/us/accused-teen-killer-dashcam-prove-murder-two-girls-mowed-down-lawyer-says-not-accident",
     "titleNorm": "accused teen killers own dashcam could prove murder",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1792565125473
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/appeals-court-blocks-start-takeover-healthcare-operations-arizona-137389908",
+    "titleNorm": "appeals court blocks start of takeover of healthcare",
+    "type": "reel",
+    "timestamp": 1792569246975
   }
 ]
