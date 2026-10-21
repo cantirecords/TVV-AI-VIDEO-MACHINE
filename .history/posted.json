@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/accused-teen-killer-dashcam-prove-murder-two-girls-mowed-down-lawyer-says-not-accident",
-    "titleNorm": "accused teen killers own dashcam could prove murder",
-    "type": "reel",
-    "timestamp": 1792532965835
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "deadly fire at canada military base moved a",
-    "type": "card",
-    "timestamp": 1792536474432
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/minnesota-teen-accused-plotting-terror-attack-mall-america-137396109",
     "titleNorm": "minnesota teen accused of plotting terror attack at",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "appeals court blocks start of takeover of healthcare",
     "type": "reel",
     "timestamp": 1792569246975
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/kyle-francis-kennedy-granddaughter-sen-robert-kennedy-dies-137427362",
+    "titleNorm": "kyle francis kennedy the granddaughter of sen robert",
+    "type": "card",
+    "timestamp": 1792585967856
   }
 ]
