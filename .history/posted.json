@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/appeals-court-blocks-start-takeover-healthcare-operations-arizona-137389908",
-    "titleNorm": "appeals court blocks start of takeover of healthcare",
-    "type": "reel",
-    "timestamp": 1792569246975
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/kyle-francis-kennedy-granddaughter-sen-robert-kennedy-dies-137427362",
     "titleNorm": "kyle francis kennedy the granddaughter of sen robert",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "us ties with ukraine hit new low as",
     "type": "reel",
     "timestamp": 1792608636561
+  },
+  {
+    "url": "https://www.cbsnews.com/news/why-saudi-arabia-cant-stop-houthi-attacks-iran-war-yemen-oil-prices/",
+    "titleNorm": "why can039t saudi arabia stop the houthis039 deadly",
+    "type": "card",
+    "timestamp": 1792616401821
   }
 ]
