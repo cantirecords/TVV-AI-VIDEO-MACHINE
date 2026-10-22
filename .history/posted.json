@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/kyle-francis-kennedy-granddaughter-sen-robert-kennedy-dies-137427362",
-    "titleNorm": "kyle francis kennedy the granddaughter of sen robert",
-    "type": "card",
-    "timestamp": 1792585967856
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/vance-faces-tough-questions-iran-war-immigration-cbs-137356407",
-    "titleNorm": "vance faces tough questions on iran war immigration",
-    "type": "reel",
-    "timestamp": 1792591351747
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "video shows moments leading up to police fatally",
     "type": "card",
     "timestamp": 1792626910313
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/teacher-survived-oregon-school-attack-chance-protect-children-137460700",
+    "titleNorm": "teacher who survived oregon school attack says she",
+    "type": "card",
+    "timestamp": 1792635623975
   }
 ]
