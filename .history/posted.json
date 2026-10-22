@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/secret-sex-video-rocks-university-north-carolina-charlotte-fraternity-1-arrested-police",
-    "titleNorm": "secret sex video rocks university of north carolina",
-    "type": "card",
-    "timestamp": 1792656292533
-  },
-  {
     "url": "https://www.nbcnews.com/politics/donald-trump/trump-hopes-flatter-putin-negotiating-ukraine-experts-say-rcna604770",
     "titleNorm": "trump hopes to flatter putin into negotiating on",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "alabama governor commutes death sentence as doubts emerge",
     "type": "card",
     "timestamp": 1792695430909
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/6-people-arrested-allegedly-running-marriage-fraud-ring-137454409",
+    "titleNorm": "6 people arrested for allegedly running a marriage",
+    "type": "card",
+    "timestamp": 1792706446215
   }
 ]
