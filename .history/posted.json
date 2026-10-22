@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1792604726728
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/us-ties-ukraine-hit-new-low-trump-slights-137397527",
-    "titleNorm": "us ties with ukraine hit new low as",
-    "type": "reel",
-    "timestamp": 1792608636561
-  },
-  {
     "url": "https://www.cbsnews.com/news/why-saudi-arabia-cant-stop-houthi-attacks-iran-war-yemen-oil-prices/",
     "titleNorm": "why can039t saudi arabia stop the houthis039 deadly",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "officer who found man dead in home allegedly",
     "type": "reel",
     "timestamp": 1792645835321
+  },
+  {
+    "url": "https://www.foxnews.com/us/secret-sex-video-rocks-university-north-carolina-charlotte-fraternity-1-arrested-police",
+    "titleNorm": "secret sex video rocks university of north carolina",
+    "type": "card",
+    "timestamp": 1792656292533
   }
 ]
