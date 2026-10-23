@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/texas-mom-charged-manslaughter-allegedly-driving-82-mph-crash-killed-2-recent-college-grads",
-    "titleNorm": "texas mom charged with manslaughter after allegedly driving",
-    "type": "reel",
-    "timestamp": 1792692405287
-  },
-  {
-    "url": "https://www.foxnews.com/us/alabama-governor-commutes-death-sentence-doubts-emerge-evidence-murder-conviction",
-    "titleNorm": "alabama governor commutes death sentence as doubts emerge",
-    "type": "card",
-    "timestamp": 1792695430909
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/6-people-arrested-allegedly-running-marriage-fraud-ring-137454409",
     "titleNorm": "6 people arrested for allegedly running a marriage",
     "type": "card",
@@ -34,5 +22,11 @@
     "titleNorm": "judge orders trump to sit for deposition in",
     "type": "card",
     "timestamp": 1792733592142
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1792741733640
   }
 ]
