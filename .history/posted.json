@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral",
-    "titleNorm": "philly officer murdered in line of duty promoted",
-    "type": "card",
-    "timestamp": 1792678397187
-  },
-  {
     "url": "https://www.foxnews.com/us/texas-mom-charged-manslaughter-allegedly-driving-82-mph-crash-killed-2-recent-college-grads",
     "titleNorm": "texas mom charged with manslaughter after allegedly driving",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "injured bend oregon teacher tried to shut classroom",
     "type": "reel",
     "timestamp": 1792716475046
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-sit-deposition-10-billion-defamation-lawsuit-bbc-jan-6-rcna605034",
+    "titleNorm": "judge orders trump to sit for deposition in",
+    "type": "card",
+    "timestamp": 1792733592142
   }
 ]
