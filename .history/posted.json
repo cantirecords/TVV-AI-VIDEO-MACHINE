@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/donald-trump/trump-hopes-flatter-putin-negotiating-ukraine-experts-say-rcna604770",
-    "titleNorm": "trump hopes to flatter putin into negotiating on",
-    "type": "reel",
-    "timestamp": 1792671273019
-  },
-  {
     "url": "https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral",
     "titleNorm": "philly officer murdered in line of duty promoted",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "6 people arrested for allegedly running a marriage",
     "type": "card",
     "timestamp": 1792706446215
+  },
+  {
+    "url": "https://www.cbsnews.com/video/video-shows-moments-before-fatal-police-shooting-of-1-year-old-in-mississippi/",
+    "titleNorm": "video shows moments before fatal police shooting of",
+    "type": "card",
+    "timestamp": 1792715266848
   }
 ]
