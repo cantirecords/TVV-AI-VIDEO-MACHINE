@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/6-people-arrested-allegedly-running-marriage-fraud-ring-137454409",
-    "titleNorm": "6 people arrested for allegedly running a marriage",
-    "type": "card",
-    "timestamp": 1792706446215
-  },
-  {
     "url": "https://www.cbsnews.com/video/video-shows-moments-before-fatal-police-shooting-of-1-year-old-in-mississippi/",
     "titleNorm": "video shows moments before fatal police shooting of",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "reel",
     "timestamp": 1792741733640
+  },
+  {
+    "url": "https://www.foxnews.com/us/accused-philadelphia-cop-killer-eric-lewis-faces-new-federal-gun-robbery-charges-deadly-ambush",
+    "titleNorm": "accused philadelphia cop killer eric lewis faces new",
+    "type": "card",
+    "timestamp": 1792752034279
   }
 ]
