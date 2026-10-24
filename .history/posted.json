@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ex-cop-sped-away-hedge-funds-suv-after-fatal-george-washington-bridge-road-rage-shooting-report",
-    "titleNorm": "excop sped away in hedge funds suv after",
-    "type": "card",
-    "timestamp": 1792824002719
-  },
-  {
     "url": "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732",
     "titleNorm": "how starlink slowdown hit ukraines front line soldiers",
     "type": "reel",
@@ -34,5 +28,11 @@
     "titleNorm": "1 arrested after fire at hitler039s eagle039s nest",
     "type": "card",
     "timestamp": 1792866419673
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/jordanian-government-spokesperson-6-killed-28-wounded-church-137507162",
+    "titleNorm": "jordanian government spokesperson says 6 killed 28 wounded",
+    "type": "reel",
+    "timestamp": 1792868229585
   }
 ]
