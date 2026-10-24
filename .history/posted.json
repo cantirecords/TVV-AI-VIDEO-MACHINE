@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
-    "titleNorm": "trump administration cancels some canada tariffs sen susan",
-    "type": "card",
-    "timestamp": 1792784297279
-  },
-  {
-    "url": "https://www.foxnews.com/us/four-fraternity-pledges-arrested-hazing-allegations-teen-forced-truck-cops",
-    "titleNorm": "four fraternity pledges arrested on hazing allegations after",
-    "type": "card",
-    "timestamp": 1792795471243
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/trump-administration-stopped-sharing-evidence-good-pretti-killings-137497741",
-    "titleNorm": "trump administration stopped sharing evidence in good and",
-    "type": "reel",
-    "timestamp": 1792797589063
-  },
-  {
     "url": "https://www.foxnews.com/us/injured-bend-oregon-teacher-tried-shut-classroom-door-during-school-shooting-before-playing-dead",
     "titleNorm": "injured bend oregon teacher tried to shut classroom",
     "type": "card",
@@ -34,5 +16,11 @@
     "titleNorm": "excop sped away in hedge funds suv after",
     "type": "card",
     "timestamp": 1792824002719
+  },
+  {
+    "url": "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732",
+    "titleNorm": "how starlink slowdown hit ukraines front line soldiers",
+    "type": "reel",
+    "timestamp": 1792841095970
   }
 ]
