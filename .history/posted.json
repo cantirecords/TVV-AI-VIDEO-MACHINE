@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1792817655487
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-cop-sped-away-hedge-funds-suv-after-fatal-george-washington-bridge-road-rage-shooting-report",
     "titleNorm": "excop sped away in hedge funds suv after",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "accused philadelphia cop killer eric lewis faces new",
     "type": "reel",
     "timestamp": 1792858304809
+  },
+  {
+    "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+    "titleNorm": "1 arrested after fire at hitler039s eagle039s nest",
+    "type": "card",
+    "timestamp": 1792866419673
   }
 ]
