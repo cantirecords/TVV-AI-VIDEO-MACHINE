@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/oldest-warship-found-off-sweden/",
-    "titleNorm": "divers exploring oldest warship off sweden find new",
-    "type": "reel",
-    "timestamp": 1792764948754
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "card",
-    "timestamp": 1792769541264
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -40,5 +28,11 @@
     "titleNorm": "injured bend oregon teacher tried to shut classroom",
     "type": "card",
     "timestamp": 1792804491192
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1792817655487
   }
 ]
