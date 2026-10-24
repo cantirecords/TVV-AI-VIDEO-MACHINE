@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732",
-    "titleNorm": "how starlink slowdown hit ukraines front line soldiers",
-    "type": "reel",
-    "timestamp": 1792841095970
-  },
-  {
-    "url": "https://www.foxnews.com/us/sheriff-says-evidence-leaning-one-way-shooting-deaths-disabled-toddler-grandparents-report",
-    "titleNorm": "sheriff says evidence leaning one way in shooting",
-    "type": "card",
-    "timestamp": 1792842211321
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "execution staff warned iv site might have blown",
     "type": "reel",
     "timestamp": 1792881574110
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/oregon-man-killed-school-shooter-regrets-children-save-137521607",
+    "titleNorm": "man who killed school shooter says he regrets",
+    "type": "card",
+    "timestamp": 1792885886211
   }
 ]
