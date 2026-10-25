@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/man-fatally-struck-deputy-after-son-killed-cincinnati-137526586",
-    "titleNorm": "man who fatally struck deputy after his son",
-    "type": "reel",
-    "timestamp": 1792904659364
-  },
-  {
     "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
     "titleNorm": "cornell rape accuser can remain jane doe judge",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1792947259698
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-south-florida-rally-revives-idea-military-intervention-137524179",
+    "titleNorm": "trump at south florida rally revives the idea",
+    "type": "card",
+    "timestamp": 1792956198358
   }
 ]
