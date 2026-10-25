@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
-    "titleNorm": "trump administration cancels some canada tariffs amid close",
-    "type": "card",
-    "timestamp": 1792876726787
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/execution-staff-warned-iv-site-blown-christa-pikes-137493067",
-    "titleNorm": "execution staff warned iv site might have blown",
-    "type": "reel",
-    "timestamp": 1792881574110
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/oregon-man-killed-school-shooter-regrets-children-save-137521607",
-    "titleNorm": "man who killed school shooter says he regrets",
-    "type": "card",
-    "timestamp": 1792885886211
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -34,5 +16,11 @@
     "titleNorm": "cornell rape accuser can remain jane doe judge",
     "type": "card",
     "timestamp": 1792914909526
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1792929262902
   }
 ]
