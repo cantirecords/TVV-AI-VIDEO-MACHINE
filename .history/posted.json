@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
-    "titleNorm": "1 arrested after fire at hitler039s eagle039s nest",
-    "type": "card",
-    "timestamp": 1792866419673
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/jordanian-government-spokesperson-6-killed-28-wounded-church-137507162",
-    "titleNorm": "jordanian government spokesperson says 6 killed 28 wounded",
-    "type": "reel",
-    "timestamp": 1792868229585
-  },
-  {
     "url": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
     "titleNorm": "trump administration cancels some canada tariffs amid close",
     "type": "card",
@@ -40,5 +28,11 @@
     "titleNorm": "man who fatally struck deputy after his son",
     "type": "reel",
     "timestamp": 1792904659364
+  },
+  {
+    "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
+    "titleNorm": "cornell rape accuser can remain jane doe judge",
+    "type": "card",
+    "timestamp": 1792914909526
   }
 ]
