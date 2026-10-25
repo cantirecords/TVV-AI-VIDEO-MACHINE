@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1792854101972
-  },
-  {
-    "url": "https://www.foxnews.com/us/accused-philadelphia-cop-killer-eric-lewis-faces-new-federal-gun-robbery-charges-deadly-ambush",
-    "titleNorm": "accused philadelphia cop killer eric lewis faces new",
-    "type": "reel",
-    "timestamp": 1792858304809
-  },
-  {
     "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
     "titleNorm": "1 arrested after fire at hitler039s eagle039s nest",
     "type": "card",
@@ -46,5 +34,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1792894225963
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/man-fatally-struck-deputy-after-son-killed-cincinnati-137526586",
+    "titleNorm": "man who fatally struck deputy after his son",
+    "type": "reel",
+    "timestamp": 1792904659364
   }
 ]
