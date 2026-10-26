@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-south-florida-rally-revives-idea-military-intervention-137524179",
-    "titleNorm": "trump at south florida rally revives the idea",
-    "type": "card",
-    "timestamp": 1792956198358
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "why is ukraine so reliant on starlink and",
-    "type": "reel",
-    "timestamp": 1792962249043
-  },
-  {
-    "url": "https://www.foxnews.com/us/missouri-businesswoman-single-mom-killed-police-suv-responding-emergency-crashes-audi",
-    "titleNorm": "missouri businesswoman and single mom killed when police",
-    "type": "card",
-    "timestamp": 1792966209453
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -40,5 +22,11 @@
     "titleNorm": "trump leans into islamophobic rhetoric at michigan rally",
     "type": "card",
     "timestamp": 1792992831381
+  },
+  {
+    "url": "https://www.cbsnews.com/news/colorado-trump-tina-peters-sentence-commutation-60-minutes/",
+    "titleNorm": "the lengths trump went to for tina peters",
+    "type": "card",
+    "timestamp": 1793015309769
   }
 ]
