@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-fights-america-owes-slavery-descendants-organize-future-137534577",
-    "titleNorm": "as trump fights over what america owes slavery",
-    "type": "reel",
-    "timestamp": 1793046287531
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/politics-news/benefits-perils-expanding-map-politics-desk-rcna605796",
-    "titleNorm": "the benefits and perils of expanding the map",
-    "type": "card",
-    "timestamp": 1793052150535
-  },
-  {
-    "url": "https://www.foxnews.com/us/bull-rider-final-ride-turns-deadly-beast-throws-stomps-chest",
-    "titleNorm": "bull riders final ride turns deadly when beast",
-    "type": "reel",
-    "timestamp": 1793059552925
-  },
-  {
     "url": "https://www.today.com/video/new-polls-show-netanyahu-in-tight-race-against-main-rival-272215621721",
     "titleNorm": "israelis set to vote in first election since",
     "type": "card",
@@ -34,5 +16,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1793084372974
+  },
+  {
+    "url": "https://www.foxnews.com/us/tallahassee-police-arrest-15-year-old-suspect-shooting-florida-am-football-stadium",
+    "titleNorm": "tallahassee police arrest 15yearold suspect after shooting near",
+    "type": "reel",
+    "timestamp": 1793104328937
   }
 ]
