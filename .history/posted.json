@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/colorado-trump-tina-peters-sentence-commutation-60-minutes/",
-    "titleNorm": "the lengths trump went to for tina peters",
-    "type": "card",
-    "timestamp": 1793015309769
-  },
-  {
     "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
     "titleNorm": "russia to host first olympic federation world event",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "the benefits and perils of expanding the map",
     "type": "card",
     "timestamp": 1793052150535
+  },
+  {
+    "url": "https://www.foxnews.com/us/bull-rider-final-ride-turns-deadly-beast-throws-stomps-chest",
+    "titleNorm": "bull riders final ride turns deadly when beast",
+    "type": "reel",
+    "timestamp": 1793059552925
   }
 ]
