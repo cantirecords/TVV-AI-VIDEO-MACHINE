@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-    "titleNorm": "russia to host first olympic federation world event",
-    "type": "reel",
-    "timestamp": 1793021193552
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "bull riders final ride turns deadly when beast",
     "type": "reel",
     "timestamp": 1793059552925
+  },
+  {
+    "url": "https://www.today.com/video/new-polls-show-netanyahu-in-tight-race-against-main-rival-272215621721",
+    "titleNorm": "israelis set to vote in first election since",
+    "type": "card",
+    "timestamp": 1793065343228
   }
 ]
