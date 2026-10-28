@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/tallahassee-police-arrest-15-year-old-suspect-shooting-florida-am-football-stadium",
-    "titleNorm": "tallahassee police arrest 15yearold suspect after shooting near",
-    "type": "reel",
-    "timestamp": 1793104328937
-  },
-  {
-    "url": "https://www.cbsnews.com/news/tiktok-bytedance-zhang-yiming-chinas-richest-person/",
-    "titleNorm": "tiktok parent bytedance039s founder is china039s richest person",
-    "type": "card",
-    "timestamp": 1793105988386
-  },
-  {
     "url": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines",
     "titleNorm": "trump escalates attacks on elsayed as michigan senate",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "venezuelan illegal immigrant killed by fbi agent in",
     "type": "card",
     "timestamp": 1793141063288
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "reel",
+    "timestamp": 1793151245005
   }
 ]
