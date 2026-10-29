@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/indiana-governor-urged-death-sentence-proceed-man-killed-137652561",
-    "titleNorm": "indiana governor is urged to let death sentence",
-    "type": "card",
-    "timestamp": 1793244031009
-  },
-  {
     "url": "https://www.foxnews.com/us/convicted-murderer-5-hour-head-start-prison-escape-local-police-notified-official",
     "titleNorm": "convicted murderer got over 5hour head start after",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
     "timestamp": 1793280630977
+  },
+  {
+    "url": "https://www.foxnews.com/us/ted-bundy-undiscovered-victims-dna-links-murder-chiefs-daughter-detective",
+    "titleNorm": "ted bundy could have more undiscovered victims after",
+    "type": "card",
+    "timestamp": 1793293853243
   }
 ]
