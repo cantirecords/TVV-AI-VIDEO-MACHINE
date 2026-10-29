@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nightmare-halloween-attraction-sparks-hunt-more-victims-1-arrested",
-    "titleNorm": "nightmare at halloween attraction sparks hunt for more",
-    "type": "reel",
-    "timestamp": 1793206041919
-  },
-  {
     "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
     "titleNorm": "highspeed train accident in spain leaves at least",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "indiana governor is urged to let death sentence",
     "type": "card",
     "timestamp": 1793244031009
+  },
+  {
+    "url": "https://www.foxnews.com/us/convicted-murderer-5-hour-head-start-prison-escape-local-police-notified-official",
+    "titleNorm": "convicted murderer got over 5hour head start after",
+    "type": "reel",
+    "timestamp": 1793254153121
   }
 ]
