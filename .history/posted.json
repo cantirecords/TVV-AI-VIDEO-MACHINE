@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/convicted-murderer-5-hour-head-start-prison-escape-local-police-notified-official",
-    "titleNorm": "convicted murderer got over 5hour head start after",
-    "type": "reel",
-    "timestamp": 1793254153121
-  },
-  {
     "url": "https://www.foxnews.com/us/venezuelan-illegal-immigrant-killed-fbi-agent-chicaghttps-cms-foxnews-com-wp-wp-admin-post-phppost7484305actionedito-caught-released-biden-sources",
     "titleNorm": "venezuelan illegal immigrant killed by fbi agent in",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "ted bundy could have more undiscovered victims after",
     "type": "card",
     "timestamp": 1793293853243
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-time-jeopardy-champion-arrested-child-porn-charges-probation-officials",
+    "titleNorm": "twotime jeopardy champion arrested on child porn charges",
+    "type": "reel",
+    "timestamp": 1793303235798
   }
 ]
