@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/multi-state-manhunt-underway-murder-victim-close-friend-fears-escaped-killer-could-strike-again",
-    "titleNorm": "multistate manhunt underway as murder victims close friend",
-    "type": "card",
-    "timestamp": 1793198431637
-  },
-  {
     "url": "https://www.foxnews.com/us/nightmare-halloween-attraction-sparks-hunt-more-victims-1-arrested",
     "titleNorm": "nightmare at halloween attraction sparks hunt for more",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "haitian national charged with murdering estranged wife outside",
     "type": "card",
     "timestamp": 1793231565916
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/indiana-governor-urged-death-sentence-proceed-man-killed-137652561",
+    "titleNorm": "indiana governor is urged to let death sentence",
+    "type": "card",
+    "timestamp": 1793244031009
   }
 ]
