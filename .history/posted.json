@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/venezuelan-illegal-immigrant-killed-fbi-agent-chicaghttps-cms-foxnews-com-wp-wp-admin-post-phppost7484305actionedito-caught-released-biden-sources",
-    "titleNorm": "venezuelan illegal immigrant killed by fbi agent in",
-    "type": "card",
-    "timestamp": 1793269945606
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "sandy hook families urge supreme court to uphold",
     "type": "card",
     "timestamp": 1793311885842
+  },
+  {
+    "url": "https://www.cbsnews.com/news/mohamed-soliman-changes-plea-guilty-federal-charges-boulder-firebombing-attack/",
+    "titleNorm": "guilty plea on federal charges in deadly boulder",
+    "type": "reel",
+    "timestamp": 1793318627933
   }
 ]
