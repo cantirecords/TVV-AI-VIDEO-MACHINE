@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/nightly-news/video/iconic-actor-patrick-stewart-known-for-star-trek-and-x-men-dies-at-age-86-272502341949",
-    "titleNorm": "iconic actor patrick stewart known for star trek",
-    "type": "reel",
-    "timestamp": 1793340537389
-  },
-  {
     "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
     "titleNorm": "three killed in midair helicopter collision near oregon",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "g20 diplomats including from china and russia face",
     "type": "card",
     "timestamp": 1793377301219
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487",
+    "titleNorm": "trump uncancels weekend rallies in iowa and kansas",
+    "type": "reel",
+    "timestamp": 1793388874416
   }
 ]
