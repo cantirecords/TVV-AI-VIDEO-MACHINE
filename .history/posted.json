@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-time-jeopardy-champion-arrested-child-porn-charges-probation-officials",
-    "titleNorm": "twotime jeopardy champion arrested on child porn charges",
-    "type": "reel",
-    "timestamp": 1793303235798
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/sandy-hook-families-urge-supreme-court-uphold-state-137686124",
     "titleNorm": "sandy hook families urge supreme court to uphold",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "iconic actor patrick stewart known for star trek",
     "type": "reel",
     "timestamp": 1793340537389
+  },
+  {
+    "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
+    "titleNorm": "three killed in midair helicopter collision near oregon",
+    "type": "card",
+    "timestamp": 1793351671650
   }
 ]
