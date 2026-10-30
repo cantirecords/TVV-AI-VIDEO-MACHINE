@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/sandy-hook-families-urge-supreme-court-uphold-state-137686124",
-    "titleNorm": "sandy hook families urge supreme court to uphold",
-    "type": "card",
-    "timestamp": 1793311885842
-  },
-  {
-    "url": "https://www.cbsnews.com/news/mohamed-soliman-changes-plea-guilty-federal-charges-boulder-firebombing-attack/",
-    "titleNorm": "guilty plea on federal charges in deadly boulder",
-    "type": "reel",
-    "timestamp": 1793318627933
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "three killed in midair helicopter collision near oregon",
     "type": "card",
     "timestamp": 1793351671650
+  },
+  {
+    "url": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop",
+    "titleNorm": "your kids are the target college drug deaths",
+    "type": "reel",
+    "timestamp": 1793366321316
   }
 ]
