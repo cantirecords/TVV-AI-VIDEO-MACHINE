@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "reel",
-    "timestamp": 1793280630977
-  },
-  {
     "url": "https://www.foxnews.com/us/ted-bundy-undiscovered-victims-dna-links-murder-chiefs-daughter-detective",
     "titleNorm": "ted bundy could have more undiscovered victims after",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "guilty plea on federal charges in deadly boulder",
     "type": "reel",
     "timestamp": 1793318627933
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1793326539130
   }
 ]
