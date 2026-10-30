@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ted-bundy-undiscovered-victims-dna-links-murder-chiefs-daughter-detective",
-    "titleNorm": "ted bundy could have more undiscovered victims after",
-    "type": "card",
-    "timestamp": 1793293853243
-  },
-  {
     "url": "https://www.foxnews.com/us/two-time-jeopardy-champion-arrested-child-porn-charges-probation-officials",
     "titleNorm": "twotime jeopardy champion arrested on child porn charges",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
     "timestamp": 1793326539130
+  },
+  {
+    "url": "https://www.nbcnews.com/nightly-news/video/iconic-actor-patrick-stewart-known-for-star-trek-and-x-men-dies-at-age-86-272502341949",
+    "titleNorm": "iconic actor patrick stewart known for star trek",
+    "type": "reel",
+    "timestamp": 1793340537389
   }
 ]
