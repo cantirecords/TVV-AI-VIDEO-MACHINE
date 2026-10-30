@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
-    "titleNorm": "three killed in midair helicopter collision near oregon",
-    "type": "card",
-    "timestamp": 1793351671650
-  },
-  {
     "url": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop",
     "titleNorm": "your kids are the target college drug deaths",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "the final countdown from the politics desk",
     "type": "card",
     "timestamp": 1793394840011
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trumps-immigration-crackdown-sparked-backlash-boomerang-midterms-137663207",
+    "titleNorm": "how trumps immigration crackdown sparked a backlash that",
+    "type": "reel",
+    "timestamp": 1793404693973
   }
 ]
