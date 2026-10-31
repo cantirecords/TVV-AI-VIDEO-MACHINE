@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-us-brokered-ceasefire/",
-    "titleNorm": "ukrainians trapped in russiaheld city evacuate during local",
-    "type": "card",
-    "timestamp": 1793409122703
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/september-2027-trial-date-set-man-charged-attacking-137678749",
     "titleNorm": "trial date set for man charged with attacking",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "killed almost 430 years ago 5 catholic friars",
     "type": "reel",
     "timestamp": 1793451357969
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1793455187760
   }
 ]
