@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop",
-    "titleNorm": "your kids are the target college drug deaths",
-    "type": "reel",
-    "timestamp": 1793366321316
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/g20-diplomats-including-china-russia-face-deep-rifts-137695571",
-    "titleNorm": "g20 diplomats including from china and russia face",
-    "type": "card",
-    "timestamp": 1793377301219
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487",
     "titleNorm": "trump uncancels weekend rallies in iowa and kansas",
     "type": "reel",
@@ -34,5 +22,11 @@
     "titleNorm": "ukrainians trapped in russiaheld city evacuate during local",
     "type": "card",
     "timestamp": 1793409122703
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/september-2027-trial-date-set-man-charged-attacking-137678749",
+    "titleNorm": "trial date set for man charged with attacking",
+    "type": "reel",
+    "timestamp": 1793426644765
   }
 ]
