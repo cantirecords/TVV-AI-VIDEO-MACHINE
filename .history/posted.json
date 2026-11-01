@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/deputies-find-bodies-missing-college-students-hiking-treacherous-mountain-trail",
-    "titleNorm": "deputies find bodies of missing college students who",
-    "type": "reel",
-    "timestamp": 1793514914001
-  },
-  {
     "url": "https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228",
     "titleNorm": "democrats in key battlegrounds throw joe biden under",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "card",
     "timestamp": 1793547164051
+  },
+  {
+    "url": "https://www.foxnews.com/us/your-kids-are-target-college-drug-deaths-alleged-coke-ring-expose-lethal-threat-warns-retired-cop",
+    "titleNorm": "your kids are the target college drug deaths",
+    "type": "card",
+    "timestamp": 1793563046973
   }
 ]
