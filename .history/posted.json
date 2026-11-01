@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228",
-    "titleNorm": "democrats in key battlegrounds throw joe biden under",
-    "type": "card",
-    "timestamp": 1793521222763
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/grasping-straws-judge-dismisses-trump-suit-wall-street-137738720",
     "titleNorm": "grasping at straws judge dismisses trump suit against",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "your kids are the target college drug deaths",
     "type": "card",
     "timestamp": 1793563046973
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/sandy-hook-families-urge-supreme-court-uphold-state-137686124",
+    "titleNorm": "sandy hook families urge supreme court to uphold",
+    "type": "reel",
+    "timestamp": 1793565787683
   }
 ]
