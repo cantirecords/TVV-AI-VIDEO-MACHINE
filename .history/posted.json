@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/killed-430-years-ago-5-catholic-friars-step-137695751",
-    "titleNorm": "killed almost 430 years ago 5 catholic friars",
-    "type": "reel",
-    "timestamp": 1793451357969
-  },
-  {
     "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
     "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
     "type": "card",
@@ -34,5 +28,11 @@
     "titleNorm": "the police said sandra birchmores death was a",
     "type": "reel",
     "timestamp": 1793489628261
+  },
+  {
+    "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-trumps-point-man-fight-against-jew-hate",
+    "titleNorm": "fox news antisemitism exposed newsletter trumps point man",
+    "type": "card",
+    "timestamp": 1793497004458
   }
 ]
