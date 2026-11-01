@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/aspiring-nypd-officer-college-hockey-captain-killed-crash-involving-twice-removed-mexican-national",
-    "titleNorm": "aspiring nypd officer and college hockey captain killed",
-    "type": "card",
-    "timestamp": 1793484071059
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/police-sandra-birchmores-death-suicide-fbi-accused-cop-137695570",
-    "titleNorm": "the police said sandra birchmores death was a",
-    "type": "reel",
-    "timestamp": 1793489628261
-  },
-  {
-    "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-trumps-point-man-fight-against-jew-hate",
-    "titleNorm": "fox news antisemitism exposed newsletter trumps point man",
-    "type": "card",
-    "timestamp": 1793497004458
-  },
-  {
     "url": "https://www.foxnews.com/us/deputies-find-bodies-missing-college-students-hiking-treacherous-mountain-trail",
     "titleNorm": "deputies find bodies of missing college students who",
     "type": "reel",
@@ -28,5 +10,11 @@
     "titleNorm": "democrats in key battlegrounds throw joe biden under",
     "type": "card",
     "timestamp": 1793521222763
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/grasping-straws-judge-dismisses-trump-suit-wall-street-137738720",
+    "titleNorm": "grasping at straws judge dismisses trump suit against",
+    "type": "reel",
+    "timestamp": 1793546718129
   }
 ]
