@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/cult-mom-lori-vallow-wanted-him-dead-7-years-later-he-gets-last-word-surviving-doomsday-killers-plot",
-    "titleNorm": "cult mom lori vallow wanted him dead 7",
-    "type": "card",
-    "timestamp": 1793574995693
-  },
-  {
     "url": "https://www.foxnews.com/us/three-killed-midair-helicopter-collision-near-oregon-airport-authorities-confirm",
     "titleNorm": "three killed in midair helicopter collision near oregon",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "4 americans among dozens killed in train crash",
     "type": "reel",
     "timestamp": 1793612838123
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/uns-peacekeeping-mission-western-sahara-ends-after-35-137752620",
+    "titleNorm": "uns peacekeeping mission in western sahara ends after",
+    "type": "card",
+    "timestamp": 1793620080114
   }
 ]
