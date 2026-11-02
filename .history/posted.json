@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/three-killed-midair-helicopter-collision-near-oregon-airport-authorities-confirm",
-    "titleNorm": "three killed in midair helicopter collision near oregon",
-    "type": "reel",
-    "timestamp": 1793583748335
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/midterm-crossroads-parties-eyeing-beginning-end-trump-era-137695843",
-    "titleNorm": "a midterm crossroads for both parties eyeing the",
-    "type": "card",
-    "timestamp": 1793589126992
-  },
-  {
     "url": "https://www.cbsnews.com/news/americans-urda-spain-train-crash/",
     "titleNorm": "4 americans among dozens killed in train crash",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "uns peacekeeping mission in western sahara ends after",
     "type": "card",
     "timestamp": 1793620080114
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/mass-shootings-halloween-weekend-leave-6-dead-dozens-137745666",
+    "titleNorm": "mass shootings over halloween weekend leave at least",
+    "type": "reel",
+    "timestamp": 1793651345144
   }
 ]
