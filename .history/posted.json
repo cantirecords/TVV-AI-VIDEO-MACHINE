@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/mass-shootings-halloween-weekend-leave-6-dead-dozens-137745666",
-    "titleNorm": "mass shootings over halloween weekend leave at least",
-    "type": "reel",
-    "timestamp": 1793651345144
-  },
-  {
-    "url": "https://www.foxnews.com/us/co-pilot-killed-fiery-florida-learjet-crash-identified-20-year-old-learned-fly-before-driving",
-    "titleNorm": "copilot killed in fiery florida learjet crash identified",
-    "type": "card",
-    "timestamp": 1793653233364
-  },
-  {
     "url": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/",
     "titleNorm": "pilot in plane crash said we039re managing the",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "supreme court quickly rejects trump effort to target",
     "type": "card",
     "timestamp": 1793674008969
+  },
+  {
+    "url": "https://www.foxnews.com/us/cult-mom-lori-vallow-wanted-him-dead-7-years-later-he-gets-last-word-surviving-doomsday-killers-plot",
+    "titleNorm": "cult mom lori vallow wanted him dead 7",
+    "type": "reel",
+    "timestamp": 1793699941804
   }
 ]
