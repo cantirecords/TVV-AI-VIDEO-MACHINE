@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/trump-rallies-iowa-kansas-republicans-fight-senate-house-137746860",
-    "titleNorm": "trump rallies in iowa and kansas as republicans",
-    "type": "reel",
-    "timestamp": 1793774945793
-  },
-  {
     "url": "https://www.foxnews.com/us/retired-nypd-officer-arrested-off-with-his-head-post-florida-mosque-expansion",
     "titleNorm": "retired nypd officer arrested after off with his",
     "type": "card",
@@ -16,5 +10,11 @@
     "titleNorm": "teen previously convicted in shooting accused of killing",
     "type": "reel",
     "timestamp": 1793809807522
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-election-white-house-ballroom-iran-rcna607487",
+    "titleNorm": "trump brags about the white house ballroom in",
+    "type": "card",
+    "timestamp": 1793818842080
   }
 ]
