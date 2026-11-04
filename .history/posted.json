@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/alaska-ballot-investigation-democrats-marc-elias/",
-    "titleNorm": "attorney and trump foe targeted in alaska ballot",
-    "type": "card",
-    "timestamp": 1793749577081
-  },
-  {
-    "url": "https://www.foxnews.com/us/florida-plane-crash-victims-identified-9-people-killed-fiery-wreck",
-    "titleNorm": "florida plane crash victims identified after 9 people",
-    "type": "card",
-    "timestamp": 1793764015925
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-rallies-iowa-kansas-republicans-fight-senate-house-137746860",
     "titleNorm": "trump rallies in iowa and kansas as republicans",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "retired nypd officer arrested after off with his",
     "type": "card",
     "timestamp": 1793792596255
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
+    "titleNorm": "teen previously convicted in shooting accused of killing",
+    "type": "reel",
+    "timestamp": 1793809807522
   }
 ]
