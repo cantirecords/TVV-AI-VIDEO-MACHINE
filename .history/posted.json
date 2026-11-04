@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
-    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
-    "type": "reel",
-    "timestamp": 1793728773279
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1793729342070
-  },
-  {
     "url": "https://www.foxnews.com/us/nyc-woman-stabbed-while-jogging-died-hochul-mamdani-face-questions-unprovoked-attacks-women",
     "titleNorm": "nyc woman stabbed while jogging has died as",
     "type": "reel",
@@ -28,5 +16,11 @@
     "titleNorm": "florida plane crash victims identified after 9 people",
     "type": "card",
     "timestamp": 1793764015925
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-rallies-iowa-kansas-republicans-fight-senate-house-137746860",
+    "titleNorm": "trump rallies in iowa and kansas as republicans",
+    "type": "reel",
+    "timestamp": 1793774945793
   }
 ]
