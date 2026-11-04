@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-woman-stabbed-while-jogging-died-hochul-mamdani-face-questions-unprovoked-attacks-women",
-    "titleNorm": "nyc woman stabbed while jogging has died as",
-    "type": "reel",
-    "timestamp": 1793748887150
-  },
-  {
     "url": "https://www.cbsnews.com/news/alaska-ballot-investigation-democrats-marc-elias/",
     "titleNorm": "attorney and trump foe targeted in alaska ballot",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "trump rallies in iowa and kansas as republicans",
     "type": "reel",
     "timestamp": 1793774945793
+  },
+  {
+    "url": "https://www.foxnews.com/us/retired-nypd-officer-arrested-off-with-his-head-post-florida-mosque-expansion",
+    "titleNorm": "retired nypd officer arrested after off with his",
+    "type": "card",
+    "timestamp": 1793792596255
   }
 ]
