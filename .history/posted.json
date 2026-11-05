@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/retired-nypd-officer-arrested-off-with-his-head-post-florida-mosque-expansion",
-    "titleNorm": "retired nypd officer arrested after off with his",
-    "type": "card",
-    "timestamp": 1793792596255
-  },
-  {
     "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
     "titleNorm": "teen previously convicted in shooting accused of killing",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "austin tech founder killed with wife and children",
     "type": "reel",
     "timestamp": 1793829894788
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/18/politics/abortion-supreme-court-mifepristone-restrictions-filing/index.html",
+    "titleNorm": "antiabortion doctors urge supreme court to keep mifepristone",
+    "type": "card",
+    "timestamp": 1793837509137
   }
 ]
