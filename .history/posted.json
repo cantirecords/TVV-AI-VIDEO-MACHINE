@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/four-dead-including-washington-deputy-following-domestic-call-shooting-another-deputy-life-support",
-    "titleNorm": "four dead including washington deputy following domestic call",
-    "type": "card",
-    "timestamp": 1793863867451
-  },
-  {
     "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
@@ -16,5 +10,11 @@
     "titleNorm": "supreme court seems sympathetic to postal worker who",
     "type": "card",
     "timestamp": 1793894065521
+  },
+  {
+    "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
+    "titleNorm": "teen previously convicted in shooting accused of killing",
+    "type": "reel",
+    "timestamp": 1793913101189
   }
 ]
