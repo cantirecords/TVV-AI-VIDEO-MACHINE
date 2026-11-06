@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
-    "titleNorm": "supreme court seems sympathetic to postal worker who",
-    "type": "card",
-    "timestamp": 1793894065521
-  },
-  {
     "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
     "titleNorm": "teen previously convicted in shooting accused of killing",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "chinas economy is off to a solid start",
     "type": "reel",
     "timestamp": 1793934660121
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-college-students-found-dead-colorado-mountains-fell-137828252",
+    "titleNorm": "college students found dead in mountains fell to",
+    "type": "card",
+    "timestamp": 1793954608463
   }
 ]
