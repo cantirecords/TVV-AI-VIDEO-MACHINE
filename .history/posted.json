@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642",
-    "titleNorm": "trumps dcarea arch expected to be approved but",
-    "type": "card",
-    "timestamp": 1793930034285
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/17/economy/china-gdp-q1-2023-intl-hnk/index.html",
-    "titleNorm": "chinas economy is off to a solid start",
-    "type": "reel",
-    "timestamp": 1793934660121
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-college-students-found-dead-colorado-mountains-fell-137828252",
     "titleNorm": "college students found dead in mountains fell to",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "helicopter crash near miami leaves at least 1",
     "type": "reel",
     "timestamp": 1793967737242
+  },
+  {
+    "url": "https://www.today.com/video/martha-stewart-apologizes-for-halloween-costume-i-was-stupid-272995397620",
+    "titleNorm": "martha stewart addresses halloween costume controversy",
+    "type": "card",
+    "timestamp": 1793982489736
   }
 ]
