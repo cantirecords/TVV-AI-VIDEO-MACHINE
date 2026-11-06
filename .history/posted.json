@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/2-college-students-found-dead-colorado-mountains-fell-137828252",
-    "titleNorm": "college students found dead in mountains fell to",
-    "type": "card",
-    "timestamp": 1793954608463
-  },
-  {
     "url": "https://www.foxnews.com/us/helicopter-crash-near-miami-leaves-least-two-injured-report",
     "titleNorm": "helicopter crash near miami leaves at least 1",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "putin special envoy speaks at white house event",
     "type": "reel",
     "timestamp": 1793993892579
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
+    "titleNorm": "meghan markles father arrested in florida over alleged",
+    "type": "card",
+    "timestamp": 1794001900834
   }
 ]
