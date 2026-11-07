@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
-    "titleNorm": "police identify agent killed after suspect opens fire",
-    "type": "card",
-    "timestamp": 1794038260785
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/2-college-students-found-dead-colorado-mountains-fell-137828252",
     "titleNorm": "college students found dead in mountains fell to",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "denver man found dead at bottom of national",
     "type": "card",
     "timestamp": 1794078644135
+  },
+  {
+    "url": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
+    "titleNorm": "secret service arrests armed venezuelan migrant near white",
+    "type": "card",
+    "timestamp": 1794093228221
   }
 ]
