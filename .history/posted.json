@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
-    "titleNorm": "meghan markles father arrested in florida over alleged",
-    "type": "card",
-    "timestamp": 1794001900834
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/father-young-co-pilot-killed-jet-crash-says-recording-shows-fought-las-rcna607848",
-    "titleNorm": "father of young copilot killed in jet crash",
-    "type": "reel",
-    "timestamp": 1794010404004
-  },
-  {
     "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
     "titleNorm": "armed man arrested near white house planned to",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "police identify agent killed after suspect opens fire",
     "type": "card",
     "timestamp": 1794038260785
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/2-college-students-found-dead-colorado-mountains-fell-137828252",
+    "titleNorm": "college students found dead in mountains fell to",
+    "type": "reel",
+    "timestamp": 1794057934853
   }
 ]
