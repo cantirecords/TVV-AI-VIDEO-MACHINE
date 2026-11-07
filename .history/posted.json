@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
-    "titleNorm": "armed man arrested near white house planned to",
-    "type": "card",
-    "timestamp": 1794014743817
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/dad-20-year-pilot-florida-learjet-crash-final-137919371",
     "titleNorm": "dad of copilot in learjet crash says her",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "college students found dead in mountains fell to",
     "type": "reel",
     "timestamp": 1794057934853
+  },
+  {
+    "url": "https://www.foxnews.com/us/navy-veteran-blindsided-attacker-could-land-parole-hearing-months-after-sentencing-where-is-my-justice",
+    "titleNorm": "navy veteran blindsided as attacker could land parole",
+    "type": "card",
+    "timestamp": 1794062198551
   }
 ]
