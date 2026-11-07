@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/putin-special-envoy-speaks-white-house-event-oleshky-137881729",
-    "titleNorm": "putin special envoy speaks at white house event",
-    "type": "reel",
-    "timestamp": 1793993892579
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
     "titleNorm": "meghan markles father arrested in florida over alleged",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "dad of copilot in learjet crash says her",
     "type": "reel",
     "timestamp": 1794032474320
+  },
+  {
+    "url": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
+    "titleNorm": "police identify agent killed after suspect opens fire",
+    "type": "card",
+    "timestamp": 1794038260785
   }
 ]
