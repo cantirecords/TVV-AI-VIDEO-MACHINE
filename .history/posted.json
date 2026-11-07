@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.today.com/video/martha-stewart-apologizes-for-halloween-costume-i-was-stupid-272995397620",
-    "titleNorm": "martha stewart addresses halloween costume controversy",
-    "type": "card",
-    "timestamp": 1793982489736
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/putin-special-envoy-speaks-white-house-event-oleshky-137881729",
     "titleNorm": "putin special envoy speaks at white house event",
     "type": "reel",
@@ -28,5 +22,11 @@
     "titleNorm": "armed man arrested near white house planned to",
     "type": "card",
     "timestamp": 1794014743817
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/dad-20-year-pilot-florida-learjet-crash-final-137919371",
+    "titleNorm": "dad of copilot in learjet crash says her",
+    "type": "reel",
+    "timestamp": 1794032474320
   }
 ]
