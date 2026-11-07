@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/helicopter-crash-near-miami-leaves-least-two-injured-report",
-    "titleNorm": "helicopter crash near miami leaves at least 1",
-    "type": "reel",
-    "timestamp": 1793967737242
-  },
-  {
     "url": "https://www.today.com/video/martha-stewart-apologizes-for-halloween-costume-i-was-stupid-272995397620",
     "titleNorm": "martha stewart addresses halloween costume controversy",
     "type": "card",
@@ -28,5 +22,11 @@
     "titleNorm": "father of young copilot killed in jet crash",
     "type": "reel",
     "timestamp": 1794010404004
+  },
+  {
+    "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
+    "titleNorm": "armed man arrested near white house planned to",
+    "type": "card",
+    "timestamp": 1794014743817
   }
 ]
