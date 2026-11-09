@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/news/us-news/man-arrested-leaving-sleeping-6-year-old-daughter-pokemon-rcna607993",
-    "titleNorm": "south carolina man arrested after leaving sleeping 6yearold",
-    "type": "reel",
-    "timestamp": 1794145542917
-  },
-  {
-    "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-    "titleNorm": "trump says us took a giant step back",
-    "type": "card",
-    "timestamp": 1794156629420
-  },
-  {
-    "url": "https://www.foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs",
-    "titleNorm": "denver man found dead at bottom of national",
-    "type": "reel",
-    "timestamp": 1794164264936
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -34,5 +16,11 @@
     "titleNorm": "parents sister of farright krakw shooter found dead",
     "type": "card",
     "timestamp": 1794183332979
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+    "titleNorm": "krakow shooting suspect has died in hospital police",
+    "type": "reel",
+    "timestamp": 1794207648353
   }
 ]
