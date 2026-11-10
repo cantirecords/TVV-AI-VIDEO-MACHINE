@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-border-wall-big-bend-texas-rcna604916",
-    "titleNorm": "supreme court paves way for trump to build",
-    "type": "card",
-    "timestamp": 1794272418397
-  },
-  {
-    "url": "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
-    "titleNorm": "trump media cashes in on highspeed access to",
-    "type": "reel",
-    "timestamp": 1794279142161
-  },
-  {
     "url": "https://www.foxnews.com/us/two-washington-deputies-killed-trying-rescue-possible-hostages-after-woman-shot",
     "titleNorm": "two washington deputies killed trying to rescue possible",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "the slam dunk that wasnt promising cholesterol drug",
     "type": "reel",
     "timestamp": 1794315456121
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/karen-attiah-rejoin-washington-post-fired-charlie-kirk-137981447",
+    "titleNorm": "karen attiah wont rejoin washington post after being",
+    "type": "card",
+    "timestamp": 1794328815629
   }
 ]
