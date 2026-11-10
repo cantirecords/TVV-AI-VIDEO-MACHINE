@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/two-washington-deputies-killed-trying-rescue-possible-hostages-after-woman-shot",
-    "titleNorm": "two washington deputies killed trying to rescue possible",
-    "type": "card",
-    "timestamp": 1794297677536
-  },
-  {
     "url": "https://www.nbcnews.com/health/health-news/cholesterol-drug-lipoprotein-a-fails-heart-attacks-stroke-trial-rcna607237",
     "titleNorm": "the slam dunk that wasnt promising cholesterol drug",
     "type": "reel",
@@ -16,5 +10,11 @@
     "titleNorm": "karen attiah wont rejoin washington post after being",
     "type": "card",
     "timestamp": 1794328815629
+  },
+  {
+    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
+    "titleNorm": "family of victim and survivors of indianapolis fedex",
+    "type": "reel",
+    "timestamp": 1794344330761
   }
 ]
