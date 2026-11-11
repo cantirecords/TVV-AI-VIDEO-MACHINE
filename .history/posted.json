@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/karen-attiah-rejoin-washington-post-fired-charlie-kirk-137981447",
-    "titleNorm": "karen attiah wont rejoin washington post after being",
-    "type": "card",
-    "timestamp": 1794328815629
-  },
-  {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "reel",
-    "timestamp": 1794344330761
-  },
-  {
     "url": "https://www.foxnews.com/us/ntsb-recovers-cockpit-voice-recorder-learjet-crash-site-florida",
     "titleNorm": "ntsb recovers cockpit voice recorder from learjet crash",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "kennedy family members join lawsuit to block trump039s",
     "type": "card",
     "timestamp": 1794363687749
+  },
+  {
+    "url": "https://www.cbsnews.com/news/ohio-state-fraternity-men-fire-video-911-call/",
+    "titleNorm": "911 call reporting frat video they set their",
+    "type": "reel",
+    "timestamp": 1794390186648
   }
 ]
