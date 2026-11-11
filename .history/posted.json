@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.cbsnews.com/news/ohio-state-fraternity-men-fire-video-911-call/",
-    "titleNorm": "911 call reporting frat video they set their",
-    "type": "reel",
-    "timestamp": 1794390186648
-  },
-  {
-    "url": "https://www.foxnews.com/us/blue-state-repeat-offender-accused-murdering-wife-familys-home-months-after-domestic-violence-charge",
-    "titleNorm": "blue state repeat offender accused of murdering wife",
-    "type": "card",
-    "timestamp": 1794391147480
-  },
-  {
     "url": "https://www.foxnews.com/us/florida-learjet-crash-911-callers-report-hearing-bomb-plane-carrying-young-family-plunges-busy-road",
     "titleNorm": "florida learjet crash 911 callers report hearing bomb",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "3 dead 3 critically injured after vehicle smashes",
     "type": "reel",
     "timestamp": 1794420103735
+  },
+  {
+    "url": "https://www.foxnews.com/us/ex-massachusetts-police-officer-convicted-murdering-pregnant-woman-staged-suicide",
+    "titleNorm": "exmassachusetts police officer convicted of murdering pregnant woman",
+    "type": "card",
+    "timestamp": 1794440960882
   }
 ]
