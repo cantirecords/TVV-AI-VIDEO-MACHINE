@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/ntsb-recovers-cockpit-voice-recorder-learjet-crash-site-florida",
-    "titleNorm": "ntsb recovers cockpit voice recorder from learjet crash",
-    "type": "card",
-    "timestamp": 1794348103587
-  },
-  {
-    "url": "https://www.foxnews.com/us/texas-democrat-governor-elect-has-vowed-impose-emergency-policy-more-top-headlines",
-    "titleNorm": "texas democrat governorelect has vowed to impose emergency",
-    "type": "reel",
-    "timestamp": 1794362660393
-  },
-  {
-    "url": "https://www.cbsnews.com/news/kennedy-family-trump-triumphal-arch/",
-    "titleNorm": "kennedy family members join lawsuit to block trump039s",
-    "type": "card",
-    "timestamp": 1794363687749
-  },
-  {
     "url": "https://www.cbsnews.com/news/ohio-state-fraternity-men-fire-video-911-call/",
     "titleNorm": "911 call reporting frat video they set their",
     "type": "reel",
@@ -28,5 +10,11 @@
     "titleNorm": "blue state repeat offender accused of murdering wife",
     "type": "card",
     "timestamp": 1794391147480
+  },
+  {
+    "url": "https://www.foxnews.com/us/florida-learjet-crash-911-callers-report-hearing-bomb-plane-carrying-young-family-plunges-busy-road",
+    "titleNorm": "florida learjet crash 911 callers report hearing bomb",
+    "type": "card",
+    "timestamp": 1794418917247
   }
 ]
