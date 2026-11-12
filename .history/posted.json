@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/florida-learjet-crash-911-callers-report-hearing-bomb-plane-carrying-young-family-plunges-busy-road",
-    "titleNorm": "florida learjet crash 911 callers report hearing bomb",
-    "type": "card",
-    "timestamp": 1794418917247
-  },
-  {
-    "url": "https://www.nbcnews.com/news/us-news/3-dead-3-critically-injured-vehicle-smashes-pedestrians-los-angeles-rcna608693",
-    "titleNorm": "3 dead 3 critically injured after vehicle smashes",
-    "type": "reel",
-    "timestamp": 1794420103735
-  },
-  {
     "url": "https://www.foxnews.com/us/ex-massachusetts-police-officer-convicted-murdering-pregnant-woman-staged-suicide",
     "titleNorm": "exmassachusetts police officer convicted of murdering pregnant woman",
     "type": "card",
@@ -28,5 +16,11 @@
     "titleNorm": "suspected dui driver arrested on 3 murder counts",
     "type": "card",
     "timestamp": 1794458803288
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/trump-deportation-policy-tough-voters-election-137963472",
+    "titleNorm": "trump says his deportation policy might have been",
+    "type": "reel",
+    "timestamp": 1794477836005
   }
 ]
