@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/suspected-dui-driver-arrested-3-murder-counts-after-deadly-north-hollywood-crash-police-say",
-    "titleNorm": "suspected dui driver arrested on 3 murder counts",
-    "type": "card",
-    "timestamp": 1794458803288
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/trump-deportation-policy-tough-voters-election-137963472",
     "titleNorm": "trump says his deportation policy might have been",
     "type": "reel",
@@ -16,5 +10,11 @@
     "titleNorm": "biden says he wouldnt have run for a",
     "type": "card",
     "timestamp": 1794489983085
+  },
+  {
+    "url": "https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal",
+    "titleNorm": "foreign spy honeytraps targeting americas tech elite spark",
+    "type": "reel",
+    "timestamp": 1794508279574
   }
 ]
