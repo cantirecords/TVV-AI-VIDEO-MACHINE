@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal",
-    "titleNorm": "foreign spy honeytraps targeting americas tech elite spark",
-    "type": "reel",
-    "timestamp": 1794508279574
-  },
-  {
     "url": "https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station",
     "titleNorm": "multiple dead after vehicle crashes into food stand",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "democrats cant wait until after trump to produce",
     "type": "card",
     "timestamp": 1794536153948
+  },
+  {
+    "url": "https://www.nbcnews.com/news/us-news/oklahoma-dismisses-murder-charge-former-death-row-inmate-richard-gloss-rcna609070",
+    "titleNorm": "oklahoma dismisses murder charge against former death row",
+    "type": "reel",
+    "timestamp": 1794553429622
   }
 ]
