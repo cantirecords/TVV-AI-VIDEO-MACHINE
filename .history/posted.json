@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.nbcnews.com/health/health-news/trump-fda-overton-confirmation-republican-doubts-rcna609067",
-    "titleNorm": "trumps fda pick faces republican doubts as confirmation",
-    "type": "reel",
-    "timestamp": 1794527314216
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/2026-election/democrats-cant-wait-trump-produce-results-james-talarico-says-rcna609096",
-    "titleNorm": "democrats cant wait until after trump to produce",
-    "type": "card",
-    "timestamp": 1794536153948
-  },
-  {
     "url": "https://www.nbcnews.com/news/us-news/oklahoma-dismisses-murder-charge-former-death-row-inmate-richard-gloss-rcna609070",
     "titleNorm": "oklahoma dismisses murder charge against former death row",
     "type": "reel",
@@ -22,5 +10,11 @@
     "titleNorm": "minivan crashes into people outside los angeles metro",
     "type": "card",
     "timestamp": 1794564992538
+  },
+  {
+    "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
+    "titleNorm": "mold dispute emerges as key focus in deadly",
+    "type": "reel",
+    "timestamp": 1794587992356
   }
 ]
