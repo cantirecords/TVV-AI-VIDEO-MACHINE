@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://abcnews.com/US/wireStory/biden-run-term-2024-knew-cancer-138047956",
-    "titleNorm": "biden says he wouldnt have run for a",
-    "type": "card",
-    "timestamp": 1794489983085
-  },
-  {
     "url": "https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal",
     "titleNorm": "foreign spy honeytraps targeting americas tech elite spark",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "trumps fda pick faces republican doubts as confirmation",
     "type": "reel",
     "timestamp": 1794527314216
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/2026-election/democrats-cant-wait-trump-produce-results-james-talarico-says-rcna609096",
+    "titleNorm": "democrats cant wait until after trump to produce",
+    "type": "card",
+    "timestamp": 1794536153948
   }
 ]
