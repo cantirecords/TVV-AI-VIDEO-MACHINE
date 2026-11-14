@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
-    "titleNorm": "family of victim and survivors of indianapolis fedex",
-    "type": "card",
-    "timestamp": 1794593750626
-  },
-  {
     "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
     "titleNorm": "nyc building collapse timeline of deadly disaster as",
     "type": "reel",
@@ -22,5 +16,11 @@
     "titleNorm": "alex murdaugh wants murder indictments dismissed saying agent",
     "type": "card",
     "timestamp": 1794634128887
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/politics-news/newly-elected-senate-democrats-spotlight-politics-desk-rcna609239",
+    "titleNorm": "newly elected senate democrats in the spotlight from",
+    "type": "reel",
+    "timestamp": 1794639146754
   }
 ]
