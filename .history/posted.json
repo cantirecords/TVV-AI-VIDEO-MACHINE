@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
-    "titleNorm": "mold dispute emerges as key focus in deadly",
-    "type": "reel",
-    "timestamp": 1794587992356
-  },
-  {
     "url": "https://www.cnn.com/2023/04/16/us/lawsuit-indianapolis-fedex-mass-shooting/index.html",
     "titleNorm": "family of victim and survivors of indianapolis fedex",
     "type": "card",
@@ -22,5 +16,11 @@
     "titleNorm": "biden says he wouldnt have run for a",
     "type": "card",
     "timestamp": 1794614457859
+  },
+  {
+    "url": "https://abcnews.com/US/wireStory/alex-murdaugh-murder-indictments-dismissed-agent-lied-grand-138101527",
+    "titleNorm": "alex murdaugh wants murder indictments dismissed saying agent",
+    "type": "card",
+    "timestamp": 1794634128887
   }
 ]
