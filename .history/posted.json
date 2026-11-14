@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
-    "titleNorm": "nyc building collapse timeline of deadly disaster as",
-    "type": "reel",
-    "timestamp": 1794613768809
-  },
-  {
-    "url": "https://abcnews.com/US/wireStory/biden-run-term-2024-knew-cancer-138047956",
-    "titleNorm": "biden says he wouldnt have run for a",
-    "type": "card",
-    "timestamp": 1794614457859
-  },
-  {
     "url": "https://abcnews.com/US/wireStory/alex-murdaugh-murder-indictments-dismissed-agent-lied-grand-138101527",
     "titleNorm": "alex murdaugh wants murder indictments dismissed saying agent",
     "type": "card",
@@ -22,5 +10,11 @@
     "titleNorm": "newly elected senate democrats in the spotlight from",
     "type": "reel",
     "timestamp": 1794639146754
+  },
+  {
+    "url": "https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom",
+    "titleNorm": "sexual predator deported to mexico hauled back to",
+    "type": "card",
+    "timestamp": 1794660094769
   }
 ]
